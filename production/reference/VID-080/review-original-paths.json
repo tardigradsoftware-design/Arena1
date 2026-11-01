@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-080-1.png",
+      "sha256": "23bc42a78b7b3fe177eec26a7209594173f1de5999493576337186bf10515e92",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ekmek kutusu ve dilimler, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-080-2.png",
+      "sha256": "3afafd190b31cef15d14616d74077040e6d81e48db06ade5e2c5fb33e5d8c3ad",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kutuda iki küp şeker ve ekmek."
+    },
+    {
+      "file": "../../remotion/public/VID-080-4.png",
+      "sha256": "c2df6d9d1b64b3c5c00ae58b220f9471e52a42f4052773d87858c5d6c2ce3d41",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Dilimlenmiş ekmek, gerçek önce/sonra değil."
+    }
+  ]
+}

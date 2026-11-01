@@ -1,0 +1,316 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.579,
+    "words": [
+      "sakın",
+      "ekmek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.579,
+    "end": 0.966,
+    "words": [
+      "sakın",
+      "ekmek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.966,
+    "end": 1.352,
+    "words": [
+      "sepetindeki",
+      "ekmeklerin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.352,
+    "end": 1.71,
+    "words": [
+      "sepetindeki",
+      "ekmeklerin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.71,
+    "end": 1.965,
+    "words": [
+      "iki",
+      "günde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.965,
+    "end": 2.245,
+    "words": [
+      "iki",
+      "günde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.245,
+    "end": 2.625,
+    "words": [
+      "bayatlayıp",
+      "sertleşmesine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.625,
+    "end": 3.005,
+    "words": [
+      "bayatlayıp",
+      "sertleşmesine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.005,
+    "end": 3.33,
+    "words": [
+      "izin",
+      "verme!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.33,
+    "end": 3.697,
+    "words": [
+      "izin",
+      "verme!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.697,
+    "end": 4.065,
+    "words": [
+      "Çünkü",
+      "ekmek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.065,
+    "end": 4.338,
+    "words": [
+      "Çünkü",
+      "ekmek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.338,
+    "end": 4.616,
+    "words": [
+      "kutusunun",
+      "içine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.616,
+    "end": 4.898,
+    "words": [
+      "kutusunun",
+      "içine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.898,
+    "end": 5.183,
+    "words": [
+      "koyacağın",
+      "iki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.183,
+    "end": 5.4,
+    "words": [
+      "koyacağın",
+      "iki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.4,
+    "end": 5.595,
+    "words": [
+      "küp",
+      "şeker"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.595,
+    "end": 5.907,
+    "words": [
+      "küp",
+      "şeker"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.907,
+    "end": 6.291,
+    "words": [
+      "nemi",
+      "çekerek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.291,
+    "end": 6.675,
+    "words": [
+      "nemi",
+      "çekerek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.675,
+    "end": 7.059,
+    "words": [
+      "bayatlamayı",
+      "önler."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.059,
+    "end": 7.443,
+    "words": [
+      "bayatlamayı",
+      "önler."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.443,
+    "end": 7.785,
+    "words": [
+      "Kutunun",
+      "köşesine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.785,
+    "end": 8.077,
+    "words": [
+      "Kutunun",
+      "köşesine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.077,
+    "end": 8.366,
+    "words": [
+      "şeker",
+      "koyun."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.366,
+    "end": 8.659,
+    "words": [
+      "şeker",
+      "koyun."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.659,
+    "end": 8.952,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.952,
+    "end": 9.244,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.244,
+    "end": 9.525,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.525,
+    "end": 9.818,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.818,
+    "end": 10.215,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.215,
+    "end": 10.582,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.582,
+    "end": 10.973,
+    "words": [
+      "unutma,",
+      "ekmekleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.973,
+    "end": 11.467,
+    "words": [
+      "unutma,",
+      "ekmekleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.467,
+    "end": 12.129,
+    "words": [
+      "saklarken."
+    ],
+    "active": 0
+  }
+]

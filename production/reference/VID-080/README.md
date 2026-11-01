@@ -1,0 +1,3 @@
+# VID-080 — V14
+Drive: https://drive.google.com/file/d/1o6wukNs_mqf3QI3XNiw4utW1mfHS1-bt/view — 12,14 sn / 3.192.975 bayt. Özgün ODS (son cümle yarım), voice-01 1,45×. Üç incelenmiş temsili yapay sahne; 3. aday iki yerine daha çok şeker gösterdiği için kullanılmadı. Gerçek önce/sonra değil. Vosk 22/35, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede bir kare kontrolü; tepe −5,27 dBFS.
+İki küp şekerin bayatlamayı önlediği doğrulanmadı; bayatlama yalnız nem kaybı değil nişastanın yeniden kristalleşmesiyle de ilgilidir: https://bakerpedia.com/processes/staling/ . Küflenmiş ekmek tüketilmemeli.

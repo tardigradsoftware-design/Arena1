@@ -1,0 +1,2 @@
+# VID-079 — V14
+Drive: https://drive.google.com/file/d/1gmk9XO8Ia3gGt0vhFnj2tGX_EwCBQoJJ/view — 13,18 sn / 5.348.511 bayt. Özgün ODS (son cümle yarım), voice-01 1,45×. Üç incelenmiş temsili yapay sahne; 4. adayda sineklik açıkça seçilemediği için kullanılmadı. Vosk 20/37, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede bir kare kontrolü; tepe −5,50 dBFS. Pencereden dışarı sarkmayın, sinekliğe aşırı baskı uygulamayın; tüm tozun giderilmesi garanti değil.
