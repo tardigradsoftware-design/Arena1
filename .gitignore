@@ -8,3 +8,7 @@ production/check.jpg
 google_drive/
 production/check-VID-*.jpg
 production/__pycache__/
+production/remotion/node_modules/
+production/remotion/public/
+production/remotion/out/
+production/remotion/still.png
