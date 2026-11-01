@@ -1,0 +1,76 @@
+{
+  "frames": 682,
+  "hook": [
+    "MUZLARI",
+    "OLDUĞU GİBİ BIRAKMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-025-1.png"
+    },
+    {
+      "from": 238,
+      "file": "VID-025-2.png"
+    },
+    {
+      "from": 426,
+      "file": "VID-025-3.png"
+    },
+    {
+      "from": 522,
+      "file": "VID-025-4.png"
+    }
+  ],
+  "result": 529,
+  "save": 615,
+  "clocks": [
+    {
+      "from": 118,
+      "to": 145
+    },
+    {
+      "from": 502,
+      "to": 532
+    }
+  ],
+  "events": [
+    {
+      "from": 118,
+      "to": 145,
+      "a": "İKİ GÜNDE",
+      "b": "KAHVERENGİLEŞME",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 294,
+      "to": 337,
+      "a": "MUZUN SAPINI",
+      "b": "FOLYOYLA SAR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "banana"
+    },
+    {
+      "from": 502,
+      "to": 534,
+      "a": "BİR HAFTA",
+      "b": "TAZE KALIR",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 615,
+      "to": 644,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-025-voice.wav"
+}

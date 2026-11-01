@@ -1,0 +1,614 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.552,
+    "words": [
+      "sakın",
+      "aldığın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.552,
+    "end": 0.877,
+    "words": [
+      "sakın",
+      "aldığın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.877,
+    "end": 1.203,
+    "words": [
+      "muzları",
+      "tezgahın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.203,
+    "end": 1.53,
+    "words": [
+      "muzları",
+      "tezgahın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.53,
+    "end": 1.837,
+    "words": [
+      "üzerine",
+      "olduğu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.837,
+    "end": 2.1,
+    "words": [
+      "üzerine",
+      "olduğu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.1,
+    "end": 2.415,
+    "words": [
+      "gibi",
+      "bırakma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.415,
+    "end": 2.805,
+    "words": [
+      "gibi",
+      "bırakma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.805,
+    "end": 3.195,
+    "words": [
+      "Çünkü",
+      "muzların"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.195,
+    "end": 3.585,
+    "words": [
+      "Çünkü",
+      "muzların"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.585,
+    "end": 3.938,
+    "words": [
+      "sadece",
+      "iki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.938,
+    "end": 4.2,
+    "words": [
+      "sadece",
+      "iki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.2,
+    "end": 4.489,
+    "words": [
+      "günde",
+      "kahverengiye"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.489,
+    "end": 4.856,
+    "words": [
+      "günde",
+      "kahverengiye"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.856,
+    "end": 5.224,
+    "words": [
+      "dönüp",
+      "yumuşamasının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.224,
+    "end": 5.591,
+    "words": [
+      "dönüp",
+      "yumuşamasının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.591,
+    "end": 5.963,
+    "words": [
+      "sebebi",
+      "sap"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.963,
+    "end": 6.338,
+    "words": [
+      "sebebi",
+      "sap"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.338,
+    "end": 6.72,
+    "words": [
+      "kısmından",
+      "yayılan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.72,
+    "end": 7.11,
+    "words": [
+      "kısmından",
+      "yayılan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.11,
+    "end": 7.5,
+    "words": [
+      "etilen",
+      "gazıdır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.5,
+    "end": 7.89,
+    "words": [
+      "etilen",
+      "gazıdır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.89,
+    "end": 8.28,
+    "words": [
+      "Muz",
+      "salkımının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.28,
+    "end": 8.67,
+    "words": [
+      "Muz",
+      "salkımının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.67,
+    "end": 9.038,
+    "words": [
+      "birleştiği",
+      "en"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.038,
+    "end": 9.293,
+    "words": [
+      "birleştiği",
+      "en"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.293,
+    "end": 9.491,
+    "words": [
+      "üst",
+      "sap"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.491,
+    "end": 9.724,
+    "words": [
+      "üst",
+      "sap"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.724,
+    "end": 10.065,
+    "words": [
+      "kısmını",
+      "küçük"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.065,
+    "end": 10.372,
+    "words": [
+      "kısmını",
+      "küçük"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.372,
+    "end": 10.538,
+    "words": [
+      "bir",
+      "parça"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.538,
+    "end": 10.785,
+    "words": [
+      "bir",
+      "parça"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.785,
+    "end": 11.107,
+    "words": [
+      "alüminyum",
+      "folyo"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.107,
+    "end": 11.42,
+    "words": [
+      "alüminyum",
+      "folyo"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.42,
+    "end": 11.699,
+    "words": [
+      "veya",
+      "streç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.699,
+    "end": 11.943,
+    "words": [
+      "veya",
+      "streç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.943,
+    "end": 12.188,
+    "words": [
+      "film",
+      "ile"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.188,
+    "end": 12.433,
+    "words": [
+      "film",
+      "ile"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.433,
+    "end": 12.72,
+    "words": [
+      "hava",
+      "almayacak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.72,
+    "end": 13.058,
+    "words": [
+      "hava",
+      "almayacak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.058,
+    "end": 13.405,
+    "words": [
+      "şekilde",
+      "sıkıca"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.405,
+    "end": 13.756,
+    "words": [
+      "şekilde",
+      "sıkıca"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.756,
+    "end": 14.107,
+    "words": [
+      "sar.",
+      "Sapından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.107,
+    "end": 14.459,
+    "words": [
+      "sar.",
+      "Sapından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.459,
+    "end": 14.809,
+    "words": [
+      "gaz",
+      "çıkışını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.809,
+    "end": 15.206,
+    "words": [
+      "gaz",
+      "çıkışını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.206,
+    "end": 15.649,
+    "words": [
+      "kestiğinde",
+      "muzların"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.649,
+    "end": 16.091,
+    "words": [
+      "kestiğinde",
+      "muzların"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.091,
+    "end": 16.534,
+    "words": [
+      "kararmadan",
+      "tam"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.534,
+    "end": 16.86,
+    "words": [
+      "kararmadan",
+      "tam"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.86,
+    "end": 17.078,
+    "words": [
+      "bir",
+      "hafta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.078,
+    "end": 17.34,
+    "words": [
+      "bir",
+      "hafta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.34,
+    "end": 17.646,
+    "words": [
+      "boyunca",
+      "sapsarı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.646,
+    "end": 17.958,
+    "words": [
+      "boyunca",
+      "sapsarı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.958,
+    "end": 18.27,
+    "words": [
+      "ve",
+      "taze"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.27,
+    "end": 18.582,
+    "words": [
+      "ve",
+      "taze"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.582,
+    "end": 18.894,
+    "words": [
+      "kaldığını",
+      "göreceksin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.894,
+    "end": 19.296,
+    "words": [
+      "kaldığını",
+      "göreceksin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.296,
+    "end": 19.655,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.655,
+    "end": 19.909,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.909,
+    "end": 20.19,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.19,
+    "end": 20.47,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.47,
+    "end": 20.835,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.835,
+    "end": 21.18,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.18,
+    "end": 21.532,
+    "words": [
+      "unutma,",
+      "pazardan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.532,
+    "end": 21.926,
+    "words": [
+      "unutma,",
+      "pazardan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.926,
+    "end": 22.248,
+    "words": [
+      "aldığın",
+      "muzları."
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.248,
+    "end": 22.732,
+    "words": [
+      "aldığın",
+      "muzları."
+    ],
+    "active": 1
+  }
+]

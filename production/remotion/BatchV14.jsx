@@ -9,6 +9,8 @@ function Icon({kind,frame}){
  if(kind==='cloth')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M20 26 Q50 18 80 26 L75 74 Q50 81 25 74Z M29 38h42 M30 50h40 M31 62h38" {...S}/></svg>;
  if(kind==='book')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M50 28 Q35 18 17 24 v52 Q35 70 50 80 Q65 70 83 76 V24 Q65 18 50 28z M50 28v52 M25 36h15 M60 36h15" {...S}/></svg>;
  if(kind==='warning')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M50 15 L88 80 H12Z" fill="#ffe135" stroke="#211d19" strokeWidth="4" strokeLinejoin="round"/><path d="M50 37v20 M50 68v1" {...S}/></svg>;
+ if(kind==='banana')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M18 28 Q28 65 72 53 L80 44 L85 50 Q79 75 54 79 Q26 82 14 40Z" fill="#ffe135" stroke="#211d19" strokeWidth="4" strokeLinejoin="round"/><path d="M15 28l5-7 6 3 M79 44l5-4 4 5" {...S}/></svg>;
+ if(kind==='scissors')return <svg width="70" height="70" viewBox="0 0 100 100"><circle cx="27" cy="68" r="12" {...S}/><circle cx="27" cy="32" r="12" {...S}/><path d="M37 61 L80 18 M37 39 L80 82" {...S}/><circle cx="50" cy="50" r="3" fill="#211d19"/></svg>;
  if(kind==='glass')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M23 18h54l-5 65H28z M27 50h46" {...S}/><path d="M40 72q10-21 20 0" {...S}/></svg>;
  if(kind==='iron')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M15 70 Q19 50 31 43 H75 Q85 44 87 70Z M35 43 L40 25 H65 Q72 25 73 43 M42 41 L46 32 H62 L64 41" {...S}/><path d="M22 76h65" {...S}/></svg>;
  if(kind==='spoon')return <svg width="70" height="70" viewBox="0 0 100 100"><ellipse cx="38" cy="32" rx="15" ry="19" transform="rotate(-35 38 32)" {...S}/><path d="M48 47L76 82 M56 44L82 76" {...S}/></svg>;

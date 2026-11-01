@@ -1,0 +1,622 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.47,
+    "words": [
+      "sakın",
+      "köreldi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.47,
+    "end": 0.749,
+    "words": [
+      "sakın",
+      "köreldi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.749,
+    "end": 1.029,
+    "words": [
+      "diye",
+      "evdeki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.029,
+    "end": 1.335,
+    "words": [
+      "diye",
+      "evdeki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.335,
+    "end": 1.668,
+    "words": [
+      "makaslarını",
+      "çöpe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.668,
+    "end": 1.975,
+    "words": [
+      "makaslarını",
+      "çöpe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.975,
+    "end": 2.299,
+    "words": [
+      "atma",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.299,
+    "end": 2.644,
+    "words": [
+      "atma",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.644,
+    "end": 2.976,
+    "words": [
+      "yenisini",
+      "alma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.976,
+    "end": 3.317,
+    "words": [
+      "yenisini",
+      "alma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.317,
+    "end": 3.658,
+    "words": [
+      "Çünkü",
+      "kağıdı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.658,
+    "end": 3.999,
+    "words": [
+      "Çünkü",
+      "kağıdı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.999,
+    "end": 4.268,
+    "words": [
+      "bile",
+      "zor"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.268,
+    "end": 4.481,
+    "words": [
+      "bile",
+      "zor"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.481,
+    "end": 4.714,
+    "words": [
+      "kesen",
+      "kör"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.714,
+    "end": 5.059,
+    "words": [
+      "kesen",
+      "kör"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.059,
+    "end": 5.516,
+    "words": [
+      "makasları",
+      "sadece"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.516,
+    "end": 5.91,
+    "words": [
+      "makasları",
+      "sadece"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.91,
+    "end": 6.247,
+    "words": [
+      "on",
+      "saniyede"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.247,
+    "end": 6.6,
+    "words": [
+      "on",
+      "saniyede"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.6,
+    "end": 6.96,
+    "words": [
+      "jilet",
+      "gibi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.96,
+    "end": 7.373,
+    "words": [
+      "jilet",
+      "gibi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.373,
+    "end": 7.838,
+    "words": [
+      "keskinleştirmenin",
+      "çok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.838,
+    "end": 8.211,
+    "words": [
+      "keskinleştirmenin",
+      "çok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.211,
+    "end": 8.441,
+    "words": [
+      "pratik",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.441,
+    "end": 8.63,
+    "words": [
+      "pratik",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.63,
+    "end": 8.829,
+    "words": [
+      "yöntemi",
+      "var."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.829,
+    "end": 9.174,
+    "words": [
+      "yöntemi",
+      "var."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.174,
+    "end": 9.503,
+    "words": [
+      "Bir",
+      "parça"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.503,
+    "end": 9.735,
+    "words": [
+      "Bir",
+      "parça"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.735,
+    "end": 10.046,
+    "words": [
+      "alüminyum",
+      "folyoyu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.046,
+    "end": 10.369,
+    "words": [
+      "alüminyum",
+      "folyoyu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.369,
+    "end": 10.698,
+    "words": [
+      "dörde",
+      "katla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.698,
+    "end": 11.034,
+    "words": [
+      "dörde",
+      "katla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.034,
+    "end": 11.384,
+    "words": [
+      "ve",
+      "kalınlaşan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.384,
+    "end": 11.75,
+    "words": [
+      "ve",
+      "kalınlaşan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.75,
+    "end": 12.117,
+    "words": [
+      "folyoyu",
+      "makasın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.117,
+    "end": 12.442,
+    "words": [
+      "folyoyu",
+      "makasın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.442,
+    "end": 12.737,
+    "words": [
+      "tam",
+      "dibinden"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.737,
+    "end": 13.052,
+    "words": [
+      "tam",
+      "dibinden"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.052,
+    "end": 13.35,
+    "words": [
+      "ucuna",
+      "kadar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.35,
+    "end": 13.639,
+    "words": [
+      "ucuna",
+      "kadar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.639,
+    "end": 13.946,
+    "words": [
+      "on",
+      "kez"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.946,
+    "end": 14.254,
+    "words": [
+      "on",
+      "kez"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.254,
+    "end": 14.561,
+    "words": [
+      "şeritler",
+      "halinde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.561,
+    "end": 14.869,
+    "words": [
+      "şeritler",
+      "halinde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.869,
+    "end": 15.176,
+    "words": [
+      "kes.",
+      "Metal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.176,
+    "end": 15.49,
+    "words": [
+      "kes.",
+      "Metal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.49,
+    "end": 15.811,
+    "words": [
+      "folyonun",
+      "mikro"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.811,
+    "end": 16.186,
+    "words": [
+      "folyonun",
+      "mikro"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.186,
+    "end": 16.615,
+    "words": [
+      "sürtünmesi",
+      "bıçak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.615,
+    "end": 17.005,
+    "words": [
+      "sürtünmesi",
+      "bıçak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.005,
+    "end": 17.355,
+    "words": [
+      "ağzındaki",
+      "çapakları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.355,
+    "end": 17.705,
+    "words": [
+      "ağzındaki",
+      "çapakları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.705,
+    "end": 18.015,
+    "words": [
+      "düzeltir",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.015,
+    "end": 18.336,
+    "words": [
+      "düzeltir",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.336,
+    "end": 18.707,
+    "words": [
+      "makasını",
+      "anında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.707,
+    "end": 19.078,
+    "words": [
+      "makasını",
+      "anında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.078,
+    "end": 19.449,
+    "words": [
+      "biler.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.449,
+    "end": 19.725,
+    "words": [
+      "biler.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.725,
+    "end": 19.961,
+    "words": [
+      "pratik",
+      "hileyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.961,
+    "end": 20.254,
+    "words": [
+      "pratik",
+      "hileyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.254,
+    "end": 20.535,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.535,
+    "end": 20.902,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.902,
+    "end": 21.317,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.317,
+    "end": 21.681,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.681,
+    "end": 22.044,
+    "words": [
+      "kesmeyen",
+      "kör"
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.044,
+    "end": 22.408,
+    "words": [
+      "kesmeyen",
+      "kör"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.408,
+    "end": 22.954,
+    "words": [
+      "makaslarını."
+    ],
+    "active": 0
+  }
+]
