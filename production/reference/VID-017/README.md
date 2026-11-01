@@ -1,3 +1,5 @@
-# VID-017 — eksik görsel
+# VID-017 — V14
 
-ODS metniyle tek parça voice-01 ses hazır; 1,45× sürüm burada, altyazı `production/remotion/vid017-captions.json` (Vosk 39/70 eşleşme, kalanı interpolasyon; ses dinlenmedi). 1, 3, 4 numaralı sahneler adaydır, henüz SHA onayı verilmedi. İkinci görselde ayakkabı ucu fiziksel destek olmadan havada gibi göründüğünden reddedildi; `production/images/VID-017-2.png` kullanma. Görsel kotası bu tur dolduğu için sonraki turda ayakkabı olmadan sadece tezgâha dayalı kâsede tek birleşmiş macun/deterjan karışımı ve kâseye dayalı diş fırçası üret, incele; sonra SHA manifesti, V14 kurgu, teknik ve örnek kare kontrolü ile Drive'a VID-017.mp4 olarak yükle. Zaman anlatımları için analog saat/tik tak ekle. Henüz render/yükleme yapılmadı.
+ODS senaryosu, tek parça voice-01 ve 1,45×. Önceden ayakkabısı havada görünen 2. görsel reddedildi; yeni 2. sahne tezgâha dayalı kase, tek karışım ve fırçadan oluşur. Dört görsel ve SHA inceleme manifesti bu klasörde; `production/remotion/vid017-*` kurgu. İki ve beş dakika anlatımlarında saat/tik tak var. 23,67 sn, 720×1280/30 fps, 3.867.324 bayt; tam decode/blackdetect, ses seviyesi ve üç saniyede bir örnek kare kontrol edildi. Vosk 39/70, kalanı interpolasyon; ses baştan sona dinlenmedi.
+
+https://drive.google.com/file/d/1K-62p0-nq23QOTxmcUv8DvlDKHi2Moiq/view

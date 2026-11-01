@@ -1,0 +1,94 @@
+{
+  "frames": 710,
+  "hook": [
+    "SARARDI DİYE",
+    "AYAKKABINDAN VAZGEÇME!"
+  ],
+  "voice": "VID-017-voice.wav",
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-017-1.png"
+    },
+    {
+      "from": 274,
+      "file": "VID-017-2.png"
+    },
+    {
+      "from": 412,
+      "file": "VID-017-3.png"
+    },
+    {
+      "from": 525,
+      "file": "VID-017-4.png"
+    }
+  ],
+  "result": 535,
+  "save": 632,
+  "clocks": [
+    {
+      "from": 202,
+      "to": 225
+    },
+    {
+      "from": 469,
+      "to": 495
+    }
+  ],
+  "events": [
+    {
+      "from": 202,
+      "to": 226,
+      "a": "İKİ DAKİKA",
+      "b": "TEMİZLİK",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 324,
+      "to": 356,
+      "a": "DİŞ MACUNU",
+      "b": "BİR TATLI KAŞIĞI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "brush"
+    },
+    {
+      "from": 379,
+      "to": 412,
+      "a": "BİRKAÇ DAMLA",
+      "b": "BULAŞIK DETERJANI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 469,
+      "to": 499,
+      "a": "BEŞ DAKİKA",
+      "b": "BEKLET",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 500,
+      "to": 524,
+      "a": "NEMLİ BEZLE",
+      "b": "SİL",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 632,
+      "to": 659,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ]
+}

@@ -94,3 +94,7 @@ Kullanıcı her zaman senaryoya bağlı kalınmasını, tekrar onay istenmemesin
 ### VID-017 ve VID-018 devam ediyor
 
 017 tek parça ses + üç aday görsel hazır; 2. görsel ayakkabı havada göründüğünden reddedildi, 8 görsel/mesaj kotası dolduğu için sonraki tur yeniden üretilecek. `production/reference/VID-017/README.md` ve `vid017-captions.json`; render ve Drive yüklemesi yapılmadı. 018 ses, dört inceleme onaylı kaynak ve `production/remotion/vid018-*` ile render tamam: `production/videos/VID-018-v14.mp4`, 23,03 sn, 5.555.447 bayt; tam decode/blackdetect, ses seviyesi ve örnek kare incelendi; 48/68 Vosk, kalanı interpolasyon, ses dinlenmedi. Sıra bozulmaması için 018 de henüz Drive'a yüklenmedi. Sonraki tur önce 017 ikinci sahneyi üret/incele/render et ve ana klasöre yükle, sonra 018'i yükle, her iki linki ilet.
+
+### VID-017 ve VID-018 tamamlandı
+
+017 https://drive.google.com/file/d/1K-62p0-nq23QOTxmcUv8DvlDKHi2Moiq/view (23,67 sn, 3.867.324 bayt), 018 https://drive.google.com/file/d/1ggBISc82niPf43kfrsdEMMmCYjrfjeEq/view (23,03 sn, 5.555.447 bayt) sırasıyla ana klasöre yüklendi. 017'nin reddedilen havadaki ayakkabı sahnesi yerine kâsede tek karışım/fırça görseli üretildi; kaynaklar, SHA manifestleri ve kod `production/reference/VID-017/`, `VID-018/`, `production/remotion/vid017-*`, `vid018-*`. İkisi decode/blackdetect, ses düzeyi ve 3 saniyede bir örnek kare kontrol edildi. 017 Vosk 39/70, 018 48/68; kalanlar interpolasyon, sesler baştan sona dinlenmedi. Önceki bekliyor notu geçersiz; sırada 019–020.

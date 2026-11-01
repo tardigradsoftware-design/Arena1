@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-017-1.png",
+      "sha256": "cf09b02962508282011213b6c3a0289e27cf17d79dd79bf9c8d2896598c0b70a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Beyaz ayakkabı ve sararmış taban tezgâha dayanıyor."
+    },
+    {
+      "file": "../../remotion/public/VID-017-2.png",
+      "sha256": "542d12f76aa351dfc4c37f32c9790d42cb4919fae03a1a1a618aee763defecb9",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kase içindeki tek karışım ve kase kenarına dayalı fırça; ayakkabı yok."
+    },
+    {
+      "file": "../../remotion/public/VID-017-3.png",
+      "sha256": "09d9105413043a542e898ceb6a120a70a6baea81390d8c9e62573cd217138977",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ayakkabı ve bez tezgâha dayanıyor, silme işlemi temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-017-4.png",
+      "sha256": "04db4867abb1e650c0497a46e99c221a83f79ac61c0536b6e0f0eca360ab06e1",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aynı ayakkabı modeli temiz tabanla, tezgâhta."
+    }
+  ]
+}
