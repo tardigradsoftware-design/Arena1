@@ -39,7 +39,7 @@ for num in args.videos:
    f.write('Dialogue: 0,%s,%s,Default,,0,0,0,,%s\n'%(stamp(bounds[i]),stamp(bounds[i+1]),''.join(chunk).strip()))
   for t in (2,10,18):
    if t<dur: f.write('Dialogue: 0,%s,%s,Water,,0,0,0,,{\\fad(400,400)}kadincayasam\n'%(stamp(t),stamp(min(t+2.5,dur))))
- cuts = [7.79, 10.84, 13.70] if num == 35 else [dur*.25, dur*.5, dur*.75]
+ cuts = [bounds[next(i for i, w in enumerate(words) if norm(w) == target)] for target in ('kesme', 'bıçağın'.replace('ı','i'), 'havaya')] if num == 35 else [dur*.25, dur*.5, dur*.75]
  cmd=[ff,'-y','-loglevel','error'];
  lengths = [cuts[0], cuts[1]-cuts[0], cuts[2]-cuts[1], dur-cuts[2]]
  for i in range(1,5):cmd+=['-loop','1','-framerate','30','-t',str(lengths[i-1]+.1),'-i',f'{root}/images/{id}-{i}.png']
