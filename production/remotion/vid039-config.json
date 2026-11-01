@@ -1,0 +1,72 @@
+{
+  "frames": 637,
+  "hook": [
+    "TAHRİŞ EDEN MASKELERE",
+    "PARA VERME!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-039-1.png"
+    },
+    {
+      "from": 262,
+      "file": "VID-039-2.png"
+    },
+    {
+      "from": 383,
+      "file": "VID-039-3.png"
+    },
+    {
+      "from": 526,
+      "file": "VID-039-4.png"
+    }
+  ],
+  "result": 526,
+  "save": 570,
+  "clocks": [
+    {
+      "from": 401,
+      "to": 429
+    }
+  ],
+  "events": [
+    {
+      "from": 280,
+      "to": 318,
+      "a": "BENTONİT KİLİ",
+      "b": "BİR TATLI KAŞIĞI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 328,
+      "to": 358,
+      "a": "ELMA SİRKESİ",
+      "b": "BİRKAÇ DAMLA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 401,
+      "to": 431,
+      "a": "ON DAKİKA",
+      "b": "BEKLET",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 570,
+      "to": 599,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-039-voice.wav"
+}
