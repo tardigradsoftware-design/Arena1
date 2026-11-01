@@ -1,0 +1,613 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><title>VID-001 Stüdyo motion karşılaştırması</title>
+<style>
+*{box-sizing:border-box}html,body{margin:0;background:#111;height:100%;overflow:hidden;font-family:Arial,sans-serif}body{display:grid;place-items:center}body.kayit{display:block}#sahne{position:relative;width:720px;height:1280px;overflow:hidden;background:#151515;transform-origin:center}.shot{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.cardline{display:table;padding:8px 15px;border:3px solid #111;box-shadow:5px 5px 0 #111;border-radius:7px;font-weight:900;line-height:1.03}.caps{position:absolute;top:795px;left:35px;right:35px;display:flex;gap:8px;align-items:center;justify-content:center;font-size:38px;font-weight:900}.caps span{border:3px solid #111;box-shadow:3px 3px 0 #111;border-radius:7px;padding:7px 10px;white-space:nowrap}
+</style></head><body><div id="sahne"></div>
+<script>
+// Uses YapayTU Claude Stüdyo's deterministic frame-driven window.ciz contract.
+// Motion concepts adapted to the user's footage and subtitle preferences.
+window.FPS=30;window.SURE=620/30;const W=720,H=1280;
+const scene=document.getElementById('sahne');
+const c01=x=>Math.max(0,Math.min(1,x));
+const cik=x=>1-Math.pow(1-c01(x),3);
+const geri=x=>{const q=c01(x)-1;return 1+2.7*q*q*q+1.7*q*q};
+const caps=[
+  {
+    "start": 0,
+    "end": 0.48,
+    "words": [
+      "sakın",
+      "çöpe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.48,
+    "end": 0.7492905000000001,
+    "words": [
+      "sakın",
+      "çöpe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.7492905000000001,
+    "end": 1.0178715,
+    "words": [
+      "atma",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.0178715,
+    "end": 1.296081,
+    "words": [
+      "atma",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.296081,
+    "end": 1.5975,
+    "words": [
+      "çamaşır",
+      "suyuyla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.5975,
+    "end": 1.9425,
+    "words": [
+      "çamaşır",
+      "suyuyla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.9425,
+    "end": 2.385,
+    "words": [
+      "yıpratma.",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.385,
+    "end": 2.8125,
+    "words": [
+      "yıpratma.",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.8125,
+    "end": 3.1575,
+    "words": [
+      "sararmış",
+      "yastık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.1575,
+    "end": 3.5025000000000004,
+    "words": [
+      "sararmış",
+      "yastık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.5025000000000004,
+    "end": 3.8475,
+    "words": [
+      "kılıflarını",
+      "ilk"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.8475,
+    "end": 4.125,
+    "words": [
+      "kılıflarını",
+      "ilk"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.125,
+    "end": 4.421250000000001,
+    "words": [
+      "günkü",
+      "beyazlığına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.421250000000001,
+    "end": 4.803749999999999,
+    "words": [
+      "günkü",
+      "beyazlığına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.803749999999999,
+    "end": 5.182499999999999,
+    "words": [
+      "kavuşturmak",
+      "aslında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.182499999999999,
+    "end": 5.4975,
+    "words": [
+      "kavuşturmak",
+      "aslında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.4975,
+    "end": 5.7525,
+    "words": [
+      "çok",
+      "kolay."
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.7525,
+    "end": 6.105,
+    "words": [
+      "çok",
+      "kolay."
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.105,
+    "end": 6.555000000000001,
+    "words": [
+      "Makinenin",
+      "tamburuna"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.555000000000001,
+    "end": 7.005000000000001,
+    "words": [
+      "Makinenin",
+      "tamburuna"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.005000000000001,
+    "end": 7.3125,
+    "words": [
+      "bir",
+      "yemek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.3125,
+    "end": 7.515,
+    "words": [
+      "bir",
+      "yemek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.515,
+    "end": 7.807499999999999,
+    "words": [
+      "kaşığı",
+      "karbonat,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.807499999999999,
+    "end": 8.182500000000001,
+    "words": [
+      "kaşığı",
+      "karbonat,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.182500000000001,
+    "end": 8.4975,
+    "words": [
+      "bir",
+      "tablet"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.4975,
+    "end": 8.754999999999999,
+    "words": [
+      "bir",
+      "tablet"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.754999999999999,
+    "end": 9.045,
+    "words": [
+      "bulaşık",
+      "deterjanı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.045,
+    "end": 9.335,
+    "words": [
+      "bulaşık",
+      "deterjanı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.335,
+    "end": 9.592500000000001,
+    "words": [
+      "ve",
+      "yarım"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.592500000000001,
+    "end": 9.817499999999999,
+    "words": [
+      "ve",
+      "yarım"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.817499999999999,
+    "end": 10.05,
+    "words": [
+      "çay",
+      "bardağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.05,
+    "end": 10.305,
+    "words": [
+      "çay",
+      "bardağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.305,
+    "end": 10.5975,
+    "words": [
+      "beyaz",
+      "sirke"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.5975,
+    "end": 10.912500000000001,
+    "words": [
+      "beyaz",
+      "sirke"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.912500000000001,
+    "end": 11.2275,
+    "words": [
+      "ekle.",
+      "Altmış"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.2275,
+    "end": 11.5425,
+    "words": [
+      "ekle.",
+      "Altmış"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.5425,
+    "end": 11.85809525,
+    "words": [
+      "derecede",
+      "normal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.85809525,
+    "end": 12.228492083333332,
+    "words": [
+      "derecede",
+      "normal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.228492083333332,
+    "end": 12.65309525,
+    "words": [
+      "programda",
+      "yıkadığında,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.65309525,
+    "end": 13.077698416666667,
+    "words": [
+      "programda",
+      "yıkadığında,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.077698416666667,
+    "end": 13.4175,
+    "words": [
+      "tüm",
+      "ter"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.4175,
+    "end": 13.620000000000001,
+    "words": [
+      "tüm",
+      "ter"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.620000000000001,
+    "end": 13.77,
+    "words": [
+      "ve",
+      "sarı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.77,
+    "end": 13.991249999999999,
+    "words": [
+      "ve",
+      "sarı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.991249999999999,
+    "end": 14.28375,
+    "words": [
+      "lekelerin",
+      "tek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.28375,
+    "end": 14.565,
+    "words": [
+      "lekelerin",
+      "tek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.565,
+    "end": 14.895,
+    "words": [
+      "seferde",
+      "tamamen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.895,
+    "end": 15.2775,
+    "words": [
+      "seferde",
+      "tamamen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.2775,
+    "end": 15.6525,
+    "words": [
+      "söküldüğünü",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.6525,
+    "end": 16.005000000000003,
+    "words": [
+      "söküldüğünü",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.005000000000003,
+    "end": 16.424159500000002,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.424159500000002,
+    "end": 16.760819,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.760819,
+    "end": 16.9791595,
+    "words": [
+      "pratik",
+      "yöntemi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.9791595,
+    "end": 17.25,
+    "words": [
+      "pratik",
+      "yöntemi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.25,
+    "end": 17.52,
+    "words": [
+      "lazım",
+      "olduğunda"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.52,
+    "end": 17.766191083333332,
+    "words": [
+      "lazım",
+      "olduğunda"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.766191083333332,
+    "end": 17.98857325,
+    "words": [
+      "bulmak",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.98857325,
+    "end": 18.21095541666667,
+    "words": [
+      "bulmak",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.21095541666667,
+    "end": 18.53607325,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.53607325,
+    "end": 18.8625,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.8625,
+    "end": 19.192500000000003,
+    "words": [
+      "unutma,",
+      "sararan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.192500000000003,
+    "end": 19.627499999999998,
+    "words": [
+      "unutma,",
+      "sararan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.627499999999998,
+    "end": 20.0461875,
+    "words": [
+      "yastık",
+      "kılıflarını."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.0461875,
+    "end": 20.64975,
+    "words": [
+      "yastık",
+      "kılıflarını."
+    ],
+    "active": 1
+  }
+];
+const shots=[{from:0,file:'a',pos:'50% 55%'},{from:188,file:'b',pos:'50% 52%'},{from:338,file:'c',pos:'50% 52%'},{from:460,file:'d',pos:'50% 40%'}];
+const cards=[{from:75,to:175,top:'SARARMIŞ',bottom:'YASTIK KILIFLARI',side:-1},{from:221,to:254,top:'1 YEMEK KAŞIĞI',bottom:'KARBONAT',side:-1},{from:255,to:286,top:'1 TABLET',bottom:'BULAŞIK DETERJANI',side:1},{from:297,to:331,top:'YARIM ÇAY BARDAĞI',bottom:'BEYAZ SİRKE',side:-1},{from:346,to:390,top:'60°',bottom:'NORMAL PROGRAM',side:1},{from:468,to:515,top:'BEYAZ',bottom:'YASTIK KILIFLARI',side:-1},{from:536,to:578,top:'KAYDET',bottom:'LAZIM OLDUĞUNDA',side:1}];
+const mark=(f,start,end,path)=>{if(f<start||f>=end)return '';let age=f-start;let d=cik(age/17),opacity=Math.min(c01(age/4),c01((end-f)/8));return `<svg width="720" height="1280" viewBox="0 0 720 1280" style="position:absolute;inset:0;opacity:${opacity};filter:drop-shadow(1px 3px 1px #111)"><path d="${path}" fill="none" stroke="#ffe135" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="${1-d}"/></svg>`};
+window.ciz=f=>{
+ let shot=shots.filter(x=>f>=x.from).at(-1);let age=f-shot.from;let zoom=1.01+.045*cik(age/110);
+ let markup=`<img class="shot" src="../production/reference/VID-001/VID-001-${shot.file}.png" style="object-position:${shot.pos};transform:scale(${zoom})"><div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.25),transparent 39%,rgba(0,0,0,.15))"></div>`;
+ if(f<60){let p=geri(f/12),o=f<48?1:c01((60-f)/12);markup+=`<div style="position:absolute;top:220px;left:48px;width:624px;text-align:center;opacity:${o};transform:scale(${.82+.18*p});filter:drop-shadow(0px 5px 5px #111)"><div style="display:inline-block;background:#ffe135;color:#111;border:4px solid #111;box-shadow:7px 7px 0 #111;border-radius:8px;font-size:104px;font-weight:1000;padding:2px 31px;transform:rotate(-3deg)">SAKIN!</div><div style="font-size:43px;font-weight:900;color:white;margin-top:16px;text-shadow:0 3px 3px #111">SARARAN KILIFLARI<br>ÇÖPE ATMA<br><span style="color:#ffe135">YIPRATMA!</span></div></div>`}
+ let item=cards.find(e=>f>=e.from&&f<e.to);
+ if(item){let t=f-item.from,p=geri(t/13),q=geri((t-5)/13),opacity=Math.min(c01(t/4),c01((item.to-f)/5)); let anchor=item.side<0?'left:48px':'right:48px';let dx=item.side*(1-p)*180;
+ markup+=`<div style="position:absolute;top:210px;${anchor};opacity:${opacity};transform:translateX(${dx}px);filter:drop-shadow(0 4px 5px #0008)"><div class="cardline" style="font-size:${item.top.length>15?27:38}px;color:#111;background:#ffe135;transform:rotate(${item.side*-2}deg)">${item.top}</div><div class="cardline" style="margin-top:10px;background:white;color:#111;font-size:25px;transform:translateX(${item.side*(1-q)*100}px)">${item.bottom}</div></div>`;
+ let path=item.side<0?'M 105 360 C 115 405 145 418 190 443 M 190 443 L 169 425 M 190 443 L 166 445':'M 615 360 C 605 405 575 418 530 443 M 530 443 L 551 425 M 530 443 L 554 445';markup+=mark(f,item.from+4,item.to,path);
+ }
+ markup+=mark(f,198,220,'M 98 380 C 150 383 187 420 215 475 M 215 475 L 191 461 M 215 475 L 213 447');
+ markup+=mark(f,400,454,'M 180 550 C 174 448 241 373 345 365 C 448 358 526 420 535 505');
+ markup+=mark(f,581,615,'M 570 480 C 557 420 535 380 484 348 M 484 348 L 508 350 M 484 348 L 497 370');
+ if(f>=470&&f<526){let p=cik((f-470)/12),o=Math.min(c01((f-470)/5),c01((526-f)/10));markup+=`<svg width="720" height="1280" style="position:absolute;inset:0;opacity:${o};filter:drop-shadow(1px 2px 2px #111)"><g transform="translate(578 280) scale(${p})"><path d="M0 -17 Q2 -2 17 0 Q2 2 0 17 Q-2 2 -17 0 Q-2 -2 0 -17" fill="#ffe135" stroke="#111" stroke-width="2"/></g></svg>`}
+ let cap=caps.find(c=>f/30>=c.start&&f/30<c.end);if(cap&&f>=60){markup+=`<div class="caps">${cap.words.map((w,i)=>`<span style="background:${i===cap.active?'#ffe135':'white'};color:#111">${w}</span>`).join('')}</div>`}
+ if((f>=65&&f<125)||(f>=300&&f<360)||(f>=540&&f<600))markup+=`<div style="position:absolute;bottom:210px;left:48px;font-size:22px;font-weight:bold;color:white;text-shadow:0 2px 4px #000">kadincayasam</div>`;
+ scene.innerHTML=markup;
+};
+if(new URLSearchParams(location.search).has('kayit'))document.body.classList.add('kayit');else{const fit=()=>scene.style.transform=`scale(${Math.min(innerWidth/W,innerHeight/H)})`;addEventListener('resize',fit);fit();const start=performance.now();function run(){window.ciz(Math.floor((performance.now()-start)*FPS/1000)%620);requestAnimationFrame(run)}requestAnimationFrame(run)}
+</script></body></html>

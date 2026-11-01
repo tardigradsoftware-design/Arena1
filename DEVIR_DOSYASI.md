@@ -38,3 +38,7 @@ Güncelleme: 2026-11-01. Bu dosya yeni oturumda önce okunacak başlangıçtır.
 ## Şu an
 
 V14 kullanıcı tarafından genel stil olarak kabul edildi. Kullanıcı son olarak gereksiz şeylerin temizlenmesini ve bu devri istedi; temizlik kapsamı netleşmeden diğer video/sürüm veya kaynakları kalıcı silme. Henüz yeni video ID'si verilmedi.
+
+## Claude Stüdyo karşılaştırması — seçim bekleniyor
+
+YapayTU'nun 7 MIT skill'i `.claude/skills/`, örnekler `ornekler/`, araçlar `araclar/`; kurulum/kullanım ve gerçek test kapsamı `CLAUDE-STUDYO-KULLANIM.md`, lisans `CLAUDE-STUDYO-LICENSE`. Skill tanımları Claude Code biçimindedir; Arena'da otomatik skill yürütme varsayılmadı, içerikleri okunup uyarlama elle yapıldı. `ciktilar/VID-001-studyo.html` gerçek Stüdyo/Playwright kare-kare kayıt aracı ile oluşturulan VID-001 motion-grafik karşılaştırmasıdır; 4 incelenmiş fotoğraf ve V14 miks sesini kullanır. Drive karşılaştırması https://drive.google.com/file/d/1OZ1H9Pqq3TLNDEVth_tLXftpoUHPU6Uo/view ; V14 genel tercih olmaya devam eder; yeni sürümü kullanıcı seçmeden yeni varsayılan stil olarak kaydetme. Ses baştan sona dinlenmedi, kelime zamanları kısmen tahmini.

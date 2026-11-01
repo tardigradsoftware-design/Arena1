@@ -15,3 +15,7 @@ production/remotion/still.png
 production/quality/
 
 __pycache__/
+
+# Claude Stüdyo dependencies and generated output
+/node_modules/
+/ciktilar/*.mp4

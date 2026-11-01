@@ -1,0 +1,12 @@
+{
+  "name": "claude-studyo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "kaydet": "node araclar/kaydet.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.64.1",
+    "three": "0.160.0"
+  }
+}
