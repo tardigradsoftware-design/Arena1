@@ -74,3 +74,7 @@ VID-009 https://drive.google.com/file/d/1YJa_SVhXh4q6PAY4RglbAbeNlk1O6-ki/view (
 ### VID-011 tamamlandı, VID-012 devam ediyor
 
 VID-011 https://drive.google.com/file/d/1BF07b_i_6yuGpAEpQJmC0yK678JJyfCw/view — 20,50 sn, 3.408.773 bayt; V14, tek parça voice-01 1,45×, tutarlı sahne görselleri ve SVG. Decode/blackdetect/tepe seviye ve örnek kare incelemesi yapıldı; Vosk 45/65 ve kalanı interpolasyon, ses bütünüyle dinlenmedi. 012'nin ses ve üç aday görseli hazır, dördüncü olan fön makinesi sahnesi fiziki destek şüphesiyle reddedildi. Bu tur 8 görsel sınırı doldu; sonraki turda 012'yi tamamla, atlama. `production/reference/VID-012/README.md` ve `vid012-captions.json` devir kaydı. 012 daha render edilmedi/yüklenmedi; sonraki ikili düzene sonra geç.
+
+### VID-012 tamamlandı; VID-013 için izin bekleniyor
+
+VID-012 https://drive.google.com/file/d/1W1vAUrGraZkPXTG4CM9YJ3xgacBQWNSc/view — 20,97 sn, 3.213.191 bayt; fön makinesi güvenli fiziksel destekli görselle yenilendi, saat/tik tak eklendi. Teknik decode/blackdetect/seviye ve örnek kare kontrolü tamam; Vosk 35/63, kalan interpolasyon, ses dinlenmedi. Kaynak ve manifest `production/reference/VID-012/`; render `production/remotion/vid012-*`. Eski bekliyor notu geçersiz. Sıradaki VID-013 metni kaşıkla kaynayan tencereyi gözetimsiz bırakmanın güvenli olduğu izlenimini verebilir, ciddi yangın riski nedeniyle kullanıcının güvenli düzenleme onayı istendi; onay olmadan senaryoyu değiştirme veya 013'ü atlayıp devam etme.

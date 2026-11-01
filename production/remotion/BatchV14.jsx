@@ -9,6 +9,7 @@ function Icon({kind,frame}){
  if(kind==='cloth')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M20 26 Q50 18 80 26 L75 74 Q50 81 25 74Z M29 38h42 M30 50h40 M31 62h38" {...S}/></svg>;
  if(kind==='book')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M50 28 Q35 18 17 24 v52 Q35 70 50 80 Q65 70 83 76 V24 Q65 18 50 28z M50 28v52 M25 36h15 M60 36h15" {...S}/></svg>;
  if(kind==='warning')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M50 15 L88 80 H12Z" fill="#ffe135" stroke="#211d19" strokeWidth="4" strokeLinejoin="round"/><path d="M50 37v20 M50 68v1" {...S}/></svg>;
+ if(kind==='dryer')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M19 27h39q14 0 14 14T58 55H19z M19 27l-8 5v18l8 5 M49 55l7 27H42l-7-27 M77 33q8 8 0 16" {...S}/></svg>;
  if(kind==='lemon')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M20 50 Q21 25 47 24 Q52 18 57 24 Q80 27 82 50 Q80 74 55 76 Q49 82 45 76 Q21 73 20 50Z" fill="#ffe135" stroke="#211d19" strokeWidth="4"/><path d="M34 39q5-7 13-8" {...S}/></svg>;
  if(kind==='perfume')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M38 20h24v13H38z M30 34h40v49H30z M45 14h10v6" {...S}/><path d="M38 50h24" {...S}/></svg>;
  if(kind==='jar')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M30 20h40v10H30z M33 30v8q-7 4-7 13v28q0 6 7 6h34q7 0 7-6V51q0-9-7-13v-8 M37 55q13-11 26 0 M37 65q13 11 26 0" {...S}/></svg>;

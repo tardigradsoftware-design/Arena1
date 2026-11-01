@@ -1,3 +1,7 @@
-# VID-012 — yarım kaldı
+# VID-012 — V14
 
-ODS tek parça voice-01 raw ve 1,45× fast ses hazır; `production/remotion/vid012-captions.json` Vosk 35/63, kalanı tahmini interpolasyon. Aynı aydınlık mutfakta sahne 1, 3 ve 4 aday görselleri burada; render SHA onayı verilmedi. Sahne 2'de fön makinesi güvenilir fiziksel destek olmadan dik duruyor gibi göründüğü için reddedildi; `production/images/VID-012-2.png` kullanma. Bir sonraki kullanıcı turunda uygun bir el ile güvenilir tutulan veya tezgaha yatarak desteklenmiş ve açıkça fön makinesi görünen yeni görsel üret; ardından dört görseli tekrar incele, kalite manifesti oluştur, kurgu ve kontrol yap, Drive'a yükle. 10 saniye bölümünde analog saat ve hızlı tik tak kullan. Video henüz render edilmedi ve Drive'a yüklenmedi.
+ODS metni, tek parça voice-01, 1,45×. Önceki fön makinesi görseli güvenilir fiziksel destek göstermediği için reddedildi; yeni görselde makine tezgâha dayanıyor, çalışma anı temsili. Dört sahne ve SHA inceleme manifesti burada; `production/remotion/vid012-*` kurgu. 10 saniye ve saniyeler vurgusunda analog saat ve hızlı tik tak var.
+
+20,97 sn, 720×1280/30 fps, 3.213.191 bayt. Tam decode/blackdetect/tepe ses seviyesi ve üç saniyede bir örnek kare incelendi. Vosk 35/63 eşleşme, kalanı tahmini interpolasyon; ses baştan sona dinlenmedi.
+
+https://drive.google.com/file/d/1W1vAUrGraZkPXTG4CM9YJ3xgacBQWNSc/view
