@@ -1,0 +1,66 @@
+{
+  "frames": 615,
+  "hook": [
+    "LİMONU ORTADAN",
+    "İKİYE KESME!"
+  ],
+  "voice": "VID-011-voice.wav",
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-011-1.png"
+    },
+    {
+      "from": 175,
+      "file": "VID-011-2.png"
+    },
+    {
+      "from": 291,
+      "file": "VID-011-3.png"
+    },
+    {
+      "from": 365,
+      "file": "VID-011-4.png"
+    }
+  ],
+  "result": 468,
+  "save": 542,
+  "events": [
+    {
+      "from": 225,
+      "to": 274,
+      "a": "AVUCUNLA",
+      "b": "YUVARLA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "lemon"
+    },
+    {
+      "from": 312,
+      "to": 350,
+      "a": "KÜRDANLA",
+      "b": "KÜÇÜK DELİK",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "lemon"
+    },
+    {
+      "from": 439,
+      "to": 480,
+      "a": "ÇEKİRDEKSİZ",
+      "b": "LİMON SUYU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "lemon"
+    },
+    {
+      "from": 542,
+      "to": 570,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ]
+}

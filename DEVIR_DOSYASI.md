@@ -70,3 +70,7 @@ Kullanıcının isteğiyle ikişer üretim: VID-007 https://drive.google.com/fil
 ### VID-009 ve VID-010
 
 VID-009 https://drive.google.com/file/d/1YJa_SVhXh4q6PAY4RglbAbeNlk1O6-ki/view (22,03 sn, 4.097.718 bayt) ve VID-010 https://drive.google.com/file/d/1TYAYGDLfnNqJsVKvSHNAv6GWHZofLw8w/view (21,80 sn, 4.317.676 bayt) tamamlandı. ODS metni, 1,45× voice-01, incelenmiş dört görsel, SVG, zaman için saat/tik tak, V14; üretim kaynakları `production/reference/VID-009/`, `VID-010/`, ve `production/remotion/vid009-*`, `vid010-*`. Bal/şeker tek karışım sahnesinde. Tam decode/blackdetect/tepe düzeyi ve her 3 saniyede örnek kare bakıldı; sesler dinlenmedi. Vosk 009 43/65, 010 42/63 eşleşme; diğer zamanlar interpolasyon. VID-002–010 bu turla tamamlandı. VID-011 ve sonrası yalnız kullanıcı komutuyla, sırayla ve ikişer yapılacak.
+
+### VID-011 tamamlandı, VID-012 devam ediyor
+
+VID-011 https://drive.google.com/file/d/1BF07b_i_6yuGpAEpQJmC0yK678JJyfCw/view — 20,50 sn, 3.408.773 bayt; V14, tek parça voice-01 1,45×, tutarlı sahne görselleri ve SVG. Decode/blackdetect/tepe seviye ve örnek kare incelemesi yapıldı; Vosk 45/65 ve kalanı interpolasyon, ses bütünüyle dinlenmedi. 012'nin ses ve üç aday görseli hazır, dördüncü olan fön makinesi sahnesi fiziki destek şüphesiyle reddedildi. Bu tur 8 görsel sınırı doldu; sonraki turda 012'yi tamamla, atlama. `production/reference/VID-012/README.md` ve `vid012-captions.json` devir kaydı. 012 daha render edilmedi/yüklenmedi; sonraki ikili düzene sonra geç.

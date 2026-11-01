@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-011-1.png",
+      "sha256": "214653fdbec7f50e93335068ea7ce5aaebb1eb95b1c6ab57c319e804bae1ca19",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Limon yarısı ve salata masada, çekirdekler kesme tahtasında."
+    },
+    {
+      "file": "../../remotion/public/VID-011-2.png",
+      "sha256": "b13c4b84ba6b6e7a57d80ae6d7b7f3da62708980274cc33780c326b88acf7c55",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Avuç limona temas ediyor, üç parmak ve başparmak seçiliyor, diğer parmak örtülü."
+    },
+    {
+      "file": "../../remotion/public/VID-011-3.png",
+      "sha256": "295224d67c0f46d5ad0da2fc80bb77c4c8bcdd195a5b7700958239485317cd92",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kürdan ve bütün limon tahta üzerinde destekli, delik açma sahnesi temsilidir."
+    },
+    {
+      "file": "../../remotion/public/VID-011-4.png",
+      "sha256": "b1b6d9aa2e67cf40becbd979d49670a9c778eefcb8d11a5c42eae64da157c549",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bütün limon ve limon suyu bardağı, her ikisi destekli; sıkma işlemi temsili."
+    }
+  ]
+}
