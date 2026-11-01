@@ -1,6 +1,6 @@
 # VID-035 Remotion kompozisyonu
 
-Ses, görseller ve altyazı zamanları VID-035'e özeldir. Kaynak görseller ve sesler özel üretim dosyaları olduğundan Git'e eklenmemiştir. `public/` altında `VID-035-1.png` ... `VID-035-4.png`, `voice.wav` (1,45× hızlandırılmış tek parça ses), `peaceful_days.mp3`, `whoosh.wav`, `drip.wav` gerekir. Telifsiz seslerin kaynakları `../assets/CREDITS.md` içindedir.
+Ses, görseller ve altyazı zamanları VID-035'e özeldir. Tercih edilen VID-035 sürümüne ait görseller ve ses `../reference/VID-035/` altında Git'e kaydedilmiştir; diğer videoların girdileri dahil değildir. `public/` altında `VID-035-1.png` ... `VID-035-4.png`, `voice.wav` (1,45× hızlandırılmış tek parça ses), `peaceful_days.mp3`, `whoosh.wav`, `drip.wav` gerekir. Telifsiz seslerin kaynakları `../assets/CREDITS.md` içindedir.
 
 ```sh
 cd production/remotion
@@ -21,4 +21,4 @@ Tasarım referansları: https://www.remotion.dev/docs/transitioning ve https://a
 
 ## VID-035 ilk sürüm — animasyonlu güncelleme
 
-`vid035-premium.jsx` orijinal `index.jsx` üzerinde hazırlanmış bağımsız kompozisyondur; ek olarak `public/` içine `VID-035-v2-4.png`, `VID-035-v2-8.png`, `VID-035-v2-10.png` gerekir. Mevcut görseller Git'e ekli değildir. Render komutu aynı olup giriş dosyası `vid035-premium.jsx`, kompozisyon kimliği `VID035` olarak seçilir. V2 kompozisyonu değişmez.
+`vid035-premium.jsx` orijinal `index.jsx` üzerinde hazırlanmış bağımsız kompozisyondur; ek olarak `public/` içine `VID-035-v2-4.png`, `VID-035-v2-8.png`, `VID-035-v2-10.png` gerekir. Tercih edilen sürümün görselleri `../reference/VID-035/` altında Git'tedir; `../restore_vid035_reference.sh` çalışma kopyasını hazırlar. Render komutu aynı olup giriş dosyası `vid035-premium.jsx`, kompozisyon kimliği `VID035` olarak seçilir. V2 kompozisyonu değişmez.

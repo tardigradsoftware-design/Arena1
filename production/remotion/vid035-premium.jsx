@@ -99,34 +99,9 @@ function MotionAccents(){
   {elapsed<8&&<div style={{position:'absolute',left:52,top:188,height:5,width:100,background:'#ffe135',borderRadius:3,opacity:flash,transform:`scaleX(${1+flash})`,transformOrigin:'left'}}/>}
  </AbsoluteFill>;
 }
-// A separate motion-graphics layer keeps captions fixed while scenes stay active.
-function FlowGraphics(){
- const f=useCurrentFrame();const fps=30;
- const intro=f<60; const early=f>=66&&f<150; const mid=f>=160&&f<228; const ending=f>=510&&f<618;
- const from=early?66:mid?160:510; const end=early?150:mid?228:618;
- const local=f-from; const enter=interpolate(local,[0,9],[0,1],clamp); const leave=interpolate(end-f,[0,9],[0,1],clamp);
- const lift=(1-enter)*25, opacity=enter*leave;
- const rotate=interpolate(f,[0,629],[0,65],clamp);
- const rays=Array.from({length:8},(_,i)=>i*45);
- return <AbsoluteFill style={{pointerEvents:'none'}}>
-  <div style={{position:'absolute',top:170,left:88,width:490,height:4,background:'rgba(255,255,255,.27)',borderRadius:6,overflow:'hidden'}}><div style={{height:'100%',width:`${100*f/628}%`,background:'#ffe135',boxShadow:'0 0 10px #ffe135'}}/></div>
-  {intro&&<svg viewBox="0 0 720 1280" style={{position:'absolute',inset:0,width:720,height:1280,opacity:interpolate(f,[0,8,42,60],[.4,.9,.7,0],clamp)}}>
-    {rays.map((a,i)=><line key={i} x1="0" y1="-162" x2="0" y2="-180" stroke={i%2?'#fff':'#ffe135'} strokeWidth="5" strokeLinecap="round" transform={`translate(360 380) rotate(${a+rotate})`}/>)}
-   </svg>}
-  {(early||mid||ending)&&<div style={{position:'absolute',right:68,top:early?900:mid?850:890,width:138,height:138,opacity,transform:`translateY(${lift+Math.sin(local/18)*3}px) rotate(${Math.sin(local/24)*4}deg) scale(${.82+.18*enter})`,filter:'drop-shadow(0 3px 4px #0008)'}}>
-   <svg viewBox="0 0 100 100" width="138" height="138">
-    <circle cx="50" cy="50" r="44" fill="#fff8e7" stroke="#27221a" strokeWidth="3"/>
-    {ending?<path d="M33 22 H67 V76 L50 65 L33 76 Z" fill="#ffe135" stroke="#27221a" strokeWidth="3" strokeLinejoin="round"/>:<g fill="none" stroke="#cc7c3c" strokeWidth="3" strokeLinecap="round"><path d="M50 20 C36 24 27 36 28 49 C29 65 39 74 50 78 C61 74 71 65 72 49 C73 36 64 24 50 20Z"/><path d="M50 24 C42 31 39 40 39 49 C39 60 43 68 50 74 M50 24 C58 31 61 40 61 49 C61 60 57 68 50 74"/><path d="M50 20 V13 M44 15 Q50 10 56 15"/></g>}
-   </svg>
-  </div>}
-  {(early||mid||ending)&&<svg viewBox="0 0 720 1280" style={{position:'absolute',inset:0,width:720,height:1280,opacity:opacity*.9}}>
-    <path d={ending?'M 515 1005 Q 555 1028 605 1003':'M 520 1010 Q 556 1024 605 1000'} fill="none" stroke="#ffe135" strokeWidth="5" strokeLinecap="round" pathLength="1" strokeDasharray="1" strokeDashoffset={1-interpolate(local,[0,18],[0,1],clamp)}/>
-   </svg>}
- </AbsoluteFill>;
-}
 function Video(){
  const f=useCurrentFrame();return <AbsoluteFill style={{backgroundColor:'#111'}}>
-  <Background/><FlowGraphics/><Hook/><Sketch/><MotionAccents/><SceneDetails/><Captions/>
+  <Background/><Hook/><Sketch/><MotionAccents/><SceneDetails/><Captions/>
   {(f>=65&&f<125)||(f>=300&&f<360)||(f>=540&&f<600)?<div style={{position:'absolute',bottom:210,width:'100%',textAlign:'center',font:'500 23px Arial',color:'rgba(255,255,255,.7)',textShadow:'0 2px 4px #000'}}>kadincayasam</div>:null}
   <Audio src={staticFile('voice.wav')} volume={1}/>
   <Audio src={staticFile('peaceful_days.mp3')} volume={0.10}/>
