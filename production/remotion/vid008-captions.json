@@ -1,0 +1,604 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.61,
+    "words": [
+      "sakın",
+      "tek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.61,
+    "end": 0.843,
+    "words": [
+      "sakın",
+      "tek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.843,
+    "end": 1.04,
+    "words": [
+      "tek",
+      "bıçakla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.04,
+    "end": 1.294,
+    "words": [
+      "tek",
+      "bıçakla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.294,
+    "end": 1.551,
+    "words": [
+      "soyup",
+      "vakit"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.551,
+    "end": 1.853,
+    "words": [
+      "soyup",
+      "vakit"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.853,
+    "end": 2.325,
+    "words": [
+      "kaybetme!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.325,
+    "end": 2.737,
+    "words": [
+      "kaybetme!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.737,
+    "end": 2.983,
+    "words": [
+      "bir",
+      "baş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.983,
+    "end": 3.249,
+    "words": [
+      "bir",
+      "baş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.249,
+    "end": 3.514,
+    "words": [
+      "sarımsağı",
+      "elin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.514,
+    "end": 3.78,
+    "words": [
+      "sarımsağı",
+      "elin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.78,
+    "end": 4.072,
+    "words": [
+      "bile",
+      "kokmadan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.072,
+    "end": 4.53,
+    "words": [
+      "bile",
+      "kokmadan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.53,
+    "end": 5.001,
+    "words": [
+      "sadece",
+      "on"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.001,
+    "end": 5.343,
+    "words": [
+      "sadece",
+      "on"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.343,
+    "end": 5.685,
+    "words": [
+      "saniyede",
+      "kabuklarından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.685,
+    "end": 6.027,
+    "words": [
+      "saniyede",
+      "kabuklarından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.027,
+    "end": 6.369,
+    "words": [
+      "ayırmanın",
+      "çok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.369,
+    "end": 6.66,
+    "words": [
+      "ayırmanın",
+      "çok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.66,
+    "end": 6.86,
+    "words": [
+      "pratik",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.86,
+    "end": 7.02,
+    "words": [
+      "pratik",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.02,
+    "end": 7.18,
+    "words": [
+      "yolu",
+      "var."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.18,
+    "end": 7.522,
+    "words": [
+      "yolu",
+      "var."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.522,
+    "end": 8.047,
+    "words": [
+      "Sarımsak",
+      "dişlerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.047,
+    "end": 8.449,
+    "words": [
+      "Sarımsak",
+      "dişlerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.449,
+    "end": 8.738,
+    "words": [
+      "kök",
+      "kısmından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.738,
+    "end": 9.064,
+    "words": [
+      "kök",
+      "kısmından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.064,
+    "end": 9.457,
+    "words": [
+      "ayırıp",
+      "kapaklı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.457,
+    "end": 9.78,
+    "words": [
+      "ayırıp",
+      "kapaklı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.78,
+    "end": 9.953,
+    "words": [
+      "bir",
+      "cam"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.953,
+    "end": 10.159,
+    "words": [
+      "bir",
+      "cam"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.159,
+    "end": 10.436,
+    "words": [
+      "kavanozun",
+      "içine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.436,
+    "end": 10.71,
+    "words": [
+      "kavanozun",
+      "içine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.71,
+    "end": 11.002,
+    "words": [
+      "at",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.002,
+    "end": 11.28,
+    "words": [
+      "at",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.28,
+    "end": 11.573,
+    "words": [
+      "kapağını",
+      "kapatıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.573,
+    "end": 11.887,
+    "words": [
+      "kapağını",
+      "kapatıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.887,
+    "end": 12.15,
+    "words": [
+      "on",
+      "saniye"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.15,
+    "end": 12.42,
+    "words": [
+      "on",
+      "saniye"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.42,
+    "end": 12.825,
+    "words": [
+      "boyunca",
+      "kuvvetlice"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.825,
+    "end": 13.335,
+    "words": [
+      "boyunca",
+      "kuvvetlice"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.335,
+    "end": 13.845,
+    "words": [
+      "çalkala.",
+      "Çarpmanın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.845,
+    "end": 14.355,
+    "words": [
+      "çalkala.",
+      "Çarpmanın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.355,
+    "end": 14.775,
+    "words": [
+      "etkisiyle",
+      "tüm"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.775,
+    "end": 15.131,
+    "words": [
+      "etkisiyle",
+      "tüm"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.131,
+    "end": 15.514,
+    "words": [
+      "kabuklar",
+      "kendiliğinden"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.514,
+    "end": 15.926,
+    "words": [
+      "kabuklar",
+      "kendiliğinden"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.926,
+    "end": 16.369,
+    "words": [
+      "soyulacak",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.369,
+    "end": 16.68,
+    "words": [
+      "soyulacak",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.68,
+    "end": 16.95,
+    "words": [
+      "sana",
+      "sadece"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.95,
+    "end": 17.363,
+    "words": [
+      "sana",
+      "sadece"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.363,
+    "end": 17.776,
+    "words": [
+      "tertemiz",
+      "sarımsakları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.776,
+    "end": 18.135,
+    "words": [
+      "tertemiz",
+      "sarımsakları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.135,
+    "end": 18.495,
+    "words": [
+      "almak",
+      "kalacak."
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.495,
+    "end": 18.98,
+    "words": [
+      "almak",
+      "kalacak."
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.98,
+    "end": 19.352,
+    "words": [
+      "Bu",
+      "hız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.352,
+    "end": 19.566,
+    "words": [
+      "Bu",
+      "hız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.566,
+    "end": 19.873,
+    "words": [
+      "kazandıran",
+      "tüyoyu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.873,
+    "end": 20.194,
+    "words": [
+      "kazandıran",
+      "tüyoyu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.194,
+    "end": 20.512,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.512,
+    "end": 20.985,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.985,
+    "end": 21.42,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.42,
+    "end": 21.81,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.81,
+    "end": 22.245,
+    "words": [
+      "yemek",
+      "yaparken"
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.245,
+    "end": 22.68,
+    "words": [
+      "yemek",
+      "yaparken"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.68,
+    "end": 23.489,
+    "words": [
+      "sarımsakları."
+    ],
+    "active": 0
+  }
+]

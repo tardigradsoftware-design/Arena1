@@ -62,3 +62,7 @@ https://drive.google.com/file/d/19979tufTu4uBvXFVSvV1rBlY9yyL9mK6/view — 21,37
 ### Kullanıcı doğrulama önceliği
 
 Kullanıcı sıradan doğrulanmamış iddiaların ayrıntılarına takılmadan senaryoların uygulanmasını, özellikle hukuki risklere dikkat edilmesini istedi. `VIDEO_URETIM_KURALLARI.md` bölüm 12; önemli güvenlik/yasal riskte dikkat ve açık iletişim, sessiz senaryo değişikliği yok. Sırada VID-007.
+
+### VID-007 ve VID-008
+
+Kullanıcının isteğiyle ikişer üretim: VID-007 https://drive.google.com/file/d/14ap96lTFDE_Q_23wNhKw4KysCsUrjW0v/view (20,73 sn; 2.868.755 bayt), VID-008 https://drive.google.com/file/d/1lWCmFfIrS8vc_IHWpxLsvbHIWYHkiwHk/view (23,50 sn; 5.186.451 bayt). Tek parça voice-01, 1,45×, V14, ilgili küçük SVG ve saat/tik tak; kaynakları `production/reference/VID-007/`, `VID-008/`, kurgu `production/remotion/vid007-*`, `vid008-*`. 007'nin ilk 4. görseli doğal olmayan kesik boyun nedeniyle reddedildi, görsel kotası aşılamadığından son sahnede 1. görsel tekrarlandı. Görseller elle kontrol ve SHA, tam decode/blackdetect/ses seviyesi ve 3 saniyede bir örnek kare kontrol edildi. Vosk sırasıyla 41/66 ve 46/67 eşleşme; diğerleri interpolasyon, sesler baştan sona dinlenmedi. Sonraki sıra VID-009 ve VID-010.

@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-007-1.png",
+      "sha256": "7dbd537466722c47fe64d2a9d05cdf658cb416afd7cad96fe32bf066b8ca2c29",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Elle görsel inceleme: sahne nesneleri destekli, anlatımla ilgili temsili durağan kompozisyon."
+    },
+    {
+      "file": "../../remotion/public/VID-007-2.png",
+      "sha256": "93c30f4b524a8557ec0785396327b4aa4f380dd548adcb59dec92ac0b3da00f8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Elle görsel inceleme: sahne nesneleri destekli, anlatımla ilgili temsili durağan kompozisyon."
+    },
+    {
+      "file": "../../remotion/public/VID-007-3.png",
+      "sha256": "a37ad5e399c486ad029e8fd2bf7dca391ea79b97544eeb550d9bf418709359a8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Elle görsel inceleme: sahne nesneleri destekli, anlatımla ilgili temsili durağan kompozisyon."
+    }
+  ]
+}
