@@ -1,0 +1,3 @@
+# VID-065 — V14
+Drive: https://drive.google.com/file/d/1cHx6taUdyj7vnMpmqWI3El4PVMnhTbj2/view — 19,54 sn, 3.899.693 bayt. Orijinal ODS anlatımı (son cümle yarım), voice-01 1,45×. Dört incelenmiş, temsili yapay sahne; Vosk 33/48, kalan zamanlar tahmin, ses baştan sona dinlenmedi. 720×1280/30, decode, blackdetect, üç saniye aralıklı kare inceleme; ses tepe −5,43 dBFS.
+ÖNEMLİ: Elmalardan yayılan etilen patatesin filizlenmesini hızlandırabilir; Iowa State patatesleri meyvelerden ayrı saklamayı önerir: https://yardandgarden.extension.iastate.edu/faq/why-are-my-potatoes-beginning-sprout . Orijinal iddiayı uyarısız yayımlamayın.

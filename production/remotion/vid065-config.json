@@ -1,0 +1,49 @@
+{
+  "frames": 586,
+  "hook": [
+    "PATATESLERİN",
+    "FİLİZLENMESİNE DİKKAT!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-065-1.png"
+    },
+    {
+      "from": 140,
+      "file": "VID-065-2.png"
+    },
+    {
+      "from": 310,
+      "file": "VID-065-3.png"
+    },
+    {
+      "from": 420,
+      "file": "VID-065-4.png"
+    }
+  ],
+  "result": 444,
+  "save": 513,
+  "clocks": [],
+  "events": [
+    {
+      "to": 395,
+      "a": "BİR ADET ELMA",
+      "b": "SEPETİN ORTASINA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "basket",
+      "from": 320
+    },
+    {
+      "to": 548,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 513
+    }
+  ],
+  "voice": "VID-065-voice.wav"
+}
