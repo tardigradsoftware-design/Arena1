@@ -50,3 +50,7 @@ Son güncelleme: 2026-11-01. Görsel üretim ve kalite kapısı ayrıntıları: 
 ## 6. YapayTU örneğinden alınacak kurgu teknikleri
 
 Kullanıcı referansı: [YapayTU kurgu araştırması](production/YAPAYTU_KURGU_INCELEMESI.md). Sonraki videolarda gerçekçi görseller ve tercih edilen VID-035 tarzı korunarak, mevcut senaryoya ve gerçek ses zamanlarına bağlı hareketli kodlu sahneler, ölçülü zoom, vurgu kartları, çizilen işaretler ve cümle/geçiş karelerinin incelenmesi uygulanır. Yatay titreme, sabit altyazıyı oynatma, senaryoyu değiştirme veya uydurma iddia ekleme yapılmaz. Instagram videolarına doğrudan erişilemedi; bu kaynak site ve GitHub örnekleri üzerinden incelenmiştir.
+
+## 7. En son hareket tercihi
+
+Kullanıcı ilerleme çubuğu ve giriş/gelişme/sonuç gibi bölüm yazılarını istemiyor. Daha çarpıcı, hızlı giren, akıcı ve senaryoyla ilgili kodlu animasyonlar istiyor; sabit altyazı, gerçekçi görüntüler ve titrememe kuralları korunur. `production/remotion/vid001-v3.jsx` bu istek için karşılaştırma denemesidir; kullanıcının beğenisi henüz alınmamıştır.
