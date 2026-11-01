@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-038-1.png",
+      "sha256": "691e4ce4e299abff3b6fc8ada4af0939f7013e453523edc6c0c32b079140049b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kavanozda pirinç üzerinde küçük böcekler, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-038-2.png",
+      "sha256": "ae59506df3c402e1e4f1c5253293abe83389f5ccefeeca6951b1e7eddb8a37f2",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Açık kavanozda pirinç ve defne yaprakları."
+    },
+    {
+      "file": "../../remotion/public/VID-038-3.png",
+      "sha256": "ef1db5202bf82bb7e84b318d36f1dc53ffdd64adb1e9eedece7784430fd925b7",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aynı kavanoza benzeyen kapalı kavanoz rafta."
+    },
+    {
+      "file": "../../remotion/public/VID-038-4.png",
+      "sha256": "b5c024428483dbb710eabd99bd620eecd854f45effe5c30b0ec973b1c337695b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâsede pirinç ve yapraklar, temsili sonuç."
+    }
+  ]
+}

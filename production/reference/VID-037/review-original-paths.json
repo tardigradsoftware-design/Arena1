@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-037-1.png",
+      "sha256": "0e2ba3a619591b6b9243c116eb313adc13b24baef3dc6942f61736391bc7ac7f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Krem kumaş üzerinde mavi mürekkep lekesi."
+    },
+    {
+      "file": "../../remotion/public/VID-037-2.png",
+      "sha256": "2365809f3fd7e965f062ef701a8dd5a459cc8cddb3eeb3cdd105897b32bee2da",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Alt bez, kolonya temsili şişe ve pamuk destekli."
+    },
+    {
+      "file": "../../remotion/public/VID-037-3.png",
+      "sha256": "6ebd7fdeaa13208d6aa4cb8293cf2cb72a1b4d0ca2f83a892fb4f8f5bb616d07",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Pamuk ve lekeli kumaşta temsili pigment, el hareketi yok."
+    },
+    {
+      "file": "../../remotion/public/VID-037-4.png",
+      "sha256": "a5563d32140e6e6f6c5d0a4f8229e6a14e6144b7184e9f9add25f898e8a16843",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Lekesiz kumaş, temsili sonuç."
+    }
+  ]
+}

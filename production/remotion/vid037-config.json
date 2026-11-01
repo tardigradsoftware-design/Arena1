@@ -1,0 +1,67 @@
+{
+  "frames": 569,
+  "hook": [
+    "KALEM LEKESİNİ",
+    "KUMAŞA YEDİRME!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-037-1.png"
+    },
+    {
+      "from": 196,
+      "file": "VID-037-2.png"
+    },
+    {
+      "from": 300,
+      "file": "VID-037-3.png"
+    },
+    {
+      "from": 420,
+      "file": "VID-037-4.png"
+    }
+  ],
+  "result": 425,
+  "save": 507,
+  "clocks": [],
+  "events": [
+    {
+      "from": 220,
+      "to": 250,
+      "a": "TEMİZ BEZ",
+      "b": "LEKENİN ALTINA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 278,
+      "to": 307,
+      "a": "KOLONYA",
+      "b": "LEKENİN ÜZERİNE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 318,
+      "to": 350,
+      "a": "PAMUKLA",
+      "b": "HAFİFÇE TAMPON",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 507,
+      "to": 535,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-037-voice.wav"
+}
