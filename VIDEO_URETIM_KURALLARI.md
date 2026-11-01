@@ -78,3 +78,7 @@ Ses planı: açılış hook'una ayrı dikkat çekici ses; bilgi grafiğine sente
 Kullanıcı bilgi kartlarının yanında V14'teki gibi ilgili küçük SVG ikonlar istiyor; görüntünün üzerine çıkan mükerrer büyük ikonlar istenmiyor. Saat/zaman/bekleme ilgili yerlerde analog saat animasyonu ve hızlı tik tak efekti kullanılmalı; gerçek süre veya sonucu ispatlar gibi sunma. `production/remotion/BatchV14.jsx` içinde bağlama göre ikon ve saat, `production/remotion/scripts/make-fast-tick.py` ile sentezlenmiş ses vardır; yeni konulara uygun yeni özgün ikonlar gerekebilir. Efektler anlatımı bastırmamalı ve geçişlere ses eklenmemelidir.
 
 VID-004 için kullanıcı risk nedeniyle senaryoyu güvenli yöntemle yeniden yazmayı açıkça onayladı; `production/reference/VID-004/script.txt` bu özel izinle yazılmış sürümdür. Bu özel izin diğer senaryolara otomatik genellenmez.
+
+## 12. Doğrulama önceliği
+
+Kullanıcı, sıradan senaryo iddialarında ayrıntılı doğrulamaya takılmadan verilen metnin uygulanmasını; özellikle hukuki açıdan risk doğurabilecek konulara dikkat edilmesini istedi. Bu tercih önemli güvenlik ve yasal riskleri görmezden gelme veya yasal uygunluğu garanti etme anlamına gelmez. Önemli riskte kullanıcıyı kısa ve açık bilgilendir, senaryoyu onaysız değiştirme; gerekli durumda onay iste. Teknik veya dinleme kontrolleri yapılmadıysa yapılmış gibi sunma.

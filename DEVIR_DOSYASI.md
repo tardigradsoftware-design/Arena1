@@ -58,3 +58,7 @@ Kullanıcı tehlikeli orijinal yerine güvenli yöntemle yapılmasını onaylad�
 ### VID-006 tamamlandı
 
 https://drive.google.com/file/d/19979tufTu4uBvXFVSvV1rBlY9yyL9mK6/view — 21,37 sn, 3.539.216 bayt. Önceki havada duran damlalık sahnesi reddedildi; tezgağa dayalı damlalık içeren yeni 3. sahne oluşturuldu, dört kaynak tek tek incelendi ve SHA kalite kapısıyla render edildi. `production/reference/VID-006/README.md` ve `production/remotion/vid006-{config.json,captions.json,v14.jsx}` kaynaklardır. 24 saat için animasyonlu saat ve tik tak, küçük kahve/damla ikonları eklendi. Tam teknik decode, blackdetect, ses düzeyi, 24 saat örnek karesi kontrol edildi; ses dinlenmedi, altyazının 26 kelimesi interpolasyondur. ODS'deki 24 saatte tüm kokuları giderme iddiası doğrulanmadı. Sırada VID-007; 007–010 tamamlanmadı.
+
+### Kullanıcı doğrulama önceliği
+
+Kullanıcı sıradan doğrulanmamış iddiaların ayrıntılarına takılmadan senaryoların uygulanmasını, özellikle hukuki risklere dikkat edilmesini istedi. `VIDEO_URETIM_KURALLARI.md` bölüm 12; önemli güvenlik/yasal riskte dikkat ve açık iletişim, sessiz senaryo değişikliği yok. Sırada VID-007.
