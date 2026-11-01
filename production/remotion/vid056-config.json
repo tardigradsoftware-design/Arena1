@@ -1,0 +1,85 @@
+{
+  "frames": 580,
+  "hook": [
+    "ÇİLEKLERİ",
+    "BU ŞEKİLDE SAKLAMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-056-1.png"
+    },
+    {
+      "from": 245,
+      "file": "VID-056-2.png"
+    },
+    {
+      "from": 291,
+      "file": "VID-056-3.png"
+    },
+    {
+      "from": 383,
+      "file": "VID-056-4.png"
+    }
+  ],
+  "result": 445,
+  "save": 515,
+  "clocks": [
+    {
+      "from": 245,
+      "to": 288
+    },
+    {
+      "from": 435,
+      "to": 465
+    }
+  ],
+  "events": [
+    {
+      "from": 245,
+      "to": 288,
+      "a": "BEŞ DAKİKA",
+      "b": "SİRKELİ SU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 294,
+      "to": 335,
+      "a": "KÂĞIT HAVLUDA",
+      "b": "TAMAMEN KURUT",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 385,
+      "to": 428,
+      "a": "KÂĞIT HAVLULU",
+      "b": "CAM KAPTA SAKLA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 435,
+      "to": 465,
+      "a": "GÜNLERCE",
+      "b": "BOZULMADAN",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 515,
+      "to": 546,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-056-voice.wav"
+}

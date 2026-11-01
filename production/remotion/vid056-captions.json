@@ -1,0 +1,478 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.578,
+    "words": [
+      "sakın",
+      "taze"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.578,
+    "end": 0.926,
+    "words": [
+      "sakın",
+      "taze"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.926,
+    "end": 1.279,
+    "words": [
+      "çilekleri",
+      "marketten"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.279,
+    "end": 1.665,
+    "words": [
+      "çilekleri",
+      "marketten"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.665,
+    "end": 2.018,
+    "words": [
+      "geldiği",
+      "gibi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.018,
+    "end": 2.317,
+    "words": [
+      "geldiği",
+      "gibi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.317,
+    "end": 2.633,
+    "words": [
+      "poşetle",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.633,
+    "end": 2.985,
+    "words": [
+      "poşetle",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.985,
+    "end": 3.375,
+    "words": [
+      "yıkayarak",
+      "buzdolabına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.375,
+    "end": 3.765,
+    "words": [
+      "yıkayarak",
+      "buzdolabına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.765,
+    "end": 4.199,
+    "words": [
+      "koyma!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.199,
+    "end": 4.595,
+    "words": [
+      "koyma!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.595,
+    "end": 4.914,
+    "words": [
+      "çilekler",
+      "nemi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.914,
+    "end": 5.238,
+    "words": [
+      "çilekler",
+      "nemi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.238,
+    "end": 5.565,
+    "words": [
+      "sevmediği",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.565,
+    "end": 5.88,
+    "words": [
+      "sevmediği",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.88,
+    "end": 6.143,
+    "words": [
+      "iki",
+      "günde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.143,
+    "end": 6.476,
+    "words": [
+      "iki",
+      "günde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.476,
+    "end": 6.919,
+    "words": [
+      "küflenir.",
+      "Çilekleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.919,
+    "end": 7.361,
+    "words": [
+      "küflenir.",
+      "Çilekleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.361,
+    "end": 7.804,
+    "words": [
+      "yıkamadan",
+      "önce"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.804,
+    "end": 8.183,
+    "words": [
+      "yıkamadan",
+      "önce"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.183,
+    "end": 8.467,
+    "words": [
+      "beş",
+      "dakika"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.467,
+    "end": 8.76,
+    "words": [
+      "beş",
+      "dakika"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.76,
+    "end": 9.053,
+    "words": [
+      "sirkeli",
+      "suda"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.053,
+    "end": 9.33,
+    "words": [
+      "sirkeli",
+      "suda"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.33,
+    "end": 9.697,
+    "words": [
+      "bekletip",
+      "kağıt"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.697,
+    "end": 10.084,
+    "words": [
+      "bekletip",
+      "kağıt"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.084,
+    "end": 10.421,
+    "words": [
+      "havluda",
+      "tamamen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.421,
+    "end": 10.819,
+    "words": [
+      "havluda",
+      "tamamen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.819,
+    "end": 11.276,
+    "words": [
+      "kurut,",
+      "ardından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.276,
+    "end": 11.685,
+    "words": [
+      "kurut,",
+      "ardından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.685,
+    "end": 12.045,
+    "words": [
+      "tabanına",
+      "kağıt"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.045,
+    "end": 12.337,
+    "words": [
+      "tabanına",
+      "kağıt"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.337,
+    "end": 12.615,
+    "words": [
+      "havlu",
+      "serilmiş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.615,
+    "end": 12.945,
+    "words": [
+      "havlu",
+      "serilmiş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.945,
+    "end": 13.282,
+    "words": [
+      "hava",
+      "almayan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.282,
+    "end": 13.598,
+    "words": [
+      "hava",
+      "almayan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.598,
+    "end": 13.837,
+    "words": [
+      "cam",
+      "kapta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.837,
+    "end": 14.07,
+    "words": [
+      "cam",
+      "kapta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.07,
+    "end": 14.49,
+    "words": [
+      "sakla.",
+      "Günlerce"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.49,
+    "end": 14.977,
+    "words": [
+      "sakla.",
+      "Günlerce"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.977,
+    "end": 15.383,
+    "words": [
+      "bozulmadığını",
+      "göreceksin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.383,
+    "end": 15.788,
+    "words": [
+      "bozulmadığını",
+      "göreceksin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.788,
+    "end": 16.192,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.192,
+    "end": 16.553,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.553,
+    "end": 16.867,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.867,
+    "end": 17.175,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.175,
+    "end": 17.527,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.527,
+    "end": 17.865,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.865,
+    "end": 18.22,
+    "words": [
+      "unutma,",
+      "aldığın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.22,
+    "end": 18.66,
+    "words": [
+      "unutma,",
+      "aldığın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.66,
+    "end": 19.321,
+    "words": [
+      "çilekleri."
+    ],
+    "active": 0
+  }
+]

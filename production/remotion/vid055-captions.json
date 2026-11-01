@@ -1,0 +1,524 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.551,
+    "words": [
+      "sakın",
+      "buzdolabından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.551,
+    "end": 0.994,
+    "words": [
+      "sakın",
+      "buzdolabından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.994,
+    "end": 1.372,
+    "words": [
+      "yayılan",
+      "ağır"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.372,
+    "end": 1.65,
+    "words": [
+      "yayılan",
+      "ağır"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.65,
+    "end": 1.935,
+    "words": [
+      "yemek",
+      "kokularına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.935,
+    "end": 2.265,
+    "words": [
+      "yemek",
+      "kokularına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.265,
+    "end": 2.618,
+    "words": [
+      "karşı",
+      "kimyasal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.618,
+    "end": 3.001,
+    "words": [
+      "karşı",
+      "kimyasal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.001,
+    "end": 3.39,
+    "words": [
+      "spreyler",
+      "kullanıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.39,
+    "end": 3.761,
+    "words": [
+      "spreyler",
+      "kullanıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.761,
+    "end": 4.114,
+    "words": [
+      "gıdalarına",
+      "zarar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.114,
+    "end": 4.425,
+    "words": [
+      "gıdalarına",
+      "zarar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.425,
+    "end": 4.802,
+    "words": [
+      "verme!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.802,
+    "end": 5.229,
+    "words": [
+      "verme!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.229,
+    "end": 5.597,
+    "words": [
+      "dolaptaki",
+      "kokuları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.597,
+    "end": 5.966,
+    "words": [
+      "dolaptaki",
+      "kokuları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.966,
+    "end": 6.275,
+    "words": [
+      "tamamen",
+      "emip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.275,
+    "end": 6.526,
+    "words": [
+      "tamamen",
+      "emip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.526,
+    "end": 6.746,
+    "words": [
+      "yok",
+      "eden"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.746,
+    "end": 6.96,
+    "words": [
+      "yok",
+      "eden"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.96,
+    "end": 7.223,
+    "words": [
+      "doğal",
+      "karışım"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.223,
+    "end": 7.522,
+    "words": [
+      "doğal",
+      "karışım"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.522,
+    "end": 7.815,
+    "words": [
+      "evde",
+      "hazır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.815,
+    "end": 8.235,
+    "words": [
+      "evde",
+      "hazır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.235,
+    "end": 8.655,
+    "words": [
+      "Yarım",
+      "limonun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.655,
+    "end": 8.925,
+    "words": [
+      "Yarım",
+      "limonun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.925,
+    "end": 9.233,
+    "words": [
+      "üzerine",
+      "bolca"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.233,
+    "end": 9.58,
+    "words": [
+      "üzerine",
+      "bolca"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.58,
+    "end": 9.93,
+    "words": [
+      "karbonat",
+      "döküp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.93,
+    "end": 10.28,
+    "words": [
+      "karbonat",
+      "döküp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.28,
+    "end": 10.53,
+    "words": [
+      "küçük",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.53,
+    "end": 10.718,
+    "words": [
+      "küçük",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.718,
+    "end": 10.942,
+    "words": [
+      "tabağa",
+      "koyarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.942,
+    "end": 11.325,
+    "words": [
+      "tabağa",
+      "koyarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.325,
+    "end": 11.728,
+    "words": [
+      "buzdolabının",
+      "en"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.728,
+    "end": 11.994,
+    "words": [
+      "buzdolabının",
+      "en"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.994,
+    "end": 12.261,
+    "words": [
+      "arka",
+      "rafına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.261,
+    "end": 12.527,
+    "words": [
+      "arka",
+      "rafına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.527,
+    "end": 12.96,
+    "words": [
+      "yerleştir.",
+      "Limon"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.96,
+    "end": 13.357,
+    "words": [
+      "yerleştir.",
+      "Limon"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.357,
+    "end": 13.613,
+    "words": [
+      "ve",
+      "karbonat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.613,
+    "end": 13.928,
+    "words": [
+      "ve",
+      "karbonat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.928,
+    "end": 14.303,
+    "words": [
+      "tepkimesi",
+      "tüm"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.303,
+    "end": 14.625,
+    "words": [
+      "tepkimesi",
+      "tüm"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.625,
+    "end": 14.928,
+    "words": [
+      "kötü",
+      "kokuları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.928,
+    "end": 15.324,
+    "words": [
+      "kötü",
+      "kokuları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.324,
+    "end": 15.72,
+    "words": [
+      "hapsederek",
+      "dolabını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.72,
+    "end": 16.116,
+    "words": [
+      "hapsederek",
+      "dolabını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.116,
+    "end": 16.512,
+    "words": [
+      "ferahlatacak.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.512,
+    "end": 16.815,
+    "words": [
+      "ferahlatacak.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.815,
+    "end": 17.074,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.074,
+    "end": 17.381,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.381,
+    "end": 17.678,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.678,
+    "end": 18.045,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.045,
+    "end": 18.413,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.413,
+    "end": 18.774,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.774,
+    "end": 19.213,
+    "words": [
+      "kokan",
+      "buzdolabını."
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.213,
+    "end": 19.872,
+    "words": [
+      "kokan",
+      "buzdolabını."
+    ],
+    "active": 1
+  }
+]

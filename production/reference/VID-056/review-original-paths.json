@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-056-1.png",
+      "sha256": "cdf930fc151f598a33509ff1bdf6c6485f63bb46d01d9934cb3698dfbf5a16b5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Çilekler ambalajda; küf görseli yok."
+    },
+    {
+      "file": "../../remotion/public/VID-056-2.png",
+      "sha256": "04b31a7eba30f0b6f25a3efdaab59e83e20bb7456aaaec34e5051f910c24530d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâsede çilek ve temsili su."
+    },
+    {
+      "file": "../../remotion/public/VID-056-3.png",
+      "sha256": "55bfc3d711293f6c1e0e573c91238e57bdc820e3d56886e21542b484ca054fec",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâğıt havlu üzerinde çilek."
+    },
+    {
+      "file": "../../remotion/public/VID-056-4.png",
+      "sha256": "05580619e6b959db1f0e06b152e5e464acac928d7062cd3229572a7079649474",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâğıt havlulu cam kap ve çilek; kapak yanında."
+    }
+  ]
+}
