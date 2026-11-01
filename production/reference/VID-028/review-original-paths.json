@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-028-1.png",
+      "sha256": "969c3fb717014857411b69936f6a171c34fe937e6f577dd37bd98be335af4620",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ahşap tahta ve soğan parçaları tezgahta."
+    },
+    {
+      "file": "../../remotion/public/VID-028-2.png",
+      "sha256": "37d5ddfca523af055d3114466e6d171bae7194fe2e8ca827a2dc849f01fc88dc",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aynı koyu tahta üzerinde tuz ve yarım limon."
+    },
+    {
+      "file": "../../remotion/public/VID-028-3.png",
+      "sha256": "c78526645b6ee7ff0ad800abfdc177cf5b6fe10ebf05bed065c5943024dce614",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tahta üzerinde kesik yüzü aşağı dönük limon ve tuz, işlem durağan temsil."
+    }
+  ]
+}
