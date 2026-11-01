@@ -1,0 +1,85 @@
+{
+  "frames": 661,
+  "hook": [
+    "DUŞAKABİNİ",
+    "SAATLERCE OVALAMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-009-1.png"
+    },
+    {
+      "from": 225,
+      "file": "VID-009-2.png"
+    },
+    {
+      "from": 316,
+      "file": "VID-009-3.png"
+    },
+    {
+      "from": 425,
+      "file": "VID-009-4.png"
+    }
+  ],
+  "result": 500,
+  "save": 586,
+  "clocks": [
+    {
+      "from": 48,
+      "to": 63
+    },
+    {
+      "from": 520,
+      "to": 548
+    }
+  ],
+  "events": [
+    {
+      "from": 48,
+      "to": 68,
+      "a": "SAATLERCE",
+      "b": "OVALAMA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 241,
+      "to": 285,
+      "a": "MİKROFİBER BEZ",
+      "b": "SAÇ KREMİ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 331,
+      "to": 383,
+      "a": "DAİRESEL",
+      "b": "HAREKETLERLE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 520,
+      "to": 555,
+      "a": "HAFTALARCA",
+      "b": "SU TUTMASIN",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 586,
+      "to": 615,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-009-voice.wav"
+}

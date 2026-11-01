@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-009-1.png",
+      "sha256": "ef5117e8f23a3d6b441dcada5f019b1b5f8aaa7306bdf6481c33f7c2d63ad69a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Su lekeli duş camı; insan yok."
+    },
+    {
+      "file": "../../remotion/public/VID-009-2.png",
+      "sha256": "0d8954b12efde3a76340b7a4ff76af1eab3bd217389267ae80d04ef7374ebc45",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bez üzerinde beyaz krem; kap fiziksel olarak tezgaha dayanıyor."
+    },
+    {
+      "file": "../../remotion/public/VID-009-3.png",
+      "sha256": "4b2d1eb876da420be1bb4b77ea8a2e46c5b86e37a1de0dbbae155c4b4379de26",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Beze temas eden el, beş parmak anatomisi ve camla temas açık."
+    },
+    {
+      "file": "../../remotion/public/VID-009-4.png",
+      "sha256": "1ab51c69e51be1f8ab4f0bc6b7ca44da157c1219e211ec1ca5a39de64e153120",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz camlı duş kabini; temsili sonuç."
+    }
+  ]
+}
