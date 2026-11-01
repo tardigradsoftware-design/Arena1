@@ -28,3 +28,9 @@ Her görseli tek başına ve `quality_check.py` temas sayfasıyla incele. Konu, 
 - [FLUX.1](https://github.com/black-forest-labs/flux) resmî kodu, [schnell model kartı](https://github.com/black-forest-labs/flux/blob/main/model_cards/FLUX.1-schnell.md): açık ağırlıklı seçenek; lisansı ve donanımı ayrıca kontrol edin. Bu sandbox'ta GPU yok, 3,8 GiB RAM var ve ağırlık sunucularına erişim sınırlı; model kurulmadı/denenmedi. Görselleri otomatik iyileştirdiği iddia edilemez.
 - [Stable Audio 3](https://github.com/Stability-AI/stable-audio-3): müzik/efekt için açık ağırlıklı seçenek; kullanım ve model lisansı ayrı kontrol edilmeli. Ağırlıkları bu ortamda indirilmedi, sentez modeli denenmedi.
 - Dahil edilmiş CC0 parçaların kaynağı ve lisansı `assets/CREDITS.md` dosyasındadır. SFX kitindeki efektler kayıt olmak zorunda değildir; gerçek dünyadan alınmış kayıt olarak sunulmaz.
+
+## Altyazı zaman damgası kontrolü
+
+`check_alignment.py` kaynak metin ile kelime-zaman JSON'undaki kelime sırasını, eksikleri, çakışmayı ve ses süresi sınırını kontrol eder; hizalama üretmez, sesi dinlemez ve kelimelerin doğru zamanda söylendiğini kanıtlamaz. JSON şeması `{"duration": 1.0, "words": [{"word": "örnek", "start": 0.1, "end": 0.8}]}`; UTF-8 kaynak metni ile `production/.venv/bin/python production/check_alignment.py metin.txt kelimeler.json` şeklinde çalıştırılır. Kontrol aracı bağımsızdır; henüz render kapısına bağlanmadı. Hataları düzeltmek ve ses üzerinden gözden geçirmek gerekir.
+
+Türkçe forced alignment için [WhisperX](https://github.com/m-bain/whisperX) ve `mpoyraz/wav2vec2-xls-r-300m-cv7-turkish` adayı araştırıldı. Model bu ortamda indirilip test edilmedi; mevcut Vosk ASR, forced alignment değildir. Araçları kurulmuş/başarılı gibi varsayma ve 035'teki interpolasyonları kesin zamanlama diye sunma. Yayın öncesi ses–altyazı–sahne kontrolü gereklidir.
