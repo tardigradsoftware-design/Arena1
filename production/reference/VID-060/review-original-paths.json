@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-060-1.png",
+      "sha256": "6303ad6c8cbe89ce694b07b3d55d6e97ac045fe5efe88104d60172f3991a3d68",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi yüz ve doğal dudak."
+    },
+    {
+      "file": "../../remotion/public/VID-060-2.png",
+      "sha256": "b1e5a1bbe145bb0add031e19192fd28eeeecbfc0030e8fc8410d8375cafc92a2",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek kâsede bal-yağ karışımı temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-060-3.png",
+      "sha256": "7deafc365d792b8a83c132e81fd9d3c60ba1ece5c821f0c3a47818045fee536a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek karışım ve kaşık, cilt teması yok."
+    },
+    {
+      "file": "../../remotion/public/VID-060-4.png",
+      "sha256": "82d780dc2e9f05b0d106b43a80e1d4b79e2953d95e18422e1506f814239b125f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi yüz; gerçek önce/sonra sonucu değildir."
+    }
+  ]
+}
