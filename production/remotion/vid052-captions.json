@@ -1,0 +1,578 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.585,
+    "words": [
+      "sakın",
+      "siyah"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.585,
+    "end": 0.948,
+    "words": [
+      "sakın",
+      "siyah"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.948,
+    "end": 1.283,
+    "words": [
+      "tişörtünün",
+      "kol"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.283,
+    "end": 1.618,
+    "words": [
+      "tişörtünün",
+      "kol"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.618,
+    "end": 1.913,
+    "words": [
+      "altındaki",
+      "o"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.913,
+    "end": 2.183,
+    "words": [
+      "altındaki",
+      "o"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.183,
+    "end": 2.475,
+    "words": [
+      "inatçı",
+      "beyaz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.475,
+    "end": 2.812,
+    "words": [
+      "inatçı",
+      "beyaz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.812,
+    "end": 3.188,
+    "words": [
+      "deodorant",
+      "kalıntılarını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.188,
+    "end": 3.585,
+    "words": [
+      "deodorant",
+      "kalıntılarını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.585,
+    "end": 3.952,
+    "words": [
+      "suyla",
+      "yıkayıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.952,
+    "end": 4.247,
+    "words": [
+      "suyla",
+      "yıkayıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.247,
+    "end": 4.521,
+    "words": [
+      "kumaşta",
+      "sert"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.521,
+    "end": 4.794,
+    "words": [
+      "kumaşta",
+      "sert"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.794,
+    "end": 5.068,
+    "words": [
+      "leke",
+      "haline"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.068,
+    "end": 5.393,
+    "words": [
+      "leke",
+      "haline"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.393,
+    "end": 5.902,
+    "words": [
+      "getirme!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.902,
+    "end": 6.396,
+    "words": [
+      "getirme!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.396,
+    "end": 6.737,
+    "words": [
+      "deodorant",
+      "lekelerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.737,
+    "end": 7.078,
+    "words": [
+      "deodorant",
+      "lekelerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.078,
+    "end": 7.419,
+    "words": [
+      "kumaşa",
+      "zarar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.419,
+    "end": 7.747,
+    "words": [
+      "kumaşa",
+      "zarar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.747,
+    "end": 8.04,
+    "words": [
+      "vermeden",
+      "yok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.04,
+    "end": 8.288,
+    "words": [
+      "vermeden",
+      "yok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.288,
+    "end": 8.527,
+    "words": [
+      "etmenin",
+      "çok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.527,
+    "end": 8.787,
+    "words": [
+      "etmenin",
+      "çok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.787,
+    "end": 8.985,
+    "words": [
+      "pratik",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.985,
+    "end": 9.115,
+    "words": [
+      "pratik",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.115,
+    "end": 9.285,
+    "words": [
+      "yolu",
+      "var."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.285,
+    "end": 9.542,
+    "words": [
+      "yolu",
+      "var."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.542,
+    "end": 9.845,
+    "words": [
+      "Temiz",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.845,
+    "end": 10.148,
+    "words": [
+      "Temiz",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.148,
+    "end": 10.451,
+    "words": [
+      "naylon",
+      "çorabı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.451,
+    "end": 10.755,
+    "words": [
+      "naylon",
+      "çorabı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.755,
+    "end": 11.018,
+    "words": [
+      "top",
+      "haline"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.018,
+    "end": 11.28,
+    "words": [
+      "top",
+      "haline"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.28,
+    "end": 11.595,
+    "words": [
+      "getirip",
+      "lekenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.595,
+    "end": 11.925,
+    "words": [
+      "getirip",
+      "lekenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.925,
+    "end": 12.225,
+    "words": [
+      "üzerine",
+      "kuru"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.225,
+    "end": 12.504,
+    "words": [
+      "üzerine",
+      "kuru"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.504,
+    "end": 12.805,
+    "words": [
+      "şekilde",
+      "birkaç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.805,
+    "end": 13.073,
+    "words": [
+      "şekilde",
+      "birkaç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.073,
+    "end": 13.395,
+    "words": [
+      "kez",
+      "sürttüğünde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.395,
+    "end": 13.815,
+    "words": [
+      "kez",
+      "sürttüğünde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.815,
+    "end": 14.175,
+    "words": [
+      "statik",
+      "elektrik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.175,
+    "end": 14.43,
+    "words": [
+      "statik",
+      "elektrik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.43,
+    "end": 14.648,
+    "words": [
+      "ve",
+      "sürtünme"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.648,
+    "end": 14.962,
+    "words": [
+      "ve",
+      "sürtünme"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.962,
+    "end": 15.364,
+    "words": [
+      "sayesinde",
+      "lekenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.364,
+    "end": 15.761,
+    "words": [
+      "sayesinde",
+      "lekenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.761,
+    "end": 16.158,
+    "words": [
+      "anında",
+      "silindiğini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.158,
+    "end": 16.555,
+    "words": [
+      "anında",
+      "silindiğini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.555,
+    "end": 17.024,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.024,
+    "end": 17.408,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.408,
+    "end": 17.67,
+    "words": [
+      "hayat",
+      "kurtaran"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.67,
+    "end": 17.974,
+    "words": [
+      "hayat",
+      "kurtaran"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.974,
+    "end": 18.281,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.281,
+    "end": 18.641,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.641,
+    "end": 19.054,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.054,
+    "end": 19.372,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.372,
+    "end": 19.684,
+    "words": [
+      "unutma,",
+      "kıyafetindeki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.684,
+    "end": 20.082,
+    "words": [
+      "unutma,",
+      "kıyafetindeki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.082,
+    "end": 20.479,
+    "words": [
+      "deodorant",
+      "izini."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.479,
+    "end": 21.076,
+    "words": [
+      "deodorant",
+      "izini."
+    ],
+    "active": 1
+  }
+]

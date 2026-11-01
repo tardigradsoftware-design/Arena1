@@ -1,0 +1,72 @@
+{
+  "frames": 629,
+  "hook": [
+    "KİRPİK SERUMLARINA",
+    "PARA HARCAMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-051-1.png"
+    },
+    {
+      "from": 225,
+      "file": "VID-051-2.png"
+    },
+    {
+      "from": 340,
+      "file": "VID-051-3.png"
+    },
+    {
+      "from": 445,
+      "file": "VID-051-4.png"
+    }
+  ],
+  "result": 511,
+  "save": 562,
+  "clocks": [
+    {
+      "from": 347,
+      "to": 380
+    }
+  ],
+  "events": [
+    {
+      "from": 243,
+      "to": 278,
+      "a": "TEMİZ",
+      "b": "MASKARA FIRÇASI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "brush"
+    },
+    {
+      "from": 294,
+      "to": 338,
+      "a": "HİNT YAĞI",
+      "b": "TATLI BADEM YAĞI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 350,
+      "to": 386,
+      "a": "HER GECE",
+      "b": "YATMADAN ÖNCE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 562,
+      "to": 596,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-051-voice.wav"
+}

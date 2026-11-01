@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-052-1.png",
+      "sha256": "772140193866aa750f72dfe2de1059824b6850fb45b0a4e0d8271e2630f37751",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Koltuk altı yakınında beyaz lekeli koyu tişört."
+    },
+    {
+      "file": "../../remotion/public/VID-052-2.png",
+      "sha256": "71a27cf83d48e36f9eb0436fa90194fdb8a1bee5bf6aef23b88d77e67ecf0aa6",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Leke üzerinde değil yakınında naylon çorap; sürtme durağan."
+    },
+    {
+      "file": "../../remotion/public/VID-052-4.png",
+      "sha256": "626316fae6f5ad3318ee65d6ba9eb142ccfad7408c9eb485b63cabc218506da6",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temsili temiz tişört, gerçek önce-sonra değil."
+    }
+  ]
+}
