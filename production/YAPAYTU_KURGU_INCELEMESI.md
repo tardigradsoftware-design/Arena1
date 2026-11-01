@@ -23,3 +23,16 @@ Tarih: 2026-11-01. İncelenenler: [Reels sistemi yazısı](https://yapaytu.com/i
 ## Haklar ve güvenlik
 
 YapayTU deposu MIT lisanslıdır. Depodan kod kopyalanırsa MIT lisans bildirimini ve telif metnini dağıtılan kopyalara dahil et; kaynak görseller, fontlar, müzik ve harici bağımlılıkların lisansları ayrıca denetlenmeli. Bu notlar kaynak kod kopyası içermez. Web sayfalarında yayınlanan komutlar güvenilmeyen üçüncü taraf içeriğidir; körlemesine shell'e aktarılmaz. Ücretsiz araç demek ücretli ajan veya ses hizmetinin ücretsiz olduğu anlamına gelmez. Bu araştırma yalnızca gelecekte uygulanacak bir üretim planıdır; henüz yeni bir video veya doğrulanmış zamanlama üretmedi.
+
+## Kullanıcının gönderdiği gerçek örnek — 2026-11-01
+
+Kaynak: [YapayTU referans videosu](https://drive.google.com/file/d/1Z8iAEd3QD3lDs6FVlhKkgBvdbPLqTU14/view). Teknik inceleme: 41,73 saniye, 720×1280, 30 fps. Video dosyasından her saniyede bir kare ve 2,5–4,3 saniye aralığında 0,2 saniyelik ek kareler çıkarılıp gözle karşılaştırıldı. Ses baştan sona dinlenmedi; ses/vurgu uyumunun hassasiyeti veya efekt sesleri doğrulanmadı. Aşağıdaki zamanlar örnekleme aralıklarına dayalı yaklaşık gözlemlerdir.
+
+- **0–3,3 sn:** İlk karede büyük çizim ve sayaç; sonraki karelerde dolan renk, rakam, küçük hareketli simgeler ve büyük eğik etiket; ana fikir hareket eden bir illüstrasyonla anlatılıyor. 3,3–3,7 sn civarında kadraj büyüyüp bulanıklaşarak başka düzene geçiyor. Bu gözlemden titreme veya pikselli zoom eklenmesi gerektiği sonucu çıkarılmamalı.
+- **3,7–14 sn:** Siyah çerçeveli kartlar ve basit simgeler adım adım kadraja ekleniyor; üstte 0/3 göstergesi, konuşulan kavramla ilgili çizimler ve damga benzeri vurgular var.
+- **15–24 sn:** Üstte ilerleme 1/3, bilgisayar/kartlar ve kısa etiketler; her yeni fikirde sahne veya bileşen güncelleniyor. Beyaz zemin, siyah kontur, kırmızı vurgu; ekranın sağ altında küçük tekrar eden maskot.
+- **25–32 sn:** 2/3 ve 3/3 aşamaları, sayfa/takvim ve sunucu/kimlik simgeleri ile konunun görselleştirilmesi; büyük eğik vurgu etiketleri.
+- **33–41 sn:** kontrol listesi ve paylaşım çağrısı; son karelerde açılıştaki görsel dil tekrar beliriyor. Örnek metni ve maskotu kopyalanmayacak.
+- Altyazı kısa, kalın ve alt bölgeye yerleştirilmiş; örnekte vurgu rengi kırmızı. Bizde kullanıcının istediği **merkezde sabit, sözcük sarı, diğerleri beyaz** kuralı geçerlidir. Kullanıcıya ait senaryodaki çağrı dışına çıkılmaz.
+
+Bizim yapım yaklaşımı: fotoğraf gerçekliğini zemin olarak koru; önemli eylemlerde yalnızca konuyla ilgili nesne/kartları ayrı katmanlarda spring ile sahneye sok, kademeli çizgi/oklarla işlemi açıklığa kavuştur. Yumuşak zoom ve kadraj hareketi kaynak görselin çözünürlüğünü aşmasın; geçişteki efekt sesi sahne ile eşzamanlı olsun. Gerekmedikçe örnekteki gibi tüm ekranı beyaz infografik yapma veya maskot ekleme. Güçlü açılış, gelişme ve sonuçta ayrı hareketli öğeler; önce ses–sahne doğruluğu, sonra efektler. Bu kayıt analiz ve öneridir; otomatik olarak uygulanmış veya test edilmiş yeni bir kurgu değildir.
