@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-109-1.png",
+      "sha256": "52e67a95a0f8f70f65d4db5dfa7de89523bb31262fe5dc7d3ded6b41f841c691",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kirli derz ve destekli tava."
+    },
+    {
+      "file": "../../remotion/public/VID-109-2.png",
+      "sha256": "3e11b7149865ff39dc98eea8c9af459b58eab11e79174e72e2797b589e01fbf1",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Sabun ve toz temsili, kimliği görselden doğrulanmaz."
+    },
+    {
+      "file": "../../remotion/public/VID-109-3.png",
+      "sha256": "b4de4e1f65352cceb8fbc9eaf33726b8d8bc2e4cd2b4e9dca80544ecd6a52777",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Fırça ve sabun temsili, sonuç iddia etmiyor."
+    },
+    {
+      "file": "../../remotion/public/VID-109-4.png",
+      "sha256": "621d270552f6ec2ace4a11d5e30f1e915342448b19cd0b26bf37e639ead206ae",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Lekeli fayans, temsili ve önce-sonra iddiası yok."
+    }
+  ]
+}

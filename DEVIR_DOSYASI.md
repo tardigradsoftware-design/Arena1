@@ -247,3 +247,7 @@ VID-106: https://drive.google.com/file/d/1vdkqD3GpI1u6tRyP3yCtZBxl_7QNZ9EH/view 
 ### VID-107–108
 VID-107: https://drive.google.com/file/d/1DcPqi91uDVCdul6TSyrdlblmhXOhU1IN/view — 11,52 sn, 2.164.508 bayt, Vosk 23/30. Limon suyu tane tane pilavı garanti etmez. 3–4 görselleri senaryoda olmayan ilave malzemeler nedeniyle kullanılmadı, damlatma işlemi gösterilmiyor.
 VID-108: https://drive.google.com/file/d/1M6X9U1a1zrx8pDwD2BZcAR6_ib44sg4a/view — 11,84 sn, 1.763.280 bayt, Vosk 24/31. Gliserin tahriş/hassasiyet yapabilir; açık çatlaklar ve süren belirtilerde uzman tavsiyesi, ürün talimatları önemli. Şişeler temsili. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi, Vosk dışı altyazı tahmini. Sonraki 109–110.
+
+### VID-109–110
+VID-109: https://drive.google.com/file/d/1Griqdgy109gPiaqwYaznfPMWraO-snDi/view — 12,44 sn, 2.083.485 bayt, Vosk 23/34. Karbonat aşındırıcı olabilir; üretici talimatı ve gizli alanda test önemli, temizleme sonucu garanti değil.
+VID-110: https://drive.google.com/file/d/1XDGuOkAU5NFVgdHQMIjI0PMPK0w577xe/view — 11,78 sn, 2.926.394 bayt, Vosk 16/30. Karanfilin filizlenmeyi/çürümeyi önlediğine güvenilir kanıt bulunamadı; uyarısız yayımlamayın; küflü veya çürük soğan atılır. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi ve Vosk dışı altyazı tahmini. Sonraki 111–112.

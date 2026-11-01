@@ -1,0 +1,2 @@
+# VID-109
+Drive: https://drive.google.com/file/d/1Griqdgy109gPiaqwYaznfPMWraO-snDi/view — 12,44 sn, 2.083.485 bayt. Senaryo aynen seslendirildi (1,45×), Vosk 23/34 çapa; diğerleri interpolasyon. Ses baştan sona dinlenmedi; senkron kesin değil. Karbonat aşındırıcı olabilir; yüzey ve derz üreticisinin bakım talimatlarını izleyin, önce görünmeyen alanda deneyin. Temizlik sonucu garanti değil. Kâse içerikleri temsilidir, uygulama birebir gösterilmiyor.

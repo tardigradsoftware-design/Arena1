@@ -1,0 +1,49 @@
+{
+  "frames": 373,
+  "hook": [
+    "MUTFAK FAYANSINDA",
+    "YAĞLI DERZLER"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-109-1.png"
+    },
+    {
+      "from": 185,
+      "file": "VID-109-2.png"
+    },
+    {
+      "from": 268,
+      "file": "VID-109-3.png"
+    },
+    {
+      "from": 320,
+      "file": "VID-109-4.png"
+    }
+  ],
+  "result": 9999,
+  "save": 300,
+  "clocks": [],
+  "events": [
+    {
+      "from": 193,
+      "to": 226,
+      "a": "ARAP SABUNU",
+      "b": "VE KARBONAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "sparkle"
+    },
+    {
+      "from": 300,
+      "to": 327,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-109-voice.wav"
+}
