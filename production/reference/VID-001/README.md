@@ -5,3 +5,5 @@
 Hareketli karşılaştırma sürümü: `production/remotion/vid001-motion.jsx` / `VID001Motion`. İlk sürüm korunmuştur. Kullanılan kelime zamanları yine kısmen tahmini; örnek kareler incelendi, ses baştan sona dinlenemedi. Derlemek için mevcut dosyaları public klasörüne kopyalayın ve görsel manifestiyle `render_reviewed.py` kullanın.
 
 `production/remotion/vid001-v3.jsx` / `VID001V3`: çubuk ve bölüm başlıkları olmadan yeni grafikler içeren karşılaştırma sürümü. Kelime zamanları tahmini; referans görseller ve ses aynı, örnek kareler incelendi, video baştan sona dinlenmedi.
+
+`production/remotion/vid001-hybrid.jsx` / `VID001Hybrid`: V4 örnek, fotoğraflar ile kodlanmış etiket/çizim ve sahne hareketlerini birleştirir; gerçek kesilmiş fotoğraf katmanları veya doğrulanmış 2.5D kullanmaz. Render sonrası 13 örnek kare ve tam teknik decode kontrol edildi; ses baştan sona dinlenmedi ve altyazı zamanları kısmen tahmini.

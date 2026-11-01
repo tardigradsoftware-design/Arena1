@@ -54,3 +54,7 @@ Kullanıcı referansı: [YapayTU kurgu araştırması](production/YAPAYTU_KURGU_
 ## 7. En son hareket tercihi
 
 Kullanıcı ilerleme çubuğu ve giriş/gelişme/sonuç gibi bölüm yazılarını istemiyor. Daha çarpıcı, hızlı giren, akıcı ve senaryoyla ilgili kodlu animasyonlar istiyor; sabit altyazı, gerçekçi görüntüler ve titrememe kuralları korunur. `production/remotion/vid001-v3.jsx` bu istek için karşılaştırma denemesidir; kullanıcının beğenisi henüz alınmamıştır.
+
+## 8. Hibrit görsel anlatım isteği
+
+Her yeni senaryoda tek tip şablona takılmadan konunun gerektirdiği fotoğraf + motion graphics, kinetik tipografi, katmanlı kompozisyon, yumuşak kamera hareketleri, maskeli geçiş ve bilgilendirici grafikler arasından uygun olanları seç. 2.5D/parallax ancak sahne parçaları gerçekçi ayrılabiliyor ve kalite incelenebiliyorsa uygulanır; düz fotoğraf üzerine bağımsız grafik katmanlarını gerçek 2.5D olarak sunma. Efektler ve açık lisanslı sesler sahneye uygun, konuşmayı bastırmayacak şekilde planlanır. Sahne ve geçişlerden örnek kareler, dosya ve ses teknik kontrolleri yapılır; bütün video gözle/sesle incelenememişse bu açıkça belirtilir. Senaryo sabittir, altyazı merkezde sabit kalır, gereksiz titreme, ilerleme çubuğu veya bölüm yazıları yoktur. `production/remotion/vid001-hybrid.jsx` bu tarzda bir örnek denemedir; tüm teknikleri kapsamaz ve kullanıcı onayı henüz alınmamıştır.
