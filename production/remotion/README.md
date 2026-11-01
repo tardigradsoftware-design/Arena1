@@ -18,3 +18,7 @@ Chromium'un paket içi Linux kütüphanelerine ihtiyacı bu ortamda test edilmi�
 Altyazı zamanları Vosk ile yaklaşık hizalanmıştır; kelime eşleşmeleri dinlenerek denetlenmelidir. Kalem işaretlerinin konumu yalnızca bu sürümdeki görseller içindir. Animasyonlar frame tabanlıdır; diğer videolara uyarlamadan önce kaynak senaryoyu, sahne zamanlarını ve görselleri gözden geçirin. Hook, senaryodan seçilmiş kelimeleri kullanır; anlatım metni değiştirilmemiştir.
 
 Tasarım referansları: https://www.remotion.dev/docs/transitioning ve https://ads.tiktok.com/business/creativecenter/quicktok/online/tiktok_creative_accelerator/pc/en .
+
+## VID-035 ilk sürüm — animasyonlu güncelleme
+
+`vid035-premium.jsx` orijinal `index.jsx` üzerinde hazırlanmış bağımsız kompozisyondur; ek olarak `public/` içine `VID-035-v2-4.png`, `VID-035-v2-8.png`, `VID-035-v2-10.png` gerekir. Mevcut görseller Git'e ekli değildir. Render komutu aynı olup giriş dosyası `vid035-premium.jsx`, kompozisyon kimliği `VID035` olarak seçilir. V2 kompozisyonu değişmez.
