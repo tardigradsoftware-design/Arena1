@@ -1,0 +1,2 @@
+# VID-089 — V14
+Drive: https://drive.google.com/file/d/1kZavBblIQa6aImUQ8WcxOhMgxMoaqqoN/view — 11,12 sn / 1.935.826 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; dört incelenmiş temsili yapay sahne. Kaynar suya yağ dökülmesi gösterilmedi. Vosk 20/29, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −5,79 dBFS. Birkaç damla yağın taşmayı önlemesi garanti değil; ocağı gözetimsiz bırakmayın ve ısıyı kontrol edin.

@@ -1,0 +1,49 @@
+{
+  "frames": 333,
+  "hook": [
+    "MAKARNA SUYU",
+    "KÖPÜRÜYOR MU?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-089-1.png"
+    },
+    {
+      "from": 144,
+      "file": "VID-089-2.png"
+    },
+    {
+      "from": 229,
+      "file": "VID-089-3.png"
+    },
+    {
+      "from": 280,
+      "file": "VID-089-4.png"
+    }
+  ],
+  "result": 9999,
+  "save": 263,
+  "clocks": [],
+  "events": [
+    {
+      "from": 149,
+      "to": 179,
+      "a": "BİRKAÇ DAMLA",
+      "b": "SIVI YAĞ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 263,
+      "to": 287,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-089-voice.wav"
+}

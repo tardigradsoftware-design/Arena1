@@ -1,0 +1,262 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.634,
+    "words": [
+      "sakın",
+      "haşladığınız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.634,
+    "end": 1.091,
+    "words": [
+      "sakın",
+      "haşladığınız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.091,
+    "end": 1.478,
+    "words": [
+      "makarnanın",
+      "suyu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.478,
+    "end": 1.826,
+    "words": [
+      "makarnanın",
+      "suyu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.826,
+    "end": 2.209,
+    "words": [
+      "köpürüp",
+      "ocağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.209,
+    "end": 2.591,
+    "words": [
+      "köpürüp",
+      "ocağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.591,
+    "end": 2.974,
+    "words": [
+      "kirletmesinden",
+      "korkarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.974,
+    "end": 3.36,
+    "words": [
+      "kirletmesinden",
+      "korkarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.36,
+    "end": 3.81,
+    "words": [
+      "başından",
+      "ayrılmayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.81,
+    "end": 4.357,
+    "words": [
+      "başından",
+      "ayrılmayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.357,
+    "end": 4.785,
+    "words": [
+      "Çünkü",
+      "birkaç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.785,
+    "end": 5.048,
+    "words": [
+      "Çünkü",
+      "birkaç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.048,
+    "end": 5.288,
+    "words": [
+      "damla",
+      "sıvı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.288,
+    "end": 5.505,
+    "words": [
+      "damla",
+      "sıvı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.505,
+    "end": 5.779,
+    "words": [
+      "yağ",
+      "köpürmeyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.779,
+    "end": 6.116,
+    "words": [
+      "yağ",
+      "köpürmeyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.116,
+    "end": 6.453,
+    "words": [
+      "keser.",
+      "Suya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.453,
+    "end": 6.79,
+    "words": [
+      "keser.",
+      "Suya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.79,
+    "end": 7.127,
+    "words": [
+      "yağ",
+      "damlatın."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.127,
+    "end": 7.464,
+    "words": [
+      "yağ",
+      "damlatın."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.464,
+    "end": 7.745,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.745,
+    "end": 8.016,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.016,
+    "end": 8.37,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.37,
+    "end": 8.745,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.745,
+    "end": 9.135,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.135,
+    "end": 9.487,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.487,
+    "end": 9.885,
+    "words": [
+      "unutma,",
+      "makarna"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.885,
+    "end": 10.38,
+    "words": [
+      "unutma,",
+      "makarna"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.38,
+    "end": 11.088,
+    "words": [
+      "yaparken."
+    ],
+    "active": 0
+  }
+]

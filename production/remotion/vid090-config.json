@@ -1,0 +1,49 @@
+{
+  "frames": 343,
+  "hook": [
+    "DİRSEK BAKIMI",
+    "DOĞAL YÖNTEMLER"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-090-1.png"
+    },
+    {
+      "from": 139,
+      "file": "VID-090-2.png"
+    },
+    {
+      "from": 208,
+      "file": "VID-090-3.png"
+    },
+    {
+      "from": 270,
+      "file": "VID-090-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 263,
+  "clocks": [],
+  "events": [
+    {
+      "from": 143,
+      "to": 173,
+      "a": "VAZELİN",
+      "b": "VE LİMON",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 263,
+      "to": 287,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-090-voice.wav"
+}

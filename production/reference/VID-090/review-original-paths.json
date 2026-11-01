@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-090-1.png",
+      "sha256": "f24becce45f111000922fdb81dd85782b1aa8555a63ad65efdb00d746f9a7244",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi dirsek görünümü, aynı kare tekrarlandı."
+    },
+    {
+      "file": "../../remotion/public/VID-090-2.png",
+      "sha256": "23a603938bdedf955fe8ddcae1f83b30b5ebbbabbac5285ff86b4c1c5bf96c43",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı vazelin ve limon, uygulama gösterilmedi."
+    },
+    {
+      "file": "../../remotion/public/VID-090-3.png",
+      "sha256": "a10079813589d4ce5088358fd3d2a11c6297937338fb9f12c2f019df949f0474",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı ürün, limon ve havlu, temsili."
+    }
+  ]
+}
