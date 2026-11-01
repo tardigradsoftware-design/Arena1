@@ -39,3 +39,20 @@ Burada yalnızca iki örnek dosya gösterilmiştir; gerçek kompozisyon daha ço
 ## Gerçek deneme — 2026-11-01
 
 Üretilen 6 test görseli tek tek değerlendirildi: tabak/çatal/bıçak (93, kabul adayı), telefonun yanında el (92, kabul adayı); ilk bardak/elde temas ve yansıma belirsiz (72, ret), ilk telefon kavraması belirsiz (84, ret), yüzsüz okuma sahnesinde eylem ve yazı sorunu (78, ret), bardak tekrarında başparmak görünmüyor (83, yeniden incele/ret). Puanlar sübjektif ajansal görsel değerlendirmelerdir; tüm anatomik doğruluğu garanti etmez. Reddedilen bardak ve telefon sahneleri araçla birer kez yeniden üretildi; bardak tekrarında hâlâ belirsizlik var. Kalite kapısının bu kayıtlar için ret/kabul kararı ve 3 yeniden üretim sonrası basitleştirme yönlendirmesi test edildi; otomatik hata keşfi veya otomatik model çağrısı uygulanmadı. Test görüntüleri video üretiminde kullanılmadı ve Drive'a yüklenmedi.
+
+## Referans temelli sahne tutarlılığı — 2026-11-01 araştırma ve denemesi
+
+Bağımsız promptlarla farklı çamaşır makineleri, renkli çamaşır ve mekân değişiklikleri oluştu. Yeni yöntem: Önce tek bir referans kare seç, onun kamera ve ışık özelliklerini belirle; komşu sahneleri mümkünse aynı referansı `images` girdisiyle düzenleyerek üret. Referansı zorunlu bir garanti değil, görsel ipucu say. Her kareyi tam boy ve sonra komşularıyla yan yana incele; makine tipi, kapak, tezgâh, pencere, ölçek, malzeme ve eylemi karşılaştır. Kontrol paneli, kamera ve nesnelerin temasında değişim varsa düzelt veya reddet. Birbiriyle tutarsız referanslı görselleri sırf referans kullanıldı diye kabul etme. Sonuçlar doğrulanmadıysa video üretme.
+
+Karşılaştırma sayfası yalnızca inceleme yardımcısıdır, kendi başına onay değildir:
+
+```sh
+production/.venv/bin/python production/contact_sheet.py \
+  production/images/VID-001-1.png production/images/VID-001-consistent-2b.png \
+  production/images/VID-001-consistent-3.png production/images/VID-001-consistent-4b.png \
+  --output production/images/VID-001-consistency-review.jpg
+```
+
+Dört yeni referans düzenleme denemesinde aynı ışık ve çevre daha iyi korundu. İlk açık makine denemesinde ikinci makine belirdi; açık kapak düzeltmesinde tablet/kaşık kapak dudağı üzerinde ve sirke eksik. Son karede kumaş/tezgâh teması belirsiz; bütün kareler arasında makine aynılığı da tam doğrulanmadı. Bunlar **üretime onaylı değildir**. İstenen sahne ile referans koruması bazen çatışabilir; küçük bölgesel düzeltme veya sahneyi sadeleştirme denenmeli.
+
+Araştırılan alternatifler: [FLUX.2](https://github.com/black-forest-labs/flux2) klein 4B Apache-2.0, çoklu referanslı düzenlemeyi destekliyor ve üretici yaklaşık 8 GB VRAM belirtiyor; 9B ve dev için ticari olmayan lisans kısıtı var. [ComfyUI](https://github.com/Comfy-Org/ComfyUI) ve ControlNet gibi akışlar poz/derinlik kompozisyonu yönlendirebilir; model/eklenti lisansları ayrıca incelenmeli ve ellerin doğru olacağı varsayılmamalı. [InstantID](https://github.com/instantX-research/InstantID) kodu Apache olsa da ilgili yüz modelleri ve kendi ağırlıkları yalnız araştırma amaçlıdır; ticari kullanım varsayılmamalı. Bu ortamda GPU görünmüyor ve toplam RAM yaklaşık 3,8 GiB; bu alternatifler indirilip çalıştırılmadı veya karşılaştırılmadı. Harici GPU ortamı olmadan bunları kullanılmış gibi bildirme. Bu oturumun mevcut görsel aracında ayrı seed veya negative prompt alanı yoktur.
