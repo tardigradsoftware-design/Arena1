@@ -1,3 +1,5 @@
-# VID-015 — tamamlanmadı
+# VID-015 — V14
 
-ODS metni tek parça voice-01 sesi ve 1,45× hızlı sürümü hazır. Vosk 37/65 eşleşme, kalan altyazı zamanları interpolasyon (`production/remotion/vid015-captions.json`); ses dinlenmedi. 2, 3 ve 4 numaralı kaynaklar adaydır, henüz SHA manifesti onaylanmadı. İlk çökme izi görseli sert kare kesik gibi; yenisi yuvarlak oluk ve yükselmiş orta bölge gibi görünüyor, ikisi de fiziksel gerçekçilik yönünden reddedildi ve bu dizine alınmadı. İlk buz görseli aşırı büyük/cam blok gibi, ilk sonuç görseli hâlâ izliydi: onlar da reddedildi. Dört yeniden üretim dahil bu tur sekiz görsel hakkı tükendi. Sonraki turda 1. sahneyi, kesik/oluk yerine ezilmiş lifli gerçekçi çökme göstererek yeniden üret, dört sahneyi incele, manifest oluştur, saat/bekleme animasyonu ve tik takla render/kontrol/yükleme yap. Henüz video render edilmedi veya Drive'a yüklenmedi.
+ODS senaryosu, tek parça voice-01, 1,45×. Başlangıçta reddedilen görseller yerine oval ezilmiş alan ve gerçek boyutlu buz görselleri hazırlandı; ilk görüntüdeki çökme temsilidir, çatal işlemi durağan görselle anlatılır. 4 görsel ve SHA manifesti burada; `production/remotion/vid015-*` kurgu. 20,37 sn, 720×1280/30fps, 3.652.518 bayt. Tam decode/blackdetect, ses seviyesi ve üç saniyede bir örnek kare kontrol edildi. Vosk 37/65 eşleşme, kalanı tahmini interpolasyon; ses baştan sona dinlenmedi.
+
+https://drive.google.com/file/d/1lUp7yj0-R50dgCd7RXElNVD8OdvO1nGz/view

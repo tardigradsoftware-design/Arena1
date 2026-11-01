@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-015-1.png",
+      "sha256": "26dd2f83a7c0492529f859d5a220876c3ecc09ec990f27bc8a98f7fea91c3934",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yumuşak halıda oval ezilmiş lif alanı temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-015-2.png",
+      "sha256": "8c1c3949e7e903037d2b015cdeb4fa41c15eb99aa15e5e7a88a322d322d689e5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Küçük buz küpü halıya temas ediyor."
+    },
+    {
+      "file": "../../remotion/public/VID-015-3.png",
+      "sha256": "6f190f48e42ac83237db2c744ca6b1890786759972217e550e30cfcbd4bbb995",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Çatal halıda destekli, kullanım hareketi gösterilmemiştir."
+    },
+    {
+      "file": "../../remotion/public/VID-015-4.png",
+      "sha256": "21e98126c66319bd0c0b1a3c3e4056dd0849a88c953553331c548b9d0cfde6a1",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Düz ve izsiz halı dokusu temsili sonuç."
+    }
+  ]
+}

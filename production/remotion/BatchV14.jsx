@@ -9,6 +9,7 @@ function Icon({kind,frame}){
  if(kind==='cloth')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M20 26 Q50 18 80 26 L75 74 Q50 81 25 74Z M29 38h42 M30 50h40 M31 62h38" {...S}/></svg>;
  if(kind==='book')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M50 28 Q35 18 17 24 v52 Q35 70 50 80 Q65 70 83 76 V24 Q65 18 50 28z M50 28v52 M25 36h15 M60 36h15" {...S}/></svg>;
  if(kind==='warning')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M50 15 L88 80 H12Z" fill="#ffe135" stroke="#211d19" strokeWidth="4" strokeLinejoin="round"/><path d="M50 37v20 M50 68v1" {...S}/></svg>;
+ if(kind==='avocado')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M50 14 C35 14 35 32 26 43 C12 61 25 85 50 85 S88 61 74 43 C65 32 65 14 50 14Z" fill="#a6d978" stroke="#211d19" strokeWidth="4"/><circle cx="50" cy="61" r="13" fill="#a75d2d" stroke="#211d19" strokeWidth="3"/></svg>;
  if(kind==='pot')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M22 43h56v26q0 12-13 12H35q-13 0-13-12z M13 48h9 M78 48h9 M35 33q-5-8 0-15 M50 33q-5-8 0-15 M65 33q-5-8 0-15" {...S}/></svg>;
  if(kind==='brush')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M16 32h40v16H16z M25 32v-8 M35 32v-8 M45 32v-8 M56 36h19q10 0 10 5t-10 5H56" {...S}/></svg>;
  if(kind==='dryer')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M19 27h39q14 0 14 14T58 55H19z M19 27l-8 5v18l8 5 M49 55l7 27H42l-7-27 M77 33q8 8 0 16" {...S}/></svg>;
