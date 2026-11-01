@@ -1,0 +1,514 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.6,
+    "words": [
+      "sakın",
+      "nohut,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.6,
+    "end": 1.058,
+    "words": [
+      "sakın",
+      "nohut,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.058,
+    "end": 1.441,
+    "words": [
+      "fasulye",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.441,
+    "end": 1.718,
+    "words": [
+      "fasulye",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.718,
+    "end": 1.987,
+    "words": [
+      "mercimek",
+      "gibi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.987,
+    "end": 2.325,
+    "words": [
+      "mercimek",
+      "gibi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.325,
+    "end": 2.715,
+    "words": [
+      "bakliyatların",
+      "kısa"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.715,
+    "end": 3.038,
+    "words": [
+      "bakliyatların",
+      "kısa"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.038,
+    "end": 3.319,
+    "words": [
+      "sürede",
+      "güvelenip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.319,
+    "end": 3.626,
+    "words": [
+      "sürede",
+      "güvelenip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.626,
+    "end": 3.93,
+    "words": [
+      "çöpe",
+      "gitmesine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.93,
+    "end": 4.26,
+    "words": [
+      "çöpe",
+      "gitmesine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.26,
+    "end": 4.627,
+    "words": [
+      "seyirci",
+      "kalma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.627,
+    "end": 5.062,
+    "words": [
+      "seyirci",
+      "kalma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.062,
+    "end": 5.438,
+    "words": [
+      "Çünkü",
+      "doğal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.438,
+    "end": 5.76,
+    "words": [
+      "Çünkü",
+      "doğal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.76,
+    "end": 6.176,
+    "words": [
+      "yöntemlerle",
+      "bakliyatları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.176,
+    "end": 6.619,
+    "words": [
+      "yöntemlerle",
+      "bakliyatları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.619,
+    "end": 7.061,
+    "words": [
+      "böceklerden",
+      "korumanın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.061,
+    "end": 7.504,
+    "words": [
+      "böceklerden",
+      "korumanın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.504,
+    "end": 7.83,
+    "words": [
+      "en",
+      "etkili"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.83,
+    "end": 8.115,
+    "words": [
+      "en",
+      "etkili"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.115,
+    "end": 8.475,
+    "words": [
+      "yollarından",
+      "biri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.475,
+    "end": 8.884,
+    "words": [
+      "yollarından",
+      "biri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.884,
+    "end": 9.342,
+    "words": [
+      "biberiyedir.",
+      "Kuru"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.342,
+    "end": 9.801,
+    "words": [
+      "biberiyedir.",
+      "Kuru"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.801,
+    "end": 10.259,
+    "words": [
+      "bakliyat",
+      "kavanozlarının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.259,
+    "end": 10.717,
+    "words": [
+      "bakliyat",
+      "kavanozlarının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.717,
+    "end": 11.106,
+    "words": [
+      "içine",
+      "ikişer"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.106,
+    "end": 11.379,
+    "words": [
+      "içine",
+      "ikişer"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.379,
+    "end": 11.607,
+    "words": [
+      "dal",
+      "kuru"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.607,
+    "end": 11.873,
+    "words": [
+      "dal",
+      "kuru"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.873,
+    "end": 12.175,
+    "words": [
+      "biberiye",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.175,
+    "end": 12.477,
+    "words": [
+      "biberiye",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.477,
+    "end": 12.78,
+    "words": [
+      "defne",
+      "yaprağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.78,
+    "end": 13.148,
+    "words": [
+      "defne",
+      "yaprağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.148,
+    "end": 13.583,
+    "words": [
+      "ekle.",
+      "Biberiyenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.583,
+    "end": 14.018,
+    "words": [
+      "ekle.",
+      "Biberiyenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.018,
+    "end": 14.415,
+    "words": [
+      "keskin",
+      "kokusu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.415,
+    "end": 14.751,
+    "words": [
+      "keskin",
+      "kokusu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.751,
+    "end": 15.05,
+    "words": [
+      "tüm",
+      "böcekleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.05,
+    "end": 15.337,
+    "words": [
+      "tüm",
+      "böcekleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.337,
+    "end": 15.621,
+    "words": [
+      "ve",
+      "güveleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.621,
+    "end": 15.902,
+    "words": [
+      "ve",
+      "güveleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.902,
+    "end": 16.183,
+    "words": [
+      "kesin",
+      "olarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.183,
+    "end": 16.434,
+    "words": [
+      "kesin",
+      "olarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.434,
+    "end": 16.71,
+    "words": [
+      "uzak",
+      "tutacaktır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.71,
+    "end": 17.047,
+    "words": [
+      "uzak",
+      "tutacaktır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.047,
+    "end": 17.392,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.392,
+    "end": 17.738,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.738,
+    "end": 18.053,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.053,
+    "end": 18.352,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.352,
+    "end": 18.697,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.697,
+    "end": 19.111,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.111,
+    "end": 19.564,
+    "words": [
+      "unutma,",
+      "kilerdeki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.564,
+    "end": 20.017,
+    "words": [
+      "unutma,",
+      "kilerdeki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.017,
+    "end": 20.697,
+    "words": [
+      "bakliyatları."
+    ],
+    "active": 0
+  }
+]

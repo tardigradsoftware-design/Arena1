@@ -1,0 +1,77 @@
+{
+  "frames": 647,
+  "hook": [
+    "TOPUKLARINI",
+    "BIÇAKLA KAZIMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-048-1.png"
+    },
+    {
+      "from": 270,
+      "file": "VID-048-3.png"
+    },
+    {
+      "from": 492,
+      "file": "VID-048-4.png"
+    }
+  ],
+  "result": 515,
+  "save": 580,
+  "clocks": [
+    {
+      "from": 434,
+      "to": 477
+    }
+  ],
+  "events": [
+    {
+      "from": 332,
+      "to": 368,
+      "a": "ÜÇ KAŞIK",
+      "b": "KARBONAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 383,
+      "to": 420,
+      "a": "ELMA SİRKESİ",
+      "b": "BİR ÇAY BARDAĞI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 435,
+      "to": 476,
+      "a": "ON DAKİKA",
+      "b": "BEKLET",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 480,
+      "to": 508,
+      "a": "PONZA TAŞIYLA",
+      "b": "HAFİFÇE OV",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "brush"
+    },
+    {
+      "from": 580,
+      "to": 613,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-048-voice.wav"
+}

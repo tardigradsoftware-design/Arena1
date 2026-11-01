@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-047-1.png",
+      "sha256": "f1f9d1a57716239767a7626c22a71db2bd95093012f26e4b3acf9d92265938a8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kilerde kuru bakliyat kavanozları, açık kavanozun kapağı yanında."
+    },
+    {
+      "file": "../../remotion/public/VID-047-3.png",
+      "sha256": "6ff89b0fe22934870022ee899a89e5a27b42dd00a9153b73c1058c28444e8f43",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kavanozda nohut ve kuru biberiye temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-047-4.png",
+      "sha256": "ee3ba9ee4498cce6c6209b3c9f4f59d7171a8aec40c7ba55f9cd217d183b922a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâsede kuru nohut, destekli kepçe."
+    }
+  ]
+}
