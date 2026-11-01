@@ -2,6 +2,10 @@
 
 Güncelleme: 2026-11-01. Bu dosya yeni oturumda önce okunacak başlangıçtır. Ardından `VIDEO_URETIM_KURALLARI.md` (özellikle bölüm 10) ve `GORSEL_KALITE_KURALLARI.md` okunur. Kullanıcı yeni talimat verdiğinde ilgili dosyalar güncellenir. Dosyayı okuyan ajan önce gerçek çalışma alanını ve Drive durumunu kontrol eder; dosya kayıtları erişimi, ses kimliğinin oturumlar arasında çalışmasını veya önceki işlerin güncelliğini garanti etmez.
 
+## Güncel hesap adı
+
+Kullanıcının kanal adı / filigran tercihi `kadincayasamax`: VID-119 ve sonraki yeni üretimlerde kullan. Önceki videolar değiştirilmez. Ortak V14 kurgusu eski ID’ler yeniden render edilirse eski filigranı korur. Kullanıcı Google hesabı ve sosyal hesap kuruluşunu birlikte yürütüyor; hesapların açılmış olduğu varsayılmamalı.
+
 ## Kullanıcıyla çalışma
 
 - Kısa ve açık Türkçe yanıt ver. Yalnız kullanıcı komut verdikçe, verdiği senaryoyu değiştirmeden ilgili video ID'sini üret; senaryo veya uydurma iddia ekleme. Kullanıcı hangi ID'yi istediğini söylememişse sor. Kalıcı stil onayı V14'edir; diğer ID'lere V14'ün metinlerini ve sabit zamanlarını kopyalama.
@@ -12,7 +16,7 @@ Güncelleme: 2026-11-01. Bu dosya yeni oturumda önce okunacak başlangıçtır.
 
 - [VID-001 V14](https://drive.google.com/file/d/1S6QNtWWDd9YPKrqWO0S7sNLkaMc4-JP6/view), Drive ID `1S6QNtWWDd9YPKrqWO0S7sNLkaMc4-JP6`; `production/remotion/vid001-v14.jsx`, kompozisyon `VID001V14`. Kullanıcı 1 Kasım 2026'da tüm videoların bu şekilde yapılmasını istedi.
 - Devamlı tam ekran, gerçekçi, senaryoya uygun görseller; ölçülü zoom ve kaydırmalı geçişler, pikselleşme/yatay titreme yok. Tekrar eden büyük ikon yok. Bilgiye bağlı çerçeveli etiketler, kodlu animasyon, çizilen ok/işaret; anlamlı, ekranı doldurmayan ve okunabilir. Sayaç, maskot, ilerleme çubuğu, giriş/gelişme/sonuç başlığı yok.
-- Altyazı V14 gibi alt-orta kısa bloklar: aktif kelime siyah yazı/sarı zemin, diğerleri siyah yazı/beyaz zemin; siyah kenar ve gölge. Hook ile aynı anda aynı altyazı tekrar edilmez. V14'te vurgu hafif ölçek/dönüş içerir; büyük zıplama veya titreme yok. Anlatım metninde olmayan kelime/iddia ekleme. `kadincayasam` filigranı aralıklarla.
+- Altyazı V14 gibi alt-orta kısa bloklar: aktif kelime siyah yazı/sarı zemin, diğerleri siyah yazı/beyaz zemin; siyah kenar ve gölge. Hook ile aynı anda aynı altyazı tekrar edilmez. V14'te vurgu hafif ölçek/dönüş içerir; büyük zıplama veya titreme yok. Anlatım metninde olmayan kelime/iddia ekleme. VID-119 ve sonrası `kadincayasamax` filigranı aralıklarla; VID-001–118 eski haliyle korunur.
 - Ses tasarımı: ilk karede hook için dikkat çekici ayrı efekt; bilgilendirici grafik ve işaretlerde ışın; sonuçta parıltı/başarı sesi; senaryoda varsa kaydet çağrısında özel kaydet sesi. **Sahne geçişlerine ses efekti yok.** Efektler sentezdir, gerçek kayıt veya işitsel kalite onayı olarak sunulmaz. Senaryoda kaydet yoksa yeni çağrı uydurma. Lisansları uygun müzik ve anlatım dengeli olsun.
 - Başarı/parıltı dekoratif bir vurgu; doğrulanmamış sonuç iddiasını kanıtlanmış gibi sunma. Önceki beğenilen V3 ve önceki karşılaştırmalar V14 yerine varsayılan değil.
 
