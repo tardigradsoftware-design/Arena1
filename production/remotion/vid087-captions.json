@@ -1,0 +1,290 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.57,
+    "words": [
+      "sakın",
+      "saç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.57,
+    "end": 0.893,
+    "words": [
+      "sakın",
+      "saç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.893,
+    "end": 1.208,
+    "words": [
+      "dökülmeniz",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.208,
+    "end": 1.5,
+    "words": [
+      "dökülmeniz",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.5,
+    "end": 1.838,
+    "words": [
+      "pahalı",
+      "şampuanlara"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.838,
+    "end": 2.245,
+    "words": [
+      "pahalı",
+      "şampuanlara"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.245,
+    "end": 2.642,
+    "words": [
+      "servet",
+      "harcamadan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.642,
+    "end": 3.015,
+    "words": [
+      "servet",
+      "harcamadan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.015,
+    "end": 3.405,
+    "words": [
+      "önce",
+      "doğal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.405,
+    "end": 3.795,
+    "words": [
+      "önce",
+      "doğal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.795,
+    "end": 4.19,
+    "words": [
+      "bitkisel",
+      "çözümleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.19,
+    "end": 4.62,
+    "words": [
+      "bitkisel",
+      "çözümleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.62,
+    "end": 5.05,
+    "words": [
+      "denemeyin!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.05,
+    "end": 5.407,
+    "words": [
+      "denemeyin!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.407,
+    "end": 5.692,
+    "words": [
+      "ısırgan",
+      "otu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.692,
+    "end": 5.977,
+    "words": [
+      "ısırgan",
+      "otu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.977,
+    "end": 6.262,
+    "words": [
+      "suyu",
+      "saç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.262,
+    "end": 6.583,
+    "words": [
+      "suyu",
+      "saç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.583,
+    "end": 6.94,
+    "words": [
+      "köklerini",
+      "güçlendirir."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.94,
+    "end": 7.308,
+    "words": [
+      "köklerini",
+      "güçlendirir."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.308,
+    "end": 7.689,
+    "words": [
+      "Isırgan",
+      "suyuyla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.689,
+    "end": 8.069,
+    "words": [
+      "Isırgan",
+      "suyuyla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.069,
+    "end": 8.45,
+    "words": [
+      "durulayın.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.45,
+    "end": 8.831,
+    "words": [
+      "durulayın.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.831,
+    "end": 9.175,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.175,
+    "end": 9.495,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.495,
+    "end": 9.922,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.922,
+    "end": 10.327,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.327,
+    "end": 10.68,
+    "words": [
+      "unutma,",
+      "saç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.68,
+    "end": 11.055,
+    "words": [
+      "unutma,",
+      "saç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.055,
+    "end": 11.385,
+    "words": [
+      "dökülmesi",
+      "için."
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.385,
+    "end": 11.808,
+    "words": [
+      "dökülmesi",
+      "için."
+    ],
+    "active": 1
+  }
+]

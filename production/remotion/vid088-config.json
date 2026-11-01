@@ -1,0 +1,49 @@
+{
+  "frames": 352,
+  "hook": [
+    "ÜTÜ MASASI KILIFI",
+    "NASIL TEMİZLENİR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-088-1.png"
+    },
+    {
+      "from": 157,
+      "file": "VID-088-2.png"
+    },
+    {
+      "from": 245,
+      "file": "VID-088-3.png"
+    },
+    {
+      "from": 300,
+      "file": "VID-088-4.png"
+    }
+  ],
+  "result": 9999,
+  "save": 278,
+  "clocks": [],
+  "events": [
+    {
+      "from": 160,
+      "to": 194,
+      "a": "NEMLİ BEZ",
+      "b": "SABUNLU SU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "sparkle"
+    },
+    {
+      "from": 278,
+      "to": 300,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-088-voice.wav"
+}

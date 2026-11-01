@@ -1,0 +1,298 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.525,
+    "words": [
+      "sakın",
+      "ütü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.525,
+    "end": 0.78,
+    "words": [
+      "sakın",
+      "ütü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.78,
+    "end": 1.076,
+    "words": [
+      "masası",
+      "kılıfınızın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.076,
+    "end": 1.459,
+    "words": [
+      "masası",
+      "kılıfınızın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.459,
+    "end": 1.785,
+    "words": [
+      "üzerindeki",
+      "o"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.785,
+    "end": 2.04,
+    "words": [
+      "üzerindeki",
+      "o"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.04,
+    "end": 2.295,
+    "words": [
+      "eski",
+      "leke"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.295,
+    "end": 2.512,
+    "words": [
+      "eski",
+      "leke"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.512,
+    "end": 2.685,
+    "words": [
+      "ve",
+      "izleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.685,
+    "end": 2.995,
+    "words": [
+      "ve",
+      "izleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.995,
+    "end": 3.435,
+    "words": [
+      "temizlemekle",
+      "uğraşmayıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.435,
+    "end": 3.875,
+    "words": [
+      "temizlemekle",
+      "uğraşmayıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.875,
+    "end": 4.312,
+    "words": [
+      "masayı",
+      "değiştirmeyin!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.312,
+    "end": 4.83,
+    "words": [
+      "masayı",
+      "değiştirmeyin!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.83,
+    "end": 5.274,
+    "words": [
+      "Çünkü",
+      "sabunlu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.274,
+    "end": 5.563,
+    "words": [
+      "Çünkü",
+      "sabunlu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.563,
+    "end": 5.852,
+    "words": [
+      "bezle",
+      "silmek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.852,
+    "end": 6.141,
+    "words": [
+      "bezle",
+      "silmek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.141,
+    "end": 6.6,
+    "words": [
+      "yeterlidir.",
+      "Nemli"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.6,
+    "end": 7.076,
+    "words": [
+      "yeterlidir.",
+      "Nemli"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.076,
+    "end": 7.399,
+    "words": [
+      "sabunlu",
+      "bezle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.399,
+    "end": 7.721,
+    "words": [
+      "sabunlu",
+      "bezle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.721,
+    "end": 8.044,
+    "words": [
+      "silin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.044,
+    "end": 8.31,
+    "words": [
+      "silin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.31,
+    "end": 8.576,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.576,
+    "end": 8.899,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.899,
+    "end": 9.289,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.289,
+    "end": 9.746,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.746,
+    "end": 10.103,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.103,
+    "end": 10.41,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.41,
+    "end": 10.766,
+    "words": [
+      "ütü",
+      "masasını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.766,
+    "end": 11.119,
+    "words": [
+      "ütü",
+      "masasını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.119,
+    "end": 11.728,
+    "words": [
+      "temizlerken."
+    ],
+    "active": 0
+  }
+]

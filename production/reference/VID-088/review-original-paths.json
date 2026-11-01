@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-088-1.png",
+      "sha256": "dd5f0238ac8b3697867d659353aba485d90880283c12471cac49b9d5d73569ea",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ütü masası kılıfı temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-088-2.png",
+      "sha256": "d39a550872e0d235e3b35ec50b51b5f2863d8baae8c4d4f7054b3194b489ffdb",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bezle silen el ve ütü masası; ütü yok."
+    },
+    {
+      "file": "../../remotion/public/VID-088-3.png",
+      "sha256": "66bb72febdefb1aaee8d34346c768bdc7753f900ee117a9c536465f52e5255cf",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ütü masasında katlı havlu."
+    },
+    {
+      "file": "../../remotion/public/VID-088-4.png",
+      "sha256": "0979bb9350044cb064ba1045346cb6352dd5b0f9e0f458a79bc85b559dece80d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Dik, destekli ütü masası, temsili."
+    }
+  ]
+}
