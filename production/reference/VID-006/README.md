@@ -1,3 +1,9 @@
-# VID-006 — hazırlanıyor, tamamlanmadı
+# VID-006 — V14
 
-Tek parça voice-01 `VID-006-raw.wav`, 1,45× `VID-006-fast.wav`; altyazı adayı `production/remotion/vid006-captions.json` (39/65 Vosk eşleşmesi, kalanı interpolasyon; dinlenmedi). Bu dizinde 1, 2 ve 4 numaralı olası görseller var; bunlar henüz render onaylı SHA manifestine alınmadı. 3. görselde damlalık fiziksel destek olmadan havada durduğu için reddedildi ve kaydedilmedi. Bir sonraki turda elde düzgün tutulan damlalık ve kavanozlu sahneyi yeniden üretip dikkatle incele veya el gerektirmeyen tutarlı bir kompozisyon kur. Kullanıcı 8 görsel/mesaj sınırı nedeniyle yeniden üretim bu turda yapılmadı. 24 saat sahnesine analog saat animasyonu ve hızlı tik tak ekle; bunun anlatıdaki etkinlik iddiasına kanıt olmadığı açık olsun. Koku giderme iddiası doğrulanmadı. Henüz video oluşturulmadı ve Drive'a yüklenmedi.
+ODS senaryosunun tek parça voice-01 sesi `VID-006-raw.wav`, 1,45× sürümü `VID-006-fast.wav`. `production/remotion/vid006-captions.json`: Vosk 39/65 kelime eşleştirdi, kalanı interpolasyon; ses baştan sona dinlenmedi ve altyazı kesin hizalama değildir.
+
+Görsel plan: fincanda telve, düz tabakta kurutma, tezgahta kase/vanilya yağı, buzdolabı rafında kase. İlk 3. görsel havada damlalık nedeniyle reddedildi; yeniden oluşturulan görselde damlalık tezgah üzerinde destekli durur. Dört kaynak tek tek incelendi; `review-original-paths.json` SHA onay kapısı render girdilerine aittir. Damlama eylemi canlandırılmamış, kompozisyon temsilidir. Kodlu küçük kahve/damla ikonları ve 24 saat anlatımı sırasında hızlı tik taklı analog saat kullanıldı.
+
+Render: 641 kare, 720×1280, 30 fps, 21,37 sn, 3.539.216 bayt. Tam teknik decode/blackdetect ve ses düzeyi kontrolü (maksimum −5,8 dB), ayrıca saat karesi incelendi. İşitsel dinleme ve tüm karelerin incelemesi yapılmadı. ODS'deki 24 saatte tüm kokuları giderme iddiası doğrulanmadı; saat animasyonu kanıt değildir.
+
+Drive: https://drive.google.com/file/d/19979tufTu4uBvXFVSvV1rBlY9yyL9mK6/view
