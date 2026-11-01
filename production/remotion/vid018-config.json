@@ -1,0 +1,94 @@
+{
+  "frames": 691,
+  "hook": [
+    "ELEKTRİKLENEN SAÇA",
+    "AVUÇ DOLUSU JÖLE SÜRME!"
+  ],
+  "voice": "VID-018-voice.wav",
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-018-1.png"
+    },
+    {
+      "from": 293,
+      "file": "VID-018-2.png"
+    },
+    {
+      "from": 418,
+      "file": "VID-018-3.png"
+    },
+    {
+      "from": 506,
+      "file": "VID-018-4.png"
+    }
+  ],
+  "result": 545,
+  "save": 623,
+  "clocks": [
+    {
+      "from": 189,
+      "to": 215
+    },
+    {
+      "from": 533,
+      "to": 562
+    }
+  ],
+  "events": [
+    {
+      "from": 189,
+      "to": 216,
+      "a": "10 SANİYE",
+      "b": "PRATİK YÖNTEM",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 309,
+      "to": 349,
+      "a": "TEMİZ",
+      "b": "DİŞ FIRÇASI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "brush"
+    },
+    {
+      "from": 388,
+      "to": 420,
+      "a": "SAÇ SPREYİNİ",
+      "b": "UZAKTAN SIK",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 451,
+      "to": 499,
+      "a": "YUKARIDAN AŞAĞI",
+      "b": "NAZİKÇE TARA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "brush"
+    },
+    {
+      "from": 533,
+      "to": 565,
+      "a": "GÜN BOYU",
+      "b": "YATIŞIK SAÇ",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 623,
+      "to": 652,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ]
+}

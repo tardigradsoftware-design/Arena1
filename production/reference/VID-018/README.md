@@ -1,0 +1,3 @@
+# VID-018 — render tamam, yükleme bekliyor
+
+ODS senaryosu, tek parça voice-01, 1,45×, incelenmiş dört görsel ve SHA manifesti burada; `production/remotion/vid018-*` V14 kurgu, saat ve tik tak. Render `production/videos/VID-018-v14.mp4`, 23,03 sn, 720×1280/30fps, 5.555.447 bayt; tam decode/blackdetect/tepe seviyeleri ve 3 saniyede bir örnek kare kontrol edildi. Vosk 48/68, kalanı interpolasyon, ses baştan sona dinlenmedi. Sıralamayı korumak için VID-017 yüklenmeden VID-018 Drive'a yüklenmedi. Sonraki turda 017'nin ardından VID-018.mp4 adıyla yükle; dosya ortam sıfırlanırsa manifestteki görselleri `production/remotion/public/` içine ve fast sesi VID-018-voice.wav adıyla kopyalayarak yeniden render et.

@@ -1,0 +1,3 @@
+# VID-017 — eksik görsel
+
+ODS metniyle tek parça voice-01 ses hazır; 1,45× sürüm burada, altyazı `production/remotion/vid017-captions.json` (Vosk 39/70 eşleşme, kalanı interpolasyon; ses dinlenmedi). 1, 3, 4 numaralı sahneler adaydır, henüz SHA onayı verilmedi. İkinci görselde ayakkabı ucu fiziksel destek olmadan havada gibi göründüğünden reddedildi; `production/images/VID-017-2.png` kullanma. Görsel kotası bu tur dolduğu için sonraki turda ayakkabı olmadan sadece tezgâha dayalı kâsede tek birleşmiş macun/deterjan karışımı ve kâseye dayalı diş fırçası üret, incele; sonra SHA manifesti, V14 kurgu, teknik ve örnek kare kontrolü ile Drive'a VID-017.mp4 olarak yükle. Zaman anlatımları için analog saat/tik tak ekle. Henüz render/yükleme yapılmadı.
