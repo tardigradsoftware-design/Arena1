@@ -1,0 +1,49 @@
+{
+  "frames": 373,
+  "hook": [
+    "KOLTUK LEKELERİ",
+    "NASIL TEMİZLENİR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-091-1.png"
+    },
+    {
+      "from": 165,
+      "file": "VID-091-2.png"
+    },
+    {
+      "from": 250,
+      "file": "VID-091-3.png"
+    },
+    {
+      "from": 310,
+      "file": "VID-091-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 303,
+  "clocks": [],
+  "events": [
+    {
+      "from": 169,
+      "to": 201,
+      "a": "KARBONAT",
+      "b": "VE SABUNLU SU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 303,
+      "to": 330,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-091-voice.wav"
+}

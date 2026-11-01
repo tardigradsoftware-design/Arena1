@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-091-1.png",
+      "sha256": "7b00d27835b89d34df6145bafb955abba847a6ca841ac30b84cab7dcf4b1f9d8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Lekeli koltuk minderi."
+    },
+    {
+      "file": "../../remotion/public/VID-091-2.png",
+      "sha256": "c3888f35c44d398a1ce5a408c06ecadc152140e7dfc132bfb673fba2d7f309a9",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Karbonat temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-091-3.png",
+      "sha256": "cc7c10b48228405e7c8959ec42afa31402b4253c40a0b3788ab360fce8280708",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Koltuk bezi ile silme temsili."
+    }
+  ]
+}

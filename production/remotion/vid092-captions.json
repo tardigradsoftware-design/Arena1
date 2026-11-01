@@ -1,0 +1,236 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.657,
+    "words": [
+      "sakın",
+      "patatesleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.657,
+    "end": 1.161,
+    "words": [
+      "sakın",
+      "patatesleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.161,
+    "end": 1.664,
+    "words": [
+      "soğanlarla",
+      "aynı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.664,
+    "end": 2.046,
+    "words": [
+      "soğanlarla",
+      "aynı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.046,
+    "end": 2.34,
+    "words": [
+      "sepete",
+      "koyarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.34,
+    "end": 2.685,
+    "words": [
+      "sepete",
+      "koyarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.685,
+    "end": 3.034,
+    "words": [
+      "hızla",
+      "çürümelerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.034,
+    "end": 3.371,
+    "words": [
+      "hızla",
+      "çürümelerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.371,
+    "end": 3.683,
+    "words": [
+      "sebep",
+      "olmayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.683,
+    "end": 4.088,
+    "words": [
+      "sebep",
+      "olmayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.088,
+    "end": 4.492,
+    "words": [
+      "Çünkü",
+      "soğan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.492,
+    "end": 4.777,
+    "words": [
+      "Çünkü",
+      "soğan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.777,
+    "end": 5.062,
+    "words": [
+      "gazı",
+      "çürütür."
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.062,
+    "end": 5.468,
+    "words": [
+      "gazı",
+      "çürütür."
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.468,
+    "end": 5.873,
+    "words": [
+      "Ayrı",
+      "yerlerde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.873,
+    "end": 6.188,
+    "words": [
+      "Ayrı",
+      "yerlerde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.188,
+    "end": 6.6,
+    "words": [
+      "saklayın.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.6,
+    "end": 6.96,
+    "words": [
+      "saklayın.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.96,
+    "end": 7.23,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.23,
+    "end": 7.523,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.523,
+    "end": 7.815,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.815,
+    "end": 8.22,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.22,
+    "end": 8.625,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.625,
+    "end": 9.06,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.06,
+    "end": 9.63,
+    "words": [
+      "patatesleri",
+      "saklarken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.63,
+    "end": 10.354,
+    "words": [
+      "patatesleri",
+      "saklarken."
+    ],
+    "active": 1
+  }
+]

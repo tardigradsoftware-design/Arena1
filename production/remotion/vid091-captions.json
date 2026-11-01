@@ -1,0 +1,298 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.681,
+    "words": [
+      "sakın",
+      "koltuğunuzun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.681,
+    "end": 1.134,
+    "words": [
+      "sakın",
+      "koltuğunuzun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.134,
+    "end": 1.588,
+    "words": [
+      "kumaşındaki",
+      "inatçı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.588,
+    "end": 1.965,
+    "words": [
+      "kumaşındaki",
+      "inatçı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.965,
+    "end": 2.213,
+    "words": [
+      "ter",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.213,
+    "end": 2.423,
+    "words": [
+      "ter",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.423,
+    "end": 2.783,
+    "words": [
+      "oturma",
+      "lekelerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.783,
+    "end": 3.278,
+    "words": [
+      "oturma",
+      "lekelerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.278,
+    "end": 3.773,
+    "words": [
+      "kimyasallarla",
+      "batırıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.773,
+    "end": 4.246,
+    "words": [
+      "kimyasallarla",
+      "batırıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.246,
+    "end": 4.696,
+    "words": [
+      "kumaşı",
+      "mahvetmeyin!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.696,
+    "end": 5.145,
+    "words": [
+      "kumaşı",
+      "mahvetmeyin!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.145,
+    "end": 5.565,
+    "words": [
+      "Çünkü",
+      "karbonat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.565,
+    "end": 5.895,
+    "words": [
+      "Çünkü",
+      "karbonat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.895,
+    "end": 6.12,
+    "words": [
+      "ve",
+      "ılık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.12,
+    "end": 6.348,
+    "words": [
+      "ve",
+      "ılık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.348,
+    "end": 6.623,
+    "words": [
+      "sabunlu",
+      "su"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.623,
+    "end": 6.898,
+    "words": [
+      "sabunlu",
+      "su"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.898,
+    "end": 7.173,
+    "words": [
+      "lekeyi",
+      "yok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.173,
+    "end": 7.42,
+    "words": [
+      "lekeyi",
+      "yok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.42,
+    "end": 7.822,
+    "words": [
+      "eder.",
+      "Karbonat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.822,
+    "end": 8.288,
+    "words": [
+      "eder.",
+      "Karbonat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.288,
+    "end": 8.633,
+    "words": [
+      "serpip",
+      "silin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.633,
+    "end": 8.977,
+    "words": [
+      "serpip",
+      "silin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.977,
+    "end": 9.248,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.248,
+    "end": 9.491,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.491,
+    "end": 9.784,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.784,
+    "end": 10.095,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.095,
+    "end": 10.485,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.485,
+    "end": 10.838,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.838,
+    "end": 11.22,
+    "words": [
+      "unutma,",
+      "koltukları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.22,
+    "end": 11.73,
+    "words": [
+      "unutma,",
+      "koltukları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.73,
+    "end": 12.422,
+    "words": [
+      "temizlerken."
+    ],
+    "active": 0
+  }
+]
