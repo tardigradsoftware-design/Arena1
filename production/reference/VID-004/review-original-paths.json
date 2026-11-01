@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../remotion/public/VID-004-1.png",
+      "sha256": "97561d132438d8cede6af35a3debd43e9c500c6753b6839bfedd75965bd3ed5b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Fişi çekilmiş, kirli ütü tabanı ve fiş görülebiliyor."
+    },
+    {
+      "file": "../remotion/public/VID-004-2.png",
+      "sha256": "2b77712c8a59a98115e91174402528f62f8006b3972a5434def713582192813e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kirli, fişi çekilmiş ütü ve yanında bez; kılavuz adımı temsili."
+    },
+    {
+      "file": "../remotion/public/VID-004-3.png",
+      "sha256": "861f4704c2fc2c003c403a78535672f1634ba18ba29526b610a6a7839809955a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Eldeki bez, ütü tabanıyla temas ediyor; dört parmak görünür, başparmak örtülü."
+    },
+    {
+      "file": "../remotion/public/VID-004-4.png",
+      "sha256": "877db55be39c10705859a576a8fe133b18017ed52c83269368f25ae53b55fa67",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Fişi çekilmiş temiz ütü ve bez; temsili sonuç."
+    }
+  ]
+}

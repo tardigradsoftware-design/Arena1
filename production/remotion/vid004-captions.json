@@ -1,0 +1,604 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.551,
+    "words": [
+      "Ütünün",
+      "tabanındaki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.551,
+    "end": 0.892,
+    "words": [
+      "Ütünün",
+      "tabanındaki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.892,
+    "end": 1.206,
+    "words": [
+      "yanık",
+      "lekesini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.206,
+    "end": 1.52,
+    "words": [
+      "yanık",
+      "lekesini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.52,
+    "end": 1.834,
+    "words": [
+      "sakın",
+      "bıçakla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.834,
+    "end": 2.213,
+    "words": [
+      "sakın",
+      "bıçakla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.213,
+    "end": 2.658,
+    "words": [
+      "kazıma!",
+      "Önce"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.658,
+    "end": 3.011,
+    "words": [
+      "kazıma!",
+      "Önce"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.011,
+    "end": 3.274,
+    "words": [
+      "ütünün",
+      "fişini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.274,
+    "end": 3.525,
+    "words": [
+      "ütünün",
+      "fişini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.525,
+    "end": 3.72,
+    "words": [
+      "çek",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.72,
+    "end": 3.93,
+    "words": [
+      "çek",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.93,
+    "end": 4.245,
+    "words": [
+      "tamamen",
+      "soğumasını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.245,
+    "end": 4.605,
+    "words": [
+      "tamamen",
+      "soğumasını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.605,
+    "end": 5.048,
+    "words": [
+      "bekle.",
+      "Sonra"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.048,
+    "end": 5.479,
+    "words": [
+      "bekle.",
+      "Sonra"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.479,
+    "end": 5.816,
+    "words": [
+      "cihazının",
+      "kullanım"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.816,
+    "end": 6.18,
+    "words": [
+      "cihazının",
+      "kullanım"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.18,
+    "end": 6.57,
+    "words": [
+      "kılavuzunda",
+      "önerilen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.57,
+    "end": 6.89,
+    "words": [
+      "kılavuzunda",
+      "önerilen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.89,
+    "end": 7.139,
+    "words": [
+      "ütü",
+      "tabanı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.139,
+    "end": 7.518,
+    "words": [
+      "ütü",
+      "tabanı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.518,
+    "end": 8.027,
+    "words": [
+      "temizleyicisini,",
+      "talimatlara"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.027,
+    "end": 8.536,
+    "words": [
+      "temizleyicisini,",
+      "talimatlara"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.536,
+    "end": 8.94,
+    "words": [
+      "uygun",
+      "şekilde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.94,
+    "end": 9.262,
+    "words": [
+      "uygun",
+      "şekilde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.262,
+    "end": 9.54,
+    "words": [
+      "yumuşak",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.54,
+    "end": 9.754,
+    "words": [
+      "yumuşak",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.754,
+    "end": 9.971,
+    "words": [
+      "bezle",
+      "uygula."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.971,
+    "end": 10.425,
+    "words": [
+      "bezle",
+      "uygula."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.425,
+    "end": 10.973,
+    "words": [
+      "Kalıntıları",
+      "hafif"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.973,
+    "end": 11.303,
+    "words": [
+      "Kalıntıları",
+      "hafif"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.303,
+    "end": 11.511,
+    "words": [
+      "nemli",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.511,
+    "end": 11.72,
+    "words": [
+      "nemli",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.72,
+    "end": 11.976,
+    "words": [
+      "bezle",
+      "silip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.976,
+    "end": 12.232,
+    "words": [
+      "bezle",
+      "silip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.232,
+    "end": 12.487,
+    "words": [
+      "tabanı",
+      "iyice"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.487,
+    "end": 12.793,
+    "words": [
+      "tabanı",
+      "iyice"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.793,
+    "end": 13.148,
+    "words": [
+      "kurula.",
+      "Buhar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.148,
+    "end": 13.503,
+    "words": [
+      "kurula.",
+      "Buhar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.503,
+    "end": 13.857,
+    "words": [
+      "deliklerine",
+      "sıvı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.857,
+    "end": 14.213,
+    "words": [
+      "deliklerine",
+      "sıvı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.213,
+    "end": 14.568,
+    "words": [
+      "kaçırmamaya",
+      "dikkat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.568,
+    "end": 14.835,
+    "words": [
+      "kaçırmamaya",
+      "dikkat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.835,
+    "end": 15.124,
+    "words": [
+      "et.",
+      "Taban"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.124,
+    "end": 15.521,
+    "words": [
+      "et.",
+      "Taban"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.521,
+    "end": 15.873,
+    "words": [
+      "kaplamasını",
+      "korumak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.873,
+    "end": 16.178,
+    "words": [
+      "kaplamasını",
+      "korumak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.178,
+    "end": 16.515,
+    "words": [
+      "için",
+      "aşındırıcı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.515,
+    "end": 16.885,
+    "words": [
+      "için",
+      "aşındırıcı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.885,
+    "end": 17.175,
+    "words": [
+      "sünger",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.175,
+    "end": 17.385,
+    "words": [
+      "sünger",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.385,
+    "end": 17.666,
+    "words": [
+      "keskin",
+      "aletlerden"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.666,
+    "end": 18.019,
+    "words": [
+      "keskin",
+      "aletlerden"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.019,
+    "end": 18.293,
+    "words": [
+      "uzak",
+      "dur."
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.293,
+    "end": 18.623,
+    "words": [
+      "uzak",
+      "dur."
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.623,
+    "end": 18.983,
+    "words": [
+      "Bu",
+      "güvenli"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.983,
+    "end": 19.267,
+    "words": [
+      "Bu",
+      "güvenli"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.267,
+    "end": 19.575,
+    "words": [
+      "temizlik",
+      "adımlarını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.575,
+    "end": 19.875,
+    "words": [
+      "temizlik",
+      "adımlarını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.875,
+    "end": 20.265,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.265,
+    "end": 20.625,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.625,
+    "end": 20.959,
+    "words": [
+      "unutma,",
+      "ütünün"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.959,
+    "end": 21.386,
+    "words": [
+      "unutma,",
+      "ütünün"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.386,
+    "end": 21.799,
+    "words": [
+      "tabanındaki",
+      "lekeleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.799,
+    "end": 22.198,
+    "words": [
+      "tabanındaki",
+      "lekeleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.198,
+    "end": 22.833,
+    "words": [
+      "temizlerken."
+    ],
+    "active": 0
+  }
+]

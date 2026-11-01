@@ -6,8 +6,11 @@ root=Path(__file__).resolve().parent.parent
 num=int(sys.argv[1]); vid=f'VID-{num:03d}'
 r=ET.fromstring(zipfile.ZipFile(root/'google_drive/Senryolar.ods').read('content.xml'))
 ns={'x':'urn:oasis:names:tc:opendocument:xmlns:text:1.0'}
-raw=next(''.join(p.itertext()) for p in r.findall('.//x:p',ns) if ''.join(p.itertext()).startswith(vid+';'))
-text=raw.split(';',3)[3].split(';Vertical',1)[0]
+if len(sys.argv)>2:
+ text=Path(sys.argv[2]).read_text(encoding='utf-8').strip()
+else:
+ raw=next(''.join(p.itertext()) for p in r.findall('.//x:p',ns) if ''.join(p.itertext()).startswith(vid+';'))
+ text=raw.split(';',3)[3].split(';Vertical',1)[0]
 words=re.findall(r'[\wÇĞİÖŞÜçğıöşü]+(?:[’\'][\w]+)?[.,!?]?',text)
 result=json.loads((root/f'production/audio/{vid}-audit.json').read_text())
 found=result['vosk_words']; duration=result['seconds_analyzed']
