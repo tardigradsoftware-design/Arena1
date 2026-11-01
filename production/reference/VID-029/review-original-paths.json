@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-029-1.png",
+      "sha256": "895f1273b6a394e4a0d27a483f7d8603eada6ed0d66f0eba7a951b81c47e1b83",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ayna üzerinde su damlaları, banyo gerçekçi."
+    },
+    {
+      "file": "../../remotion/public/VID-029-2.png",
+      "sha256": "10016e00851e1e4cd00c3429515bdfda6f80fd7c994791aa464042e9d405d698",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Mikrofiber bez üzerinde bir damla ve sıvı sabun şişesi; durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-029-4.png",
+      "sha256": "2dad77a6a47afd57e131d8b1e5ab2603c0b839d82829d28f2195c6a28e81ea80",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aynı banyo ve ayna açık; sonuç temsili."
+    }
+  ]
+}

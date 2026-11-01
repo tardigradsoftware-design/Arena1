@@ -1,0 +1,68 @@
+{
+  "frames": 701,
+  "hook": [
+    "BUĞULANAN AYNAYI",
+    "HAVLUYLA SİLME!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-029-1.png"
+    },
+    {
+      "from": 276,
+      "file": "VID-029-2.png"
+    },
+    {
+      "from": 430,
+      "file": "VID-029-4.png"
+    }
+  ],
+  "result": 480,
+  "save": 632,
+  "clocks": [
+    {
+      "from": 570,
+      "to": 596
+    }
+  ],
+  "events": [
+    {
+      "from": 290,
+      "to": 325,
+      "a": "KURU",
+      "b": "MİKROFİBER BEZ",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 339,
+      "to": 374,
+      "a": "BİR DAMLA",
+      "b": "SIVI SABUN",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 570,
+      "to": 599,
+      "a": "HAFTALARCA",
+      "b": "ETKİ",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 632,
+      "to": 662,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-029-voice.wav"
+}
