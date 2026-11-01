@@ -1,0 +1,542 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.615,
+    "words": [
+      "sakın",
+      "gardırobunda"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.615,
+    "end": 1.035,
+    "words": [
+      "sakın",
+      "gardırobunda"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.035,
+    "end": 1.388,
+    "words": [
+      "veya",
+      "kıyafet"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.388,
+    "end": 1.751,
+    "words": [
+      "veya",
+      "kıyafet"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.751,
+    "end": 2.194,
+    "words": [
+      "çekmecelerinde",
+      "oluşan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.194,
+    "end": 2.558,
+    "words": [
+      "çekmecelerinde",
+      "oluşan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.558,
+    "end": 2.843,
+    "words": [
+      "o",
+      "rutubet"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.843,
+    "end": 3.127,
+    "words": [
+      "o",
+      "rutubet"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.127,
+    "end": 3.412,
+    "words": [
+      "kokusuna",
+      "razı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.412,
+    "end": 3.705,
+    "words": [
+      "kokusuna",
+      "razı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.705,
+    "end": 4.11,
+    "words": [
+      "olma!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.11,
+    "end": 4.559,
+    "words": [
+      "olma!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.559,
+    "end": 4.948,
+    "words": [
+      "kıyafetlerinin",
+      "her"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.948,
+    "end": 5.301,
+    "words": [
+      "kıyafetlerinin",
+      "her"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.301,
+    "end": 5.625,
+    "words": [
+      "açtığında",
+      "mis"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.625,
+    "end": 5.887,
+    "words": [
+      "açtığında",
+      "mis"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.887,
+    "end": 6.154,
+    "words": [
+      "gibi",
+      "kokmasını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.154,
+    "end": 6.491,
+    "words": [
+      "gibi",
+      "kokmasını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.491,
+    "end": 6.83,
+    "words": [
+      "sağlayacak",
+      "çok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.83,
+    "end": 7.12,
+    "words": [
+      "sağlayacak",
+      "çok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.12,
+    "end": 7.48,
+    "words": [
+      "eski",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.48,
+    "end": 7.58,
+    "words": [
+      "eski",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.58,
+    "end": 7.87,
+    "words": [
+      "etkili",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.87,
+    "end": 7.98,
+    "words": [
+      "etkili",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.98,
+    "end": 8.1,
+    "words": [
+      "ev",
+      "sırrı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.1,
+    "end": 8.32,
+    "words": [
+      "ev",
+      "sırrı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.32,
+    "end": 8.5,
+    "words": [
+      "var.",
+      "Favori"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.5,
+    "end": 9.1,
+    "words": [
+      "var.",
+      "Favori"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.1,
+    "end": 9.35,
+    "words": [
+      "kokulu",
+      "katı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.35,
+    "end": 9.64,
+    "words": [
+      "kokulu",
+      "katı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.64,
+    "end": 9.9,
+    "words": [
+      "sabununu",
+      "ambalajından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.9,
+    "end": 10.34,
+    "words": [
+      "sabununu",
+      "ambalajından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.34,
+    "end": 10.72,
+    "words": [
+      "çıkarıp",
+      "tül"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.72,
+    "end": 10.98,
+    "words": [
+      "çıkarıp",
+      "tül"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.98,
+    "end": 11.12,
+    "words": [
+      "bir",
+      "keseye"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.12,
+    "end": 11.37,
+    "words": [
+      "bir",
+      "keseye"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.37,
+    "end": 11.72,
+    "words": [
+      "koy",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.72,
+    "end": 11.82,
+    "words": [
+      "koy",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.82,
+    "end": 12.46,
+    "words": [
+      "kıyafetlerin",
+      "arasına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.46,
+    "end": 12.66,
+    "words": [
+      "kıyafetlerin",
+      "arasına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.66,
+    "end": 13.055,
+    "words": [
+      "yerleştir.",
+      "Sabun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.055,
+    "end": 13.485,
+    "words": [
+      "yerleştir.",
+      "Sabun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.485,
+    "end": 13.915,
+    "words": [
+      "erimez",
+      "ama"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.915,
+    "end": 14.28,
+    "words": [
+      "erimez",
+      "ama"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.28,
+    "end": 14.58,
+    "words": [
+      "yaydığı",
+      "aromatik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.58,
+    "end": 14.88,
+    "words": [
+      "yaydığı",
+      "aromatik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.88,
+    "end": 15.18,
+    "words": [
+      "koku",
+      "aylarca"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.18,
+    "end": 15.525,
+    "words": [
+      "koku",
+      "aylarca"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.525,
+    "end": 15.915,
+    "words": [
+      "dolabını",
+      "tazeler."
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.915,
+    "end": 16.305,
+    "words": [
+      "dolabını",
+      "tazeler."
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.305,
+    "end": 16.598,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.598,
+    "end": 16.793,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.793,
+    "end": 17.03,
+    "words": [
+      "ev",
+      "hilesini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.03,
+    "end": 17.309,
+    "words": [
+      "ev",
+      "hilesini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.309,
+    "end": 17.593,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.593,
+    "end": 17.943,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.943,
+    "end": 18.262,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.262,
+    "end": 18.621,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.621,
+    "end": 19.064,
+    "words": [
+      "kıyafet",
+      "dolabında."
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.064,
+    "end": 19.657,
+    "words": [
+      "kıyafet",
+      "dolabında."
+    ],
+    "active": 1
+  }
+]

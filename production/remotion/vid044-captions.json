@@ -1,0 +1,532 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.574,
+    "words": [
+      "sakın",
+      "aldığın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.574,
+    "end": 0.968,
+    "words": [
+      "sakın",
+      "aldığın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.968,
+    "end": 1.373,
+    "words": [
+      "yumurtaların",
+      "taze"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.373,
+    "end": 1.68,
+    "words": [
+      "yumurtaların",
+      "taze"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.68,
+    "end": 1.943,
+    "words": [
+      "olup",
+      "olmadığını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.943,
+    "end": 2.295,
+    "words": [
+      "olup",
+      "olmadığını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.295,
+    "end": 2.685,
+    "words": [
+      "bilmeden",
+      "yemeklerde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.685,
+    "end": 3.135,
+    "words": [
+      "bilmeden",
+      "yemeklerde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.135,
+    "end": 3.645,
+    "words": [
+      "kullanma!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.645,
+    "end": 4.069,
+    "words": [
+      "kullanma!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.069,
+    "end": 4.406,
+    "words": [
+      "bozulmuş",
+      "yumurtayı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.406,
+    "end": 4.774,
+    "words": [
+      "bozulmuş",
+      "yumurtayı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.774,
+    "end": 5.171,
+    "words": [
+      "anlamanın",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.171,
+    "end": 5.497,
+    "words": [
+      "anlamanın",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.497,
+    "end": 5.812,
+    "words": [
+      "sağlığını",
+      "korumanın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.812,
+    "end": 6.15,
+    "words": [
+      "sağlığını",
+      "korumanın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.15,
+    "end": 6.45,
+    "words": [
+      "üç",
+      "saniyelik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.45,
+    "end": 6.75,
+    "words": [
+      "üç",
+      "saniyelik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.75,
+    "end": 7.015,
+    "words": [
+      "çok",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.015,
+    "end": 7.202,
+    "words": [
+      "çok",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.202,
+    "end": 7.344,
+    "words": [
+      "bir",
+      "su"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.344,
+    "end": 7.486,
+    "words": [
+      "bir",
+      "su"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.486,
+    "end": 7.656,
+    "words": [
+      "testi",
+      "var."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.656,
+    "end": 7.94,
+    "words": [
+      "testi",
+      "var."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.94,
+    "end": 8.31,
+    "words": [
+      "Yumurtayı",
+      "derin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.31,
+    "end": 8.68,
+    "words": [
+      "Yumurtayı",
+      "derin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.68,
+    "end": 8.955,
+    "words": [
+      "bir",
+      "kase"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.955,
+    "end": 9.165,
+    "words": [
+      "bir",
+      "kase"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.165,
+    "end": 9.375,
+    "words": [
+      "soğuk",
+      "suyun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.375,
+    "end": 9.57,
+    "words": [
+      "soğuk",
+      "suyun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.57,
+    "end": 9.803,
+    "words": [
+      "içine",
+      "bırak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.803,
+    "end": 10.147,
+    "words": [
+      "içine",
+      "bırak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.147,
+    "end": 10.49,
+    "words": [
+      "yumurta",
+      "dibe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.49,
+    "end": 10.74,
+    "words": [
+      "yumurta",
+      "dibe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.74,
+    "end": 10.99,
+    "words": [
+      "çöküp",
+      "yatay"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.99,
+    "end": 11.28,
+    "words": [
+      "çöküp",
+      "yatay"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.28,
+    "end": 11.73,
+    "words": [
+      "duruyorsa",
+      "taptazedir,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.73,
+    "end": 12.3,
+    "words": [
+      "duruyorsa",
+      "taptazedir,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.3,
+    "end": 12.698,
+    "words": [
+      "yukarı",
+      "doğru"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.698,
+    "end": 12.986,
+    "words": [
+      "yukarı",
+      "doğru"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.986,
+    "end": 13.339,
+    "words": [
+      "dikiliyorsa",
+      "birkaç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.339,
+    "end": 13.643,
+    "words": [
+      "dikiliyorsa",
+      "birkaç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.643,
+    "end": 13.905,
+    "words": [
+      "günlük",
+      "demektir,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.905,
+    "end": 14.325,
+    "words": [
+      "günlük",
+      "demektir,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.325,
+    "end": 14.745,
+    "words": [
+      "suyun",
+      "yüzeyine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.745,
+    "end": 15.052,
+    "words": [
+      "suyun",
+      "yüzeyine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.052,
+    "end": 15.435,
+    "words": [
+      "tamamen",
+      "çıkıyorsa"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.435,
+    "end": 15.934,
+    "words": [
+      "tamamen",
+      "çıkıyorsa"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.934,
+    "end": 16.511,
+    "words": [
+      "bozulmuştur.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.511,
+    "end": 16.897,
+    "words": [
+      "bozulmuştur.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.897,
+    "end": 17.152,
+    "words": [
+      "hayat",
+      "kurtaran"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.152,
+    "end": 17.46,
+    "words": [
+      "hayat",
+      "kurtaran"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.46,
+    "end": 17.753,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.753,
+    "end": 18.053,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.053,
+    "end": 18.45,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.45,
+    "end": 18.817,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.817,
+    "end": 19.179,
+    "words": [
+      "unutma,",
+      "dolaptaki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.179,
+    "end": 19.648,
+    "words": [
+      "unutma,",
+      "dolaptaki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.648,
+    "end": 20.35,
+    "words": [
+      "yumurtaların."
+    ],
+    "active": 0
+  }
+]
