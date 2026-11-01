@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-013-1.png",
+      "sha256": "31694245b624b860f194e23a9ecc55f97529e529d6f920c6b7f892c932ccef46",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kaynar makarna suyu tencerede; kaşık tezgâhta."
+    },
+    {
+      "file": "../../remotion/public/VID-013-2.png",
+      "sha256": "a60278df1796b8715901f3a13ba8380034194c7e6fb7ef30235d8781ec81ed8b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tahta kaşık tencerenin iki kenarına dayanıyor."
+    },
+    {
+      "file": "../../remotion/public/VID-013-3.png",
+      "sha256": "054356cbb7770f77b2d0a7a14e6b9e70ac67a30c8e42b2081f44f844ee377d2b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kaşık iki kenardan desteklenmiş, köpük tencere içinde."
+    },
+    {
+      "file": "../../remotion/public/VID-013-4.png",
+      "sha256": "cb63204def50a710374cea2e679138f9ec22af96dd441ccd9914f3a9f84d4beb",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kaşık kenarlara dayanıyor, insan kolu yakın konumda gözetimi temsil ediyor."
+    }
+  ]
+}

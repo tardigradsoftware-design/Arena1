@@ -1,0 +1,586 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.54,
+    "words": [
+      "Sakın",
+      "ocağın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.54,
+    "end": 0.868,
+    "words": [
+      "Sakın",
+      "ocağın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.868,
+    "end": 1.195,
+    "words": [
+      "başından",
+      "ayrılırken"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.195,
+    "end": 1.543,
+    "words": [
+      "başından",
+      "ayrılırken"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.543,
+    "end": 1.914,
+    "words": [
+      "tencereyi",
+      "açık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.914,
+    "end": 2.242,
+    "words": [
+      "tencereyi",
+      "açık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.242,
+    "end": 2.603,
+    "words": [
+      "bırakma!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.603,
+    "end": 3.037,
+    "words": [
+      "bırakma!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.037,
+    "end": 3.409,
+    "words": [
+      "makarna",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.409,
+    "end": 3.718,
+    "words": [
+      "makarna",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.718,
+    "end": 4.027,
+    "words": [
+      "süt",
+      "kaynarken"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.027,
+    "end": 4.337,
+    "words": [
+      "süt",
+      "kaynarken"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.337,
+    "end": 4.646,
+    "words": [
+      "köpürüp",
+      "ocağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.646,
+    "end": 4.979,
+    "words": [
+      "köpürüp",
+      "ocağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.979,
+    "end": 5.338,
+    "words": [
+      "batırmasını",
+      "önlemeye"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.338,
+    "end": 5.625,
+    "words": [
+      "batırmasını",
+      "önlemeye"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.625,
+    "end": 5.844,
+    "words": [
+      "bir",
+      "tahta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.844,
+    "end": 6.075,
+    "words": [
+      "bir",
+      "tahta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.075,
+    "end": 6.322,
+    "words": [
+      "kaşık",
+      "yardımcı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.322,
+    "end": 6.615,
+    "words": [
+      "kaşık",
+      "yardımcı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.615,
+    "end": 7.117,
+    "words": [
+      "olabilir.",
+      "Kaynayan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.117,
+    "end": 7.631,
+    "words": [
+      "olabilir.",
+      "Kaynayan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.631,
+    "end": 7.983,
+    "words": [
+      "tencerenin",
+      "tam"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.983,
+    "end": 8.294,
+    "words": [
+      "tencerenin",
+      "tam"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.294,
+    "end": 8.587,
+    "words": [
+      "ortasına",
+      "yatay"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.587,
+    "end": 8.901,
+    "words": [
+      "ortasına",
+      "yatay"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.901,
+    "end": 9.194,
+    "words": [
+      "şekilde",
+      "kuru"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.194,
+    "end": 9.398,
+    "words": [
+      "şekilde",
+      "kuru"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.398,
+    "end": 9.547,
+    "words": [
+      "bir",
+      "tahta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.547,
+    "end": 9.735,
+    "words": [
+      "bir",
+      "tahta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.735,
+    "end": 9.982,
+    "words": [
+      "kaşık",
+      "yerleştir."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.982,
+    "end": 10.455,
+    "words": [
+      "kaşık",
+      "yerleştir."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.455,
+    "end": 10.95,
+    "words": [
+      "Yükselen",
+      "sıcak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.95,
+    "end": 11.336,
+    "words": [
+      "Yükselen",
+      "sıcak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.336,
+    "end": 11.778,
+    "words": [
+      "köpükler",
+      "tahta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.778,
+    "end": 12.219,
+    "words": [
+      "köpükler",
+      "tahta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.219,
+    "end": 12.661,
+    "words": [
+      "yüzeye",
+      "değdiğinde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.661,
+    "end": 13.103,
+    "words": [
+      "yüzeye",
+      "değdiğinde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.103,
+    "end": 13.544,
+    "words": [
+      "baloncukların",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.544,
+    "end": 13.838,
+    "words": [
+      "baloncukların",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.838,
+    "end": 13.985,
+    "words": [
+      "kısmı",
+      "patlayabilir."
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.985,
+    "end": 14.132,
+    "words": [
+      "kısmı",
+      "patlayabilir."
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.132,
+    "end": 14.325,
+    "words": [
+      "Ama",
+      "kaşık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.325,
+    "end": 14.584,
+    "words": [
+      "Ama",
+      "kaşık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.584,
+    "end": 14.861,
+    "words": [
+      "taşmayı",
+      "her"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.861,
+    "end": 15.09,
+    "words": [
+      "taşmayı",
+      "her"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.09,
+    "end": 15.338,
+    "words": [
+      "zaman",
+      "engellemez"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.338,
+    "end": 15.765,
+    "words": [
+      "zaman",
+      "engellemez"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.765,
+    "end": 16.186,
+    "words": [
+      "ocağın",
+      "başından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.186,
+    "end": 16.509,
+    "words": [
+      "ocağın",
+      "başından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.509,
+    "end": 16.793,
+    "words": [
+      "ayrılma",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.793,
+    "end": 17.056,
+    "words": [
+      "ayrılma",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.056,
+    "end": 17.355,
+    "words": [
+      "kaynamayı",
+      "kontrol"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.355,
+    "end": 17.617,
+    "words": [
+      "kaynamayı",
+      "kontrol"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.617,
+    "end": 17.91,
+    "words": [
+      "et.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.91,
+    "end": 18.188,
+    "words": [
+      "et.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.188,
+    "end": 18.433,
+    "words": [
+      "pratik",
+      "ipucunu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.433,
+    "end": 18.725,
+    "words": [
+      "pratik",
+      "ipucunu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.725,
+    "end": 19.02,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.02,
+    "end": 19.425,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.425,
+    "end": 19.8,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.8,
+    "end": 20.168,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.168,
+    "end": 20.647,
+    "words": [
+      "makarna",
+      "haşlarken"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.647,
+    "end": 21.111,
+    "words": [
+      "makarna",
+      "haşlarken"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.111,
+    "end": 21.808,
+    "words": [
+      "tencereyi."
+    ],
+    "active": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-014-1.png",
+      "sha256": "49d08a4bf7473d963ff86b175f0284f441836d08d708d5f4782cf955bd9b99fc",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek el, beş parmak ve tırnaklar gerçekçi; banyo tezgahında."
+    },
+    {
+      "file": "../../remotion/public/VID-014-2.png",
+      "sha256": "cca165bd33ab95c7f6763cc7e7ad854563000f7f88c52739bc05f7bdb58285d9",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Limon, diş macunu ve fırça destekli ve ayrı nesneler."
+    },
+    {
+      "file": "../../remotion/public/VID-014-3.png",
+      "sha256": "f79a9ab88465d215054924fed0a1125c2feff6b780174bc9c0dd2dd970f8449f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Beş parmaklı elde tırnaklarda krem, fırça havluya dayanıyor; uygulama durağan temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-014-4.png",
+      "sha256": "35f63b0e775922182f35397cbeeb9e6e7f5f17f05a50577722f5b18a20bff5df",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek el beş parmak ve doğal tırnaklar; temsili sonuç."
+    }
+  ]
+}

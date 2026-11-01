@@ -1,0 +1,66 @@
+{
+  "frames": 655,
+  "hook": [
+    "OCAĞI",
+    "GÖZETİMSİZ BIRAKMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-013-1.png"
+    },
+    {
+      "from": 215,
+      "file": "VID-013-2.png"
+    },
+    {
+      "from": 314,
+      "file": "VID-013-3.png"
+    },
+    {
+      "from": 425,
+      "file": "VID-013-4.png"
+    }
+  ],
+  "result": 490,
+  "save": 570,
+  "events": [
+    {
+      "from": 235,
+      "to": 288,
+      "a": "TAHTA KAŞIĞI",
+      "b": "KENARLARA YERLEŞTİR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "pot"
+    },
+    {
+      "from": 426,
+      "to": 480,
+      "a": "TAŞMAYI",
+      "b": "HER ZAMAN ÖNLEMEZ",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "warning"
+    },
+    {
+      "from": 481,
+      "to": 537,
+      "a": "OCAĞIN BAŞINDAN",
+      "b": "AYRILMA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "warning"
+    },
+    {
+      "from": 570,
+      "to": 602,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-013-voice.wav"
+}
