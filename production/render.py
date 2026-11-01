@@ -43,14 +43,14 @@ for num in args.videos:
    if t<dur: f.write('Dialogue: 0,%s,%s,Water,,0,0,0,,{\\fad(400,400)}kadincayasam\n'%(stamp(t),stamp(min(t+2.5,dur))))
   overlays(f, num, cuts)
  cmd=[ff,'-y','-loglevel','error','-filter_complex_threads','1'];
- transition = 0.36
+ transition = 0.24
  lengths = [cuts[0] + transition/2, cuts[1]-cuts[0] + transition, cuts[2]-cuts[1] + transition, dur-cuts[2] + transition/2]
  for i in range(1,5):cmd+=['-loop','1','-framerate','30','-t',str(lengths[i-1]+.1),'-i',f'{root}/images/{id}-{i}.png']
  cmd+=['-i',wav,'-stream_loop','-1','-i',args.music,'-i',root+'/assets/whoosh.wav'];
  if args.foley: cmd += ['-i', args.foley]
  filters=[]
  for i in range(4): filters.append(f'[{i}:v]scale=756:1344:force_original_aspect_ratio=increase,crop=756:1344,zoompan=z=\'min(1.035,1+on*0.00016)\':x=\'iw/2-iw/zoom/2\':y=\'ih/2-ih/zoom/2\':d=1:s=720x1280:fps=30,setsar=1,fps=30,trim=duration={lengths[i]},settb=AVTB,setpts=PTS-STARTPTS,fps=30,settb=1/30,format=yuv420p[v{i}]')
- filters += [f'[v0][v1]xfade=transition=fade:duration={transition}:offset={cuts[0]-transition/2},fps=30,settb=1/30[x1]', f'[x1][v2]xfade=transition=fade:duration={transition}:offset={cuts[1]-transition/2},fps=30,settb=1/30[x2]', f'[x2][v3]xfade=transition=fade:duration={transition}:offset={cuts[2]-transition/2},ass='+ass+'[v]', f'[5:a]volume=0.10,atrim=duration={dur},afade=t=out:st={max(0,dur-1)}:d=1[music]', '[6:a]asplit=3[w0][w1][w2]']
+ filters += [f'[v0][v1]xfade=transition=slideleft:duration={transition}:offset={cuts[0]-transition/2},fps=30,settb=1/30[x1]', f'[x1][v2]xfade=transition=slideright:duration={transition}:offset={cuts[1]-transition/2},fps=30,settb=1/30[x2]', f'[x2][v3]xfade=transition=slideleft:duration={transition}:offset={cuts[2]-transition/2},ass='+ass+'[v]', f'[5:a]volume=0.10,atrim=duration={dur},afade=t=out:st={max(0,dur-1)}:d=1[music]', '[6:a]asplit=3[w0][w1][w2]']
  tracks=['[4:a]','[music]']
  for i,t in enumerate(cuts):
   delay=int(max(0,t-transition/2)*1000); filters.append(f'[w{i}]volume=0.13,adelay={delay}:all=1[fx{i}]'); tracks.append(f'[fx{i}]')
