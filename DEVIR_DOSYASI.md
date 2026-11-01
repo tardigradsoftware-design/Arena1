@@ -98,3 +98,7 @@ Kullanıcı her zaman senaryoya bağlı kalınmasını, tekrar onay istenmemesin
 ### VID-017 ve VID-018 tamamlandı
 
 017 https://drive.google.com/file/d/1K-62p0-nq23QOTxmcUv8DvlDKHi2Moiq/view (23,67 sn, 3.867.324 bayt), 018 https://drive.google.com/file/d/1ggBISc82niPf43kfrsdEMMmCYjrfjeEq/view (23,03 sn, 5.555.447 bayt) sırasıyla ana klasöre yüklendi. 017'nin reddedilen havadaki ayakkabı sahnesi yerine kâsede tek karışım/fırça görseli üretildi; kaynaklar, SHA manifestleri ve kod `production/reference/VID-017/`, `VID-018/`, `production/remotion/vid017-*`, `vid018-*`. İkisi decode/blackdetect, ses düzeyi ve 3 saniyede bir örnek kare kontrol edildi. 017 Vosk 39/70, 018 48/68; kalanlar interpolasyon, sesler baştan sona dinlenmedi. Önceki bekliyor notu geçersiz; sırada 019–020.
+
+### VID-019 ve VID-020 tamamlandı
+
+019 https://drive.google.com/file/d/11wC0PpFkWGTObOx3BPSQ0mOr5GpXISqC/view (23,23 sn, 4.339.521 bayt), 020 https://drive.google.com/file/d/1c9_AlBd-ilhhHfgtoj3MdqO221-g8_mO/view (22,60 sn, 3.982.184 bayt). ODS metinleri aynen, tek parça voice-01/1,45×, 4 temsili görsel ve SHA kontrolü, konu ikonları, zaman sahnelerinde saat/tik tak. Kaynaklar `production/reference/VID-019/`, `VID-020/`, kurgu `production/remotion/vid019-*`, `vid020-*`. Tam decode/blackdetect, ses seviyesi ve üç saniyede bir örnek kare kontrol edildi; sesler baştan sona dinlenmedi; Vosk 019 51/71, 020 38/68 ve diğerleri tahmini. 019 ODS bir dakikada açılma ile beş dakika beklemeyi beraber söylüyor; kaynar su yanık, gider açıcıya başka ürün katılması tehlikeli olabilir. Sırada 021–022.
