@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-076-1.png",
+      "sha256": "4474b315a09292ae57969a9bb02aa60b34c5009244e5165b291dad4b685d0869",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Beyaz tezgâh ve leke temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-076-2.png",
+      "sha256": "dcfde02c827856662177dd98c17259764e4deb05ce828e6a9d9b0c6716ee9d63",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Karbonat kâsesi ve leke, ovma canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-076-3.png",
+      "sha256": "15240bd06d996fcd27da08d17b4ac9b2db732172a58f1d7c858db2679a64276d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tezgâh ve bez, işlem canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-076-4.png",
+      "sha256": "85c410d307d8d9024235682c0df2831ff45ae1b8ef1fe373129588f9104fbb15",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz tezgâh, gerçek önce/sonra değil."
+    }
+  ]
+}

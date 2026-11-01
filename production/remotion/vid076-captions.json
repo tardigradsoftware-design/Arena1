@@ -1,0 +1,416 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.547,
+    "words": [
+      "sakın",
+      "beyaz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.547,
+    "end": 0.896,
+    "words": [
+      "sakın",
+      "beyaz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.896,
+    "end": 1.249,
+    "words": [
+      "akrilik",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.249,
+    "end": 1.586,
+    "words": [
+      "akrilik",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.586,
+    "end": 1.909,
+    "words": [
+      "mermer",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.909,
+    "end": 2.22,
+    "words": [
+      "mermer",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.22,
+    "end": 2.535,
+    "words": [
+      "tezgahına",
+      "dökülen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.535,
+    "end": 2.868,
+    "words": [
+      "tezgahına",
+      "dökülen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.868,
+    "end": 3.205,
+    "words": [
+      "koyu",
+      "çay"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.205,
+    "end": 3.541,
+    "words": [
+      "koyu",
+      "çay"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.541,
+    "end": 3.877,
+    "words": [
+      "lekelerini",
+      "süngerle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.877,
+    "end": 4.214,
+    "words": [
+      "lekelerini",
+      "süngerle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.214,
+    "end": 4.55,
+    "words": [
+      "kazıyıp",
+      "yüzeyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.55,
+    "end": 4.887,
+    "words": [
+      "kazıyıp",
+      "yüzeyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.887,
+    "end": 5.317,
+    "words": [
+      "çizme!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.317,
+    "end": 5.753,
+    "words": [
+      "çizme!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.753,
+    "end": 6.06,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.06,
+    "end": 6.263,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.263,
+    "end": 6.428,
+    "words": [
+      "bir",
+      "damla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.428,
+    "end": 6.623,
+    "words": [
+      "bir",
+      "damla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.623,
+    "end": 6.893,
+    "words": [
+      "su",
+      "lekeyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.893,
+    "end": 7.237,
+    "words": [
+      "su",
+      "lekeyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.237,
+    "end": 7.53,
+    "words": [
+      "anında",
+      "yok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.53,
+    "end": 7.74,
+    "words": [
+      "anında",
+      "yok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.74,
+    "end": 8.032,
+    "words": [
+      "eder.",
+      "Lekeli"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.032,
+    "end": 8.438,
+    "words": [
+      "eder.",
+      "Lekeli"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.438,
+    "end": 8.816,
+    "words": [
+      "bölgeye",
+      "karbonat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.816,
+    "end": 9.157,
+    "words": [
+      "bölgeye",
+      "karbonat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.157,
+    "end": 9.488,
+    "words": [
+      "döküp",
+      "nemli"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.488,
+    "end": 9.819,
+    "words": [
+      "döküp",
+      "nemli"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.819,
+    "end": 10.15,
+    "words": [
+      "bezle",
+      "hafifçe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.15,
+    "end": 10.481,
+    "words": [
+      "bezle",
+      "hafifçe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.481,
+    "end": 10.812,
+    "words": [
+      "ov,",
+      "lekenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.812,
+    "end": 11.143,
+    "words": [
+      "ov,",
+      "lekenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.143,
+    "end": 11.474,
+    "words": [
+      "kaybolduğunu",
+      "göreceksin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.474,
+    "end": 11.902,
+    "words": [
+      "kaybolduğunu",
+      "göreceksin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.902,
+    "end": 12.262,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.262,
+    "end": 12.495,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.495,
+    "end": 12.765,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.765,
+    "end": 13.035,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.035,
+    "end": 13.41,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.41,
+    "end": 13.762,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.762,
+    "end": 14.079,
+    "words": [
+      "unutma,",
+      "tezgahtaki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.079,
+    "end": 14.488,
+    "words": [
+      "unutma,",
+      "tezgahtaki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.488,
+    "end": 14.896,
+    "words": [
+      "çay",
+      "lekelerini."
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.896,
+    "end": 15.509,
+    "words": [
+      "çay",
+      "lekelerini."
+    ],
+    "active": 1
+  }
+]

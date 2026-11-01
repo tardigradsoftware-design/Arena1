@@ -1,0 +1,442 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.593,
+    "words": [
+      "sakın",
+      "uykusuz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.593,
+    "end": 1.016,
+    "words": [
+      "sakın",
+      "uykusuz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.016,
+    "end": 1.429,
+    "words": [
+      "gecelerden",
+      "sonra"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.429,
+    "end": 1.785,
+    "words": [
+      "gecelerden",
+      "sonra"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.785,
+    "end": 2.085,
+    "words": [
+      "oluşan",
+      "mor"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.085,
+    "end": 2.332,
+    "words": [
+      "oluşan",
+      "mor"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.332,
+    "end": 2.565,
+    "words": [
+      "göz",
+      "altların"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.565,
+    "end": 2.835,
+    "words": [
+      "göz",
+      "altların"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.835,
+    "end": 3.12,
+    "words": [
+      "için",
+      "kalın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.12,
+    "end": 3.435,
+    "words": [
+      "için",
+      "kalın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.435,
+    "end": 3.705,
+    "words": [
+      "kat",
+      "kat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.705,
+    "end": 4.016,
+    "words": [
+      "kat",
+      "kat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.016,
+    "end": 4.429,
+    "words": [
+      "fondötenler",
+      "kullanma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.429,
+    "end": 4.947,
+    "words": [
+      "fondötenler",
+      "kullanma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.947,
+    "end": 5.494,
+    "words": [
+      "Çünkü",
+      "rendelenmiş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.494,
+    "end": 5.961,
+    "words": [
+      "Çünkü",
+      "rendelenmiş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.961,
+    "end": 6.3,
+    "words": [
+      "patates",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.3,
+    "end": 6.54,
+    "words": [
+      "patates",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.54,
+    "end": 6.848,
+    "words": [
+      "salatalık",
+      "suyu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.848,
+    "end": 7.172,
+    "words": [
+      "salatalık",
+      "suyu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.172,
+    "end": 7.476,
+    "words": [
+      "göz",
+      "altı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.476,
+    "end": 7.779,
+    "words": [
+      "göz",
+      "altı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.779,
+    "end": 8.083,
+    "words": [
+      "şişliğini",
+      "anında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.083,
+    "end": 8.393,
+    "words": [
+      "şişliğini",
+      "anında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.393,
+    "end": 8.77,
+    "words": [
+      "alır.",
+      "Rendeleyip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.77,
+    "end": 9.209,
+    "words": [
+      "alır.",
+      "Rendeleyip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.209,
+    "end": 9.649,
+    "words": [
+      "sıktığınız",
+      "salatalık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.649,
+    "end": 9.982,
+    "words": [
+      "sıktığınız",
+      "salatalık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.982,
+    "end": 10.2,
+    "words": [
+      "ve",
+      "patates"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.2,
+    "end": 10.462,
+    "words": [
+      "ve",
+      "patates"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.462,
+    "end": 10.777,
+    "words": [
+      "suyunu",
+      "pamukla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.777,
+    "end": 11.092,
+    "words": [
+      "suyunu",
+      "pamukla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.092,
+    "end": 11.407,
+    "words": [
+      "göz",
+      "altınıza"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.407,
+    "end": 11.723,
+    "words": [
+      "göz",
+      "altınıza"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.723,
+    "end": 12.037,
+    "words": [
+      "kompres",
+      "yapın."
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.037,
+    "end": 12.352,
+    "words": [
+      "kompres",
+      "yapın."
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.352,
+    "end": 12.668,
+    "words": [
+      "On",
+      "dakikada"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.668,
+    "end": 13.065,
+    "words": [
+      "On",
+      "dakikada"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.065,
+    "end": 13.465,
+    "words": [
+      "aydınlanacak.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.465,
+    "end": 13.785,
+    "words": [
+      "aydınlanacak.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.785,
+    "end": 14.105,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.105,
+    "end": 14.422,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.422,
+    "end": 14.821,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.821,
+    "end": 15.235,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.235,
+    "end": 15.578,
+    "words": [
+      "unutma,",
+      "yorgun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.578,
+    "end": 15.877,
+    "words": [
+      "unutma,",
+      "yorgun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.877,
+    "end": 16.144,
+    "words": [
+      "göz",
+      "altların"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.144,
+    "end": 16.421,
+    "words": [
+      "göz",
+      "altların"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.421,
+    "end": 16.802,
+    "words": [
+      "için."
+    ],
+    "active": 0
+  }
+]

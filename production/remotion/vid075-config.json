@@ -1,0 +1,63 @@
+{
+  "frames": 505,
+  "hook": [
+    "YORGUN GÖZ ALTLARI",
+    "İÇİN BAKIM"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-075-1.png"
+    },
+    {
+      "from": 165,
+      "file": "VID-075-2.png"
+    },
+    {
+      "from": 315,
+      "file": "VID-075-3.png"
+    },
+    {
+      "from": 405,
+      "file": "VID-075-1.png"
+    }
+  ],
+  "result": 402,
+  "save": 432,
+  "clocks": [
+    {
+      "from": 370,
+      "to": 400
+    }
+  ],
+  "events": [
+    {
+      "to": 220,
+      "a": "PATATES",
+      "b": "VE SALATALIK",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop",
+      "from": 180
+    },
+    {
+      "to": 400,
+      "a": "ON DAKİKA",
+      "b": "GÖZ ALTI BAKIMI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock",
+      "from": 370
+    },
+    {
+      "to": 460,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 432
+    }
+  ],
+  "voice": "VID-075-voice.wav"
+}

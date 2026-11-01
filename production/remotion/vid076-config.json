@@ -1,0 +1,58 @@
+{
+  "frames": 466,
+  "hook": [
+    "TEZGAHTAKİ ÇAY",
+    "LEKESİNE DİKKAT!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-076-1.png"
+    },
+    {
+      "from": 170,
+      "file": "VID-076-2.png"
+    },
+    {
+      "from": 285,
+      "file": "VID-076-3.png"
+    },
+    {
+      "from": 346,
+      "file": "VID-076-4.png"
+    }
+  ],
+  "result": 348,
+  "save": 390,
+  "clocks": [],
+  "events": [
+    {
+      "to": 215,
+      "a": "KARBONAT",
+      "b": "VE SU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon",
+      "from": 180
+    },
+    {
+      "to": 320,
+      "a": "NEMLİ BEZ",
+      "b": "HAFİFÇE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth",
+      "from": 285
+    },
+    {
+      "to": 420,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 390
+    }
+  ],
+  "voice": "VID-076-voice.wav"
+}

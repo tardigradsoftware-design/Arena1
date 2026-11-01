@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-075-1.png",
+      "sha256": "34ee1020f8fbb5ca7b03e529319c1f8d36de47473b85abe0dc10d114f03a0a7c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi göz, doğal doku, sonuç karşılaştırması değil."
+    },
+    {
+      "file": "../../remotion/public/VID-075-2.png",
+      "sha256": "9800a68709dee548a64507de73e49e12675c3b87b18d75d39e3b364b49f24987",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek kâsede karışım ve bütün malzemeler."
+    },
+    {
+      "file": "../../remotion/public/VID-075-3.png",
+      "sha256": "96a1eb17e3215fedea9751acf58ff4990b3f3280b96f08e1a3876fedf742adbb",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Karışım ve pamuk pedleri, gözle temas gösterilmedi."
+    }
+  ]
+}
