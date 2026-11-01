@@ -1,0 +1,596 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.578,
+    "words": [
+      "sakın",
+      "yakana"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.578,
+    "end": 0.893,
+    "words": [
+      "sakın",
+      "yakana"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.893,
+    "end": 1.228,
+    "words": [
+      "bulaşan",
+      "fondöten"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.228,
+    "end": 1.583,
+    "words": [
+      "bulaşan",
+      "fondöten"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.583,
+    "end": 1.938,
+    "words": [
+      "lekesini",
+      "ıslak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.938,
+    "end": 2.261,
+    "words": [
+      "lekesini",
+      "ıslak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.261,
+    "end": 2.554,
+    "words": [
+      "mendille",
+      "silip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.554,
+    "end": 2.861,
+    "words": [
+      "mendille",
+      "silip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.861,
+    "end": 3.184,
+    "words": [
+      "kumaşa",
+      "iyice"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.184,
+    "end": 3.551,
+    "words": [
+      "kumaşa",
+      "iyice"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.551,
+    "end": 3.962,
+    "words": [
+      "yayma!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.962,
+    "end": 4.273,
+    "words": [
+      "yayma!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.273,
+    "end": 4.484,
+    "words": [
+      "yağ",
+      "bazlı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.484,
+    "end": 4.718,
+    "words": [
+      "yağ",
+      "bazlı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.718,
+    "end": 5.006,
+    "words": [
+      "makyaj",
+      "lekelerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.006,
+    "end": 5.329,
+    "words": [
+      "makyaj",
+      "lekelerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.329,
+    "end": 5.64,
+    "words": [
+      "suyla",
+      "silmek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.64,
+    "end": 5.97,
+    "words": [
+      "suyla",
+      "silmek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.97,
+    "end": 6.328,
+    "words": [
+      "lekeyi",
+      "kumaşın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.328,
+    "end": 6.683,
+    "words": [
+      "lekeyi",
+      "kumaşın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.683,
+    "end": 7.037,
+    "words": [
+      "liflerine",
+      "hapseder."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.037,
+    "end": 7.435,
+    "words": [
+      "liflerine",
+      "hapseder."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.435,
+    "end": 7.875,
+    "words": [
+      "Lekenin",
+      "üzerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.875,
+    "end": 8.315,
+    "words": [
+      "Lekenin",
+      "üzerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.315,
+    "end": 8.662,
+    "words": [
+      "doğrudan",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.662,
+    "end": 8.887,
+    "words": [
+      "doğrudan",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.887,
+    "end": 9.135,
+    "words": [
+      "miktar",
+      "klasik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.135,
+    "end": 9.428,
+    "words": [
+      "miktar",
+      "klasik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.428,
+    "end": 9.69,
+    "words": [
+      "beyaz",
+      "tıraş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.69,
+    "end": 9.93,
+    "words": [
+      "beyaz",
+      "tıraş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.93,
+    "end": 10.178,
+    "words": [
+      "köpüğü",
+      "sık,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.178,
+    "end": 10.522,
+    "words": [
+      "köpüğü",
+      "sık,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.522,
+    "end": 10.924,
+    "words": [
+      "parmak",
+      "uçlarınla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.924,
+    "end": 11.291,
+    "words": [
+      "parmak",
+      "uçlarınla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.291,
+    "end": 11.659,
+    "words": [
+      "hafifçe",
+      "ovalayarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.659,
+    "end": 12.026,
+    "words": [
+      "hafifçe",
+      "ovalayarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.026,
+    "end": 12.33,
+    "words": [
+      "beş",
+      "dakika"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.33,
+    "end": 12.611,
+    "words": [
+      "beş",
+      "dakika"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.611,
+    "end": 12.934,
+    "words": [
+      "beklet",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.934,
+    "end": 13.223,
+    "words": [
+      "beklet",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.223,
+    "end": 13.524,
+    "words": [
+      "ardından",
+      "soğuk"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.524,
+    "end": 13.873,
+    "words": [
+      "ardından",
+      "soğuk"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.873,
+    "end": 14.222,
+    "words": [
+      "suyla",
+      "durula."
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.222,
+    "end": 14.571,
+    "words": [
+      "suyla",
+      "durula."
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.571,
+    "end": 14.891,
+    "words": [
+      "Tıraş",
+      "köpüğünün"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.891,
+    "end": 15.184,
+    "words": [
+      "Tıraş",
+      "köpüğünün"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.184,
+    "end": 15.465,
+    "words": [
+      "aktif",
+      "yapısı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.465,
+    "end": 15.75,
+    "words": [
+      "aktif",
+      "yapısı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.75,
+    "end": 16.05,
+    "words": [
+      "yağı",
+      "anında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.05,
+    "end": 16.417,
+    "words": [
+      "yağı",
+      "anında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.417,
+    "end": 16.822,
+    "words": [
+      "parçalayarak",
+      "lekeyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.822,
+    "end": 17.197,
+    "words": [
+      "parçalayarak",
+      "lekeyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.197,
+    "end": 17.527,
+    "words": [
+      "iz",
+      "bırakmadan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.527,
+    "end": 17.866,
+    "words": [
+      "iz",
+      "bırakmadan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.866,
+    "end": 18.259,
+    "words": [
+      "sökecektir.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.259,
+    "end": 18.652,
+    "words": [
+      "sökecektir.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.652,
+    "end": 19.0,
+    "words": [
+      "kurtarıcı",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.0,
+    "end": 19.303,
+    "words": [
+      "kurtarıcı",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.303,
+    "end": 19.598,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.598,
+    "end": 19.886,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.886,
+    "end": 20.179,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.179,
+    "end": 20.61,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.61,
+    "end": 21.074,
+    "words": [
+      "kıyafetine",
+      "bulaşan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.074,
+    "end": 21.431,
+    "words": [
+      "kıyafetine",
+      "bulaşan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.431,
+    "end": 21.788,
+    "words": [
+      "fondöten",
+      "lekesini."
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.788,
+    "end": 22.323,
+    "words": [
+      "fondöten",
+      "lekesini."
+    ],
+    "active": 1
+  }
+]

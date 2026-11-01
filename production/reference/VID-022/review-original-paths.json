@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-022-2.png",
+      "sha256": "9925f8802baffe31a9d7e742e40f1b47f50324c49c6bf539e23e94dd0236cff0",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bir kap içinde tek birleşmiş kahve/bal karışımı ve destekli kaşık."
+    },
+    {
+      "file": "../../remotion/public/VID-022-3.png",
+      "sha256": "b0301d0620cf5e80b7332eb64c3191fbce1d74c3cd642873f17d70f0a143e519",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Karışım kâsesi ve kaşık havlu üstünde, uygulama temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-022-4.png",
+      "sha256": "fe5cf7b6affbd64b4249cf363d443986ad2e0e211b857571456f307cf1e2668a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yakın kısmi göz kadrajı; göz ve cilt yapısı doğal."
+    }
+  ]
+}

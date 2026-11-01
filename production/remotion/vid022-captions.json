@@ -1,0 +1,622 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.574,
+    "words": [
+      "sakın",
+      "yorgun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.574,
+    "end": 0.923,
+    "words": [
+      "sakın",
+      "yorgun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.923,
+    "end": 1.192,
+    "words": [
+      "görünen",
+      "göz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.192,
+    "end": 1.387,
+    "words": [
+      "görünen",
+      "göz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.387,
+    "end": 1.637,
+    "words": [
+      "altı",
+      "halkalarını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.637,
+    "end": 1.971,
+    "words": [
+      "altı",
+      "halkalarını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.971,
+    "end": 2.328,
+    "words": [
+      "sadece",
+      "kapatıcıyla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.328,
+    "end": 2.707,
+    "words": [
+      "sadece",
+      "kapatıcıyla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.707,
+    "end": 3.076,
+    "words": [
+      "gizlemeye",
+      "çalışma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.076,
+    "end": 3.487,
+    "words": [
+      "gizlemeye",
+      "çalışma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.487,
+    "end": 3.825,
+    "words": [
+      "Çünkü",
+      "göz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.825,
+    "end": 4.073,
+    "words": [
+      "Çünkü",
+      "göz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.073,
+    "end": 4.339,
+    "words": [
+      "altındaki",
+      "o"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.339,
+    "end": 4.586,
+    "words": [
+      "altındaki",
+      "o"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.586,
+    "end": 4.832,
+    "words": [
+      "koyu",
+      "görünümü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.832,
+    "end": 5.065,
+    "words": [
+      "koyu",
+      "görünümü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.065,
+    "end": 5.389,
+    "words": [
+      "ve",
+      "torbalanmayı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.389,
+    "end": 5.816,
+    "words": [
+      "ve",
+      "torbalanmayı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.816,
+    "end": 6.172,
+    "words": [
+      "on",
+      "dakikada"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.172,
+    "end": 6.547,
+    "words": [
+      "on",
+      "dakikada"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.547,
+    "end": 6.982,
+    "words": [
+      "aydınlatacak",
+      "doğal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.982,
+    "end": 7.335,
+    "words": [
+      "aydınlatacak",
+      "doğal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.335,
+    "end": 7.684,
+    "words": [
+      "karışım",
+      "mutfağında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.684,
+    "end": 8.081,
+    "words": [
+      "karışım",
+      "mutfağında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.081,
+    "end": 8.413,
+    "words": [
+      "hazır.",
+      "Bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.413,
+    "end": 8.679,
+    "words": [
+      "hazır.",
+      "Bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.679,
+    "end": 8.946,
+    "words": [
+      "çay",
+      "kaşığı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.946,
+    "end": 9.212,
+    "words": [
+      "çay",
+      "kaşığı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.212,
+    "end": 9.457,
+    "words": [
+      "Türk",
+      "kahvesi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.457,
+    "end": 9.715,
+    "words": [
+      "Türk",
+      "kahvesi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.715,
+    "end": 10.006,
+    "words": [
+      "telvesi",
+      "ile"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.006,
+    "end": 10.26,
+    "words": [
+      "telvesi",
+      "ile"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.26,
+    "end": 10.477,
+    "words": [
+      "bir",
+      "çay"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.477,
+    "end": 10.693,
+    "words": [
+      "bir",
+      "çay"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.693,
+    "end": 10.91,
+    "words": [
+      "kaşığı",
+      "balı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.91,
+    "end": 11.127,
+    "words": [
+      "kaşığı",
+      "balı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.127,
+    "end": 11.377,
+    "words": [
+      "karıştırıp",
+      "göz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.377,
+    "end": 11.647,
+    "words": [
+      "karıştırıp",
+      "göz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.647,
+    "end": 11.959,
+    "words": [
+      "altlarına",
+      "sür,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.959,
+    "end": 12.326,
+    "words": [
+      "altlarına",
+      "sür,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.326,
+    "end": 12.615,
+    "words": [
+      "on",
+      "dakika"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.615,
+    "end": 12.862,
+    "words": [
+      "on",
+      "dakika"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.862,
+    "end": 13.185,
+    "words": [
+      "bekletip",
+      "yıkadıktan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.185,
+    "end": 13.538,
+    "words": [
+      "bekletip",
+      "yıkadıktan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.538,
+    "end": 13.898,
+    "words": [
+      "sonra",
+      "buzlukta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.898,
+    "end": 14.26,
+    "words": [
+      "sonra",
+      "buzlukta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.26,
+    "end": 14.61,
+    "words": [
+      "soğuttuğun",
+      "metal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.61,
+    "end": 14.96,
+    "words": [
+      "soğuttuğun",
+      "metal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.96,
+    "end": 15.296,
+    "words": [
+      "tatlı",
+      "kaşığını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.296,
+    "end": 15.619,
+    "words": [
+      "tatlı",
+      "kaşığını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.619,
+    "end": 15.941,
+    "words": [
+      "göz",
+      "pınarlarına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.941,
+    "end": 16.264,
+    "words": [
+      "göz",
+      "pınarlarına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.264,
+    "end": 16.71,
+    "words": [
+      "bastır.",
+      "Kafein"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.71,
+    "end": 17.137,
+    "words": [
+      "bastır.",
+      "Kafein"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.137,
+    "end": 17.458,
+    "words": [
+      "kan",
+      "dolaşımını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.458,
+    "end": 17.815,
+    "words": [
+      "kan",
+      "dolaşımını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.815,
+    "end": 18.172,
+    "words": [
+      "hızlandırıp",
+      "cildini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.172,
+    "end": 18.529,
+    "words": [
+      "hızlandırıp",
+      "cildini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.529,
+    "end": 18.885,
+    "words": [
+      "anında",
+      "aydınlatır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.885,
+    "end": 19.242,
+    "words": [
+      "anında",
+      "aydınlatır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.242,
+    "end": 19.599,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.599,
+    "end": 19.956,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.956,
+    "end": 20.312,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.312,
+    "end": 20.693,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.693,
+    "end": 21.038,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.038,
+    "end": 21.435,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.435,
+    "end": 21.818,
+    "words": [
+      "yorgun",
+      "göz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.818,
+    "end": 22.112,
+    "words": [
+      "yorgun",
+      "göz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.112,
+    "end": 22.613,
+    "words": [
+      "altlarını."
+    ],
+    "active": 0
+  }
+]
