@@ -263,3 +263,7 @@ VID-114: https://drive.google.com/file/d/1N3YQdKIicx9G8g3oz_y9t564khXBJIWn/view 
 ### VID-115–116
 VID-115: https://drive.google.com/file/d/15fYMUEWDjKcY4ynPU8RLu-e6uh6bsh1p/view — 11,90 sn, 2.017.213 bayt, Vosk 17/33. Sirke kaplamaları bozabilir, üretici talimatı izlenmeli; sirke/çamaşır suyu tehlikeli klor gazı oluşturur. Uygulama gösterilmedi.
 VID-116: https://drive.google.com/file/d/1aCqAe5rB3fJ6e9iY9Io8xDaQNnLnfBzh/view — 12,67 sn, 2.360.019 bayt, Vosk 26/33. Defne yaprağının küfü önlediğine güvenilir kanıt bulunmadı; küflü ekmek tamamen atılmalı, uyarısız yayımlamayın. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi ve Vosk dışı altyazı tahmini. Sonraki 117–118.
+
+### VID-117–118
+VID-117: https://drive.google.com/file/d/170tCWvtf0EEiOCxDnurmTegs4bYAFDjC/view — 11,18 sn, 2.232.892 bayt, Vosk 16/28. Kanayan veya çatlak dudakta peeling tahriş ve yaralanmayı artırabilir, anında onarım kanıtlanmamıştır; uyarısız yayımlamayın.
+VID-118: https://drive.google.com/file/d/1bAemRT93QHMLPjuhQ6-oAzNQnugTL245/view — 12,59 sn, 2.438.467 bayt, Vosk 18/32. Zeytinyağı gözenekli ahşabı lekeleyebilir; üretici talimatı ve gizli alanda test önemli. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi ve Vosk dışı altyazı tahmini. Sonraki 119–120.

@@ -1,0 +1,2 @@
+# VID-117
+Drive: https://drive.google.com/file/d/170tCWvtf0EEiOCxDnurmTegs4bYAFDjC/view — 11,18 sn, 2.232.892 bayt. Senaryo aynen seslendirildi (1,45×); Vosk 16/28 çapa, diğerleri interpolasyon. Ses baştan sona dinlenmedi; senkron kesin değil. Kanayan/çatlak/tahrişli dudaklara peeling uygulanmamalı; tahriş ve yaralanmayı artırabilir. Bal ve şekerin anında onardığı kanıtlanmamıştır. Uyarısız yayımlamayın. https://www.byrdie.com/how-to-exfoliate-lips . Uygulama veya sonuç gösterilmedi, 4. görsel tutarlılık için kullanılmadı.

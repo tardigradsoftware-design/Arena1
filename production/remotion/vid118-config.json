@@ -1,0 +1,49 @@
+{
+  "frames": 377,
+  "hook": [
+    "DOLAPTA KALAN",
+    "YAPIŞKAN İZİ"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-118-1.png"
+    },
+    {
+      "from": 198,
+      "file": "VID-118-2.png"
+    },
+    {
+      "from": 267,
+      "file": "VID-118-1.png"
+    },
+    {
+      "from": 320,
+      "file": "VID-118-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 308,
+  "clocks": [],
+  "events": [
+    {
+      "from": 205,
+      "to": 235,
+      "a": "ZEYTİNYAĞI",
+      "b": "YAPIŞKAN İZİ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 308,
+      "to": 332,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-118-voice.wav"
+}

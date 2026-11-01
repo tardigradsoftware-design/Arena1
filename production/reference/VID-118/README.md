@@ -1,0 +1,2 @@
+# VID-118
+Drive: https://drive.google.com/file/d/1bAemRT93QHMLPjuhQ6-oAzNQnugTL245/view — 12,59 sn, 2.438.467 bayt. Senaryo aynen seslendirildi (1,45×); Vosk 18/32 çapa, diğerleri interpolasyon. Ses baştan sona dinlenmedi; senkron kesin değil. Zeytinyağı her yapışkanı çıkarmayı garanti etmez; gözenekli ahşabı lekeleyebilir. Üretici talimatını izleyin ve önce görünmeyen yerde test edin: https://www.fixitandfinish.com/remove-sticker-residue-from-wood/ . 3–4. görseller farklı dolap kompozisyonlarıyla yanıltıcı sonuç izlenimini önlemek için kullanılmadı; işlem gösterilmiyor.
