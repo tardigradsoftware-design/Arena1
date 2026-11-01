@@ -1,0 +1,3 @@
+# VID-001 kaynakları
+
+`VID-001-a.png` ... `d.png` Remotion kompozisyonunun incelenen kaynakları; `VID-001-raw.wav` özgün tek parça TTS, `VID-001-fast.wav` 1,45×. Bu görüntüler AI üretimidir. `review-original-paths.json` üretim zamanı SHA-256 ve öznel görsel kontrol notlarını saklar, yollar mevcut üretim ağacına göredir. Yeniden üretimde bunları `production/remotion/public/` altına aynı adlarla kopyalayıp inceleme yollarını yeniden doğrula. `production/remotion/vid001-captions.json` Vosk eşleşmesi/interpolasyonu ile yaklaşık sürelerdir (44/64 kelime eşleşti); kesin hizalama değildir. Videonun tamamı sesli incelenmedi. Senaryodaki bulaşık tableti, sirke karışımı ve kesin temizlik vaadi üreticinin çamaşır makinesi ve ürün talimatlarına uygunluğu doğrulanmamış bir öneridir.
