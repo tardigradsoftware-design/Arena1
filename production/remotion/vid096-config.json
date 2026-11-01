@@ -1,0 +1,49 @@
+{
+  "frames": 345,
+  "hook": [
+    "GÖZ MAKYAJI",
+    "NASIL ÇIKARILIR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-096-1.png"
+    },
+    {
+      "from": 165,
+      "file": "VID-096-2.png"
+    },
+    {
+      "from": 220,
+      "file": "VID-096-3.png"
+    },
+    {
+      "from": 288,
+      "file": "VID-096-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 275,
+  "clocks": [],
+  "events": [
+    {
+      "from": 166,
+      "to": 194,
+      "a": "ZEYTİNYAĞI",
+      "b": "PAMUK",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 275,
+      "to": 300,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-096-voice.wav"
+}

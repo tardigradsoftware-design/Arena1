@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-095-1.png",
+      "sha256": "9075d47fb2b8f7ff862e5bc5ff65f5208f06fcacf2f3bc472fa38ec3f37b01f1",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kaynar suda yumurta temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-095-2.png",
+      "sha256": "fb2affe5b86561a0a1e6af59268aead284ab17a3a315d351bd70d69b8f6890d4",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı sirke şişesi ve ayrı tencerede yumurta."
+    },
+    {
+      "file": "../../remotion/public/VID-095-3.png",
+      "sha256": "59bc8fcecf00224db0da717a6a04665e278cb4dfd621048e552f5f7d70fdc855",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Haşlanan yumurta temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-095-4.png",
+      "sha256": "928d014d76d5c46112346508784f29291218b91d6121804a4f8e6f9c244fa984",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kabuklu yumurta temsili."
+    }
+  ]
+}

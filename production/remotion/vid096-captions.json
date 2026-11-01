@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.547,
+    "words": [
+      "sakın",
+      "göz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.547,
+    "end": 0.915,
+    "words": [
+      "sakın",
+      "göz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.915,
+    "end": 1.335,
+    "words": [
+      "çevrenizdeki",
+      "hassas"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.335,
+    "end": 1.71,
+    "words": [
+      "çevrenizdeki",
+      "hassas"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.71,
+    "end": 2.01,
+    "words": [
+      "deriyi",
+      "tahriş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.01,
+    "end": 2.295,
+    "words": [
+      "deriyi",
+      "tahriş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.295,
+    "end": 2.617,
+    "words": [
+      "eden",
+      "kimyasal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.617,
+    "end": 2.985,
+    "words": [
+      "eden",
+      "kimyasal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.985,
+    "end": 3.375,
+    "words": [
+      "makyaj",
+      "temizleyicileri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.375,
+    "end": 3.795,
+    "words": [
+      "makyaj",
+      "temizleyicileri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.795,
+    "end": 4.192,
+    "words": [
+      "kullanmaya",
+      "devam"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.192,
+    "end": 4.538,
+    "words": [
+      "kullanmaya",
+      "devam"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.538,
+    "end": 4.965,
+    "words": [
+      "etmeyin!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.965,
+    "end": 5.449,
+    "words": [
+      "etmeyin!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.449,
+    "end": 5.876,
+    "words": [
+      "zeytinyağı",
+      "en"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.876,
+    "end": 6.236,
+    "words": [
+      "zeytinyağı",
+      "en"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.236,
+    "end": 6.529,
+    "words": [
+      "kalecisini",
+      "bile"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.529,
+    "end": 6.795,
+    "words": [
+      "kalecisini",
+      "bile"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.795,
+    "end": 7.155,
+    "words": [
+      "çıkarır.",
+      "Pamuğa"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.155,
+    "end": 7.635,
+    "words": [
+      "çıkarır.",
+      "Pamuğa"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.635,
+    "end": 8.021,
+    "words": [
+      "zeytinyağı",
+      "dökün."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.021,
+    "end": 8.314,
+    "words": [
+      "zeytinyağı",
+      "dökün."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.314,
+    "end": 8.606,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.606,
+    "end": 8.899,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.899,
+    "end": 9.195,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.195,
+    "end": 9.562,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.562,
+    "end": 9.908,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.908,
+    "end": 10.297,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.297,
+    "end": 10.793,
+    "words": [
+      "makyajı",
+      "çıkarırken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.793,
+    "end": 11.484,
+    "words": [
+      "makyajı",
+      "çıkarırken."
+    ],
+    "active": 1
+  }
+]

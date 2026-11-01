@@ -1,0 +1,49 @@
+{
+  "frames": 377,
+  "hook": [
+    "YUMURTA HAŞLARKEN",
+    "ÇATLAMASIN!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-095-1.png"
+    },
+    {
+      "from": 171,
+      "file": "VID-095-2.png"
+    },
+    {
+      "from": 270,
+      "file": "VID-095-3.png"
+    },
+    {
+      "from": 333,
+      "file": "VID-095-4.png"
+    }
+  ],
+  "result": 9999,
+  "save": 305,
+  "clocks": [],
+  "events": [
+    {
+      "from": 180,
+      "to": 213,
+      "a": "SİRKE",
+      "b": "YUMURTA SUYU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 305,
+      "to": 330,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-095-voice.wav"
+}
