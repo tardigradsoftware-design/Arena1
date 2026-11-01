@@ -9,6 +9,8 @@ function Icon({kind,frame}){
  if(kind==='cloth')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M20 26 Q50 18 80 26 L75 74 Q50 81 25 74Z M29 38h42 M30 50h40 M31 62h38" {...S}/></svg>;
  if(kind==='book')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M50 28 Q35 18 17 24 v52 Q35 70 50 80 Q65 70 83 76 V24 Q65 18 50 28z M50 28v52 M25 36h15 M60 36h15" {...S}/></svg>;
  if(kind==='warning')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M50 15 L88 80 H12Z" fill="#ffe135" stroke="#211d19" strokeWidth="4" strokeLinejoin="round"/><path d="M50 37v20 M50 68v1" {...S}/></svg>;
+ if(kind==='glass')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M23 18h54l-5 65H28z M27 50h46" {...S}/><path d="M40 72q10-21 20 0" {...S}/></svg>;
+ if(kind==='iron')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M15 70 Q19 50 31 43 H75 Q85 44 87 70Z M35 43 L40 25 H65 Q72 25 73 43 M42 41 L46 32 H62 L64 41" {...S}/><path d="M22 76h65" {...S}/></svg>;
  if(kind==='spoon')return <svg width="70" height="70" viewBox="0 0 100 100"><ellipse cx="38" cy="32" rx="15" ry="19" transform="rotate(-35 38 32)" {...S}/><path d="M48 47L76 82 M56 44L82 76" {...S}/></svg>;
  if(kind==='avocado')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M50 14 C35 14 35 32 26 43 C12 61 25 85 50 85 S88 61 74 43 C65 32 65 14 50 14Z" fill="#a6d978" stroke="#211d19" strokeWidth="4"/><circle cx="50" cy="61" r="13" fill="#a75d2d" stroke="#211d19" strokeWidth="3"/></svg>;
  if(kind==='pot')return <svg width="70" height="70" viewBox="0 0 100 100"><path d="M22 43h56v26q0 12-13 12H35q-13 0-13-12z M13 48h9 M78 48h9 M35 33q-5-8 0-15 M50 33q-5-8 0-15 M65 33q-5-8 0-15" {...S}/></svg>;

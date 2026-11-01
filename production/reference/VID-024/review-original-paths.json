@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-024-1.png",
+      "sha256": "4d5199a3fe0b752c6a963d405aa387124c3ca08bc078302a5f5d6bdc838ebe70",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ahşap üzerindeki beyaz halka; gerçek fotoğraf değil temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-024-2.png",
+      "sha256": "04114d5ebc46a9d2a41047a394ac7e802740deed6986e1c31915d8af8ddb2502",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Katlı pamuklu bez masa üstünde."
+    },
+    {
+      "file": "../../remotion/public/VID-024-3.png",
+      "sha256": "a6950bb22c76fb2367db4eb66c64417b5526e1e6cbe4deba5ec2917dfff80eeb",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ütü dik ve destekli; ütüleme canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-024-4.png",
+      "sha256": "6ac70e227f5291c75e183f35aefefed10943db088b9a0586af4da89125717a89",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ahşap yüzeyde leke yok; temsili sonuç."
+    }
+  ]
+}

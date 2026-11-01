@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-023-1.png",
+      "sha256": "465e368b820fb301a8711ad01f2bc1ddaf1f86b5b9bb3129941f98b31a1edbe9",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kabuklu yumurtada pürüzlü kısmen soyulmuş beyaz."
+    },
+    {
+      "file": "../../remotion/public/VID-023-2.png",
+      "sha256": "44f64582b447f66a6deb738d6829125b85e888b2f914dee88785dc887e5d9428",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Destekli bardakta su ve tek yumurta, durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-023-3.png",
+      "sha256": "a75de6a1f2e8769e816f223862f94708708766c4b1a60f32bd1bc7903ce38176",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmen çatlak yumurta ve su bardağı destekli; çalkalama durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-023-4.png",
+      "sha256": "002b4d0549135ee519e96626ae833294bfafdc305e715bc24065e401caea8fdd",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Soyulmuş yumurta ve kabuklar tabakta."
+    }
+  ]
+}
