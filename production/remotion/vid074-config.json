@@ -1,0 +1,58 @@
+{
+  "frames": 479,
+  "hook": [
+    "SALATALIKLARIN",
+    "YUMUŞAMASINA DİKKAT!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-074-1.png"
+    },
+    {
+      "from": 205,
+      "file": "VID-074-2.png"
+    },
+    {
+      "from": 265,
+      "file": "VID-074-3.png"
+    },
+    {
+      "from": 331,
+      "file": "VID-074-4.png"
+    }
+  ],
+  "result": 340,
+  "save": 407,
+  "clocks": [],
+  "events": [
+    {
+      "to": 258,
+      "a": "KÂĞIT HAVLU",
+      "b": "TEK TEK SAR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "cloth",
+      "from": 210
+    },
+    {
+      "to": 315,
+      "a": "SAKLAMA KABI",
+      "b": "VEYA KİLİTLİ POŞET",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "jar",
+      "from": 285
+    },
+    {
+      "to": 433,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 407
+    }
+  ],
+  "voice": "VID-074-voice.wav"
+}

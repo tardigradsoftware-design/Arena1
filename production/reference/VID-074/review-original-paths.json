@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-074-1.png",
+      "sha256": "5cf7b6ded01ee6b7588adaf52607171819159a8dda6aebbecf5b52aba52de232",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Hafif buruşuk salatalıklar."
+    },
+    {
+      "file": "../../remotion/public/VID-074-2.png",
+      "sha256": "94d4281ff66826032bd16b9610c5d245bc4d9bf036d9450c5ef4110427afaeae",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Her biri ayrı kâğıda sarılı salatalık."
+    },
+    {
+      "file": "../../remotion/public/VID-074-3.png",
+      "sha256": "569de376eb8a0f5a57c8dc9fd43d8613c61f3e9e1ecbebe98eb637e663bc524d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapta sarılı salatalıklar, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-074-4.png",
+      "sha256": "e287bedeea7c3d93740e8e45c804aae872c135241a4ccb88a5970b729ad2cfdf",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Salatalık ve dilimler; gerçek önce/sonra değil."
+    }
+  ]
+}
