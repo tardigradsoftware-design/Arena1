@@ -49,11 +49,11 @@ Son güncelleme: 2026-11-01. Görsel üretim ve kalite kapısı ayrıntıları: 
 
 ## 6. YapayTU örneğinden alınacak kurgu teknikleri
 
-Kullanıcı referansı: [YapayTU kurgu araştırması](production/YAPAYTU_KURGU_INCELEMESI.md). Sonraki videolarda gerçekçi görseller ve tercih edilen VID-035 tarzı korunarak, mevcut senaryoya ve gerçek ses zamanlarına bağlı hareketli kodlu sahneler, ölçülü zoom, vurgu kartları, çizilen işaretler ve cümle/geçiş karelerinin incelenmesi uygulanır. Yatay titreme, sabit altyazıyı oynatma, senaryoyu değiştirme veya uydurma iddia ekleme yapılmaz. Instagram videolarına doğrudan erişilemedi; bu kaynak site ve GitHub örnekleri üzerinden incelenmiştir.
+Kullanıcı referansı: [YapayTU kurgu araştırması](production/YAPAYTU_KURGU_INCELEMESI.md). Sonraki videolarda gerçekçi görseller ve son tercih edilen VID-001 V3 tarzı korunarak, mevcut senaryoya ve gerçek ses zamanlarına bağlı hareketli kodlu sahneler, ölçülü zoom, vurgu kartları, çizilen işaretler ve cümle/geçiş karelerinin incelenmesi uygulanır. Yatay titreme, sabit altyazıyı oynatma, senaryoyu değiştirme veya uydurma iddia ekleme yapılmaz. Instagram videolarına doğrudan erişilemedi; bu kaynak site ve GitHub örnekleri üzerinden incelenmiştir.
 
 ## 7. En son hareket tercihi
 
-Kullanıcı ilerleme çubuğu ve giriş/gelişme/sonuç gibi bölüm yazılarını istemiyor. Daha çarpıcı, hızlı giren, akıcı ve senaryoyla ilgili kodlu animasyonlar istiyor; sabit altyazı, gerçekçi görüntüler ve titrememe kuralları korunur. `production/remotion/vid001-v3.jsx` bu istek için karşılaştırma denemesidir; kullanıcının beğenisi henüz alınmamıştır.
+Kullanıcı ilerleme çubuğu ve giriş/gelişme/sonuç gibi bölüm yazılarını istemiyor. Daha çarpıcı, hızlı giren, akıcı ve senaryoyla ilgili kodlu animasyonlar istiyor; sabit altyazı, gerçekçi görüntüler ve titrememe kuralları korunur. Kullanıcı tüm videoların [VID-001 V3](https://drive.google.com/file/d/1pk6NMHqi_HjCD8mSPZ4jwtW76VaeAYty/view) tarzında olmasını istedi. `production/remotion/vid001-v3.jsx` temel referanstır; önceki VID-035 tercihi yerine bu güncel tercih geçerlidir. Her yeni senaryoya görselleri, etiketleri ve zamanları özel olarak uyarlayın; VID-001 metin veya sabit zamanlarını diğerlerine taşımayın.
 
 ## 8. Hibrit görsel anlatım isteği
 
