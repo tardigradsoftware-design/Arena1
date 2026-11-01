@@ -1,0 +1,596 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.607,
+    "words": [
+      "sakın",
+      "banyo"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.607,
+    "end": 0.907,
+    "words": [
+      "sakın",
+      "banyo"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.907,
+    "end": 1.118,
+    "words": [
+      "ve",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.118,
+    "end": 1.444,
+    "words": [
+      "ve",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.444,
+    "end": 1.901,
+    "words": [
+      "seramiklerinin",
+      "arasındaki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.901,
+    "end": 2.265,
+    "words": [
+      "seramiklerinin",
+      "arasındaki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.265,
+    "end": 2.558,
+    "words": [
+      "o",
+      "kararmış"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.558,
+    "end": 2.91,
+    "words": [
+      "o",
+      "kararmış"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.91,
+    "end": 3.4,
+    "words": [
+      "gri",
+      "derzleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.4,
+    "end": 3.991,
+    "words": [
+      "gri",
+      "derzleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.991,
+    "end": 4.582,
+    "words": [
+      "kimyasallarla",
+      "saatlerce"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.582,
+    "end": 5.11,
+    "words": [
+      "kimyasallarla",
+      "saatlerce"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.11,
+    "end": 5.574,
+    "words": [
+      "kazıyıp",
+      "yorulma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.574,
+    "end": 6.038,
+    "words": [
+      "kazıyıp",
+      "yorulma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.038,
+    "end": 6.412,
+    "words": [
+      "Çünkü",
+      "evde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.412,
+    "end": 6.787,
+    "words": [
+      "Çünkü",
+      "evde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.787,
+    "end": 7.162,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.162,
+    "end": 7.458,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.458,
+    "end": 7.764,
+    "words": [
+      "oksijenli",
+      "su"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.764,
+    "end": 8.07,
+    "words": [
+      "oksijenli",
+      "su"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.07,
+    "end": 8.376,
+    "words": [
+      "ile",
+      "derzleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.376,
+    "end": 8.682,
+    "words": [
+      "ile",
+      "derzleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.682,
+    "end": 8.955,
+    "words": [
+      "ilk",
+      "günkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.955,
+    "end": 9.332,
+    "words": [
+      "ilk",
+      "günkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.332,
+    "end": 9.848,
+    "words": [
+      "beyazlığına",
+      "döndürebilirsin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.848,
+    "end": 10.363,
+    "words": [
+      "beyazlığına",
+      "döndürebilirsin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.363,
+    "end": 10.718,
+    "words": [
+      "Üç",
+      "yemek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.718,
+    "end": 10.928,
+    "words": [
+      "Üç",
+      "yemek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.928,
+    "end": 11.19,
+    "words": [
+      "kaşığı",
+      "karbonat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.19,
+    "end": 11.482,
+    "words": [
+      "kaşığı",
+      "karbonat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.482,
+    "end": 11.79,
+    "words": [
+      "ile",
+      "yarım"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.79,
+    "end": 12.067,
+    "words": [
+      "ile",
+      "yarım"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.067,
+    "end": 12.3,
+    "words": [
+      "çay",
+      "bardağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.3,
+    "end": 12.585,
+    "words": [
+      "çay",
+      "bardağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.585,
+    "end": 12.915,
+    "words": [
+      "oksijenli",
+      "suyu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.915,
+    "end": 13.245,
+    "words": [
+      "oksijenli",
+      "suyu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.245,
+    "end": 13.586,
+    "words": [
+      "macun",
+      "kıvamına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.586,
+    "end": 13.939,
+    "words": [
+      "macun",
+      "kıvamına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.939,
+    "end": 14.332,
+    "words": [
+      "getirip",
+      "derzlerin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.332,
+    "end": 14.768,
+    "words": [
+      "getirip",
+      "derzlerin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.768,
+    "end": 15.135,
+    "words": [
+      "üzerine",
+      "sür,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.135,
+    "end": 15.426,
+    "words": [
+      "üzerine",
+      "sür,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.426,
+    "end": 15.709,
+    "words": [
+      "eski",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.709,
+    "end": 15.992,
+    "words": [
+      "eski",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.992,
+    "end": 16.275,
+    "words": [
+      "diş",
+      "fırçasıyla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.275,
+    "end": 16.558,
+    "words": [
+      "diş",
+      "fırçasıyla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.558,
+    "end": 16.841,
+    "words": [
+      "hafifçe",
+      "ovup"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.841,
+    "end": 17.124,
+    "words": [
+      "hafifçe",
+      "ovup"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.124,
+    "end": 17.385,
+    "words": [
+      "beş",
+      "dakika"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.385,
+    "end": 17.696,
+    "words": [
+      "beş",
+      "dakika"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.696,
+    "end": 18.079,
+    "words": [
+      "bekletikten",
+      "sonra"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.079,
+    "end": 18.46,
+    "words": [
+      "bekletikten",
+      "sonra"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.46,
+    "end": 18.838,
+    "words": [
+      "durula.",
+      "Derzler"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.838,
+    "end": 19.217,
+    "words": [
+      "durula.",
+      "Derzler"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.217,
+    "end": 19.596,
+    "words": [
+      "ayna",
+      "gibi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.596,
+    "end": 19.969,
+    "words": [
+      "ayna",
+      "gibi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.969,
+    "end": 20.336,
+    "words": [
+      "parlayacak.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.336,
+    "end": 20.625,
+    "words": [
+      "parlayacak.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.625,
+    "end": 20.88,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.88,
+    "end": 21.18,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.18,
+    "end": 21.487,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.487,
+    "end": 21.84,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.84,
+    "end": 22.163,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.163,
+    "end": 22.505,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.505,
+    "end": 22.936,
+    "words": [
+      "kararan",
+      "derzlerini."
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.936,
+    "end": 23.583,
+    "words": [
+      "kararan",
+      "derzlerini."
+    ],
+    "active": 1
+  }
+]

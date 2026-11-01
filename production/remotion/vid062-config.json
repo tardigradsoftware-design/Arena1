@@ -1,0 +1,63 @@
+{
+  "frames": 591,
+  "hook": [
+    "SOĞAN KOKUSUNU",
+    "ELİNDE BIRAKMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-062-1.png"
+    },
+    {
+      "from": 275,
+      "file": "VID-062-2.png"
+    },
+    {
+      "from": 340,
+      "file": "VID-062-3.png"
+    },
+    {
+      "from": 475,
+      "file": "VID-062-4.png"
+    }
+  ],
+  "result": 477,
+  "save": 514,
+  "clocks": [
+    {
+      "from": 376,
+      "to": 409
+    }
+  ],
+  "events": [
+    {
+      "from": 288,
+      "to": 324,
+      "a": "PASLANMAZ ÇELİK",
+      "b": "KAŞIK VEYA EVİYE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 376,
+      "to": 409,
+      "a": "OTUZ SANİYE",
+      "b": "OVUŞTUR",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 514,
+      "to": 546,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-062-voice.wav"
+}

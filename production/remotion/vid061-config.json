@@ -1,0 +1,94 @@
+{
+  "frames": 708,
+  "hook": [
+    "KARARAN DERZLERİ",
+    "SAATLERCE KAZIMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-061-1.png"
+    },
+    {
+      "from": 310,
+      "file": "VID-061-2.png"
+    },
+    {
+      "from": 445,
+      "file": "VID-061-3.png"
+    },
+    {
+      "from": 566,
+      "file": "VID-061-4.png"
+    }
+  ],
+  "result": 575,
+  "save": 644,
+  "clocks": [
+    {
+      "from": 128,
+      "to": 160
+    },
+    {
+      "from": 512,
+      "to": 550
+    }
+  ],
+  "events": [
+    {
+      "from": 128,
+      "to": 160,
+      "a": "SAATLERCE",
+      "b": "KAZIMA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 326,
+      "to": 369,
+      "a": "ÜÇ KAŞIK",
+      "b": "KARBONAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 374,
+      "to": 410,
+      "a": "YARIM ÇAY BARDAĞI",
+      "b": "OKSİJENLİ SU",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 475,
+      "to": 507,
+      "a": "FIRÇAYLA",
+      "b": "HAFİFÇE OV",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "brush"
+    },
+    {
+      "from": 512,
+      "to": 551,
+      "a": "BEŞ DAKİKA",
+      "b": "BEKLET VE DURULA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 644,
+      "to": 677,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-061-voice.wav"
+}
