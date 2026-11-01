@@ -1,0 +1,77 @@
+{
+  "frames": 737,
+  "hook": [
+    "PAHALI PEELİNGLERE",
+    "SERVET HARCAMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-036-v14-1.png"
+    },
+    {
+      "from": 262,
+      "file": "VID-036-v14-3.png"
+    },
+    {
+      "from": 594,
+      "file": "VID-036-v14-4.png"
+    }
+  ],
+  "result": 603,
+  "save": 669,
+  "clocks": [
+    {
+      "from": 220,
+      "to": 248
+    }
+  ],
+  "events": [
+    {
+      "from": 220,
+      "to": 248,
+      "a": "DAKİKALAR İÇİNDE",
+      "b": "HAZIRLA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 285,
+      "to": 325,
+      "a": "KAHVE TELVESİ",
+      "b": "BİR ÇAY BARDAĞI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "coffee"
+    },
+    {
+      "from": 332,
+      "to": 363,
+      "a": "ESMER ŞEKER",
+      "b": "YARIM ÇAY BARDAĞI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 382,
+      "to": 414,
+      "a": "HİNDİSTAN CEVİZİ",
+      "b": "ÜÇ YEMEK KAŞIĞI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 669,
+      "to": 699,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-036-v14-voice.wav"
+}

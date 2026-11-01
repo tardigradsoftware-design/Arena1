@@ -1,0 +1,614 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.517,
+    "words": [
+      "sakın",
+      "pahalı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.517,
+    "end": 0.865,
+    "words": [
+      "sakın",
+      "pahalı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.865,
+    "end": 1.216,
+    "words": [
+      "vücut",
+      "peelinglerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.216,
+    "end": 1.566,
+    "words": [
+      "vücut",
+      "peelinglerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.566,
+    "end": 1.928,
+    "words": [
+      "servet",
+      "harcama!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.928,
+    "end": 2.348,
+    "words": [
+      "servet",
+      "harcama!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.348,
+    "end": 2.76,
+    "words": [
+      "Çünkü",
+      "banyoda"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.76,
+    "end": 3.135,
+    "words": [
+      "Çünkü",
+      "banyoda"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.135,
+    "end": 3.525,
+    "words": [
+      "selülit",
+      "görünümünü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.525,
+    "end": 3.938,
+    "words": [
+      "selülit",
+      "görünümünü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.938,
+    "end": 4.303,
+    "words": [
+      "azaltan",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.303,
+    "end": 4.598,
+    "words": [
+      "azaltan",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.598,
+    "end": 4.893,
+    "words": [
+      "cildi",
+      "bebek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.893,
+    "end": 5.16,
+    "words": [
+      "cildi",
+      "bebek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.16,
+    "end": 5.43,
+    "words": [
+      "gibi",
+      "yumuşacık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.43,
+    "end": 5.737,
+    "words": [
+      "gibi",
+      "yumuşacık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.737,
+    "end": 6.105,
+    "words": [
+      "yapan",
+      "mucizevi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.105,
+    "end": 6.54,
+    "words": [
+      "yapan",
+      "mucizevi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.54,
+    "end": 6.968,
+    "words": [
+      "tarifi",
+      "evde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.968,
+    "end": 7.35,
+    "words": [
+      "tarifi",
+      "evde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.35,
+    "end": 7.688,
+    "words": [
+      "dakikalar",
+      "içinde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.688,
+    "end": 8.137,
+    "words": [
+      "dakikalar",
+      "içinde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.137,
+    "end": 8.723,
+    "words": [
+      "hazırlayabilirsin.",
+      "Bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.723,
+    "end": 9.09,
+    "words": [
+      "hazırlayabilirsin.",
+      "Bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.09,
+    "end": 9.277,
+    "words": [
+      "çay",
+      "bardağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.277,
+    "end": 9.533,
+    "words": [
+      "çay",
+      "bardağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.533,
+    "end": 9.84,
+    "words": [
+      "kahve",
+      "telvesi,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.84,
+    "end": 10.215,
+    "words": [
+      "kahve",
+      "telvesi,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.215,
+    "end": 10.538,
+    "words": [
+      "yarım",
+      "çay"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.538,
+    "end": 10.777,
+    "words": [
+      "yarım",
+      "çay"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.777,
+    "end": 11.062,
+    "words": [
+      "bardağı",
+      "esmer"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.062,
+    "end": 11.369,
+    "words": [
+      "bardağı",
+      "esmer"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.369,
+    "end": 11.653,
+    "words": [
+      "şeker",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.653,
+    "end": 11.924,
+    "words": [
+      "şeker",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.924,
+    "end": 12.15,
+    "words": [
+      "üç",
+      "yemek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.15,
+    "end": 12.352,
+    "words": [
+      "üç",
+      "yemek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.352,
+    "end": 12.694,
+    "words": [
+      "kaşığı",
+      "hindistancevizi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.694,
+    "end": 13.151,
+    "words": [
+      "kaşığı",
+      "hindistancevizi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.151,
+    "end": 13.567,
+    "words": [
+      "yağını",
+      "karıştırıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.567,
+    "end": 13.973,
+    "words": [
+      "yağını",
+      "karıştırıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.973,
+    "end": 14.407,
+    "words": [
+      "duş",
+      "sırasında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.407,
+    "end": 14.843,
+    "words": [
+      "duş",
+      "sırasında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.843,
+    "end": 15.277,
+    "words": [
+      "dairesel",
+      "masajla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.277,
+    "end": 15.713,
+    "words": [
+      "dairesel",
+      "masajla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.713,
+    "end": 16.148,
+    "words": [
+      "uygula.",
+      "Kahvenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.148,
+    "end": 16.519,
+    "words": [
+      "uygula.",
+      "Kahvenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.519,
+    "end": 16.826,
+    "words": [
+      "kafeini",
+      "kan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.826,
+    "end": 17.085,
+    "words": [
+      "kafeini",
+      "kan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.085,
+    "end": 17.438,
+    "words": [
+      "akışını",
+      "hızlandırırken"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.438,
+    "end": 17.932,
+    "words": [
+      "akışını",
+      "hızlandırırken"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.932,
+    "end": 18.355,
+    "words": [
+      "şeker",
+      "ölü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.355,
+    "end": 18.706,
+    "words": [
+      "şeker",
+      "ölü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.706,
+    "end": 19.057,
+    "words": [
+      "deriyi",
+      "atar,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.057,
+    "end": 19.409,
+    "words": [
+      "deriyi",
+      "atar,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.409,
+    "end": 19.759,
+    "words": [
+      "hindistancevizi",
+      "yağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.759,
+    "end": 20.118,
+    "words": [
+      "hindistancevizi",
+      "yağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.118,
+    "end": 20.484,
+    "words": [
+      "ise",
+      "derinlemesine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.484,
+    "end": 20.85,
+    "words": [
+      "ise",
+      "derinlemesine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.85,
+    "end": 21.216,
+    "words": [
+      "nemlendirir.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.216,
+    "end": 21.583,
+    "words": [
+      "nemlendirir.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.583,
+    "end": 21.949,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.949,
+    "end": 22.301,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.301,
+    "end": 22.642,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.642,
+    "end": 22.986,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.986,
+    "end": 23.384,
+    "words": [
+      "unutma,",
+      "cildini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 23.384,
+    "end": 23.779,
+    "words": [
+      "unutma,",
+      "cildini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 23.779,
+    "end": 24.116,
+    "words": [
+      "yenilemek",
+      "için."
+    ],
+    "active": 0
+  },
+  {
+    "start": 24.116,
+    "end": 24.555,
+    "words": [
+      "yenilemek",
+      "için."
+    ],
+    "active": 1
+  }
+]

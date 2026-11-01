@@ -1,0 +1,54 @@
+{
+  "frames": 625,
+  "hook": [
+    "SOĞAN DOĞRARKEN",
+    "GÖZYAŞLARINA BOĞULMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-035-v14-1.png"
+    },
+    {
+      "from": 229,
+      "file": "VID-035-v14-3.png"
+    },
+    {
+      "from": 505,
+      "file": "VID-035-v14-4.png"
+    }
+  ],
+  "result": 507,
+  "save": 556,
+  "clocks": [],
+  "events": [
+    {
+      "from": 272,
+      "to": 309,
+      "a": "BİR BARDAK SU",
+      "b": "TAHTANIN YANINA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 355,
+      "to": 391,
+      "a": "SOĞUK SUYLA",
+      "b": "BIÇAĞI ISLAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 556,
+      "to": 584,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-035-v14-voice.wav"
+}

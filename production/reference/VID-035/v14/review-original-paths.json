@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../../remotion/public/VID-035-v14-1.png",
+      "sha256": "ed51925ecc39f0844b2a9b34b48ffbcce1618255d1f212a8af0c997efb2b44bc",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Açık renk soğan kesiti tezgâhta. "
+    },
+    {
+      "file": "../../../remotion/public/VID-035-v14-3.png",
+      "sha256": "095600fccd174169c5b58a7b145c819558df594ba49fa8de7fa20af2879217ff",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Dilimlenmiş soğan, bıçak ve su bardağı destekli."
+    },
+    {
+      "file": "../../../remotion/public/VID-035-v14-4.png",
+      "sha256": "c63b2f044bd14149b66f16bdd64e3794c6112dfe4ca3ae32bde8977137da99c6",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Dilimli soğan ve bardak tezgâhta; durağan temsil."
+    }
+  ]
+}
