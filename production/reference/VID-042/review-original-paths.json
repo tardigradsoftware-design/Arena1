@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-042-1.png",
+      "sha256": "682bc98a5cb591aa47d7a56b18159e97e618a8054f31ce4171726dc6761f7983",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi omuz ve kolda kızarıklık, yüz yok."
+    },
+    {
+      "file": "../../remotion/public/VID-042-2.png",
+      "sha256": "ef0d411cea0618573051d27ac2fe0b16d20effc4b407c3a77306d48d01720c56",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aloe yaprağı ve kalıpta jel; durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-042-3.png",
+      "sha256": "9b42cd9517d779646bbdd197ffc619f72c59e90ae59211d3eadf5b87f9252eca",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tabakta buz küpleri; cilde temas gösterilmedi."
+    },
+    {
+      "file": "../../remotion/public/VID-042-4.png",
+      "sha256": "9695778acaa85db6c02ce71443b2e59a4dca0ca8b2349349c7c66517cc6a9b0e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Benzer kısmi omuz, temsili sonuç; iyileşme kanıtı değil."
+    }
+  ]
+}

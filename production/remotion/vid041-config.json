@@ -1,0 +1,67 @@
+{
+  "frames": 674,
+  "hook": [
+    "MAKARNA SUYUNU",
+    "LAVABOYA DÖKME!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-041-1.png"
+    },
+    {
+      "from": 195,
+      "file": "VID-041-2.png"
+    },
+    {
+      "from": 295,
+      "file": "VID-041-3.png"
+    },
+    {
+      "from": 500,
+      "file": "VID-041-4.png"
+    }
+  ],
+  "result": 530,
+  "save": 607,
+  "clocks": [],
+  "events": [
+    {
+      "from": 300,
+      "to": 330,
+      "a": "MAKARNA SOSUNA",
+      "b": "NİŞASTALI SU",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "pot"
+    },
+    {
+      "from": 345,
+      "to": 382,
+      "a": "YARIM ÇAY BARDAĞI",
+      "b": "HAŞLAMA SUYU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 422,
+      "to": 450,
+      "a": "SOSU",
+      "b": "KARIŞTIR",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 607,
+      "to": 636,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-041-voice.wav"
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-041-1.png",
+      "sha256": "aa878643579d2555f238082420ad1dbb570adf8d75f31eb7594b16a4d37a868e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ocakta makarna haşlama tenceresi."
+    },
+    {
+      "file": "../../remotion/public/VID-041-2.png",
+      "sha256": "d960a035b6495ae733d08b7dc635479c30b1b0be1118d2e9e26171d69aaebcc4",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tencerede destekli kepçe, sulu makarna."
+    },
+    {
+      "file": "../../remotion/public/VID-041-3.png",
+      "sha256": "12907332ae661440a85eeb45d41274297a45029815d600f322b2652ba2b26268",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Sos tavası ve bardak tezgâhta; dökme karıştırma durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-041-4.png",
+      "sha256": "1eade9d1999c4f8db82f6f622b98e9b3e6096762124d0fdeda68bc4d62c949e5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tabakta soslu makarna temsili sonuç."
+    }
+  ]
+}

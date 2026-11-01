@@ -1,0 +1,72 @@
+{
+  "frames": 633,
+  "hook": [
+    "TAHRİŞ OLAN CİLDİNİ",
+    "DAHA ÇOK YAKMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-042-1.png"
+    },
+    {
+      "from": 279,
+      "file": "VID-042-2.png"
+    },
+    {
+      "from": 360,
+      "file": "VID-042-3.png"
+    },
+    {
+      "from": 500,
+      "file": "VID-042-4.png"
+    }
+  ],
+  "result": 505,
+  "save": 568,
+  "clocks": [
+    {
+      "from": 170,
+      "to": 197
+    }
+  ],
+  "events": [
+    {
+      "from": 170,
+      "to": 198,
+      "a": "ANINDA",
+      "b": "FERAHLATMA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 293,
+      "to": 326,
+      "a": "ALOE VERA",
+      "b": "JEL",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "leaf"
+    },
+    {
+      "from": 335,
+      "to": 363,
+      "a": "BUZ KALIBI",
+      "b": "DONDUR",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 568,
+      "to": 596,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-042-voice.wav"
+}
