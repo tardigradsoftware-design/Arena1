@@ -1,0 +1,262 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.582,
+    "words": [
+      "sakın",
+      "deri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.582,
+    "end": 1.026,
+    "words": [
+      "sakın",
+      "deri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.026,
+    "end": 1.47,
+    "words": [
+      "koltuklarınızın",
+      "çatlayıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.47,
+    "end": 1.913,
+    "words": [
+      "koltuklarınızın",
+      "çatlayıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.913,
+    "end": 2.357,
+    "words": [
+      "matlaşmasına",
+      "seyirci"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.357,
+    "end": 2.745,
+    "words": [
+      "matlaşmasına",
+      "seyirci"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.745,
+    "end": 3.112,
+    "words": [
+      "kalıp",
+      "pahalı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.112,
+    "end": 3.45,
+    "words": [
+      "kalıp",
+      "pahalı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.45,
+    "end": 3.731,
+    "words": [
+      "bakım",
+      "ürünlerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.731,
+    "end": 4.024,
+    "words": [
+      "bakım",
+      "ürünlerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.024,
+    "end": 4.335,
+    "words": [
+      "para",
+      "kaptırmayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.335,
+    "end": 4.793,
+    "words": [
+      "para",
+      "kaptırmayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.793,
+    "end": 5.22,
+    "words": [
+      "Çünkü",
+      "süt"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.22,
+    "end": 5.489,
+    "words": [
+      "Çünkü",
+      "süt"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.489,
+    "end": 5.684,
+    "words": [
+      "ve",
+      "su"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.684,
+    "end": 5.873,
+    "words": [
+      "ve",
+      "su"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.873,
+    "end": 6.232,
+    "words": [
+      "karışımı",
+      "parlatır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.232,
+    "end": 6.697,
+    "words": [
+      "karışımı",
+      "parlatır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.697,
+    "end": 7.117,
+    "words": [
+      "Sütle",
+      "silin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.117,
+    "end": 7.492,
+    "words": [
+      "Sütle",
+      "silin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.492,
+    "end": 7.8,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.8,
+    "end": 8.078,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.078,
+    "end": 8.393,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.393,
+    "end": 8.707,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.707,
+    "end": 9.075,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.075,
+    "end": 9.42,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.42,
+    "end": 9.758,
+    "words": [
+      "unutma,",
+      "deri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.758,
+    "end": 10.163,
+    "words": [
+      "unutma,",
+      "deri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.163,
+    "end": 10.771,
+    "words": [
+      "mobilyaları."
+    ],
+    "active": 0
+  }
+]

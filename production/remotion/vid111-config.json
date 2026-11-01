@@ -1,0 +1,49 @@
+{
+  "frames": 341,
+  "hook": [
+    "SAÇ DERİSİNDE",
+    "KEPEK VE KAŞINTI"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-111-1.png"
+    },
+    {
+      "from": 165,
+      "file": "VID-111-2.png"
+    },
+    {
+      "from": 244,
+      "file": "VID-111-4.png"
+    },
+    {
+      "from": 298,
+      "file": "VID-111-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 271,
+  "clocks": [],
+  "events": [
+    {
+      "from": 175,
+      "to": 202,
+      "a": "ELMA SİRKESİ",
+      "b": "SAÇ BAKIMI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 271,
+      "to": 294,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-111-voice.wav"
+}

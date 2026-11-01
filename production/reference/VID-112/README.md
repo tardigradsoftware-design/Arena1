@@ -1,0 +1,2 @@
+# VID-112
+Drive: https://drive.google.com/file/d/1R3y3yzPYamz49UBVDrx7SuZRR_w7gDjo/view — 10,82 sn, 2.358.813 bayt. Senaryo aynen seslendirildi (1,45×), Vosk 18/29 çapa; diğerleri interpolasyon. Ses baştan sona dinlenmedi; senkron kesin değil. Süt ve suyun deriyi parlatması veya çatlamayı önlemesi garanti değil; sıvılar bazı deri türlerine zarar verebilir, üretici bakım talimatı izlenmeli: https://leathershoppes.com/blog/what-can-damage-my-leather-sofa/ . Uygulama ve önce/sonra sonucu gösterilmiyor; 3–4 farklı mobilyaları gereksiz farklılık yüzünden kullanılmadı.

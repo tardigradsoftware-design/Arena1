@@ -251,3 +251,7 @@ VID-108: https://drive.google.com/file/d/1M6X9U1a1zrx8pDwD2BZcAR6_ib44sg4a/view 
 ### VID-109–110
 VID-109: https://drive.google.com/file/d/1Griqdgy109gPiaqwYaznfPMWraO-snDi/view — 12,44 sn, 2.083.485 bayt, Vosk 23/34. Karbonat aşındırıcı olabilir; üretici talimatı ve gizli alanda test önemli, temizleme sonucu garanti değil.
 VID-110: https://drive.google.com/file/d/1XDGuOkAU5NFVgdHQMIjI0PMPK0w577xe/view — 11,78 sn, 2.926.394 bayt, Vosk 16/30. Karanfilin filizlenmeyi/çürümeyi önlediğine güvenilir kanıt bulunamadı; uyarısız yayımlamayın; küflü veya çürük soğan atılır. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi ve Vosk dışı altyazı tahmini. Sonraki 111–112.
+
+### VID-111–112
+VID-111: https://drive.google.com/file/d/1C8NBoHAztZ4djQEvXkdyFBHGuy6oeDF4/view — 11,37 sn, 2.537.098 bayt, Vosk 20/31. Sirkenin kepeği giderdiği kanıtlanmamış; özellikle seyreltilmemiş sirke ve tahrişli deride yanma riski vardır, uyarısız yayımlamayın.
+VID-112: https://drive.google.com/file/d/1R3y3yzPYamz49UBVDrx7SuZRR_w7gDjo/view — 10,82 sn, 2.358.813 bayt, Vosk 18/29. Süt/suyun sonuçları garanti değil, sıvılar bazı deri türlerine zarar verebilir; üretici talimatına uyulmalı. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi ve Vosk dışı altyazı tahmini. Sonraki 113–114.

@@ -1,0 +1,49 @@
+{
+  "frames": 324,
+  "hook": [
+    "DERİ KOLTUKLAR",
+    "MATLAŞIYOR MU?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-112-1.png"
+    },
+    {
+      "from": 150,
+      "file": "VID-112-2.png"
+    },
+    {
+      "from": 224,
+      "file": "VID-112-1.png"
+    },
+    {
+      "from": 285,
+      "file": "VID-112-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 261,
+  "clocks": [],
+  "events": [
+    {
+      "from": 158,
+      "to": 190,
+      "a": "SÜT VE SU",
+      "b": "KARIŞIMI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 261,
+      "to": 286,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-112-voice.wav"
+}

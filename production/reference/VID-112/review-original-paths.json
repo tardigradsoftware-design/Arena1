@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-112-1.png",
+      "sha256": "672e109d883210663d5c754e425f70c06a9d73d231cc923444567603ab02bef5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Mat deri koltuk, aynı görsel tekrar kullanıldı."
+    },
+    {
+      "file": "../../remotion/public/VID-112-2.png",
+      "sha256": "eb99e0a7aef7d536e99f195c197cebf19a07eefaa243da26a39933b9e24759ac",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Süt, su ve bez ayrı; uygulama veya düzelme gösterilmiyor."
+    }
+  ]
+}

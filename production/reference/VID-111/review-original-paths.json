@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-111-1.png",
+      "sha256": "d4510d6a3a3f36840ba153d2fe4075455dbae0a5904c6ace66abf6df4dfd407c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Saçın arkadan görünümü, kepek belirgin değil."
+    },
+    {
+      "file": "../../remotion/public/VID-111-2.png",
+      "sha256": "d97b288f2a074ff9aba35c5893139f3127fd0758aa370813441eed1283f7a44d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Şişe ve su temsili, sıvı kimliği doğrulanmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-111-4.png",
+      "sha256": "43638a45688005e96f086d32a5e0ba21b64bfd22fcb3e7a2dd1744c1a595212b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Şişe ve su temsili; uygulama gösterilmedi."
+    }
+  ]
+}

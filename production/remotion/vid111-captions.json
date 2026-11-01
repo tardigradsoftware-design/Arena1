@@ -1,0 +1,280 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.585,
+    "words": [
+      "sakın",
+      "saç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.585,
+    "end": 0.926,
+    "words": [
+      "sakın",
+      "saç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.926,
+    "end": 1.249,
+    "words": [
+      "derinizde",
+      "oluşan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.249,
+    "end": 1.583,
+    "words": [
+      "derinizde",
+      "oluşan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.583,
+    "end": 1.928,
+    "words": [
+      "kaşıntılı",
+      "kepek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.928,
+    "end": 2.235,
+    "words": [
+      "kaşıntılı",
+      "kepek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.235,
+    "end": 2.482,
+    "words": [
+      "sorunu",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.482,
+    "end": 2.768,
+    "words": [
+      "sorunu",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.768,
+    "end": 3.166,
+    "words": [
+      "kimyasal",
+      "şampuanlara"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.166,
+    "end": 3.619,
+    "words": [
+      "kimyasal",
+      "şampuanlara"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.619,
+    "end": 4.071,
+    "words": [
+      "servet",
+      "harcayıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.071,
+    "end": 4.524,
+    "words": [
+      "servet",
+      "harcayıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.524,
+    "end": 4.976,
+    "words": [
+      "derinizi",
+      "kurutmayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.976,
+    "end": 5.429,
+    "words": [
+      "derinizi",
+      "kurutmayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.429,
+    "end": 5.797,
+    "words": [
+      "Çünkü",
+      "elma"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.797,
+    "end": 6.082,
+    "words": [
+      "Çünkü",
+      "elma"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.082,
+    "end": 6.442,
+    "words": [
+      "sirkesi",
+      "dengeler."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.442,
+    "end": 6.828,
+    "words": [
+      "sirkesi",
+      "dengeler."
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.828,
+    "end": 7.163,
+    "words": [
+      "Elma",
+      "sirkesi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.163,
+    "end": 7.499,
+    "words": [
+      "Elma",
+      "sirkesi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.499,
+    "end": 7.841,
+    "words": [
+      "ile",
+      "durulayın."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.841,
+    "end": 8.19,
+    "words": [
+      "ile",
+      "durulayın."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.19,
+    "end": 8.462,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.462,
+    "end": 8.727,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.727,
+    "end": 9.06,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.06,
+    "end": 9.45,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.45,
+    "end": 9.81,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.81,
+    "end": 10.155,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.155,
+    "end": 10.575,
+    "words": [
+      "kepeği",
+      "önlemek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.575,
+    "end": 10.935,
+    "words": [
+      "kepeği",
+      "önlemek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.935,
+    "end": 11.345,
+    "words": [
+      "için."
+    ],
+    "active": 0
+  }
+]
