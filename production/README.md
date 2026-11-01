@@ -17,7 +17,7 @@ production/.venv/bin/python production/quality_check.py 35
 production/.venv/bin/python production/render.py 35 --foley production/assets/drip.wav --foley-at 11.5
 ```
 
-Kurgu kaynağındaki otomatik kelime eşleşmeleri eksik olabilir; eşleşmeyen zamanlar tahmin edilir. 035 hariç sahne kesimleri şimdilik eşit sürelidir, konuşma ile eşleşmeyebilir. Yayından önce sahne/kelime zamanlarını ve sesi baştan sona denetleyin, gerekli süreleri senaryoya göre düzeltin. Betik: 1,45× ses, 720×1280 H.264 30 fps, sabit iki kelime altyazı, etkin kelime sarı, aralıklı filigran, CC0 fon müziği ve kesim sesleri üretir. Görsellerde çok hafif, ortalanmış yakınlaşma vardır. Çıktı boyutu süre ve sahne karmaşıklığına bağlıdır; 6 MB garanti değildir. Program sesi dinleyerek ve görüntüyü izleyerek kalite kontrolü yerine geçmez.
+Kurgu kaynağındaki otomatik kelime eşleşmeleri eksik olabilir; eşleşmeyen zamanlar tahmin edilir. 035 hariç sahne kesimleri şimdilik eşit sürelidir, konuşma ile eşleşmeyebilir. Yayından önce sahne/kelime zamanlarını ve sesi baştan sona denetleyin, gerekli süreleri senaryoya göre düzeltin. Betik: 1,45× ses, 720×1280 H.264 30 fps, sabit iki kelime altyazı, etkin kelime sarı, aralıklı filigran, CC0 fon müziği, yumuşak sahne geçişleri ve onlarla eşzamanlı geçiş sesleri üretir. Görsellerde çok hafif, ortalanmış yakınlaşma vardır. Çıktı boyutu süre ve sahne karmaşıklığına bağlıdır; 6 MB garanti değildir. Program sesi dinleyerek ve görüntüyü izleyerek kalite kontrolü yerine geçmez.
 
 ## Görsel kalite kontrolü
 
