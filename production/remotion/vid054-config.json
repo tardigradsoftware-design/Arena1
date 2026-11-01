@@ -1,0 +1,72 @@
+{
+  "frames": 639,
+  "hook": [
+    "PİRİNÇ SUYUNU",
+    "LAVABOYA DÖKME!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-054-1.png"
+    },
+    {
+      "from": 275,
+      "file": "VID-054-2.png"
+    },
+    {
+      "from": 338,
+      "file": "VID-054-3.png"
+    },
+    {
+      "from": 448,
+      "file": "VID-054-4.png"
+    }
+  ],
+  "result": 527,
+  "save": 566,
+  "clocks": [
+    {
+      "from": 399,
+      "to": 432
+    }
+  ],
+  "events": [
+    {
+      "from": 293,
+      "to": 331,
+      "a": "PİRİNÇ SUYUNU",
+      "b": "SÜZ VE SOĞUT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 354,
+      "to": 388,
+      "a": "SAÇ DİPLERİNE",
+      "b": "UYGULA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 399,
+      "to": 432,
+      "a": "YİRMİ DAKİKA",
+      "b": "BEKLET VE DURULA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 566,
+      "to": 595,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-054-voice.wav"
+}

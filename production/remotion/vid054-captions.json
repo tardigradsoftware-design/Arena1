@@ -1,0 +1,542 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.608,
+    "words": [
+      "sakın",
+      "haşladığın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.608,
+    "end": 1.043,
+    "words": [
+      "sakın",
+      "haşladığın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.043,
+    "end": 1.478,
+    "words": [
+      "pirinçlerin",
+      "suyunu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.478,
+    "end": 1.855,
+    "words": [
+      "pirinçlerin",
+      "suyunu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.855,
+    "end": 2.175,
+    "words": [
+      "lavaboya",
+      "döküp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.175,
+    "end": 2.495,
+    "words": [
+      "lavaboya",
+      "döküp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.495,
+    "end": 2.805,
+    "words": [
+      "ziyan",
+      "etme!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.805,
+    "end": 3.21,
+    "words": [
+      "ziyan",
+      "etme!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.21,
+    "end": 3.634,
+    "words": [
+      "Çünkü",
+      "Asyalı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.634,
+    "end": 3.971,
+    "words": [
+      "Çünkü",
+      "Asyalı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.971,
+    "end": 4.27,
+    "words": [
+      "kadınların",
+      "saç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.27,
+    "end": 4.53,
+    "words": [
+      "kadınların",
+      "saç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.53,
+    "end": 4.79,
+    "words": [
+      "sırrı",
+      "olan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.79,
+    "end": 5.047,
+    "words": [
+      "sırrı",
+      "olan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.047,
+    "end": 5.325,
+    "words": [
+      "pirinç",
+      "suyu,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.325,
+    "end": 5.707,
+    "words": [
+      "pirinç",
+      "suyu,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.707,
+    "end": 6.098,
+    "words": [
+      "saçları",
+      "çelik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.098,
+    "end": 6.367,
+    "words": [
+      "saçları",
+      "çelik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.367,
+    "end": 6.652,
+    "words": [
+      "gibi",
+      "güçlendirip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.652,
+    "end": 7.058,
+    "words": [
+      "gibi",
+      "güçlendirip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.058,
+    "end": 7.477,
+    "words": [
+      "hızla",
+      "uzatan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.477,
+    "end": 7.852,
+    "words": [
+      "hızla",
+      "uzatan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.852,
+    "end": 8.24,
+    "words": [
+      "mucizevi",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.24,
+    "end": 8.639,
+    "words": [
+      "mucizevi",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.639,
+    "end": 9.038,
+    "words": [
+      "iksirdir.",
+      "Haşlanan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.038,
+    "end": 9.437,
+    "words": [
+      "iksirdir.",
+      "Haşlanan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.437,
+    "end": 9.797,
+    "words": [
+      "pirinç",
+      "suyunu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.797,
+    "end": 10.118,
+    "words": [
+      "pirinç",
+      "suyunu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.118,
+    "end": 10.439,
+    "words": [
+      "süzüp",
+      "soğuttuktan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.439,
+    "end": 10.76,
+    "words": [
+      "süzüp",
+      "soğuttuktan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.76,
+    "end": 11.1,
+    "words": [
+      "sonra",
+      "duş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.1,
+    "end": 11.4,
+    "words": [
+      "sonra",
+      "duş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.4,
+    "end": 11.64,
+    "words": [
+      "öncesi",
+      "saç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.64,
+    "end": 11.895,
+    "words": [
+      "öncesi",
+      "saç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.895,
+    "end": 12.188,
+    "words": [
+      "diplerine",
+      "masaj"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.188,
+    "end": 12.503,
+    "words": [
+      "diplerine",
+      "masaj"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.503,
+    "end": 12.863,
+    "words": [
+      "yaparak",
+      "uygula,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.863,
+    "end": 13.267,
+    "words": [
+      "yaparak",
+      "uygula,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.267,
+    "end": 13.598,
+    "words": [
+      "yirmi",
+      "dakika"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.598,
+    "end": 13.883,
+    "words": [
+      "yirmi",
+      "dakika"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.883,
+    "end": 14.291,
+    "words": [
+      "bekletip",
+      "durula."
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.291,
+    "end": 14.794,
+    "words": [
+      "bekletip",
+      "durula."
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.794,
+    "end": 15.227,
+    "words": [
+      "İçindeki",
+      "inositol"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.227,
+    "end": 15.591,
+    "words": [
+      "İçindeki",
+      "inositol"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.591,
+    "end": 15.954,
+    "words": [
+      "ve",
+      "vitaminler"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.954,
+    "end": 16.318,
+    "words": [
+      "ve",
+      "vitaminler"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.318,
+    "end": 16.682,
+    "words": [
+      "saç",
+      "tellerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.682,
+    "end": 17.046,
+    "words": [
+      "saç",
+      "tellerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.046,
+    "end": 17.409,
+    "words": [
+      "onarıp",
+      "parlaklık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.409,
+    "end": 17.736,
+    "words": [
+      "onarıp",
+      "parlaklık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.736,
+    "end": 18.026,
+    "words": [
+      "verir.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.026,
+    "end": 18.315,
+    "words": [
+      "verir.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.315,
+    "end": 18.605,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.605,
+    "end": 18.9,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.9,
+    "end": 19.26,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.26,
+    "end": 19.598,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.598,
+    "end": 19.954,
+    "words": [
+      "unutma,",
+      "saçlarını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.954,
+    "end": 20.411,
+    "words": [
+      "unutma,",
+      "saçlarını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.411,
+    "end": 20.805,
+    "words": [
+      "uzatmak",
+      "için."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.805,
+    "end": 21.278,
+    "words": [
+      "uzatmak",
+      "için."
+    ],
+    "active": 1
+  }
+]
