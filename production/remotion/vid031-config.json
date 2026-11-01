@@ -1,0 +1,85 @@
+{
+  "frames": 640,
+  "hook": [
+    "PATATESLERİ",
+    "POŞETTE BIRAKMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-031-1.png"
+    },
+    {
+      "from": 243,
+      "file": "VID-031-2.png"
+    },
+    {
+      "from": 385,
+      "file": "VID-031-3.png"
+    },
+    {
+      "from": 510,
+      "file": "VID-031-4.png"
+    }
+  ],
+  "result": 510,
+  "save": 574,
+  "clocks": [
+    {
+      "from": 180,
+      "to": 205
+    },
+    {
+      "from": 495,
+      "to": 523
+    }
+  ],
+  "events": [
+    {
+      "from": 180,
+      "to": 207,
+      "a": "BİRKAÇ GÜNDE",
+      "b": "FİLİZLENME",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 291,
+      "to": 323,
+      "a": "HASIR SEPET",
+      "b": "PATATESLER",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "basket"
+    },
+    {
+      "from": 355,
+      "to": 385,
+      "a": "DEFNE YAPRAĞI",
+      "b": "İKİ ÜÇ ADET",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "leaf"
+    },
+    {
+      "from": 495,
+      "to": 525,
+      "a": "HAFTALARCA",
+      "b": "FİLİZLENMEZ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 574,
+      "to": 604,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-031-voice.wav"
+}

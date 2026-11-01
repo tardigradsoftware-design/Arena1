@@ -1,0 +1,586 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.503,
+    "words": [
+      "sakın",
+      "kararan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.503,
+    "end": 0.838,
+    "words": [
+      "sakın",
+      "kararan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.838,
+    "end": 1.181,
+    "words": [
+      "gümüş",
+      "takılarını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.181,
+    "end": 1.534,
+    "words": [
+      "gümüş",
+      "takılarını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.534,
+    "end": 1.942,
+    "words": [
+      "veya",
+      "kolyelerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.942,
+    "end": 2.407,
+    "words": [
+      "veya",
+      "kolyelerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.407,
+    "end": 2.863,
+    "words": [
+      "kimyasal",
+      "sıvılarla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.863,
+    "end": 3.309,
+    "words": [
+      "kimyasal",
+      "sıvılarla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.309,
+    "end": 3.756,
+    "words": [
+      "silip",
+      "aşındırma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.756,
+    "end": 4.202,
+    "words": [
+      "silip",
+      "aşındırma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.202,
+    "end": 4.583,
+    "words": [
+      "Çünkü",
+      "kararmış"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.583,
+    "end": 4.928,
+    "words": [
+      "Çünkü",
+      "kararmış"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.928,
+    "end": 5.303,
+    "words": [
+      "gümüşleri",
+      "hiç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.303,
+    "end": 5.749,
+    "words": [
+      "gümüşleri",
+      "hiç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.749,
+    "end": 6.266,
+    "words": [
+      "ovalamadan",
+      "sadece"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.266,
+    "end": 6.705,
+    "words": [
+      "ovalamadan",
+      "sadece"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.705,
+    "end": 7.042,
+    "words": [
+      "otuz",
+      "saniyede"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.042,
+    "end": 7.372,
+    "words": [
+      "otuz",
+      "saniyede"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.372,
+    "end": 7.688,
+    "words": [
+      "pırıl",
+      "pırıl"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.688,
+    "end": 7.98,
+    "words": [
+      "pırıl",
+      "pırıl"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.98,
+    "end": 8.325,
+    "words": [
+      "yapmanın",
+      "harika"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.325,
+    "end": 8.633,
+    "words": [
+      "yapmanın",
+      "harika"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.633,
+    "end": 8.829,
+    "words": [
+      "bir",
+      "yolu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.829,
+    "end": 8.996,
+    "words": [
+      "bir",
+      "yolu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.996,
+    "end": 9.274,
+    "words": [
+      "var.",
+      "Geniş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.274,
+    "end": 9.661,
+    "words": [
+      "var.",
+      "Geniş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.661,
+    "end": 10.027,
+    "words": [
+      "bir",
+      "kaseyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.027,
+    "end": 10.372,
+    "words": [
+      "bir",
+      "kaseyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.372,
+    "end": 10.679,
+    "words": [
+      "alüminyum",
+      "folyo"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.679,
+    "end": 10.947,
+    "words": [
+      "alüminyum",
+      "folyo"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.947,
+    "end": 11.255,
+    "words": [
+      "ile",
+      "kaplayıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.255,
+    "end": 11.602,
+    "words": [
+      "ile",
+      "kaplayıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.602,
+    "end": 11.93,
+    "words": [
+      "içine",
+      "sıcak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.93,
+    "end": 12.214,
+    "words": [
+      "içine",
+      "sıcak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.214,
+    "end": 12.471,
+    "words": [
+      "su,",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.471,
+    "end": 12.683,
+    "words": [
+      "su,",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.683,
+    "end": 12.877,
+    "words": [
+      "yemek",
+      "kaşığı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.877,
+    "end": 13.177,
+    "words": [
+      "yemek",
+      "kaşığı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.177,
+    "end": 13.46,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.46,
+    "end": 13.65,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.65,
+    "end": 13.84,
+    "words": [
+      "bir",
+      "yemek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.84,
+    "end": 14.055,
+    "words": [
+      "bir",
+      "yemek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.055,
+    "end": 14.295,
+    "words": [
+      "kaşığı",
+      "tuz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.295,
+    "end": 14.512,
+    "words": [
+      "kaşığı",
+      "tuz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.512,
+    "end": 14.815,
+    "words": [
+      "ekle.",
+      "Kararan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.815,
+    "end": 15.225,
+    "words": [
+      "ekle.",
+      "Kararan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.225,
+    "end": 15.635,
+    "words": [
+      "gümüşleri",
+      "suya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.635,
+    "end": 15.96,
+    "words": [
+      "gümüşleri",
+      "suya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.96,
+    "end": 16.297,
+    "words": [
+      "bırak",
+      "tepkime"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.297,
+    "end": 16.732,
+    "words": [
+      "bırak",
+      "tepkime"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.732,
+    "end": 17.167,
+    "words": [
+      "saniyeler",
+      "içinde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.167,
+    "end": 17.513,
+    "words": [
+      "saniyeler",
+      "içinde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.513,
+    "end": 17.863,
+    "words": [
+      "tüm",
+      "siyahlığı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.863,
+    "end": 18.305,
+    "words": [
+      "tüm",
+      "siyahlığı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.305,
+    "end": 18.747,
+    "words": [
+      "folyoya",
+      "geçirecektir."
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.747,
+    "end": 19.189,
+    "words": [
+      "folyoya",
+      "geçirecektir."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.189,
+    "end": 19.515,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.515,
+    "end": 19.785,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.785,
+    "end": 20.115,
+    "words": [
+      "yöntemi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.115,
+    "end": 20.422,
+    "words": [
+      "yöntemi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.422,
+    "end": 20.812,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.812,
+    "end": 21.188,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.188,
+    "end": 21.534,
+    "words": [
+      "unutma,",
+      "kararan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.534,
+    "end": 21.971,
+    "words": [
+      "unutma,",
+      "kararan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.971,
+    "end": 22.627,
+    "words": [
+      "gümüşlerini."
+    ],
+    "active": 0
+  }
+]

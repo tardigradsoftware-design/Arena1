@@ -1,0 +1,85 @@
+{
+  "frames": 680,
+  "hook": [
+    "KARARAN GÜMÜŞÜ",
+    "AŞINDIRMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-032-1.png"
+    },
+    {
+      "from": 278,
+      "file": "VID-032-2.png"
+    },
+    {
+      "from": 444,
+      "file": "VID-032-3.png"
+    },
+    {
+      "from": 535,
+      "file": "VID-032-4.png"
+    }
+  ],
+  "result": 536,
+  "save": 612,
+  "clocks": [
+    {
+      "from": 201,
+      "to": 230
+    },
+    {
+      "from": 501,
+      "to": 528
+    }
+  ],
+  "events": [
+    {
+      "from": 201,
+      "to": 230,
+      "a": "OTUZ SANİYE",
+      "b": "GÜMÜŞ BAKIMI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 312,
+      "to": 346,
+      "a": "KÂSEYİ",
+      "b": "FOLYOYLA KAPLA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 359,
+      "to": 403,
+      "a": "SICAK SU",
+      "b": "KARBONAT VE TUZ",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 501,
+      "to": 530,
+      "a": "SANİYELER",
+      "b": "İÇİNDE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 612,
+      "to": 642,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-032-voice.wav"
+}
