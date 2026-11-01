@@ -1,0 +1,2 @@
+# VID-100 — V14
+Drive: https://drive.google.com/file/d/1vr_xhvTiyTVMMDbmd3urTSeFnyhKHEWA/view — 13,01 sn / 3.303.045 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; üç incelenmiş temsili yapay sahne, 4. aday yanlış önce/sonra izlenimi nedeniyle kullanılmadı. Vosk 16/33, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −5,78 dBFS. Tüm tüylerin temizlenmesi garanti değil; hassas döşemede bakım talimatına uyun.
