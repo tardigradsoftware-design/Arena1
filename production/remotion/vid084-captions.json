@@ -1,0 +1,334 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.623,
+    "words": [
+      "sakın",
+      "dudak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.623,
+    "end": 0.922,
+    "words": [
+      "sakın",
+      "dudak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.922,
+    "end": 1.192,
+    "words": [
+      "dolgusu",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.192,
+    "end": 1.44,
+    "words": [
+      "dolgusu",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.44,
+    "end": 1.732,
+    "words": [
+      "riskli",
+      "işlemler"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.732,
+    "end": 2.093,
+    "words": [
+      "riskli",
+      "işlemler"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.093,
+    "end": 2.423,
+    "words": [
+      "yapmadan",
+      "önce"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.423,
+    "end": 2.692,
+    "words": [
+      "yapmadan",
+      "önce"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.692,
+    "end": 3.022,
+    "words": [
+      "doğal",
+      "yöntemleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.022,
+    "end": 3.428,
+    "words": [
+      "doğal",
+      "yöntemleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.428,
+    "end": 3.833,
+    "words": [
+      "denemeyin!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.833,
+    "end": 4.192,
+    "words": [
+      "denemeyin!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.192,
+    "end": 4.447,
+    "words": [
+      "tarçın",
+      "yağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.447,
+    "end": 4.643,
+    "words": [
+      "tarçın",
+      "yağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.643,
+    "end": 4.838,
+    "words": [
+      "ve",
+      "nane"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.838,
+    "end": 5.059,
+    "words": [
+      "ve",
+      "nane"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.059,
+    "end": 5.306,
+    "words": [
+      "yağı",
+      "kan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.306,
+    "end": 5.627,
+    "words": [
+      "yağı",
+      "kan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.627,
+    "end": 6.022,
+    "words": [
+      "dolaşımını",
+      "hızlandırarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.022,
+    "end": 6.418,
+    "words": [
+      "dolaşımını",
+      "hızlandırarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.418,
+    "end": 6.78,
+    "words": [
+      "doğal",
+      "dolgunluk"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.78,
+    "end": 7.11,
+    "words": [
+      "doğal",
+      "dolgunluk"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.11,
+    "end": 7.44,
+    "words": [
+      "verir.",
+      "Birkaç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.44,
+    "end": 7.77,
+    "words": [
+      "verir.",
+      "Birkaç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.77,
+    "end": 8.04,
+    "words": [
+      "damla",
+      "dudak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.04,
+    "end": 8.276,
+    "words": [
+      "damla",
+      "dudak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.276,
+    "end": 8.539,
+    "words": [
+      "bakımına",
+      "ekleyin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.539,
+    "end": 8.857,
+    "words": [
+      "bakımına",
+      "ekleyin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.857,
+    "end": 9.148,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.148,
+    "end": 9.379,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.379,
+    "end": 9.651,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.651,
+    "end": 10.027,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.027,
+    "end": 10.38,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.38,
+    "end": 10.77,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.77,
+    "end": 11.31,
+    "words": [
+      "dudaklarınızı",
+      "dolgunlaştırmak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.31,
+    "end": 11.805,
+    "words": [
+      "dudaklarınızı",
+      "dolgunlaştırmak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.805,
+    "end": 12.336,
+    "words": [
+      "için."
+    ],
+    "active": 0
+  }
+]

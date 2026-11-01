@@ -1,0 +1,45 @@
+{
+  "frames": 346,
+  "hook": [
+    "DOĞRANMIŞ SOĞAN",
+    "NASIL SAKLANIR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-083-1.png"
+    },
+    {
+      "from": 135,
+      "file": "VID-083-2.png"
+    },
+    {
+      "from": 185,
+      "file": "VID-083-3.png"
+    }
+  ],
+  "result": 218,
+  "save": 270,
+  "clocks": [],
+  "events": [
+    {
+      "to": 174,
+      "a": "KAPAKLI KAP",
+      "b": "DOĞRANMIŞ SOĞAN",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar",
+      "from": 140
+    },
+    {
+      "to": 295,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 270
+    }
+  ],
+  "voice": "VID-083-voice.wav"
+}

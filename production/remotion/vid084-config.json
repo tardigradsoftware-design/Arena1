@@ -1,0 +1,49 @@
+{
+  "frames": 371,
+  "hook": [
+    "DUDAK BAKIMINDA",
+    "DOĞAL YÖNTEMLER"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-084-1.png"
+    },
+    {
+      "from": 125,
+      "file": "VID-084-2.png"
+    },
+    {
+      "from": 225,
+      "file": "VID-084-3.png"
+    },
+    {
+      "from": 285,
+      "file": "VID-084-1.png"
+    }
+  ],
+  "result": 290,
+  "save": 289,
+  "clocks": [],
+  "events": [
+    {
+      "to": 160,
+      "a": "TARÇIN YAĞI",
+      "b": "VE NANE YAĞI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop",
+      "from": 128
+    },
+    {
+      "to": 315,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 289
+    }
+  ],
+  "voice": "VID-084-voice.wav"
+}

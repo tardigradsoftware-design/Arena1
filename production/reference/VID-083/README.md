@@ -1,0 +1,2 @@
+# VID-083 — V14
+Drive: https://drive.google.com/file/d/1i7nTNmCUiuEy3o_xtAeRQUJbXqEjCT2l/view — 11,54 sn / 1.805.590 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; üç incelenmiş temsili yapay sahne. 4. adayda kaynakta yer almayan pişirme bağlamı bulunduğundan kullanılmadı. Vosk 18/30, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −6,62 dBFS. Doğranmış soğan kapalı kapta soğukta saklanabilir ancak tazelik sınırsız değildir.

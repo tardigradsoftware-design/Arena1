@@ -1,0 +1,3 @@
+# VID-084 — V14
+Drive: https://drive.google.com/file/d/1BX05nQ6-zlFrZb27yIQeszPdw_dt4oaR/view — 12,37 sn / 2.463.186 bayt. ODS özgün (son cümle yarım), kaynakta “sakın ... denemeyin” ifadesi çelişkilidir, aynen korundu. Voice-01 1,45×; üç incelenmiş temsili yapay sahne, ilk ağız görseli sonda tekrarlandı. 4. aday farklı kişiyle önce/sonra izlenimini önlemek için kullanılmadı; yağın dudağa sürülmesi gösterilmedi. Vosk 26/37, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −6,48 dBFS.
+ÖNEMLİ: Tarçın ve nane yağı dudakta tahriş veya alerjik reaksiyona yol açabilir. Karışımı uygulamayın, uyarısız yayımlamayın: https://www.youembody.com/health-wellness/skincare/do-lip-plumping-products-work

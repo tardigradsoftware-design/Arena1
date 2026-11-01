@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-083-1.png",
+      "sha256": "8eb8dab6d39133ff34e8ca398caebdf386f0d9c23db55c51b9d0ecfedb34bef1",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tahtada doğranmış soğan."
+    },
+    {
+      "file": "../../remotion/public/VID-083-2.png",
+      "sha256": "552358c24ddec0c0dbd2bf6a12d9519e5ded5e20555d85c2c3d41c377b425dfc",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapaklı cam kapta soğan."
+    },
+    {
+      "file": "../../remotion/public/VID-083-3.png",
+      "sha256": "756d553e032f672e4c5f22201125b0ba6df95ecaafef49f41991033815634e73",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Buzdolabında kapaklı kap, temsili."
+    }
+  ]
+}
