@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-069-1.png",
+      "sha256": "50b83d93407a00727306ba2482b7927d4ad04b5c73ecb5a7878631a2f68b25cc",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi baş ve saç ayrımı."
+    },
+    {
+      "file": "../../remotion/public/VID-069-3.png",
+      "sha256": "d50d4c77ffb8846e4a2741a461a623a794b1391d929a400d47a65c638a1b420a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bej toz karışımı ve fırça temsili, uygulama gösterilmez."
+    },
+    {
+      "file": "../../remotion/public/VID-069-4.png",
+      "sha256": "6b1b1949163254a14f29abc3b697a17bf795057d14b54e4852d95a0395efa924",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi baş, saç görünümü; gerçek önce/sonra değil."
+    }
+  ]
+}

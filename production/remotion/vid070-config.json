@@ -1,0 +1,58 @@
+{
+  "frames": 482,
+  "hook": [
+    "BANYO FAYANSLARI",
+    "MAT MI GÖRÜNÜYOR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-070-3.png"
+    },
+    {
+      "from": 166,
+      "file": "VID-070-2.png"
+    },
+    {
+      "from": 318,
+      "file": "VID-070-3.png"
+    },
+    {
+      "from": 357,
+      "file": "VID-070-4.png"
+    }
+  ],
+  "result": 358,
+  "save": 420,
+  "clocks": [],
+  "events": [
+    {
+      "to": 282,
+      "a": "EŞİT MİKTAR",
+      "b": "SU VE SİRKE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop",
+      "from": 247
+    },
+    {
+      "to": 350,
+      "a": "SPREY VE BEZ",
+      "b": "FAYANSLAR",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth",
+      "from": 318
+    },
+    {
+      "to": 448,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 420
+    }
+  ],
+  "voice": "VID-070-voice.wav"
+}
