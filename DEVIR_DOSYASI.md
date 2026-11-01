@@ -82,3 +82,7 @@ VID-012 https://drive.google.com/file/d/1W1vAUrGraZkPXTG4CM9YJ3xgacBQWNSc/view �
 ### VID-013 ve VID-014 tamamlandı
 
 Kullanıcı 013 için senaryoya bağlı kalınarak güvenlik uyarlamasına açık izin verdi. Ocağı gözetimsiz bırakmama uyarısı ve kaşığın garanti olmadığı vurgulandı; özgün konu/işlem korundu. Metin `production/reference/VID-013/script.txt`. VID-013 https://drive.google.com/file/d/1GCZbYBIli65lpvWYqXjSqeQKPVKTBJKC/view 21,83 sn/3.374.873 bayt; VID-014 https://drive.google.com/file/d/1Cz7qRgc8v0cAdIzFv6JjuGgMCp8wa-RX/view 21,63 sn/3.751.661 bayt. 014 orijinal metinle ve saat/tik takla üretildi. Her birinde dört incelenmiş sahne ve SHA manifesti, tek parça voice-01 1,45×, tam decode/blackdetect/tepe ses seviyesi ve 3 saniyede bir kare kontrolü var; sesler baştan sona dinlenmedi, Vosk 013 43/65, 014 39/64 eşleşme, kalanlar interpolasyon. Sırada 015–016.
+
+### VID-015 ve VID-016 bekliyor
+
+Son turda 015 ses ve 8 görsel üretildi; ilk çökme izi sahnesi kare/yuvarlak kesik gibi gerçek dışı olduğu için reddedildi, görsel sınırı doldu. `production/reference/VID-015/README.md` sonraki adımı, ses ve 3 aday görseli açıklar. 015 render edilmedi ve Drive'a yüklenmedi. 016 ODS, yarım avokadoyu buzdolabında suda günlerce saklamayı öneriyor. FDA açıklaması bu tür suda saklamayı bakteri çoğalması riski nedeniyle önermiyor: https://abcnews.com/GMA/Food/fda-warns-storing-avocados-water-viral-social-media/story?id=84939363 . Kullanıcıya 016'yı güvenli saklama biçiminde uyarlama onayı soruldu; senaryoyu onaysız değiştirme, sırayı atlama.
