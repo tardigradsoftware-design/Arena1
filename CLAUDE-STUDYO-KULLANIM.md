@@ -8,7 +8,7 @@ Kaynak: https://github.com/yapaytu/claude-studyo, incelenen commit `ed69cc99cb7e
 | `3d-animasyon` | Three.js ile 3D nesne | Oyuncak estetiği fotogerçekçi değildir; referans görsellerin yerini kendiliğinden almaz. |
 | `reklam-filmi` | Sinematik ürün tanıtımı | Letterbox/kamera etiketleri dikey ve kullanıcı isteğine göre seçilmeli. |
 | `belgesel` | Yavaş bilgi/belgesel anlatısı | Bölüm başlığı/sayılar kullanıcının isteğine ters veya senaryoda yoksa eklenmez. |
-| `motion-grafik` | Kinetik yazı, çizilen işaretler | VID-001 Stüdyo karşılaştırmasında uyarlanmıştır, kullanıcı seçimi bekleniyor. |
+| `motion-grafik` | Kinetik yazı, çizilen işaretler | VID-001 Stüdyo karşılaştırmasında uyarlanmıştır, kullanıcı V14 stilini tercih etti. |
 | `cizgi-film` | Çizgi karakterli sahneler | Çocuk estetiği ve maskot varsayılan değil. |
 | `konusan-maskot` | Ses genliğine bağlı ağız | RMS ağız hareketi fonem/dudak senkronu değildir; maskot kullanıcının mevcut genel tercihinde yok. |
 
@@ -22,7 +22,7 @@ Bu ortamda yedi örneğin her biri Chromium ile açıldı, `ciz(42)` çağrıld�
 
 ## VID-001 karşılaştırması
 
-`ciktilar/VID-001-studyo.html` özgün uyarlama, V14 senaryosu/sesi ve önceki dört incelenmiş görseli kullanır; tam ekran fotoğraf ve kullanıcı tercihleri korunarak skill'in kare tabanlı, kademeli kinetik tipografi ve çizgi tekniği uygulanmıştır. `production/vid001-studyo-review.json` dört referans fotoğraf için önceki manuel SHA inceleme kaydıdır. V14 MP4'ünün sesi WAV'a açılıp Stüdyo kaydıyla tekrar AAC kodlanmıştır; yeni seslendirme yoktur. Kelime süreleri kısmen tahmini, video baştan sona dinlenmemiştir. V14 ile seçim henüz yapılmamıştır.
+`ciktilar/VID-001-studyo.html` özgün uyarlama, V14 senaryosu/sesi ve önceki dört incelenmiş görseli kullanır; tam ekran fotoğraf ve kullanıcı tercihleri korunarak skill'in kare tabanlı, kademeli kinetik tipografi ve çizgi tekniği uygulanmıştır. `production/vid001-studyo-review.json` dört referans fotoğraf için önceki manuel SHA inceleme kaydıdır. V14 MP4'ünün sesi WAV'a açılıp Stüdyo kaydıyla tekrar AAC kodlanmıştır; yeni seslendirme yoktur. Kelime süreleri kısmen tahmini, video baştan sona dinlenmemiştir. Kullanıcı V14 stilini seçti; Stüdyo karşılaştırma videosu Drive çöpüne taşındı, araçlar ve kaynak kodu korundu.
 
 Kayıt örneği (bu sandbox'ta FFmpeg ve Chromium yollarını kontrol et; önce V14 ses miks WAV'ını hazırla):
 
