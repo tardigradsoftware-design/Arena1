@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-114-1.png",
+      "sha256": "d82a70b75bac2bbaf93af3b484412ddd784b1fdab7e310161a01abb0934cfee5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi kadraj, kapalı göz gerçekçi; sonuç iddiası yok."
+    },
+    {
+      "file": "../../remotion/public/VID-114-3.png",
+      "sha256": "8c17d0e9485df10405ac3f55fbe1bd8ead382b4974dfd2dac1db232bdcd23b35",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Poşet çay temsili, uygulama yok."
+    },
+    {
+      "file": "../../remotion/public/VID-114-4.png",
+      "sha256": "6ac7a24b1eb7a730ea6aef799ee75d5bb39aa63d5100fc82a120c437b4547f3b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Poşet çay ve fincan temsili, uygulama yok."
+    }
+  ]
+}

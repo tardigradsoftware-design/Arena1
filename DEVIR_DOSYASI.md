@@ -255,3 +255,7 @@ VID-110: https://drive.google.com/file/d/1XDGuOkAU5NFVgdHQMIjI0PMPK0w577xe/view 
 ### VID-111–112
 VID-111: https://drive.google.com/file/d/1C8NBoHAztZ4djQEvXkdyFBHGuy6oeDF4/view — 11,37 sn, 2.537.098 bayt, Vosk 20/31. Sirkenin kepeği giderdiği kanıtlanmamış; özellikle seyreltilmemiş sirke ve tahrişli deride yanma riski vardır, uyarısız yayımlamayın.
 VID-112: https://drive.google.com/file/d/1R3y3yzPYamz49UBVDrx7SuZRR_w7gDjo/view — 10,82 sn, 2.358.813 bayt, Vosk 18/29. Süt/suyun sonuçları garanti değil, sıvılar bazı deri türlerine zarar verebilir; üretici talimatına uyulmalı. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi ve Vosk dışı altyazı tahmini. Sonraki 113–114.
+
+### VID-113–114
+VID-113: https://drive.google.com/file/d/1gl9T6NMyfVkvPq-2zIaR7IErWvCEICGv/view — 11,95 sn, 2.728.477 bayt, Vosk 22/30. Çiğ yumurta Salmonella riski taşır, temiz araç ve eller önemli; işlem birebir gösterilmedi.
+VID-114: https://drive.google.com/file/d/1N3YQdKIicx9G8g3oz_y9t564khXBJIWn/view — 10,28 sn, 2.010.645 bayt, Vosk 20/31. Çayın özgül etkisine kanıt sınırlı; sıcak poşet yanık yapabilir, poşet steril değil, tahriş/alerji riski; temiz serin bez tercih edilebilir. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi ve Vosk dışı altyazı tahmini. Sonraki 115–116.

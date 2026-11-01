@@ -1,0 +1,280 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.517,
+    "words": [
+      "sakın",
+      "sabah"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.517,
+    "end": 0.877,
+    "words": [
+      "sakın",
+      "sabah"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.877,
+    "end": 1.343,
+    "words": [
+      "kalktığınızda",
+      "yorgunluktan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.343,
+    "end": 1.804,
+    "words": [
+      "kalktığınızda",
+      "yorgunluktan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.804,
+    "end": 2.171,
+    "words": [
+      "moraran",
+      "göz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.171,
+    "end": 2.485,
+    "words": [
+      "moraran",
+      "göz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.485,
+    "end": 2.744,
+    "words": [
+      "altlarınız",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.744,
+    "end": 3.004,
+    "words": [
+      "altlarınız",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.004,
+    "end": 3.24,
+    "words": [
+      "pahalı",
+      "göz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.24,
+    "end": 3.465,
+    "words": [
+      "pahalı",
+      "göz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.465,
+    "end": 3.784,
+    "words": [
+      "kremleri",
+      "aramayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.784,
+    "end": 4.181,
+    "words": [
+      "kremleri",
+      "aramayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.181,
+    "end": 4.56,
+    "words": [
+      "Çünkü",
+      "kullanılan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.56,
+    "end": 4.89,
+    "words": [
+      "Çünkü",
+      "kullanılan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.89,
+    "end": 5.209,
+    "words": [
+      "çay",
+      "poşetleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.209,
+    "end": 5.546,
+    "words": [
+      "çay",
+      "poşetleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.546,
+    "end": 5.865,
+    "words": [
+      "şişliği",
+      "alır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.865,
+    "end": 6.177,
+    "words": [
+      "şişliği",
+      "alır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.177,
+    "end": 6.501,
+    "words": [
+      "Demlenmiş",
+      "çay"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.501,
+    "end": 6.825,
+    "words": [
+      "Demlenmiş",
+      "çay"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.825,
+    "end": 7.149,
+    "words": [
+      "poşeti",
+      "koyun."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.149,
+    "end": 7.472,
+    "words": [
+      "poşeti",
+      "koyun."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.472,
+    "end": 7.724,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.724,
+    "end": 7.941,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.941,
+    "end": 8.212,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.212,
+    "end": 8.565,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.565,
+    "end": 8.902,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.902,
+    "end": 9.255,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.255,
+    "end": 9.609,
+    "words": [
+      "göz",
+      "altı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.609,
+    "end": 9.868,
+    "words": [
+      "göz",
+      "altı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.868,
+    "end": 10.256,
+    "words": [
+      "bakımı."
+    ],
+    "active": 0
+  }
+]

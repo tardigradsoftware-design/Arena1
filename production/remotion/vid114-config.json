@@ -1,0 +1,49 @@
+{
+  "frames": 308,
+  "hook": [
+    "GÖZ ALTINDA",
+    "SABAH ŞİŞLİĞİ"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-114-1.png"
+    },
+    {
+      "from": 139,
+      "file": "VID-114-4.png"
+    },
+    {
+      "from": 217,
+      "file": "VID-114-3.png"
+    },
+    {
+      "from": 267,
+      "file": "VID-114-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 246,
+  "clocks": [],
+  "events": [
+    {
+      "from": 150,
+      "to": 181,
+      "a": "DEMLENMİŞ",
+      "b": "ÇAY POŞETİ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "leaf"
+    },
+    {
+      "from": 246,
+      "to": 270,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-114-voice.wav"
+}
