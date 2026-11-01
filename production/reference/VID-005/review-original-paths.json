@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../remotion/public/VID-005-1.png",
+      "sha256": "c29afbf14f3519d3e2c17b9445ebba0612223369e944501d4e008ccc85268300",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yatay duran somun tahtaya temas ediyor; aynı ekmeğe yakın görünüm."
+    },
+    {
+      "file": "../remotion/public/VID-005-2.png",
+      "sha256": "0acc4b8600764a40bde5b1aabe224d84046c999c4d67879170ecbf7843e5112f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek elin görünen parmakları somunu tutuyor, su temas ediyor; gizli parmaklar değerlendirilemiyor."
+    },
+    {
+      "file": "../remotion/public/VID-005-3.png",
+      "sha256": "10741c726ca0f9b7c0e148b8d75f323762a0162462acff0cd99b7f8633eaa98c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ekmek fırın rafına temas ediyor."
+    },
+    {
+      "file": "../remotion/public/VID-005-4.png",
+      "sha256": "29144fd73021b59e1eccbdd321559f300ab2e3cf66c2c62f6e40f80b17e139a8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kesilmiş ekmek tahtaya temas ediyor; sonuç beyanına kanıt sayılmaz."
+    }
+  ]
+}

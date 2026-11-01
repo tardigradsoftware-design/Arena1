@@ -1,0 +1,568 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.66,
+    "words": [
+      "sakın",
+      "sabahları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.66,
+    "end": 1.065,
+    "words": [
+      "sakın",
+      "sabahları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.065,
+    "end": 1.425,
+    "words": [
+      "yüzündeki",
+      "o"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.425,
+    "end": 1.74,
+    "words": [
+      "yüzündeki",
+      "o"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.74,
+    "end": 2.059,
+    "words": [
+      "yorgun",
+      "şişlikle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.059,
+    "end": 2.426,
+    "words": [
+      "yorgun",
+      "şişlikle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.426,
+    "end": 2.805,
+    "words": [
+      "güne",
+      "başlama!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.805,
+    "end": 3.195,
+    "words": [
+      "güne",
+      "başlama!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.195,
+    "end": 3.555,
+    "words": [
+      "Çünkü",
+      "sadece"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.555,
+    "end": 3.9,
+    "words": [
+      "Çünkü",
+      "sadece"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.9,
+    "end": 4.254,
+    "words": [
+      "iki",
+      "doğal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.254,
+    "end": 4.603,
+    "words": [
+      "iki",
+      "doğal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.603,
+    "end": 4.952,
+    "words": [
+      "malzemeyle",
+      "cildini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.952,
+    "end": 5.301,
+    "words": [
+      "malzemeyle",
+      "cildini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.301,
+    "end": 5.625,
+    "words": [
+      "beş",
+      "dakikada"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.625,
+    "end": 6.025,
+    "words": [
+      "beş",
+      "dakikada"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.025,
+    "end": 6.525,
+    "words": [
+      "sıkılaştırıp",
+      "canlandıracak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.525,
+    "end": 7.025,
+    "words": [
+      "sıkılaştırıp",
+      "canlandıracak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.025,
+    "end": 7.335,
+    "words": [
+      "bir",
+      "buz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.335,
+    "end": 7.478,
+    "words": [
+      "bir",
+      "buz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.478,
+    "end": 7.813,
+    "words": [
+      "küpü",
+      "hazırlayabilirsin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.813,
+    "end": 8.319,
+    "words": [
+      "küpü",
+      "hazırlayabilirsin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.319,
+    "end": 8.826,
+    "words": [
+      "Demlenmiş",
+      "soğuk"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.826,
+    "end": 9.332,
+    "words": [
+      "Demlenmiş",
+      "soğuk"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.332,
+    "end": 9.69,
+    "words": [
+      "yeşil",
+      "çay"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.69,
+    "end": 9.892,
+    "words": [
+      "yeşil",
+      "çay"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.892,
+    "end": 10.159,
+    "words": [
+      "ile",
+      "taze"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.159,
+    "end": 10.497,
+    "words": [
+      "ile",
+      "taze"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.497,
+    "end": 10.831,
+    "words": [
+      "salatalık",
+      "suyunu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.831,
+    "end": 11.16,
+    "words": [
+      "salatalık",
+      "suyunu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.16,
+    "end": 11.469,
+    "words": [
+      "karıştırıp",
+      "buz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.469,
+    "end": 11.757,
+    "words": [
+      "karıştırıp",
+      "buz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.757,
+    "end": 12.045,
+    "words": [
+      "kalıbında",
+      "dondur"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.045,
+    "end": 12.333,
+    "words": [
+      "kalıbında",
+      "dondur"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.333,
+    "end": 12.621,
+    "words": [
+      "ve",
+      "her"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.621,
+    "end": 12.907,
+    "words": [
+      "ve",
+      "her"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.907,
+    "end": 13.199,
+    "words": [
+      "sabah",
+      "temiz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.199,
+    "end": 13.5,
+    "words": [
+      "sabah",
+      "temiz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.5,
+    "end": 13.881,
+    "words": [
+      "cildine",
+      "dairesel"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.881,
+    "end": 14.344,
+    "words": [
+      "cildine",
+      "dairesel"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.344,
+    "end": 14.773,
+    "words": [
+      "hareketlerle",
+      "uygula."
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.773,
+    "end": 15.277,
+    "words": [
+      "hareketlerle",
+      "uygula."
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.277,
+    "end": 15.705,
+    "words": [
+      "Yeşil",
+      "çayın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.705,
+    "end": 16.027,
+    "words": [
+      "Yeşil",
+      "çayın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.027,
+    "end": 16.447,
+    "words": [
+      "antioksidan",
+      "etkisi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.447,
+    "end": 16.837,
+    "words": [
+      "antioksidan",
+      "etkisi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.837,
+    "end": 17.115,
+    "words": [
+      "ve",
+      "soğuk"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.115,
+    "end": 17.427,
+    "words": [
+      "ve",
+      "soğuk"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.427,
+    "end": 17.843,
+    "words": [
+      "şok,",
+      "gözenekleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.843,
+    "end": 18.258,
+    "words": [
+      "şok,",
+      "gözenekleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.258,
+    "end": 18.641,
+    "words": [
+      "anında",
+      "küçültüp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.641,
+    "end": 18.994,
+    "words": [
+      "anında",
+      "küçültüp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.994,
+    "end": 19.335,
+    "words": [
+      "şişliği",
+      "indirir."
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.335,
+    "end": 19.668,
+    "words": [
+      "şişliği",
+      "indirir."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.668,
+    "end": 20.003,
+    "words": [
+      "Bu",
+      "güzellik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.003,
+    "end": 20.338,
+    "words": [
+      "Bu",
+      "güzellik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.338,
+    "end": 20.65,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.65,
+    "end": 20.95,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.95,
+    "end": 21.307,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.307,
+    "end": 21.645,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.645,
+    "end": 22.012,
+    "words": [
+      "unutma,",
+      "sabah"
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.012,
+    "end": 22.479,
+    "words": [
+      "unutma,",
+      "sabah"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.479,
+    "end": 23.181,
+    "words": [
+      "uyandığında."
+    ],
+    "active": 0
+  }
+]
