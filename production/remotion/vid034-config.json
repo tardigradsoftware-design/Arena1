@@ -1,0 +1,67 @@
+{
+  "frames": 622,
+  "hook": [
+    "ÇAMAŞIR MAKİNESİNDEKİ",
+    "KÜF KOKUSU!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-034-1.png"
+    },
+    {
+      "from": 254,
+      "file": "VID-034-2.png"
+    },
+    {
+      "from": 323,
+      "file": "VID-034-3.png"
+    },
+    {
+      "from": 440,
+      "file": "VID-034-4.png"
+    }
+  ],
+  "result": 468,
+  "save": 546,
+  "clocks": [],
+  "events": [
+    {
+      "from": 294,
+      "to": 321,
+      "a": "BEYAZ SİRKE",
+      "b": "BİR SU BARDAĞI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 323,
+      "to": 351,
+      "a": "DOKSAN DERECE",
+      "b": "BOŞ PROGRAM",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "warning"
+    },
+    {
+      "from": 405,
+      "to": 435,
+      "a": "KURU BEZLE",
+      "b": "LASTİĞİ SİL",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 546,
+      "to": 575,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-034-voice.wav"
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-034-1.png",
+      "sha256": "9ddbb54bc0035f831ecafd38d83d84086b1ef58b971528e2f75dd7dcce608cc5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Açık makine lastiğinde koyu lekeler."
+    },
+    {
+      "file": "../../remotion/public/VID-034-2.png",
+      "sha256": "6172248ecfaf897a5f36c34fd4a1103127276498d030d0d50a01371a362e6fe8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Açık deterjan çekmecesi ve kap, dökme canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-034-3.png",
+      "sha256": "4944e33d1aaa1360bc7acf251b8fab8951f6571c9f445a82002df5e71fbd3c3c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı çamaşır makinesi, durağan temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-034-4.png",
+      "sha256": "1d6817f98fd9e5a0769a149ee044a4da92f8fc5178f44ceb0df229671c575c5d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz lastikli aynı makine, temsili sonuç."
+    }
+  ]
+}

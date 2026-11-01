@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-033-1.png",
+      "sha256": "4cde7552f495b6ed2d336c90ee05ce5317904f455bad1416404741b0325d8c27",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi yüz ve doğal diş kadrajı, anatomisi uygun."
+    },
+    {
+      "file": "../../remotion/public/VID-033-2.png",
+      "sha256": "497fa09effbf4bcece0ac80a94202c6f22e466502fbd056fff7c28564f72222f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Birleşmiş çilek ve karbonat temsili karışım."
+    },
+    {
+      "file": "../../remotion/public/VID-033-3.png",
+      "sha256": "9f6ad6e74fcd82808e6a48a4a333cb565e91601a7971436525645c8af14a76bc",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Diş fırçası ve çilek karışımı destekli; uygulama canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-033-4.png",
+      "sha256": "2f1dab4835aafc14a1cc7b4a3326d4c4dd8d86d326e66131e92d73eb3564e365",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aynı kişiye benzeyen kısmi yüz; dişler doğal, sonuç temsili."
+    }
+  ]
+}
