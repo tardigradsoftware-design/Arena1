@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-081-1.png",
+      "sha256": "037746f1a6e45fcd76cca73a688da36e6aafc2351eb7716d66a8404f5593a9bf",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi ayaklar ve havlu; uygulama gösterilmedi."
+    },
+    {
+      "file": "../../remotion/public/VID-081-2.png",
+      "sha256": "79db8fee7242dfd3cf458f584b974d550da5526d4722d5ecb4018a546c6c1314",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Su leğeni ve karbonat, temsili."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-082-1.png",
+      "sha256": "1b9ca6f2ae640c4b777a52ebdcbb2c9c2fef784a16dcb0170a124ffd43a551bd",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yağ lekeli kumaş yakın plan."
+    },
+    {
+      "file": "../../remotion/public/VID-082-2.png",
+      "sha256": "9783dc70d7c047e814a6fa1c33489269442826d28d0ab059ac875458ff06bfab",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Deterjan ve mavi giysi temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-082-3.png",
+      "sha256": "72f2933a0509ab99ab7d84bb34b26537a3053ff438b059faf129acddc45a4996",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bez ve yağ lekeli kumaş; ovma canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-082-4.png",
+      "sha256": "c8e43ee08c79771cf47a32682a1f7ece3140996d18a8e5d92117400e28f26601",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz tişört; gerçek önce/sonra değil."
+    }
+  ]
+}
