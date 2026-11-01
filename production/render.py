@@ -1,5 +1,6 @@
 import os,sys,re,json,wave,subprocess,difflib,zipfile,xml.etree.ElementTree as ET
 import argparse
+from graphics import overlays
 import numpy as np
 import imageio_ffmpeg
 from vosk import Model,KaldiRecognizer,SetLogLevel
@@ -30,6 +31,7 @@ for num in args.videos:
  for block in sm.get_matching_blocks():
   for k in range(block.size): anchors[block.a+k]=(found[block.b+k]['start'],found[block.b+k]['end'])
  points=[(-1,0.0)]+[(i,(v[0]+v[1])/2) for i,v in sorted(anchors.items())]+[(len(words),dur)]; centers=np.interp(range(len(words)),[x[0] for x in points],[x[1] for x in points]); bounds=[0]+[(centers[i-1]+centers[i])/2 for i in range(1,len(words))]+[dur]
+ cuts = [bounds[next(i for i, w in enumerate(words) if norm(w) == target)] for target in ('kesme', 'bıçağın'.replace('ı','i'), 'havaya')] if num == 35 else [dur*.25, dur*.5, dur*.75]
  ass=f'{root}/audio/{id}.ass'; header='''[Script Info]\nScriptType: v4.00+\nPlayResX: 720\nPlayResY: 1280\n[V4+ Styles]\nFormat: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding\nStyle: Default,DejaVu Sans,46,&H00FFFFFF,&H0000FFFF,&H00101010,&H88000000,-1,0,0,0,100,100,0,0,1,3,1,5,40,40,10,1\nStyle: Water,DejaVu Sans,25,&H55FFFFFF,&H00FFFFFF,&H77000000,&H88000000,0,0,0,0,100,100,0,0,1,1,0,2,40,40,200,1\n[Events]\nFormat: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text\n'''
  with open(ass,'w') as f:
   f.write(header)
@@ -39,7 +41,7 @@ for num in args.videos:
    f.write('Dialogue: 0,%s,%s,Default,,0,0,0,,%s\n'%(stamp(bounds[i]),stamp(bounds[i+1]),''.join(chunk).strip()))
   for t in (2,10,18):
    if t<dur: f.write('Dialogue: 0,%s,%s,Water,,0,0,0,,{\\fad(400,400)}kadincayasam\n'%(stamp(t),stamp(min(t+2.5,dur))))
- cuts = [bounds[next(i for i, w in enumerate(words) if norm(w) == target)] for target in ('kesme', 'bıçağın'.replace('ı','i'), 'havaya')] if num == 35 else [dur*.25, dur*.5, dur*.75]
+  overlays(f, num, cuts)
  cmd=[ff,'-y','-loglevel','error','-filter_complex_threads','1'];
  transition = 0.36
  lengths = [cuts[0] + transition/2, cuts[1]-cuts[0] + transition, cuts[2]-cuts[1] + transition, dur-cuts[2] + transition/2]
