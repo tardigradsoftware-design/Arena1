@@ -243,3 +243,7 @@ Kullanıcı her zaman senaryoya bağlı kalınmasını, tekrar onay istenmemesin
 ### VID-105–106
 VID-105: https://drive.google.com/file/d/1_gr4m-8SdISHVv4nUrpa3U4ti6F9zYt5/view — 12,84 sn, 3.165.296 bayt, Vosk 19/32. Kürün saç uzattığına yeterli klinik kanıt yok; tahriş/alerji olabilir, uyarısız yayımlamayın. Bitki kimliği doğrulanmamış temsili görseller; uygulama gösterilmedi.
 VID-106: https://drive.google.com/file/d/1vdkqD3GpI1u6tRyP3yCtZBxl_7QNZ9EH/view — 10,77 sn, 1.898.781 bayt, Vosk 24/32. Havlu kaçağın nedenini çözmez; gövde/kablo bağlantısı/hasarlı hazne kaçağında güvenliyse fişi çekip kullanmayı bırakın, üreticiye danışın. Havlu katlı, gerçek uygulama gösterilmedi. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi, Vosk dışı altyazılar tahmini. Sonraki 107–108.
+
+### VID-107–108
+VID-107: https://drive.google.com/file/d/1DcPqi91uDVCdul6TSyrdlblmhXOhU1IN/view — 11,52 sn, 2.164.508 bayt, Vosk 23/30. Limon suyu tane tane pilavı garanti etmez. 3–4 görselleri senaryoda olmayan ilave malzemeler nedeniyle kullanılmadı, damlatma işlemi gösterilmiyor.
+VID-108: https://drive.google.com/file/d/1M6X9U1a1zrx8pDwD2BZcAR6_ib44sg4a/view — 11,84 sn, 1.763.280 bayt, Vosk 24/31. Gliserin tahriş/hassasiyet yapabilir; açık çatlaklar ve süren belirtilerde uzman tavsiyesi, ürün talimatları önemli. Şişeler temsili. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi, Vosk dışı altyazı tahmini. Sonraki 109–110.

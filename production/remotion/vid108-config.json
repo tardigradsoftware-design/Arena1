@@ -1,0 +1,49 @@
+{
+  "frames": 355,
+  "hook": [
+    "KURUYAN ELLER",
+    "VE TIRNAK ETLERİ"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-108-1.png"
+    },
+    {
+      "from": 166,
+      "file": "VID-108-2.png"
+    },
+    {
+      "from": 225,
+      "file": "VID-108-3.png"
+    },
+    {
+      "from": 300,
+      "file": "VID-108-4.png"
+    }
+  ],
+  "result": 9999,
+  "save": 282,
+  "clocks": [],
+  "events": [
+    {
+      "from": 180,
+      "to": 210,
+      "a": "GLİSERİN",
+      "b": "NEMLENDİRİCİ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 282,
+      "to": 309,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-108-voice.wav"
+}

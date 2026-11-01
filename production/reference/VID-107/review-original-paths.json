@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-107-1.png",
+      "sha256": "af01240862bfa962559aaae0d8f97d73edefc468e4046d2b40beff888017a901",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Pişmiş pirinç tencerede; sonuç iddiası gösterilmiyor."
+    },
+    {
+      "file": "../../remotion/public/VID-107-2.png",
+      "sha256": "059f7fe147fe2f9852577a90f3fe58273b0b01fd3af821d677fa169cfb17d1cd",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Limon ve ocaktaki pirinç temsili; damlatma gösterilmiyor."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-108-1.png",
+      "sha256": "86fa8324fe86dbbd8c5c0569b08129de481efacd5ea05554e8ccd0e1ed052857",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Doğal kadraj, beş parmak görünüyor."
+    },
+    {
+      "file": "../../remotion/public/VID-108-2.png",
+      "sha256": "1869b7f7954c6995dd30620580a561fef5d777675daaa875b7282a0930b61920",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Etiketsiz şişe yalnızca temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-108-3.png",
+      "sha256": "139c9fdb625593a457c819d0ba9f25d95375c4f2fcf4304653903d634964bcad",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Elin dört parmağı ve kısmi başparmağı görünüyor; uygulama gösterilmiyor."
+    },
+    {
+      "file": "../../remotion/public/VID-108-4.png",
+      "sha256": "6075f5da038b406a9602f99fc646f4a5f6788bc8881846bf26e4a487053be366",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Etiketsiz şişe temsili, içeriği doğrulanamaz."
+    }
+  ]
+}

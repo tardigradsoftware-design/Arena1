@@ -1,0 +1,49 @@
+{
+  "frames": 345,
+  "hook": [
+    "PİLAVDA",
+    "LİMON SIRRI"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-107-1.png"
+    },
+    {
+      "from": 129,
+      "file": "VID-107-2.png"
+    },
+    {
+      "from": 237,
+      "file": "VID-107-1.png"
+    },
+    {
+      "from": 305,
+      "file": "VID-107-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 270,
+  "clocks": [],
+  "events": [
+    {
+      "from": 160,
+      "to": 190,
+      "a": "BİRKAÇ DAMLA",
+      "b": "LİMON SUYU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 270,
+      "to": 297,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-107-voice.wav"
+}
