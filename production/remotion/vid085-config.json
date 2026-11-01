@@ -1,0 +1,49 @@
+{
+  "frames": 395,
+  "hook": [
+    "SERTLEŞEN HAVLULAR",
+    "NASIL YUMUŞAR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-085-1.png"
+    },
+    {
+      "from": 180,
+      "file": "VID-085-2.png"
+    },
+    {
+      "from": 280,
+      "file": "VID-085-3.png"
+    },
+    {
+      "from": 345,
+      "file": "VID-085-4.png"
+    }
+  ],
+  "result": 292,
+  "save": 315,
+  "clocks": [],
+  "events": [
+    {
+      "from": 187,
+      "to": 222,
+      "a": "BEYAZ SİRKE",
+      "b": "DURULAMA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 315,
+      "to": 342,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-085-voice.wav"
+}

@@ -1,0 +1,49 @@
+{
+  "frames": 386,
+  "hook": [
+    "SALÇA KAVANOZU",
+    "NASIL SAKLANIR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-086-1.png"
+    },
+    {
+      "from": 165,
+      "file": "VID-086-2.png"
+    },
+    {
+      "from": 290,
+      "file": "VID-086-3.png"
+    },
+    {
+      "from": 345,
+      "file": "VID-086-4.png"
+    }
+  ],
+  "result": 9999,
+  "save": 315,
+  "clocks": [],
+  "events": [
+    {
+      "from": 183,
+      "to": 215,
+      "a": "ZEYTİNYAĞI",
+      "b": "SALÇA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 315,
+      "to": 341,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-086-voice.wav"
+}

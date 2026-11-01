@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-085-1.png",
+      "sha256": "ad1b07920adfdb080f5fcbb9f384cab70b3c3097212cce612048044be00275c1",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Dokulu katlı havlu."
+    },
+    {
+      "file": "../../remotion/public/VID-085-2.png",
+      "sha256": "a3c6f641873914e685c27b33b49fe8e18b2a1c432494e6a32a4083b8cb960bc9",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı şişe ve havlular."
+    },
+    {
+      "file": "../../remotion/public/VID-085-3.png",
+      "sha256": "4269475273d7884998968257ab74fb084ef6a1055778824b38f4142ff8532171",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Katlı havlular, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-085-4.png",
+      "sha256": "68f08d2f97fe0073c459c6c01bc0cc7a6d3f9920c3e3e6ecda1108b49cd295eb",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Makine ve havlular."
+    }
+  ]
+}

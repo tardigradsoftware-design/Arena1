@@ -1,0 +1,326 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.619,
+    "words": [
+      "sakın",
+      "açtığınız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.619,
+    "end": 1.028,
+    "words": [
+      "sakın",
+      "açtığınız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.028,
+    "end": 1.409,
+    "words": [
+      "salça",
+      "kavanozunun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.409,
+    "end": 1.81,
+    "words": [
+      "salça",
+      "kavanozunun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.81,
+    "end": 2.213,
+    "words": [
+      "üzerinde",
+      "birkaç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.213,
+    "end": 2.55,
+    "words": [
+      "üzerinde",
+      "birkaç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.55,
+    "end": 2.827,
+    "words": [
+      "günde",
+      "oluşan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.827,
+    "end": 3.083,
+    "words": [
+      "günde",
+      "oluşan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.083,
+    "end": 3.293,
+    "words": [
+      "o",
+      "yeşil"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.293,
+    "end": 3.518,
+    "words": [
+      "o",
+      "yeşil"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.518,
+    "end": 3.773,
+    "words": [
+      "küf",
+      "tabakasını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.773,
+    "end": 4.065,
+    "words": [
+      "küf",
+      "tabakasını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.065,
+    "end": 4.356,
+    "words": [
+      "görüp",
+      "çöpe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.356,
+    "end": 4.618,
+    "words": [
+      "görüp",
+      "çöpe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.618,
+    "end": 5.001,
+    "words": [
+      "atmayın!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.001,
+    "end": 5.393,
+    "words": [
+      "atmayın!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.393,
+    "end": 5.723,
+    "words": [
+      "üzerine",
+      "azıcık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.723,
+    "end": 6.09,
+    "words": [
+      "üzerine",
+      "azıcık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.09,
+    "end": 6.45,
+    "words": [
+      "zeytinyağı",
+      "dökmek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.45,
+    "end": 6.835,
+    "words": [
+      "zeytinyağı",
+      "dökmek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.835,
+    "end": 7.246,
+    "words": [
+      "küflenmeyi",
+      "kesin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.246,
+    "end": 7.647,
+    "words": [
+      "küflenmeyi",
+      "kesin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.647,
+    "end": 8.038,
+    "words": [
+      "önler.",
+      "Salçanın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.038,
+    "end": 8.429,
+    "words": [
+      "önler.",
+      "Salçanın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.429,
+    "end": 8.79,
+    "words": [
+      "üzerine",
+      "zeytinyağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.79,
+    "end": 9.091,
+    "words": [
+      "üzerine",
+      "zeytinyağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.091,
+    "end": 9.364,
+    "words": [
+      "yayın.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.364,
+    "end": 9.637,
+    "words": [
+      "yayın.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.637,
+    "end": 9.911,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.911,
+    "end": 10.184,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.184,
+    "end": 10.508,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.508,
+    "end": 10.883,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.883,
+    "end": 11.19,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.19,
+    "end": 11.561,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.561,
+    "end": 12.064,
+    "words": [
+      "salçayı",
+      "saklarken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.064,
+    "end": 12.853,
+    "words": [
+      "salçayı",
+      "saklarken."
+    ],
+    "active": 1
+  }
+]

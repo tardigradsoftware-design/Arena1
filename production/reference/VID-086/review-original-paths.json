@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-086-1.png",
+      "sha256": "fa6041df27db0dd5345d81efa6f219eed2df0d10afe9115baf0dda6dd9871b05",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Küflü salça temsili, tüketim gösterilmedi."
+    },
+    {
+      "file": "../../remotion/public/VID-086-2.png",
+      "sha256": "6a357fac5e09f5de604971da129128de8f015497928789e3cd3e7b5680b40ed3",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı salça ve ayrı kapalı yağ şişesi."
+    },
+    {
+      "file": "../../remotion/public/VID-086-3.png",
+      "sha256": "08e6aab5a8c32a6f76a2d892b8d1fbf3b80551838836c672d616991494c50618",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı kavanoz buzdolabında."
+    },
+    {
+      "file": "../../remotion/public/VID-086-4.png",
+      "sha256": "acc1e1edbdc6c3df366dc49d617eb96bc38c798b55766a3e9499140983650e67",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı kavanoz ve domatesler, temsili."
+    }
+  ]
+}
