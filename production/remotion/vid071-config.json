@@ -1,0 +1,45 @@
+{
+  "frames": 531,
+  "hook": [
+    "LİMONLARIN",
+    "KURUMASINA DİKKAT!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-071-1.png"
+    },
+    {
+      "from": 229,
+      "file": "VID-071-3.png"
+    },
+    {
+      "from": 411,
+      "file": "VID-071-4.png"
+    }
+  ],
+  "result": 420,
+  "save": 466,
+  "clocks": [],
+  "events": [
+    {
+      "to": 290,
+      "a": "KAPAKLI KAVANOZ",
+      "b": "SU VE LİMON",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar",
+      "from": 250
+    },
+    {
+      "to": 493,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 466
+    }
+  ],
+  "voice": "VID-071-voice.wav"
+}

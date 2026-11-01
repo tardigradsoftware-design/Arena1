@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-072-1.png",
+      "sha256": "443e785e461c19b099b990d523ff513c0337fa6b8c640ae61b5acd8a4488c339",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi el ve beş doğal parmak, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-072-2.png",
+      "sha256": "d45c1b6d6239227011bbbb3ebdcabf42215e4a6a962e45d09afb94cf485c5a01",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yağ ve kıyılmış sarımsak tek kâse."
+    },
+    {
+      "file": "../../remotion/public/VID-072-3.png",
+      "sha256": "1cbd5749fc6f8fa08a4410d1a4167efa4433a21e0e98045a463e849a9efd3583",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâsede tek karışım, cilde uygulama gösterilmez."
+    },
+    {
+      "file": "../../remotion/public/VID-072-4.png",
+      "sha256": "4fe881824b6f33ab018315a4080f2f16c0e2b89e1c0aa086632f9d0c8e12bcc5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Törpü ve havlu, sonuç iddiası gösterilmedi."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-071-1.png",
+      "sha256": "57a084e771b0557d22e306ba1ef0791023ace0261568aeca8234df253a60fd1f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kurumuş limonlar."
+    },
+    {
+      "file": "../../remotion/public/VID-071-3.png",
+      "sha256": "d58eb08071590436a634e9d6414c339d651a98b46f3319266cf792d18c330efb",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kavanozda üst üste limon ve su, dolap temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-071-4.png",
+      "sha256": "b68526b46f6218264ce461fb85149f6e9af5f9c0d5337f890c26e1a6516e7911",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kesilmiş limon; gerçek önce/sonra değil."
+    }
+  ]
+}

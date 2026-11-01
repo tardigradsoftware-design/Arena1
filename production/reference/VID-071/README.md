@@ -1,0 +1,3 @@
+# VID-071 — V14
+Drive: https://drive.google.com/file/d/1e1g76rroCggLxAcThWLniFkJy8GjO1HR/view — 17,71 sn / 2.697.585 bayt. ODS aynen (son cümle yarım), voice-01 1,45×. Üç incelenmiş temsili yapay sahne, gerçek önce/sonra değil. 2 numaralı aday limonların su dibinde fiziksel olarak tutarsız gösterimi nedeniyle reddedildi. Vosk 39/53, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede bir kare kontrolü; tepe −5,24 dBFS.
+Limonların suda haftalarca taze kalacağı garanti değil; kabuktaki mikroorganizmalar suyu kirletebilir. Kuru buzdolabı saklaması bir alternatiftir.

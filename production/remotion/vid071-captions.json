@@ -1,0 +1,478 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.582,
+    "words": [
+      "sakın",
+      "bütün"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.582,
+    "end": 0.965,
+    "words": [
+      "sakın",
+      "bütün"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.965,
+    "end": 1.342,
+    "words": [
+      "limonları",
+      "tezgahın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.342,
+    "end": 1.688,
+    "words": [
+      "limonları",
+      "tezgahın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.688,
+    "end": 1.98,
+    "words": [
+      "üstünde",
+      "bırakıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.98,
+    "end": 2.258,
+    "words": [
+      "üstünde",
+      "bırakıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.258,
+    "end": 2.527,
+    "words": [
+      "birkaç",
+      "günde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.527,
+    "end": 2.756,
+    "words": [
+      "birkaç",
+      "günde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.756,
+    "end": 2.959,
+    "words": [
+      "taş",
+      "gibi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.959,
+    "end": 3.25,
+    "words": [
+      "taş",
+      "gibi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.25,
+    "end": 3.63,
+    "words": [
+      "sertleşmelerine",
+      "izin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.63,
+    "end": 3.943,
+    "words": [
+      "sertleşmelerine",
+      "izin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.943,
+    "end": 4.35,
+    "words": [
+      "verme!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.35,
+    "end": 4.814,
+    "words": [
+      "verme!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.814,
+    "end": 5.173,
+    "words": [
+      "limonları",
+      "sulu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.173,
+    "end": 5.442,
+    "words": [
+      "limonları",
+      "sulu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.442,
+    "end": 5.639,
+    "words": [
+      "ve",
+      "taze"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.639,
+    "end": 5.91,
+    "words": [
+      "ve",
+      "taze"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.91,
+    "end": 6.285,
+    "words": [
+      "tutmanın",
+      "harika"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.285,
+    "end": 6.604,
+    "words": [
+      "tutmanın",
+      "harika"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.604,
+    "end": 6.821,
+    "words": [
+      "bir",
+      "saklama"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.821,
+    "end": 7.058,
+    "words": [
+      "bir",
+      "saklama"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.058,
+    "end": 7.283,
+    "words": [
+      "sırrı",
+      "var."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.283,
+    "end": 7.639,
+    "words": [
+      "sırrı",
+      "var."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.639,
+    "end": 8.156,
+    "words": [
+      "Limonları",
+      "içi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.156,
+    "end": 8.505,
+    "words": [
+      "Limonları",
+      "içi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.505,
+    "end": 8.685,
+    "words": [
+      "su",
+      "dolu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.685,
+    "end": 8.91,
+    "words": [
+      "su",
+      "dolu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.91,
+    "end": 9.15,
+    "words": [
+      "kapaklı",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.15,
+    "end": 9.315,
+    "words": [
+      "kapaklı",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.315,
+    "end": 9.532,
+    "words": [
+      "cam",
+      "kavanoza"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.532,
+    "end": 9.848,
+    "words": [
+      "cam",
+      "kavanoza"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.848,
+    "end": 10.163,
+    "words": [
+      "koyup",
+      "buzdolabına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.163,
+    "end": 10.503,
+    "words": [
+      "koyup",
+      "buzdolabına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.503,
+    "end": 10.867,
+    "words": [
+      "kaldır.",
+      "Su"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.867,
+    "end": 11.232,
+    "words": [
+      "kaldır.",
+      "Su"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.232,
+    "end": 11.58,
+    "words": [
+      "içinde",
+      "oksijen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.58,
+    "end": 11.907,
+    "words": [
+      "içinde",
+      "oksijen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.907,
+    "end": 12.23,
+    "words": [
+      "teması",
+      "kesilen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.23,
+    "end": 12.571,
+    "words": [
+      "teması",
+      "kesilen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.571,
+    "end": 13.02,
+    "words": [
+      "limonlar",
+      "haftalarca"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.02,
+    "end": 13.511,
+    "words": [
+      "limonlar",
+      "haftalarca"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.511,
+    "end": 13.952,
+    "words": [
+      "taptaze",
+      "kalacak."
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.952,
+    "end": 14.391,
+    "words": [
+      "taptaze",
+      "kalacak."
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.391,
+    "end": 14.715,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.715,
+    "end": 14.963,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.963,
+    "end": 15.24,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.24,
+    "end": 15.525,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.525,
+    "end": 15.923,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.923,
+    "end": 16.275,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.275,
+    "end": 16.62,
+    "words": [
+      "unutma,",
+      "taze"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.62,
+    "end": 17.067,
+    "words": [
+      "unutma,",
+      "taze"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.067,
+    "end": 17.688,
+    "words": [
+      "limonları."
+    ],
+    "active": 0
+  }
+]
