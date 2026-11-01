@@ -1,0 +1,2 @@
+# VID-101 — V14
+Drive: https://drive.google.com/file/d/1BGGWqgnHBCGYRng_8oPGzrXJ4GcH3gFv/view — 12,35 sn / 3.154.825 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; dört incelenmiş temsili yapay sahne. Vosk 22/32, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −6,28 dBFS. ÖNEMLİ: Bir çay kaşığı şeker bozulmayı önlemez; bozulmuş yemek tüketilmez, uyarısız yayımlamayın. Pişmiş gıda güvenli şekilde soğutulup saklanmalı: https://www.cdc.gov/food-safety/prevention/index.html

@@ -1,0 +1,2 @@
+# VID-102 — V14
+Drive: https://drive.google.com/file/d/1WEmYiTwCG1_jRvvMNULVgBpeM0wEfgxb/view — 10,16 sn / 1.805.643 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; iki incelenmiş temsili yapay sahne tekrarlandı. 3. adayda fırça belirgin değildi, 4. aday farklı kişinin yüzüyle sonuç izlenimi vereceğinden kullanılmadı. Göze uygulama gösterilmedi. Vosk 18/30, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −6,28 dBFS. Kalıp sabun cildi tahriş edebilir, göze kaçırmayın.

@@ -1,0 +1,49 @@
+{
+  "frames": 304,
+  "hook": [
+    "KAŞLARI",
+    "NASIL SABİTLERİZ?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-102-1.png"
+    },
+    {
+      "from": 130,
+      "file": "VID-102-2.png"
+    },
+    {
+      "from": 225,
+      "file": "VID-102-1.png"
+    },
+    {
+      "from": 270,
+      "file": "VID-102-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 239,
+  "clocks": [],
+  "events": [
+    {
+      "from": 130,
+      "to": 158,
+      "a": "KALIP SABUN",
+      "b": "VE KAŞ FIRÇASI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "brush"
+    },
+    {
+      "from": 239,
+      "to": 260,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-102-voice.wav"
+}

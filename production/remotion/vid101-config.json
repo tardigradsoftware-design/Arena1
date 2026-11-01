@@ -1,0 +1,49 @@
+{
+  "frames": 370,
+  "hook": [
+    "ZEYTİNYAĞLI YEMEK",
+    "VE ŞEKER"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-101-1.png"
+    },
+    {
+      "from": 150,
+      "file": "VID-101-2.png"
+    },
+    {
+      "from": 252,
+      "file": "VID-101-3.png"
+    },
+    {
+      "from": 310,
+      "file": "VID-101-4.png"
+    }
+  ],
+  "result": 9999,
+  "save": 295,
+  "clocks": [],
+  "events": [
+    {
+      "from": 155,
+      "to": 184,
+      "a": "ŞEKER",
+      "b": "ZEYTİNYAĞLI YEMEK",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 295,
+      "to": 320,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-101-voice.wav"
+}
