@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-050-1.png",
+      "sha256": "72f542de119fa4a93b462c5a6dceefc477b0581415dfcd7fa6019ff253d501be",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Olgun benekli muz salkımı."
+    },
+    {
+      "file": "../../remotion/public/VID-050-2.png",
+      "sha256": "32ab8befca30e434ad6379d8501937a2d2167d456963896a4af887315efe2a3c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ayrı muzlar ve sarılı saplar, sarma hareketi canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-050-4.png",
+      "sha256": "9e833c9f93229418b6f8218a72a5792ae869f6eae8b6837822bf237e614cee9a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Doğal sarı muz; gerçek sonucun kanıtı değil."
+    }
+  ]
+}

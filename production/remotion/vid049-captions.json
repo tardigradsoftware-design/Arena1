@@ -1,0 +1,604 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.61,
+    "words": [
+      "sakın",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.61,
+    "end": 1.017,
+    "words": [
+      "sakın",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.017,
+    "end": 1.426,
+    "words": [
+      "dolaplarının",
+      "kapaklarındaki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.426,
+    "end": 1.835,
+    "words": [
+      "dolaplarının",
+      "kapaklarındaki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.835,
+    "end": 2.19,
+    "words": [
+      "o",
+      "inatçı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.19,
+    "end": 2.51,
+    "words": [
+      "o",
+      "inatçı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.51,
+    "end": 2.85,
+    "words": [
+      "sararmış",
+      "yağ"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.85,
+    "end": 3.19,
+    "words": [
+      "sararmış",
+      "yağ"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.19,
+    "end": 3.465,
+    "words": [
+      "ve",
+      "parmak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.465,
+    "end": 3.713,
+    "words": [
+      "ve",
+      "parmak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.713,
+    "end": 4.005,
+    "words": [
+      "izlerini",
+      "çıkarmak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.005,
+    "end": 4.297,
+    "words": [
+      "izlerini",
+      "çıkarmak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.297,
+    "end": 4.629,
+    "words": [
+      "için",
+      "sert"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.629,
+    "end": 5.006,
+    "words": [
+      "için",
+      "sert"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.006,
+    "end": 5.384,
+    "words": [
+      "kimyasallarla",
+      "ovup"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.384,
+    "end": 5.761,
+    "words": [
+      "kimyasallarla",
+      "ovup"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.761,
+    "end": 6.139,
+    "words": [
+      "boyasını",
+      "cila"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.139,
+    "end": 6.516,
+    "words": [
+      "boyasını",
+      "cila"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.516,
+    "end": 6.938,
+    "words": [
+      "yapma!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.938,
+    "end": 7.282,
+    "words": [
+      "yapma!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.282,
+    "end": 7.508,
+    "words": [
+      "ev",
+      "yapımı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.508,
+    "end": 7.77,
+    "words": [
+      "ev",
+      "yapımı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.77,
+    "end": 8.04,
+    "words": [
+      "sirke",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.04,
+    "end": 8.308,
+    "words": [
+      "sirke",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.308,
+    "end": 8.603,
+    "words": [
+      "bulaşık",
+      "deterjanı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.603,
+    "end": 8.898,
+    "words": [
+      "bulaşık",
+      "deterjanı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.898,
+    "end": 9.218,
+    "words": [
+      "karışımı",
+      "tüm"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.218,
+    "end": 9.549,
+    "words": [
+      "karışımı",
+      "tüm"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.549,
+    "end": 9.866,
+    "words": [
+      "yağı",
+      "söker."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.866,
+    "end": 10.183,
+    "words": [
+      "yağı",
+      "söker."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.183,
+    "end": 10.5,
+    "words": [
+      "Bir",
+      "sprey"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.5,
+    "end": 10.817,
+    "words": [
+      "Bir",
+      "sprey"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.817,
+    "end": 11.134,
+    "words": [
+      "şişesine",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.134,
+    "end": 11.39,
+    "words": [
+      "şişesine",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.39,
+    "end": 11.639,
+    "words": [
+      "bardak",
+      "ılık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.639,
+    "end": 11.895,
+    "words": [
+      "bardak",
+      "ılık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.895,
+    "end": 12.18,
+    "words": [
+      "su,",
+      "yarım"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.18,
+    "end": 12.488,
+    "words": [
+      "su,",
+      "yarım"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.488,
+    "end": 12.749,
+    "words": [
+      "bardak",
+      "beyaz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.749,
+    "end": 12.979,
+    "words": [
+      "bardak",
+      "beyaz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.979,
+    "end": 13.172,
+    "words": [
+      "sirke",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.172,
+    "end": 13.364,
+    "words": [
+      "sirke",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.364,
+    "end": 13.645,
+    "words": [
+      "bir",
+      "kaşık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.645,
+    "end": 13.985,
+    "words": [
+      "bir",
+      "kaşık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.985,
+    "end": 14.295,
+    "words": [
+      "bulaşık",
+      "deterjanı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.295,
+    "end": 14.605,
+    "words": [
+      "bulaşık",
+      "deterjanı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.605,
+    "end": 14.933,
+    "words": [
+      "ekleyip",
+      "dolaplara"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.933,
+    "end": 15.277,
+    "words": [
+      "ekleyip",
+      "dolaplara"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.277,
+    "end": 15.622,
+    "words": [
+      "püskürt",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.622,
+    "end": 15.968,
+    "words": [
+      "püskürt",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.968,
+    "end": 16.312,
+    "words": [
+      "mikrofiber",
+      "bezle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.312,
+    "end": 16.657,
+    "words": [
+      "mikrofiber",
+      "bezle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.657,
+    "end": 17.003,
+    "words": [
+      "sil.",
+      "Yağlar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.003,
+    "end": 17.407,
+    "words": [
+      "sil.",
+      "Yağlar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.407,
+    "end": 17.812,
+    "words": [
+      "anında",
+      "akıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.812,
+    "end": 18.127,
+    "words": [
+      "anında",
+      "akıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.127,
+    "end": 18.407,
+    "words": [
+      "gidecek.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.407,
+    "end": 18.68,
+    "words": [
+      "gidecek.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.68,
+    "end": 18.954,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.954,
+    "end": 19.229,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.229,
+    "end": 19.523,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.523,
+    "end": 19.852,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.852,
+    "end": 20.197,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.197,
+    "end": 20.579,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.579,
+    "end": 20.998,
+    "words": [
+      "yağlanan",
+      "dolap"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.998,
+    "end": 21.385,
+    "words": [
+      "yağlanan",
+      "dolap"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.385,
+    "end": 21.952,
+    "words": [
+      "kapaklarını."
+    ],
+    "active": 0
+  }
+]
