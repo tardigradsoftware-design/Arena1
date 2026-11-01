@@ -1,0 +1,63 @@
+{
+  "frames": 355,
+  "hook": [
+    "BİSKÜVİLER",
+    "NASIL SAKLANIR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-098-1.png"
+    },
+    {
+      "from": 165,
+      "file": "VID-098-2.png"
+    },
+    {
+      "from": 218,
+      "file": "VID-098-3.png"
+    },
+    {
+      "from": 290,
+      "file": "VID-098-4.png"
+    }
+  ],
+  "result": 9999,
+  "save": 278,
+  "clocks": [
+    {
+      "from": 52,
+      "to": 76
+    }
+  ],
+  "events": [
+    {
+      "from": 52,
+      "to": 76,
+      "a": "BİRKAÇ GÜNDE",
+      "b": "BAYATLAMA",
+      "side": "left",
+      "sfx": "none",
+      "icon": "clock"
+    },
+    {
+      "from": 175,
+      "to": 205,
+      "a": "ŞEKER KÜPÜ",
+      "b": "BİSKÜVİ KAVANOZU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 278,
+      "to": 303,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-098-voice.wav"
+}

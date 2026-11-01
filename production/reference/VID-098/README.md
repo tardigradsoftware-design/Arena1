@@ -1,0 +1,2 @@
+# VID-098 — V14
+Drive: https://drive.google.com/file/d/1q8kdzG-BovivGjWcTohy9NTG5XyekcK1/view — 11,84 sn / 2.217.030 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; dört incelenmiş temsili yapay sahne. Gün ifadesinde animasyonlu saat/tik. Vosk 18/30, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −6,69 dBFS. Şeker küpünün bisküvileri çıtır tutacağı garanti değil; uygun kapalı saklama kabı önemli.

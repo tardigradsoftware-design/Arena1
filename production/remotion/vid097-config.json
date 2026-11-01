@@ -1,0 +1,63 @@
+{
+  "frames": 373,
+  "hook": [
+    "YANIK FIRIN TEPSİSİ",
+    "NASIL TEMİZLENİR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-097-1.png"
+    },
+    {
+      "from": 190,
+      "file": "VID-097-2.png"
+    },
+    {
+      "from": 275,
+      "file": "VID-097-1.png"
+    },
+    {
+      "from": 335,
+      "file": "VID-097-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 303,
+  "clocks": [
+    {
+      "from": 110,
+      "to": 135
+    }
+  ],
+  "events": [
+    {
+      "from": 110,
+      "to": 135,
+      "a": "SAATLERCE",
+      "b": "OVMAYIN",
+      "side": "left",
+      "sfx": "none",
+      "icon": "clock"
+    },
+    {
+      "from": 192,
+      "to": 222,
+      "a": "FOLYO",
+      "b": "VE KARBONAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "sparkle"
+    },
+    {
+      "from": 303,
+      "to": 329,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-097-voice.wav"
+}
