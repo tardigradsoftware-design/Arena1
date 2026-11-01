@@ -1,0 +1,280 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.555,
+    "words": [
+      "sakın",
+      "en"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.555,
+    "end": 0.87,
+    "words": [
+      "sakın",
+      "en"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.87,
+    "end": 1.202,
+    "words": [
+      "sevdiğiniz",
+      "yün"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.202,
+    "end": 1.565,
+    "words": [
+      "sevdiğiniz",
+      "yün"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.565,
+    "end": 1.927,
+    "words": [
+      "kazakların",
+      "tüylenip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.927,
+    "end": 2.29,
+    "words": [
+      "kazakların",
+      "tüylenip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.29,
+    "end": 2.654,
+    "words": [
+      "giyilmez",
+      "hale"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.654,
+    "end": 3.008,
+    "words": [
+      "giyilmez",
+      "hale"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.008,
+    "end": 3.353,
+    "words": [
+      "gelmesine",
+      "üzülüp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.353,
+    "end": 3.697,
+    "words": [
+      "gelmesine",
+      "üzülüp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.697,
+    "end": 4.024,
+    "words": [
+      "onları",
+      "dolabın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.024,
+    "end": 4.331,
+    "words": [
+      "onları",
+      "dolabın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.331,
+    "end": 4.65,
+    "words": [
+      "dibine",
+      "atmayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.65,
+    "end": 5.107,
+    "words": [
+      "dibine",
+      "atmayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.107,
+    "end": 5.572,
+    "words": [
+      "Çünkü",
+      "buzlukta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.572,
+    "end": 5.975,
+    "words": [
+      "Çünkü",
+      "buzlukta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.975,
+    "end": 6.435,
+    "words": [
+      "bekletmek",
+      "tüylenmeyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.435,
+    "end": 6.895,
+    "words": [
+      "bekletmek",
+      "tüylenmeyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.895,
+    "end": 7.355,
+    "words": [
+      "önler.",
+      "Poşette"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.355,
+    "end": 7.815,
+    "words": [
+      "önler.",
+      "Poşette"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.815,
+    "end": 8.275,
+    "words": [
+      "dondurun.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.275,
+    "end": 8.617,
+    "words": [
+      "dondurun.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.617,
+    "end": 8.88,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.88,
+    "end": 9.18,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.18,
+    "end": 9.495,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.495,
+    "end": 9.915,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.915,
+    "end": 10.328,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.328,
+    "end": 10.695,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.695,
+    "end": 11.094,
+    "words": [
+      "yün",
+      "kazakları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.094,
+    "end": 11.472,
+    "words": [
+      "yün",
+      "kazakları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.472,
+    "end": 12.118,
+    "words": [
+      "saklarken."
+    ],
+    "active": 0
+  }
+]

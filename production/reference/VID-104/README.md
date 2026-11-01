@@ -1,0 +1,2 @@
+# VID-104 — V14
+Drive: https://drive.google.com/file/d/1hCJuyFl2S1bfCVkFoQitFHy3okMda2rC/view — 12,18 sn / 3.555.009 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; dört incelenmiş temsili yapay sahne. Vosk 24/32, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −6,85 dBFS. Çok acı salatalığı tüketmeyin; tuzla ovmak acılığı ve olası toksik bileşikleri gidermeyi, güvenliğini garanti etmez. Uyarısız yayımlamayın: https://thegardeningcook.com/why-are-my-cucumbers-bitter/

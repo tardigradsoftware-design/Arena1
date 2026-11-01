@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-104-1.png",
+      "sha256": "e2910f8f07f02902302e098ebb8fc8cd25090ec18fc220394535924e3c86255c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bütün ve dilim salatalık."
+    },
+    {
+      "file": "../../remotion/public/VID-104-2.png",
+      "sha256": "b930264a8162adf76c8a44713777abbde224b49c848764bc9ede5534d69fdb1d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kesik salatalık ve ayrı tuz."
+    },
+    {
+      "file": "../../remotion/public/VID-104-3.png",
+      "sha256": "97ff07df64e5798f79d77efb1601f96d908f5ab9b57529e72d548ea17e079778",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Süzgeçte salatalık su altında."
+    },
+    {
+      "file": "../../remotion/public/VID-104-4.png",
+      "sha256": "6fdddf3f549c33ada75ca75d4e5998babe32a987bb5912359593da3888c12a42",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Salatalık dilimleri temsili."
+    }
+  ]
+}

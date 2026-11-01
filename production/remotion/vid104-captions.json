@@ -1,0 +1,290 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.603,
+    "words": [
+      "sakın",
+      "kestiğiniz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.603,
+    "end": 1.06,
+    "words": [
+      "sakın",
+      "kestiğiniz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.06,
+    "end": 1.529,
+    "words": [
+      "salatalıkların",
+      "ucundaki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.529,
+    "end": 1.897,
+    "words": [
+      "salatalıkların",
+      "ucundaki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.897,
+    "end": 2.122,
+    "words": [
+      "o",
+      "acı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.122,
+    "end": 2.374,
+    "words": [
+      "o",
+      "acı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.374,
+    "end": 2.681,
+    "words": [
+      "tadın",
+      "tüm"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.681,
+    "end": 2.978,
+    "words": [
+      "tadın",
+      "tüm"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.978,
+    "end": 3.315,
+    "words": [
+      "salatanın",
+      "lezzetini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.315,
+    "end": 3.686,
+    "words": [
+      "salatanın",
+      "lezzetini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.686,
+    "end": 4.039,
+    "words": [
+      "bozmasına",
+      "izin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.039,
+    "end": 4.365,
+    "words": [
+      "bozmasına",
+      "izin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.365,
+    "end": 4.793,
+    "words": [
+      "vermeyin!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.793,
+    "end": 5.22,
+    "words": [
+      "vermeyin!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.22,
+    "end": 5.527,
+    "words": [
+      "uçları",
+      "kesip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.527,
+    "end": 5.842,
+    "words": [
+      "uçları",
+      "kesip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.842,
+    "end": 6.188,
+    "words": [
+      "tuzla",
+      "ovmak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.188,
+    "end": 6.562,
+    "words": [
+      "tuzla",
+      "ovmak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.562,
+    "end": 6.938,
+    "words": [
+      "acılığı",
+      "alır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.938,
+    "end": 7.356,
+    "words": [
+      "acılığı",
+      "alır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.356,
+    "end": 7.818,
+    "words": [
+      "Uçlarını",
+      "tuzla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.818,
+    "end": 8.24,
+    "words": [
+      "Uçlarını",
+      "tuzla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.24,
+    "end": 8.622,
+    "words": [
+      "ovun.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.622,
+    "end": 8.926,
+    "words": [
+      "ovun.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.926,
+    "end": 9.176,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.176,
+    "end": 9.456,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.456,
+    "end": 9.757,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.757,
+    "end": 10.185,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.185,
+    "end": 10.605,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.605,
+    "end": 11.025,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.025,
+    "end": 11.535,
+    "words": [
+      "salatalık",
+      "doğrama."
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.535,
+    "end": 12.147,
+    "words": [
+      "salatalık",
+      "doğrama."
+    ],
+    "active": 1
+  }
+]
