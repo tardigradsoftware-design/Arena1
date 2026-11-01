@@ -1,0 +1,488 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.48,
+    "words": [
+      "sakın",
+      "asetonun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.48,
+    "end": 0.81,
+    "words": [
+      "sakın",
+      "asetonun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.81,
+    "end": 1.103,
+    "words": [
+      "o",
+      "keskin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.103,
+    "end": 1.357,
+    "words": [
+      "o",
+      "keskin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.357,
+    "end": 1.582,
+    "words": [
+      "ve",
+      "tırnak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.582,
+    "end": 1.838,
+    "words": [
+      "ve",
+      "tırnak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.838,
+    "end": 2.158,
+    "words": [
+      "kurutan",
+      "kokusuyla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.158,
+    "end": 2.511,
+    "words": [
+      "kurutan",
+      "kokusuyla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.511,
+    "end": 2.897,
+    "words": [
+      "boğulup",
+      "tırnak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.897,
+    "end": 3.274,
+    "words": [
+      "boğulup",
+      "tırnak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.274,
+    "end": 3.641,
+    "words": [
+      "minesini",
+      "yıpratma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.641,
+    "end": 4.031,
+    "words": [
+      "minesini",
+      "yıpratma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.031,
+    "end": 4.443,
+    "words": [
+      "Çünkü",
+      "evde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.443,
+    "end": 4.763,
+    "words": [
+      "Çünkü",
+      "evde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.763,
+    "end": 4.99,
+    "words": [
+      "oje",
+      "çıkaran"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.99,
+    "end": 5.286,
+    "words": [
+      "oje",
+      "çıkaran"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.286,
+    "end": 5.652,
+    "words": [
+      "asetonun",
+      "bittiyse"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.652,
+    "end": 6.143,
+    "words": [
+      "asetonun",
+      "bittiyse"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.143,
+    "end": 6.72,
+    "words": [
+      "kullanabileceğin",
+      "harika"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.72,
+    "end": 7.118,
+    "words": [
+      "kullanabileceğin",
+      "harika"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.118,
+    "end": 7.326,
+    "words": [
+      "bir",
+      "doğal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.326,
+    "end": 7.58,
+    "words": [
+      "bir",
+      "doğal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.58,
+    "end": 7.926,
+    "words": [
+      "alternatif",
+      "var."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.926,
+    "end": 8.283,
+    "words": [
+      "alternatif",
+      "var."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.283,
+    "end": 8.648,
+    "words": [
+      "Pamuğun",
+      "üzerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.648,
+    "end": 9.012,
+    "words": [
+      "Pamuğun",
+      "üzerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.012,
+    "end": 9.367,
+    "words": [
+      "biraz",
+      "kolonya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.367,
+    "end": 9.712,
+    "words": [
+      "biraz",
+      "kolonya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.712,
+    "end": 10.053,
+    "words": [
+      "veya",
+      "el"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.053,
+    "end": 10.387,
+    "words": [
+      "veya",
+      "el"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.387,
+    "end": 10.723,
+    "words": [
+      "dezenfektanı",
+      "sıkıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.723,
+    "end": 11.085,
+    "words": [
+      "dezenfektanı",
+      "sıkıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.085,
+    "end": 11.459,
+    "words": [
+      "tırnağının",
+      "üzerinde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.459,
+    "end": 11.775,
+    "words": [
+      "tırnağının",
+      "üzerinde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.775,
+    "end": 12.037,
+    "words": [
+      "on",
+      "saniye"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.037,
+    "end": 12.386,
+    "words": [
+      "on",
+      "saniye"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.386,
+    "end": 12.829,
+    "words": [
+      "beklet,",
+      "ardından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.829,
+    "end": 13.249,
+    "words": [
+      "beklet,",
+      "ardından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.249,
+    "end": 13.646,
+    "words": [
+      "hafifçe",
+      "bastırarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.646,
+    "end": 14.046,
+    "words": [
+      "hafifçe",
+      "bastırarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.046,
+    "end": 14.447,
+    "words": [
+      "sil.",
+      "Ojelerin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.447,
+    "end": 14.848,
+    "words": [
+      "sil.",
+      "Ojelerin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.848,
+    "end": 15.249,
+    "words": [
+      "anında",
+      "çıktığını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.249,
+    "end": 15.678,
+    "words": [
+      "anında",
+      "çıktığını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.678,
+    "end": 16.134,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.134,
+    "end": 16.452,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.452,
+    "end": 16.681,
+    "words": [
+      "pratik",
+      "hileyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.681,
+    "end": 16.959,
+    "words": [
+      "pratik",
+      "hileyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.959,
+    "end": 17.249,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.249,
+    "end": 17.61,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.61,
+    "end": 17.985,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.985,
+    "end": 18.424,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.424,
+    "end": 18.971,
+    "words": [
+      "asetonun",
+      "bittiğinde."
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.971,
+    "end": 19.902,
+    "words": [
+      "asetonun",
+      "bittiğinde."
+    ],
+    "active": 1
+  }
+]

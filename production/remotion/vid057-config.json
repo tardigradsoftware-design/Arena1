@@ -1,0 +1,72 @@
+{
+  "frames": 598,
+  "hook": [
+    "ASETONUN",
+    "BİTTİ Mİ?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-057-1.png"
+    },
+    {
+      "from": 245,
+      "file": "VID-057-2.png"
+    },
+    {
+      "from": 335,
+      "file": "VID-057-3.png"
+    },
+    {
+      "from": 433,
+      "file": "VID-057-4.png"
+    }
+  ],
+  "result": 443,
+  "save": 518,
+  "clocks": [
+    {
+      "from": 353,
+      "to": 386
+    }
+  ],
+  "events": [
+    {
+      "from": 270,
+      "to": 311,
+      "a": "PAMUĞA",
+      "b": "KOLONYA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 353,
+      "to": 386,
+      "a": "ON SANİYE",
+      "b": "BEKLET",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 405,
+      "to": 434,
+      "a": "HAFİFÇE",
+      "b": "SİL",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 518,
+      "to": 548,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-057-voice.wav"
+}

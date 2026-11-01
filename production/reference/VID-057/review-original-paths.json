@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-057-1.png",
+      "sha256": "dd8673e696de58d4a4a65a9d955804f88485088d129829f0968d75b680f3935b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ojeli el; beş parmak, anatomik görünüm."
+    },
+    {
+      "file": "../../remotion/public/VID-057-2.png",
+      "sha256": "8c614ac3692ef3144e7d67e96783f9499057c2270e73e77bfcf4980f39a34e38",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Etiketsiz sıvı şişesi ve pamuk."
+    },
+    {
+      "file": "../../remotion/public/VID-057-3.png",
+      "sha256": "a8b87e02206de56c2ed06165dd506fee4720811a166d53da76d57cb7e00a5c23",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Pamuk, oje ve temsili sıvı; uygulama gösterilmiyor."
+    },
+    {
+      "file": "../../remotion/public/VID-057-4.png",
+      "sha256": "12e84afa756a2f814d1bebeea130e5c3ddc84ce32fe26ad43511eebca71e26eb",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ojeden arınmış el, gerçek önce/sonra değil."
+    }
+  ]
+}

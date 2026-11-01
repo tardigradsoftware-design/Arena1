@@ -1,0 +1,560 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.6,
+    "words": [
+      "sakın",
+      "içinde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.6,
+    "end": 1.035,
+    "words": [
+      "sakın",
+      "içinde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.035,
+    "end": 1.453,
+    "words": [
+      "milyonlarca",
+      "bakteri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.453,
+    "end": 1.838,
+    "words": [
+      "milyonlarca",
+      "bakteri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.838,
+    "end": 2.143,
+    "words": [
+      "barındıran",
+      "o"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.143,
+    "end": 2.37,
+    "words": [
+      "barındıran",
+      "o"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.37,
+    "end": 2.659,
+    "words": [
+      "kokmuş",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.659,
+    "end": 2.997,
+    "words": [
+      "kokmuş",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.997,
+    "end": 3.32,
+    "words": [
+      "süngerini",
+      "kullanmaya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.32,
+    "end": 3.653,
+    "words": [
+      "süngerini",
+      "kullanmaya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.653,
+    "end": 3.93,
+    "words": [
+      "devam",
+      "edip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.93,
+    "end": 4.178,
+    "words": [
+      "devam",
+      "edip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.178,
+    "end": 4.508,
+    "words": [
+      "sağlığını",
+      "tehlikeye"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.508,
+    "end": 4.916,
+    "words": [
+      "sağlığını",
+      "tehlikeye"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.916,
+    "end": 5.359,
+    "words": [
+      "atma!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.359,
+    "end": 5.764,
+    "words": [
+      "atma!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.764,
+    "end": 6.131,
+    "words": [
+      "süngeri",
+      "tertemiz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.131,
+    "end": 6.465,
+    "words": [
+      "süngeri",
+      "tertemiz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.465,
+    "end": 6.765,
+    "words": [
+      "steril",
+      "hale"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.765,
+    "end": 7.065,
+    "words": [
+      "steril",
+      "hale"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.065,
+    "end": 7.357,
+    "words": [
+      "getirmenin",
+      "çok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.357,
+    "end": 7.612,
+    "words": [
+      "getirmenin",
+      "çok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.612,
+    "end": 7.803,
+    "words": [
+      "kolay",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.803,
+    "end": 7.957,
+    "words": [
+      "kolay",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.957,
+    "end": 8.113,
+    "words": [
+      "yolu",
+      "var."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.113,
+    "end": 8.453,
+    "words": [
+      "yolu",
+      "var."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.453,
+    "end": 8.866,
+    "words": [
+      "Mutfak",
+      "süngerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.866,
+    "end": 9.167,
+    "words": [
+      "Mutfak",
+      "süngerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.167,
+    "end": 9.469,
+    "words": [
+      "bolca",
+      "suya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.469,
+    "end": 9.771,
+    "words": [
+      "bolca",
+      "suya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.771,
+    "end": 10.072,
+    "words": [
+      "tutup",
+      "ıslat,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.072,
+    "end": 10.374,
+    "words": [
+      "tutup",
+      "ıslat,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.374,
+    "end": 10.676,
+    "words": [
+      "mikrodalga",
+      "fırına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.676,
+    "end": 10.977,
+    "words": [
+      "mikrodalga",
+      "fırına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.977,
+    "end": 11.279,
+    "words": [
+      "koyup",
+      "yüksek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.279,
+    "end": 11.599,
+    "words": [
+      "koyup",
+      "yüksek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.599,
+    "end": 11.938,
+    "words": [
+      "ayarda",
+      "sadece"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.938,
+    "end": 12.256,
+    "words": [
+      "ayarda",
+      "sadece"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.256,
+    "end": 12.504,
+    "words": [
+      "bir",
+      "dakika"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.504,
+    "end": 12.774,
+    "words": [
+      "bir",
+      "dakika"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.774,
+    "end": 13.215,
+    "words": [
+      "çalıştır.",
+      "Isının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.215,
+    "end": 13.755,
+    "words": [
+      "çalıştır.",
+      "Isının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.755,
+    "end": 14.246,
+    "words": [
+      "etkisiyle",
+      "süngerdeki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.246,
+    "end": 14.689,
+    "words": [
+      "etkisiyle",
+      "süngerdeki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.689,
+    "end": 15.082,
+    "words": [
+      "tüm",
+      "mikroplar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.082,
+    "end": 15.397,
+    "words": [
+      "tüm",
+      "mikroplar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.397,
+    "end": 15.675,
+    "words": [
+      "ve",
+      "kötü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.675,
+    "end": 15.945,
+    "words": [
+      "ve",
+      "kötü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.945,
+    "end": 16.215,
+    "words": [
+      "kokular",
+      "tamamen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.215,
+    "end": 16.508,
+    "words": [
+      "kokular",
+      "tamamen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.508,
+    "end": 16.815,
+    "words": [
+      "yok",
+      "olacaktır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.815,
+    "end": 17.212,
+    "words": [
+      "yok",
+      "olacaktır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.212,
+    "end": 17.565,
+    "words": [
+      "Bu",
+      "hayat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.565,
+    "end": 17.828,
+    "words": [
+      "Bu",
+      "hayat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.828,
+    "end": 18.139,
+    "words": [
+      "kurtaran",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.139,
+    "end": 18.446,
+    "words": [
+      "kurtaran",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.446,
+    "end": 18.758,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.758,
+    "end": 19.076,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.076,
+    "end": 19.399,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.399,
+    "end": 19.777,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.777,
+    "end": 20.191,
+    "words": [
+      "mutfak",
+      "süngerini."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.191,
+    "end": 20.779,
+    "words": [
+      "mutfak",
+      "süngerini."
+    ],
+    "active": 1
+  }
+]
