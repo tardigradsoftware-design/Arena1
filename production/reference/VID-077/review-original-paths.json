@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-077-1.png",
+      "sha256": "0e01718d8c6348fead52be9c6115cd11f3626f4e410e0fa9459163bf369daa15",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tencerede kuru fasulye."
+    },
+    {
+      "file": "../../remotion/public/VID-077-2.png",
+      "sha256": "6e1d57159fec4d1a5a106cd3954989773e0877307840581e8c256780d02048c0",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kuru fasulye ve karbonat kâsesi, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-077-3.png",
+      "sha256": "a2d9a0720d67a14fc0a76f58e2ffb7cae812f190f20658a5819c0c625df4c10e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tencerede pişmiş fasulye, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-077-4.png",
+      "sha256": "88acf51c5bc892e0ede9627d7f4935a4cd1d0009a07ed616b9b409985d6de26c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Servis edilmiş yemek, gerçek önce/sonra değil."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "frames": 465,
+  "hook": [
+    "KURU FASULYEYİ",
+    "ISLATMAYI UNUTTUN MU?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-077-1.png"
+    },
+    {
+      "from": 208,
+      "file": "VID-077-2.png"
+    },
+    {
+      "from": 320,
+      "file": "VID-077-3.png"
+    },
+    {
+      "from": 367,
+      "file": "VID-077-4.png"
+    }
+  ],
+  "result": 367,
+  "save": 402,
+  "clocks": [],
+  "events": [
+    {
+      "to": 315,
+      "a": "BİR TATLI KAŞIĞI",
+      "b": "KARBONAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon",
+      "from": 280
+    },
+    {
+      "to": 430,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 402
+    }
+  ],
+  "voice": "VID-077-voice.wav"
+}

@@ -1,0 +1,344 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.48,
+    "words": [
+      "sakın",
+      "ev"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.48,
+    "end": 0.772,
+    "words": [
+      "sakın",
+      "ev"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.772,
+    "end": 1.087,
+    "words": [
+      "işlerinden",
+      "sonra"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.087,
+    "end": 1.414,
+    "words": [
+      "işlerinden",
+      "sonra"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.414,
+    "end": 1.721,
+    "words": [
+      "sararan",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.721,
+    "end": 2.032,
+    "words": [
+      "sararan",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.032,
+    "end": 2.348,
+    "words": [
+      "matlaşan",
+      "ellerin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.348,
+    "end": 2.633,
+    "words": [
+      "matlaşan",
+      "ellerin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.633,
+    "end": 2.986,
+    "words": [
+      "için",
+      "kimyasal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.986,
+    "end": 3.367,
+    "words": [
+      "için",
+      "kimyasal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.367,
+    "end": 3.683,
+    "words": [
+      "kremlere",
+      "para"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.683,
+    "end": 4.043,
+    "words": [
+      "kremlere",
+      "para"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.043,
+    "end": 4.447,
+    "words": [
+      "harcama!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.447,
+    "end": 4.793,
+    "words": [
+      "harcama!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.793,
+    "end": 5.075,
+    "words": [
+      "yarım",
+      "limon"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.075,
+    "end": 5.318,
+    "words": [
+      "yarım",
+      "limon"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.318,
+    "end": 5.523,
+    "words": [
+      "ve",
+      "biraz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.523,
+    "end": 5.835,
+    "words": [
+      "ve",
+      "biraz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.835,
+    "end": 6.36,
+    "words": [
+      "zeytinyağı",
+      "ellerinizi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.36,
+    "end": 6.881,
+    "words": [
+      "zeytinyağı",
+      "ellerinizi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.881,
+    "end": 7.294,
+    "words": [
+      "anında",
+      "bebek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.294,
+    "end": 7.598,
+    "words": [
+      "anında",
+      "bebek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.598,
+    "end": 7.808,
+    "words": [
+      "gibi",
+      "yapar."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.808,
+    "end": 8.16,
+    "words": [
+      "gibi",
+      "yapar."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.16,
+    "end": 8.64,
+    "words": [
+      "Limonu",
+      "ellerinize"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.64,
+    "end": 9.041,
+    "words": [
+      "Limonu",
+      "ellerinize"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.041,
+    "end": 9.364,
+    "words": [
+      "masaj",
+      "yaparak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.364,
+    "end": 9.663,
+    "words": [
+      "masaj",
+      "yaparak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.663,
+    "end": 9.938,
+    "words": [
+      "sürün.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.938,
+    "end": 10.213,
+    "words": [
+      "sürün.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.213,
+    "end": 10.515,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.515,
+    "end": 10.838,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.838,
+    "end": 11.242,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.242,
+    "end": 11.64,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.64,
+    "end": 12.098,
+    "words": [
+      "unutma,",
+      "ellerinizi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.098,
+    "end": 12.6,
+    "words": [
+      "unutma,",
+      "ellerinizi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.6,
+    "end": 12.945,
+    "words": [
+      "beslemek",
+      "için."
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.945,
+    "end": 13.407,
+    "words": [
+      "beslemek",
+      "için."
+    ],
+    "active": 1
+  }
+]

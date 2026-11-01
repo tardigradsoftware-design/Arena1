@@ -1,0 +1,49 @@
+{
+  "frames": 403,
+  "hook": [
+    "ELLERİNİZ İÇİN",
+    "BAKIM ÖNERİSİ"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-078-1.png"
+    },
+    {
+      "from": 143,
+      "file": "VID-078-2.png"
+    },
+    {
+      "from": 245,
+      "file": "VID-078-3.png"
+    },
+    {
+      "from": 301,
+      "file": "VID-078-1.png"
+    }
+  ],
+  "result": 300,
+  "save": 325,
+  "clocks": [],
+  "events": [
+    {
+      "to": 185,
+      "a": "LİMON",
+      "b": "VE ZEYTİNYAĞI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "lemon",
+      "from": 145
+    },
+    {
+      "to": 350,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 325
+    }
+  ],
+  "voice": "VID-078-voice.wav"
+}
