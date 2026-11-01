@@ -1,0 +1,3 @@
+# VID-068 — V14
+Drive: https://drive.google.com/file/d/1b6I2uk5JjZTx7-D_2MxypaVmZiqXXuou/view — 17,30 sn, 3.507.587 bayt. Kaynak ODS metni aynen (son cümle yarım), voice-01 1,45×. Dört incelenmiş yapay durağan sahne; gerçek önce/sonra değil. 720×1280/30, decode/blackdetect, üç saniyede bir kare kontrolü, tepe −6,13 dBFS. Vosk 35/50, diğer zamanlar tahmini; ses baştan sona dinlenmedi. On dakika için analog saat ve tik.
+ÖNEMLİ: Fırınlama avokadoyu yumuşatabilse de gerçek olgunlaşma sağlamaz; 10 dakikada sonuç garanti değil. Uyarısız yayımlamayın: https://www.healthline.com/nutrition/how-to-ripen-avocados

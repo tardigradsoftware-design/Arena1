@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-068-1.png",
+      "sha256": "b3f4dfa93a9126ea7026562a549ffb0a7d1f66c622a4b5eb073b3821e2a0fbe4",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bütün avokado."
+    },
+    {
+      "file": "../../remotion/public/VID-068-2.png",
+      "sha256": "f91aee605040108f981a66a3ee12204a0e452ab7bef2a6226975e636d8023084",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Avokado ile folyo ayrı; sarma temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-068-3.png",
+      "sha256": "5151cadebaed2e09d4a1d956a71a1e35d0f0263b252e4f49a8105ed53be3ef6c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Folyo sarılı oval nesne tepside, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-068-4.png",
+      "sha256": "0cac917f7c5e877f476e58dd52f0098e4bea2f8d5a8da068d715842decb63abf",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "İki avokado yarısı ve tek çekirdek; gerçek önce/sonra değil."
+    }
+  ]
+}

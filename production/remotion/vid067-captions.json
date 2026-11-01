@@ -1,0 +1,496 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.578,
+    "words": [
+      "sakın",
+      "fırının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.578,
+    "end": 0.963,
+    "words": [
+      "sakın",
+      "fırının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.963,
+    "end": 1.252,
+    "words": [
+      "içindeki",
+      "o"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.252,
+    "end": 1.56,
+    "words": [
+      "içindeki",
+      "o"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.56,
+    "end": 1.98,
+    "words": [
+      "taşlaşmış",
+      "siyah"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.98,
+    "end": 2.325,
+    "words": [
+      "taşlaşmış",
+      "siyah"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.325,
+    "end": 2.595,
+    "words": [
+      "yanık",
+      "yağları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.595,
+    "end": 2.869,
+    "words": [
+      "yanık",
+      "yağları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.869,
+    "end": 3.146,
+    "words": [
+      "kazımak",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.146,
+    "end": 3.45,
+    "words": [
+      "kazımak",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.45,
+    "end": 3.78,
+    "words": [
+      "tel",
+      "süngerle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.78,
+    "end": 4.11,
+    "words": [
+      "tel",
+      "süngerle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.11,
+    "end": 4.466,
+    "words": [
+      "zorlayıp",
+      "fırının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.466,
+    "end": 4.849,
+    "words": [
+      "zorlayıp",
+      "fırının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.849,
+    "end": 5.231,
+    "words": [
+      "emaye",
+      "yüzeyini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.231,
+    "end": 5.614,
+    "words": [
+      "emaye",
+      "yüzeyini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.614,
+    "end": 6.028,
+    "words": [
+      "çizme!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.028,
+    "end": 6.473,
+    "words": [
+      "çizme!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.473,
+    "end": 6.82,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.82,
+    "end": 7.062,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.062,
+    "end": 7.296,
+    "words": [
+      "su",
+      "ile"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.296,
+    "end": 7.53,
+    "words": [
+      "su",
+      "ile"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.53,
+    "end": 7.764,
+    "words": [
+      "fırını",
+      "parlatmak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.764,
+    "end": 7.998,
+    "words": [
+      "fırını",
+      "parlatmak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.998,
+    "end": 8.25,
+    "words": [
+      "çok",
+      "kolay."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.25,
+    "end": 8.633,
+    "words": [
+      "çok",
+      "kolay."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.633,
+    "end": 9.022,
+    "words": [
+      "Bir",
+      "kasede"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.022,
+    "end": 9.307,
+    "words": [
+      "Bir",
+      "kasede"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.307,
+    "end": 9.562,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.562,
+    "end": 9.772,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.772,
+    "end": 9.966,
+    "words": [
+      "suyu",
+      "macun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.966,
+    "end": 10.196,
+    "words": [
+      "suyu",
+      "macun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.196,
+    "end": 10.463,
+    "words": [
+      "yapıp",
+      "fırının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.463,
+    "end": 10.73,
+    "words": [
+      "yapıp",
+      "fırının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.73,
+    "end": 10.996,
+    "words": [
+      "iç",
+      "yüzeyine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.996,
+    "end": 11.263,
+    "words": [
+      "iç",
+      "yüzeyine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.263,
+    "end": 11.529,
+    "words": [
+      "sür,",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.529,
+    "end": 11.796,
+    "words": [
+      "sür,",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.796,
+    "end": 12.077,
+    "words": [
+      "gece",
+      "bekletip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.077,
+    "end": 12.388,
+    "words": [
+      "gece",
+      "bekletip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.388,
+    "end": 12.715,
+    "words": [
+      "nemli",
+      "bezle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.715,
+    "end": 13.041,
+    "words": [
+      "nemli",
+      "bezle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.041,
+    "end": 13.367,
+    "words": [
+      "sil.",
+      "Yağlar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.367,
+    "end": 13.805,
+    "words": [
+      "sil.",
+      "Yağlar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.805,
+    "end": 14.339,
+    "words": [
+      "kendiliğinden",
+      "sökülecek."
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.339,
+    "end": 14.86,
+    "words": [
+      "kendiliğinden",
+      "sökülecek."
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.86,
+    "end": 15.218,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.218,
+    "end": 15.454,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.454,
+    "end": 15.731,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.731,
+    "end": 16.028,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.028,
+    "end": 16.433,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.433,
+    "end": 16.8,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.8,
+    "end": 17.126,
+    "words": [
+      "unutma,",
+      "yağlanan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.126,
+    "end": 17.538,
+    "words": [
+      "unutma,",
+      "yağlanan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.538,
+    "end": 18.155,
+    "words": [
+      "fırınını."
+    ],
+    "active": 0
+  }
+]

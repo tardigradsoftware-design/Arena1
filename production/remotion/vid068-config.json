@@ -1,0 +1,63 @@
+{
+  "frames": 519,
+  "hook": [
+    "SERT AVOKADO",
+    "İÇİN BEKLEME!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-068-1.png"
+    },
+    {
+      "from": 249,
+      "file": "VID-068-2.png"
+    },
+    {
+      "from": 310,
+      "file": "VID-068-3.png"
+    },
+    {
+      "from": 400,
+      "file": "VID-068-4.png"
+    }
+  ],
+  "result": 400,
+  "save": 453,
+  "clocks": [
+    {
+      "from": 337,
+      "to": 370
+    }
+  ],
+  "events": [
+    {
+      "to": 304,
+      "a": "ALÜMİNYUM",
+      "b": "FOLYO",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "avocado",
+      "from": 267
+    },
+    {
+      "to": 370,
+      "a": "ON DAKİKA",
+      "b": "150 DERECE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock",
+      "from": 337
+    },
+    {
+      "to": 483,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 453
+    }
+  ],
+  "voice": "VID-068-voice.wav"
+}

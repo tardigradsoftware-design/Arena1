@@ -1,0 +1,63 @@
+{
+  "frames": 545,
+  "hook": [
+    "FIRINDAKİ YANIK YAĞI",
+    "TELLE KAZIMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-067-1.png"
+    },
+    {
+      "from": 190,
+      "file": "VID-067-2.png"
+    },
+    {
+      "from": 310,
+      "file": "VID-067-3.png"
+    },
+    {
+      "from": 400,
+      "file": "VID-067-4.png"
+    }
+  ],
+  "result": 405,
+  "save": 480,
+  "clocks": [
+    {
+      "from": 350,
+      "to": 378
+    }
+  ],
+  "events": [
+    {
+      "to": 306,
+      "a": "KARBONAT",
+      "b": "VE SU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon",
+      "from": 268
+    },
+    {
+      "to": 378,
+      "a": "BİR GECE",
+      "b": "BEKLET",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock",
+      "from": 350
+    },
+    {
+      "to": 510,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 480
+    }
+  ],
+  "voice": "VID-067-voice.wav"
+}

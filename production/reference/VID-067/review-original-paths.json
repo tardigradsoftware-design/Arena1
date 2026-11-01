@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-067-1.png",
+      "sha256": "d80a2c75ec76cbc295db2d7e312872df2a93f4eb07b788e6e3e414743508c543",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kirli fırın, doğal görünüm."
+    },
+    {
+      "file": "../../remotion/public/VID-067-2.png",
+      "sha256": "8a4deab8c38ac6a77b402790ca82c653e7a1051d6f55e66549b77d73b541e263",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Macun ve kaşık; arkada fırın ışığı."
+    },
+    {
+      "file": "../../remotion/public/VID-067-3.png",
+      "sha256": "1614c7255ea2041b15d1328296f1ba0884455ef4e2423c5bc568e552201f06e8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tabanda macun ve kapakta bez, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-067-4.png",
+      "sha256": "d5574ecfb0f07feb485962c3dfcc951ebe4a10ecbeebf1909c7768cb0e499849",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz fırın; gerçek önce/sonra değil."
+    }
+  ]
+}
