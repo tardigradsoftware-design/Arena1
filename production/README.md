@@ -34,3 +34,14 @@ Her görseli tek başına ve `quality_check.py` temas sayfasıyla incele. Konu, 
 `check_alignment.py` kaynak metin ile kelime-zaman JSON'undaki kelime sırasını, eksikleri, çakışmayı ve ses süresi sınırını kontrol eder; hizalama üretmez, sesi dinlemez ve kelimelerin doğru zamanda söylendiğini kanıtlamaz. JSON şeması `{"duration": 1.0, "words": [{"word": "örnek", "start": 0.1, "end": 0.8}]}`; UTF-8 kaynak metni ile `production/.venv/bin/python production/check_alignment.py metin.txt kelimeler.json` şeklinde çalıştırılır. Kontrol aracı bağımsızdır; henüz render kapısına bağlanmadı. Hataları düzeltmek ve ses üzerinden gözden geçirmek gerekir.
 
 Türkçe forced alignment için [WhisperX](https://github.com/m-bain/whisperX) ve `mpoyraz/wav2vec2-xls-r-300m-cv7-turkish` adayı araştırıldı. Model bu ortamda indirilip test edilmedi; mevcut Vosk ASR, forced alignment değildir. Araçları kurulmuş/başarılı gibi varsayma ve 035'teki interpolasyonları kesin zamanlama diye sunma. Yayın öncesi ses–altyazı–sahne kontrolü gereklidir.
+
+## Ses analizi (gerçek dinleme yerine geçmez)
+
+`audio_audit.py` FFmpeg ile sesi mono/16 kHz çözer, ilk en fazla 600 saniyenin RMS/tepe düzeyi, tam ölçeğe yaklaşan örnek oranı ve düşük seviyeli aralıklarını ölçer; isteğe bağlı Vosk Türkçe tanıma çıktısı verir. Eşikler otomatik tahmindir: müzikli miks konuşma boşluğunu maskeleyebilir, tam ölçek yakınlığı kesin clipping teşhisi değildir. Sesin vurgu, doğallık, efekt dengesi veya senkron kalitesini dinlemeden doğrulamaz. ASR hataları doğrudan seslendirme hatası olarak yorumlanamaz.
+
+```sh
+production/.venv/bin/python production/audio_audit.py production/reference/VID-001/VID-001-fast.wav --model production/vosk-tr --output production/audio/VID-001-audit.json
+production/.venv/bin/python -m unittest discover -s production/tests -v
+```
+
+2026-11-01 denemesinde VID-001 sesinin analiz edilen süresi 20,65 sn, tepe değeri −4,45 dBFS, 45 dBFS altı 0,35 sn aralık tespit edildi. Türkçe Vosk bazı kelimeleri hatalı tanıdı; insan dinlemesi yerine geçmez. Asistanın bu ortamda sese doğrudan dinleme aracı yoktur; dinlemiş gibi raporlanmaz. WAV/MP4 kullanıcı tarafından oynatılıp geri bildirim verilebilir. Model ve venv geçicidir, yukarıdaki kurulumla geri yüklenebilir.
