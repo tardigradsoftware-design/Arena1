@@ -1,0 +1,49 @@
+{
+  "frames": 385,
+  "hook": [
+    "SAÇ BAKIMINDA",
+    "SİNAMEKİ KÜRÜ"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-105-1.png"
+    },
+    {
+      "from": 162,
+      "file": "VID-105-2.png"
+    },
+    {
+      "from": 240,
+      "file": "VID-105-4.png"
+    },
+    {
+      "from": 320,
+      "file": "VID-105-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 303,
+  "clocks": [],
+  "events": [
+    {
+      "from": 165,
+      "to": 201,
+      "a": "SİNAMEKİ OTU",
+      "b": "VE B VİTAMİNİ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "leaf"
+    },
+    {
+      "from": 303,
+      "to": 330,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-105-voice.wav"
+}

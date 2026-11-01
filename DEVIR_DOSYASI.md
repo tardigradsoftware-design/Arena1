@@ -239,3 +239,7 @@ Kullanıcı her zaman senaryoya bağlı kalınmasını, tekrar onay istenmemesin
 
 ### VID-103–104 (son durum)
 103 https://drive.google.com/file/d/1ynwzzJJwIDWl9TjvH5wKx-_xrKAs1jNS/view — 12,14 sn/3.795.293 bayt; 104 https://drive.google.com/file/d/1hCJuyFl2S1bfCVkFoQitFHy3okMda2rC/view — 12,18 sn/3.555.009 bayt. ODS özgün, voice-01 1,45×; temsili yapay sahneler, SHA inceleme, 720×1280/30, decode/blackdetect/üç saniyede kare kontrolü. 103-4 yanlış sonuç izlenimi nedeniyle kullanılmadı. Vosk 17/31 ve 24/32, kalan zamanlar tahmini; sesler baştan sona dinlenmedi. 103 dondurmanın tüylenmeyi önlediği kanıtlanmadı. 104 çok acı salatalık tüketilmemeli, tuzla ovma güvenliği garanti etmez; uyarısız yayımlanmasın. Kullanıcı ve Drive uyarıldı. Sırada 105–106.
+
+### VID-105–106
+VID-105: https://drive.google.com/file/d/1_gr4m-8SdISHVv4nUrpa3U4ti6F9zYt5/view — 12,84 sn, 3.165.296 bayt, Vosk 19/32. Kürün saç uzattığına yeterli klinik kanıt yok; tahriş/alerji olabilir, uyarısız yayımlamayın. Bitki kimliği doğrulanmamış temsili görseller; uygulama gösterilmedi.
+VID-106: https://drive.google.com/file/d/1vdkqD3GpI1u6tRyP3yCtZBxl_7QNZ9EH/view — 10,77 sn, 1.898.781 bayt, Vosk 24/32. Havlu kaçağın nedenini çözmez; gövde/kablo bağlantısı/hasarlı hazne kaçağında güvenliyse fişi çekip kullanmayı bırakın, üreticiye danışın. Havlu katlı, gerçek uygulama gösterilmedi. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi, Vosk dışı altyazılar tahmini. Sonraki 107–108.

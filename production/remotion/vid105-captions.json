@@ -1,0 +1,290 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.574,
+    "words": [
+      "sakın",
+      "saçlarınızın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.574,
+    "end": 1.001,
+    "words": [
+      "sakın",
+      "saçlarınızın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.001,
+    "end": 1.378,
+    "words": [
+      "yavaş",
+      "uzamasından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.378,
+    "end": 1.704,
+    "words": [
+      "yavaş",
+      "uzamasından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.704,
+    "end": 2.071,
+    "words": [
+      "ve",
+      "kırılmasından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.071,
+    "end": 2.48,
+    "words": [
+      "ve",
+      "kırılmasından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.48,
+    "end": 2.835,
+    "words": [
+      "şikayet",
+      "edip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.835,
+    "end": 3.232,
+    "words": [
+      "şikayet",
+      "edip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.232,
+    "end": 3.69,
+    "words": [
+      "kimyasal",
+      "takviyelere"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.69,
+    "end": 4.11,
+    "words": [
+      "kimyasal",
+      "takviyelere"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.11,
+    "end": 4.553,
+    "words": [
+      "para",
+      "dökmeyin!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.553,
+    "end": 5.018,
+    "words": [
+      "para",
+      "dökmeyin!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.018,
+    "end": 5.396,
+    "words": [
+      "Çünkü",
+      "sinameki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.396,
+    "end": 5.687,
+    "words": [
+      "Çünkü",
+      "sinameki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.687,
+    "end": 5.978,
+    "words": [
+      "otu",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.978,
+    "end": 6.268,
+    "words": [
+      "otu",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.268,
+    "end": 6.559,
+    "words": [
+      "B",
+      "vitamini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.559,
+    "end": 6.9,
+    "words": [
+      "B",
+      "vitamini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.9,
+    "end": 7.29,
+    "words": [
+      "ampulü",
+      "uzatır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.29,
+    "end": 7.713,
+    "words": [
+      "ampulü",
+      "uzatır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.713,
+    "end": 8.17,
+    "words": [
+      "Sinameki",
+      "kürü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.17,
+    "end": 8.627,
+    "words": [
+      "Sinameki",
+      "kürü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.627,
+    "end": 9.084,
+    "words": [
+      "uygulayın.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.084,
+    "end": 9.44,
+    "words": [
+      "uygulayın.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.44,
+    "end": 9.749,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.749,
+    "end": 10.117,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.117,
+    "end": 10.56,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.56,
+    "end": 10.988,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.988,
+    "end": 11.475,
+    "words": [
+      "unutma,",
+      "saçları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.475,
+    "end": 11.992,
+    "words": [
+      "unutma,",
+      "saçları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.992,
+    "end": 12.375,
+    "words": [
+      "uzatmak",
+      "için."
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.375,
+    "end": 12.826,
+    "words": [
+      "uzatmak",
+      "için."
+    ],
+    "active": 1
+  }
+]

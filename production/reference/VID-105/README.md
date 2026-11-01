@@ -1,0 +1,2 @@
+# VID-105
+Drive: https://drive.google.com/file/d/1_gr4m-8SdISHVv4nUrpa3U4ti6F9zYt5/view — 12,84 sn, 3.165.296 bayt. Senaryo aynen seslendirildi (1,45×); Vosk 19/32 çapa, diğerleri interpolasyon. Ses baştan sona dinlenmedi, senkron kesin değil. Sinameki ve B vitamini ampulünün saç uzattığına yeterli klinik kanıt yok; tahriş/alerji mümkün. Bitkiler temsilidir, türleri doğrulanmadı, kür uygulaması gösterilmedi. 3. görsel ampul açık seçik olmadığı için kullanılmadı. Uyarısız yayımlamayın.
