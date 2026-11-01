@@ -1,0 +1,10 @@
+production/.venv/
+production/vosk-tr/
+production/audio/
+production/images/
+production/videos/
+production/check.jpg
+
+google_drive/
+production/check-VID-*.jpg
+production/__pycache__/
