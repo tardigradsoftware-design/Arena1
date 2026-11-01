@@ -1,0 +1,72 @@
+{
+  "frames": 590,
+  "hook": [
+    "ÇAY VE KAHVE",
+    "LEKELERİNE DİKKAT!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-063-1.png"
+    },
+    {
+      "from": 248,
+      "file": "VID-063-2.png"
+    },
+    {
+      "from": 340,
+      "file": "VID-063-3.png"
+    },
+    {
+      "from": 467,
+      "file": "VID-063-4.png"
+    }
+  ],
+  "result": 475,
+  "save": 524,
+  "clocks": [
+    {
+      "from": 352,
+      "to": 390
+    }
+  ],
+  "events": [
+    {
+      "from": 291,
+      "to": 327,
+      "a": "KARBONAT",
+      "b": "VE LİMON SUYU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "lemon"
+    },
+    {
+      "from": 352,
+      "to": 390,
+      "a": "BİR DAKİKA",
+      "b": "NAZİKÇE FIRÇALA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 419,
+      "to": 451,
+      "a": "SUYLA",
+      "b": "İYİCE ÇALKALA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 524,
+      "to": 556,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-063-voice.wav"
+}
