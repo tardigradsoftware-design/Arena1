@@ -1,10 +1,12 @@
 import os,sys,re,json,wave,subprocess,difflib,zipfile,xml.etree.ElementTree as ET
 import argparse
 from graphics import overlays
+from image_quality import validate, QualityError
+from pathlib import Path
 import numpy as np
 import imageio_ffmpeg
 from vosk import Model,KaldiRecognizer,SetLogLevel
-root=os.path.dirname(os.path.abspath(__file__)); ff=imageio_ffmpeg.get_ffmpeg_exe(); SetLogLevel(-1); model=Model(root+'/vosk-tr')
+root=os.path.dirname(os.path.abspath(__file__)); ff=imageio_ffmpeg.get_ffmpeg_exe(); SetLogLevel(-1)
 r=ET.fromstring(zipfile.ZipFile('google_drive/Senryolar.ods').read('content.xml')); ns={'x':'urn:oasis:names:tc:opendocument:xmlns:text:1.0'}
 def norm(s): return re.sub(r'[^\w]','',s.lower().replace('ı','i'))
 def stamp(t):
@@ -14,10 +16,18 @@ parser.add_argument('videos', nargs='+', type=int)
 parser.add_argument('--music', default=root+'/assets/peaceful_days.mp3', help='Licensed music bed')
 parser.add_argument('--foley', help='Optional scene-appropriate licensed sound file')
 parser.add_argument('--foley-at', type=float, default=0, help='Foley start time in seconds')
+parser.add_argument('--review-dir', default=root+'/quality', help='Directory of reviewed VID-NNN.json manifests')
 args = parser.parse_args()
 if not os.path.isfile(args.music): parser.error('Music file not found')
 if args.foley and not os.path.isfile(args.foley): parser.error('Foley file not found')
 if args.foley_at < 0: parser.error('Foley start must be non-negative')
+for num in args.videos:
+ vid = f'VID-{num:03d}'
+ try:
+  validate(Path(args.review_dir)/f'{vid}.json', [Path(root)/'images'/f'{vid}-{i}.png' for i in range(1,5)])
+ except QualityError as exc:
+  parser.error(str(exc))
+model=Model(root+'/vosk-tr')
 for num in args.videos:
  id=f'VID-{num:03d}'; raw=next(''.join(p.itertext()) for p in r.findall('.//x:p',ns) if ''.join(p.itertext()).startswith(id+';')); text=raw.split(';',3)[3].split(';Vertical',1)[0]; words=re.findall(r'[\wÇĞİÖŞÜçğıöşü]+(?:[’\'][\w]+)?[.,!?]?',text)
  wav=f'{root}/audio/{id}-fast.wav'; subprocess.run([ff,'-y','-loglevel','error','-i',f'{root}/audio/{id}.wav','-filter:a','atempo=1.45','-ar','16000','-ac','1',wav],check=True)
