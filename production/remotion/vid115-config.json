@@ -1,0 +1,49 @@
+{
+  "frames": 357,
+  "hook": [
+    "DUŞ BAŞLIĞI",
+    "KİREÇLE Mİ TIKANDI?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-115-1.png"
+    },
+    {
+      "from": 186,
+      "file": "VID-115-2.png"
+    },
+    {
+      "from": 262,
+      "file": "VID-115-1.png"
+    },
+    {
+      "from": 311,
+      "file": "VID-115-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 295,
+  "clocks": [],
+  "events": [
+    {
+      "from": 194,
+      "to": 225,
+      "a": "SİRKE",
+      "b": "VE POŞET",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 295,
+      "to": 322,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-115-voice.wav"
+}

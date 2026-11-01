@@ -1,0 +1,298 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.553,
+    "words": [
+      "sakın",
+      "ekmek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.553,
+    "end": 0.944,
+    "words": [
+      "sakın",
+      "ekmek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.944,
+    "end": 1.359,
+    "words": [
+      "kutusunda",
+      "sakladığınız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.359,
+    "end": 1.773,
+    "words": [
+      "kutusunda",
+      "sakladığınız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.773,
+    "end": 2.19,
+    "words": [
+      "ekmeklerin",
+      "birkaç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.19,
+    "end": 2.558,
+    "words": [
+      "ekmeklerin",
+      "birkaç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.558,
+    "end": 2.85,
+    "words": [
+      "günde",
+      "yeşil"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.85,
+    "end": 3.12,
+    "words": [
+      "günde",
+      "yeşil"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.12,
+    "end": 3.39,
+    "words": [
+      "küf",
+      "tabakası"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.39,
+    "end": 3.72,
+    "words": [
+      "küf",
+      "tabakası"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.72,
+    "end": 4.162,
+    "words": [
+      "oluşturarak",
+      "bozulmasına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.162,
+    "end": 4.65,
+    "words": [
+      "oluşturarak",
+      "bozulmasına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.65,
+    "end": 5.107,
+    "words": [
+      "seyirci",
+      "kalmayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.107,
+    "end": 5.617,
+    "words": [
+      "seyirci",
+      "kalmayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.617,
+    "end": 6.06,
+    "words": [
+      "Çünkü",
+      "ekmek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.06,
+    "end": 6.354,
+    "words": [
+      "Çünkü",
+      "ekmek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.354,
+    "end": 6.641,
+    "words": [
+      "arasına",
+      "defne"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.641,
+    "end": 6.947,
+    "words": [
+      "arasına",
+      "defne"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.947,
+    "end": 7.282,
+    "words": [
+      "yaprağı",
+      "koymak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.282,
+    "end": 7.695,
+    "words": [
+      "yaprağı",
+      "koymak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.695,
+    "end": 8.19,
+    "words": [
+      "önler.",
+      "Defne"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.19,
+    "end": 8.602,
+    "words": [
+      "önler.",
+      "Defne"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.602,
+    "end": 8.91,
+    "words": [
+      "yaprağı",
+      "ekleyin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.91,
+    "end": 9.241,
+    "words": [
+      "yaprağı",
+      "ekleyin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.241,
+    "end": 9.52,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.52,
+    "end": 9.751,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.751,
+    "end": 10.005,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.005,
+    "end": 10.305,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.305,
+    "end": 10.665,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.665,
+    "end": 10.957,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.957,
+    "end": 11.37,
+    "words": [
+      "unutma,",
+      "ekmekleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.37,
+    "end": 11.94,
+    "words": [
+      "unutma,",
+      "ekmekleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.94,
+    "end": 12.638,
+    "words": [
+      "saklarken."
+    ],
+    "active": 0
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.557,
+    "words": [
+      "sakın",
+      "banyo"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.557,
+    "end": 0.885,
+    "words": [
+      "sakın",
+      "banyo"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.885,
+    "end": 1.21,
+    "words": [
+      "duş",
+      "başlığının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.21,
+    "end": 1.572,
+    "words": [
+      "duş",
+      "başlığının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.572,
+    "end": 1.933,
+    "words": [
+      "delikleri",
+      "kireçten"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.933,
+    "end": 2.294,
+    "words": [
+      "delikleri",
+      "kireçten"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.294,
+    "end": 2.623,
+    "words": [
+      "tıkanıp",
+      "su"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.623,
+    "end": 2.92,
+    "words": [
+      "tıkanıp",
+      "su"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.92,
+    "end": 3.216,
+    "words": [
+      "fışkırtmaz",
+      "hale"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.216,
+    "end": 3.542,
+    "words": [
+      "fışkırtmaz",
+      "hale"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.542,
+    "end": 3.92,
+    "words": [
+      "geldiğinde",
+      "başlığı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.92,
+    "end": 4.32,
+    "words": [
+      "geldiğinde",
+      "başlığı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.32,
+    "end": 4.675,
+    "words": [
+      "söküp",
+      "yenisini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.675,
+    "end": 5.015,
+    "words": [
+      "söküp",
+      "yenisini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.015,
+    "end": 5.385,
+    "words": [
+      "almakla",
+      "uğraşmayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.385,
+    "end": 5.852,
+    "words": [
+      "almakla",
+      "uğraşmayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.852,
+    "end": 6.303,
+    "words": [
+      "Çünkü",
+      "poşette"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.303,
+    "end": 6.639,
+    "words": [
+      "Çünkü",
+      "poşette"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.639,
+    "end": 6.975,
+    "words": [
+      "sirke",
+      "bekletmek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.975,
+    "end": 7.311,
+    "words": [
+      "sirke",
+      "bekletmek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.311,
+    "end": 7.661,
+    "words": [
+      "çözer.",
+      "Poşete"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.661,
+    "end": 8.027,
+    "words": [
+      "çözer.",
+      "Poşete"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.027,
+    "end": 8.392,
+    "words": [
+      "sirke",
+      "bağlayın."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.392,
+    "end": 8.757,
+    "words": [
+      "sirke",
+      "bağlayın."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.757,
+    "end": 9.045,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.045,
+    "end": 9.289,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.289,
+    "end": 9.566,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.566,
+    "end": 9.855,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.855,
+    "end": 10.245,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.245,
+    "end": 10.614,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.614,
+    "end": 10.932,
+    "words": [
+      "unutma,",
+      "duş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.932,
+    "end": 11.307,
+    "words": [
+      "unutma,",
+      "duş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.307,
+    "end": 11.871,
+    "words": [
+      "başlığını."
+    ],
+    "active": 0
+  }
+]

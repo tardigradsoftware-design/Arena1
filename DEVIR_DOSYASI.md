@@ -259,3 +259,7 @@ VID-112: https://drive.google.com/file/d/1R3y3yzPYamz49UBVDrx7SuZRR_w7gDjo/view 
 ### VID-113–114
 VID-113: https://drive.google.com/file/d/1gl9T6NMyfVkvPq-2zIaR7IErWvCEICGv/view — 11,95 sn, 2.728.477 bayt, Vosk 22/30. Çiğ yumurta Salmonella riski taşır, temiz araç ve eller önemli; işlem birebir gösterilmedi.
 VID-114: https://drive.google.com/file/d/1N3YQdKIicx9G8g3oz_y9t564khXBJIWn/view — 10,28 sn, 2.010.645 bayt, Vosk 20/31. Çayın özgül etkisine kanıt sınırlı; sıcak poşet yanık yapabilir, poşet steril değil, tahriş/alerji riski; temiz serin bez tercih edilebilir. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi ve Vosk dışı altyazı tahmini. Sonraki 115–116.
+
+### VID-115–116
+VID-115: https://drive.google.com/file/d/15fYMUEWDjKcY4ynPU8RLu-e6uh6bsh1p/view — 11,90 sn, 2.017.213 bayt, Vosk 17/33. Sirke kaplamaları bozabilir, üretici talimatı izlenmeli; sirke/çamaşır suyu tehlikeli klor gazı oluşturur. Uygulama gösterilmedi.
+VID-116: https://drive.google.com/file/d/1aCqAe5rB3fJ6e9iY9Io8xDaQNnLnfBzh/view — 12,67 sn, 2.360.019 bayt, Vosk 26/33. Defne yaprağının küfü önlediğine güvenilir kanıt bulunmadı; küflü ekmek tamamen atılmalı, uyarısız yayımlamayın. İkisi FFmpeg decode, blackdetect ve örnek kare kontrolünden geçti; ses dinlenmedi ve Vosk dışı altyazı tahmini. Sonraki 117–118.
