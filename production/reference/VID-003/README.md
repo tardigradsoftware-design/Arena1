@@ -1,0 +1,3 @@
+# VID-003 — hazırlık, henüz tamamlanmadı
+
+Senaryo için bu oturumda önceden seçilen voice-01 ile tek parça TTS `VID-003-raw.wav`, `atempo=1.45` `VID-003-fast.wav`. `VID-003-2.png` birleşik yeşil çay-salatalık karışımı, `VID-003-3.png` tabaktaki buz, `VID-003-4.png` kısmi yüz; ayrı görsel incelemesi yapıldı ancak sahne sırası/kullanım eşleşmesi ve ciltle temas sahnesi yeniden değerlendirilmeli. Başlangıç 1. görsel neredeyse tam profil yüzü gösterdiği için reddedildi; arşive alınmadı. 4. görsel farklı bir kişi, gerekirse yeni görseller referansla tutarlı üretilmeli. Üç dosya henüz render onaylı SHA manifestine konmadı. Gözenek ve doğrudan buz uygulaması iddiaları doğrulanmamıştır; ciltte tahriş/soğuk yanığı riski değerlendirilmeli. Henüz render veya Drive teslimi yok.

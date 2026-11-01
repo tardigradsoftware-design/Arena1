@@ -1,0 +1,3 @@
+# VID-002 — V14 tarzı üretim planı
+
+Kaynak ODS senaryosu aynen tek parça `voice-01`, 1,45×. 23,571 sn; Vosk 37/72 kelimeyle tam eşleşti, kalan süreler interpolasyon; dinleyerek doğrulanmadı. Görseller yapay üretim ve dört SHA-bağlı manuel kontrolden geçti. Görseller 0–7,37 sn poşette solmuş yeşillik, 7,37–14,8 sn havlulu kap, 14,8–17,67 sn ters kap, 17,67 sn sonrası temsili taze yeşillikler. Bilgi grafiklerinde ışın, sonuçta parıltı, kaydet çağrısında özel ses; sahne geçişinde ses efekti yok. 3 hafta dayanacağı iddiası doğrulanmadı; sonuç görseli deneysel kanıt değildir. Seslerin 4'ü `production/remotion/scripts/` içindeki betiklerle oluşturulur.
