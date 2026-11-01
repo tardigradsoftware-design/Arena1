@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-045-1.png",
+      "sha256": "49e369c5ef5877e75f53c3174281cd3e01d5efd5cb6b17918aa2d5dc395ce07d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tırnak ve el temsili; anatomik beş parmak."
+    },
+    {
+      "file": "../../remotion/public/VID-045-2.png",
+      "sha256": "1e448963170b4bf0e94aead375f8f6b17c952e3867a8e7b8bbd63f6baae3a706",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Küçük kapta yağ ve limon karışımı temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-045-3.png",
+      "sha256": "8e636879abecdaccb9e8cf55bda17a80ecd0b5e8e60a2e4c71611b410c814527",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Karışım kâsesi ve destekli çubuk; uygulama canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-045-4.png",
+      "sha256": "4af3bc28d4e7b93ce485d081bf453b5ce2406ce3becca837b1d261df634ae360",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temsili bakımlı el; önceki elle aynı kişi olduğu iddia edilmez."
+    }
+  ]
+}

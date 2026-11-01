@@ -1,0 +1,81 @@
+{
+  "frames": 625,
+  "hook": [
+    "ÜTÜ DELİKLERİ",
+    "KİREÇLENMESİN!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-046-1.png"
+    },
+    {
+      "from": 225,
+      "file": "VID-046-2.png"
+    },
+    {
+      "from": 280,
+      "file": "VID-046-3.png"
+    },
+    {
+      "from": 454,
+      "file": "VID-046-4.png"
+    }
+  ],
+  "result": 495,
+  "save": 563,
+  "clocks": [
+    {
+      "from": 489,
+      "to": 520
+    }
+  ],
+  "events": [
+    {
+      "from": 242,
+      "to": 276,
+      "a": "BEYAZ SİRKE",
+      "b": "PAMUKLU ÇUBUK",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 304,
+      "to": 346,
+      "a": "SOĞUK TABAN",
+      "b": "BUHAR DELİKLERİ",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "iron"
+    },
+    {
+      "from": 398,
+      "to": 440,
+      "a": "SİRKE",
+      "b": "HAZNE VE BUHAR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "iron"
+    },
+    {
+      "from": 489,
+      "to": 520,
+      "a": "SANİYELER",
+      "b": "İÇİNDE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 563,
+      "to": 592,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-046-voice.wav"
+}

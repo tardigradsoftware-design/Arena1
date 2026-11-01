@@ -1,0 +1,550 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.537,
+    "words": [
+      "sakın",
+      "ütünün"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.537,
+    "end": 0.895,
+    "words": [
+      "sakın",
+      "ütünün"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.895,
+    "end": 1.252,
+    "words": [
+      "buhar",
+      "deliklerinin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.252,
+    "end": 1.61,
+    "words": [
+      "buhar",
+      "deliklerinin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.61,
+    "end": 1.968,
+    "words": [
+      "kireçten",
+      "tıkanıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.968,
+    "end": 2.326,
+    "words": [
+      "kireçten",
+      "tıkanıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.326,
+    "end": 2.661,
+    "words": [
+      "kıyafetlerine",
+      "sarı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.661,
+    "end": 2.972,
+    "words": [
+      "kıyafetlerine",
+      "sarı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.972,
+    "end": 3.283,
+    "words": [
+      "leke",
+      "akıtmasına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.283,
+    "end": 3.594,
+    "words": [
+      "leke",
+      "akıtmasına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.594,
+    "end": 3.87,
+    "words": [
+      "izin",
+      "verme!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.87,
+    "end": 4.207,
+    "words": [
+      "izin",
+      "verme!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.207,
+    "end": 4.605,
+    "words": [
+      "Çünkü",
+      "ütünün"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.605,
+    "end": 4.965,
+    "words": [
+      "Çünkü",
+      "ütünün"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.965,
+    "end": 5.362,
+    "words": [
+      "performansını",
+      "ilk"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.362,
+    "end": 5.692,
+    "words": [
+      "performansını",
+      "ilk"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.692,
+    "end": 5.91,
+    "words": [
+      "günkü",
+      "gücüne"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.91,
+    "end": 6.173,
+    "words": [
+      "günkü",
+      "gücüne"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.173,
+    "end": 6.495,
+    "words": [
+      "getirmek",
+      "çok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.495,
+    "end": 6.803,
+    "words": [
+      "getirmek",
+      "çok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.803,
+    "end": 7.185,
+    "words": [
+      "basit.",
+      "Bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.185,
+    "end": 7.508,
+    "words": [
+      "basit.",
+      "Bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.508,
+    "end": 7.725,
+    "words": [
+      "kulak",
+      "çöpünü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.725,
+    "end": 7.995,
+    "words": [
+      "kulak",
+      "çöpünü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.995,
+    "end": 8.258,
+    "words": [
+      "saf",
+      "beyaz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.258,
+    "end": 8.531,
+    "words": [
+      "saf",
+      "beyaz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.531,
+    "end": 8.824,
+    "words": [
+      "sirkeye",
+      "batırıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.824,
+    "end": 9.152,
+    "words": [
+      "sirkeye",
+      "batırıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.152,
+    "end": 9.516,
+    "words": [
+      "ütünün",
+      "soğuk"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.516,
+    "end": 9.879,
+    "words": [
+      "ütünün",
+      "soğuk"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.879,
+    "end": 10.243,
+    "words": [
+      "tabanındaki",
+      "tüm"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.243,
+    "end": 10.573,
+    "words": [
+      "tabanındaki",
+      "tüm"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.573,
+    "end": 10.869,
+    "words": [
+      "buhar",
+      "deliklerinin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.869,
+    "end": 11.166,
+    "words": [
+      "buhar",
+      "deliklerinin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.166,
+    "end": 11.462,
+    "words": [
+      "içini",
+      "tek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.462,
+    "end": 11.767,
+    "words": [
+      "içini",
+      "tek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.767,
+    "end": 12.082,
+    "words": [
+      "tek",
+      "sil,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.082,
+    "end": 12.398,
+    "words": [
+      "tek",
+      "sil,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.398,
+    "end": 12.74,
+    "words": [
+      "ardından",
+      "haznesine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.74,
+    "end": 13.11,
+    "words": [
+      "ardından",
+      "haznesine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.11,
+    "end": 13.48,
+    "words": [
+      "sirke",
+      "doldurup"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.48,
+    "end": 13.862,
+    "words": [
+      "sirke",
+      "doldurup"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.862,
+    "end": 14.256,
+    "words": [
+      "buhar",
+      "vererek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.256,
+    "end": 14.649,
+    "words": [
+      "buhar",
+      "vererek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.649,
+    "end": 15.043,
+    "words": [
+      "çalıştır.",
+      "Biriken"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.043,
+    "end": 15.398,
+    "words": [
+      "çalıştır.",
+      "Biriken"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.398,
+    "end": 15.694,
+    "words": [
+      "tüm",
+      "kireç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.694,
+    "end": 15.971,
+    "words": [
+      "tüm",
+      "kireç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.971,
+    "end": 16.316,
+    "words": [
+      "parçaları",
+      "saniyeler"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.316,
+    "end": 16.729,
+    "words": [
+      "parçaları",
+      "saniyeler"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.729,
+    "end": 17.122,
+    "words": [
+      "içinde",
+      "dökülecektir."
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.122,
+    "end": 17.588,
+    "words": [
+      "içinde",
+      "dökülecektir."
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.588,
+    "end": 17.955,
+    "words": [
+      "Bu",
+      "bakım"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.955,
+    "end": 18.188,
+    "words": [
+      "Bu",
+      "bakım"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.188,
+    "end": 18.48,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.48,
+    "end": 18.78,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.78,
+    "end": 19.14,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.14,
+    "end": 19.47,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.47,
+    "end": 19.797,
+    "words": [
+      "unutma,",
+      "kireçlenen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.797,
+    "end": 20.209,
+    "words": [
+      "unutma,",
+      "kireçlenen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.209,
+    "end": 20.829,
+    "words": [
+      "ütünü."
+    ],
+    "active": 0
+  }
+]
