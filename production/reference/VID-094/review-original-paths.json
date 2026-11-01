@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-094-1.png",
+      "sha256": "279d599e928c1b7be0b4c581bbefdd19d9f340170f6d0d6a86cde62993e51187",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Su izli seramik karo."
+    },
+    {
+      "file": "../../remotion/public/VID-094-2.png",
+      "sha256": "238b301652c6fc81df5ad95a5e35899df0ceb15eb27911c2de5d73b0c90b10e9",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı şişe, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-094-3.png",
+      "sha256": "3775b957a6e6386995a79bec40a562915dfa5f3cc83d7ca0c89ac2651aaa2e75",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Banyo karosu ve temizlik bezi."
+    }
+  ]
+}

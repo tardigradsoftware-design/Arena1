@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-093-1.png",
+      "sha256": "25c4fc173f93581ee00cfa0634e8ddb4360914409af292c1eae59445b50fa148",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi saç görünümü."
+    },
+    {
+      "file": "../../remotion/public/VID-093-2.png",
+      "sha256": "e81bb2b466534ce1d0f050750aacf32403773a5af59531705221fe6ebba5e095",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı yağ şişesi ve argan yemişi."
+    }
+  ]
+}

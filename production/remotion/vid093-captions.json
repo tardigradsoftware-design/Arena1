@@ -1,0 +1,298 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.616,
+    "words": [
+      "sakın",
+      "kırılan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.616,
+    "end": 0.943,
+    "words": [
+      "sakın",
+      "kırılan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.943,
+    "end": 1.208,
+    "words": [
+      "ve",
+      "matlaşan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.208,
+    "end": 1.493,
+    "words": [
+      "ve",
+      "matlaşan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.493,
+    "end": 1.777,
+    "words": [
+      "saç",
+      "uçlarınız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.777,
+    "end": 2.062,
+    "words": [
+      "saç",
+      "uçlarınız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.062,
+    "end": 2.333,
+    "words": [
+      "için",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.333,
+    "end": 2.614,
+    "words": [
+      "için",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.614,
+    "end": 2.921,
+    "words": [
+      "kuaföre",
+      "koşup"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.921,
+    "end": 3.285,
+    "words": [
+      "kuaföre",
+      "koşup"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.285,
+    "end": 3.705,
+    "words": [
+      "saçınızı",
+      "kestirmeyin!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.705,
+    "end": 4.125,
+    "words": [
+      "saçınızı",
+      "kestirmeyin!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.125,
+    "end": 4.485,
+    "words": [
+      "Çünkü",
+      "birkaç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.485,
+    "end": 4.777,
+    "words": [
+      "Çünkü",
+      "birkaç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.777,
+    "end": 5.072,
+    "words": [
+      "damla",
+      "argan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.072,
+    "end": 5.377,
+    "words": [
+      "damla",
+      "argan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.377,
+    "end": 5.683,
+    "words": [
+      "yağı",
+      "anında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.683,
+    "end": 6.02,
+    "words": [
+      "yağı",
+      "anında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.02,
+    "end": 6.389,
+    "words": [
+      "onarır.",
+      "Uçlara"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.389,
+    "end": 6.759,
+    "words": [
+      "onarır.",
+      "Uçlara"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.759,
+    "end": 7.128,
+    "words": [
+      "argan",
+      "yağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.128,
+    "end": 7.498,
+    "words": [
+      "argan",
+      "yağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.498,
+    "end": 7.867,
+    "words": [
+      "sürün.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.867,
+    "end": 8.172,
+    "words": [
+      "sürün.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.172,
+    "end": 8.458,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.458,
+    "end": 8.797,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.797,
+    "end": 9.225,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.225,
+    "end": 9.607,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.607,
+    "end": 9.907,
+    "words": [
+      "unutma,",
+      "saç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.907,
+    "end": 10.252,
+    "words": [
+      "unutma,",
+      "saç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.252,
+    "end": 10.598,
+    "words": [
+      "uçlarını",
+      "korumak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.598,
+    "end": 10.912,
+    "words": [
+      "uçlarını",
+      "korumak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.912,
+    "end": 11.382,
+    "words": [
+      "için."
+    ],
+    "active": 0
+  }
+]
