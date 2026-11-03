@@ -17,3 +17,4 @@
 - Etkileşim düğmeleri toplu göründükten sonra hızlı şekilde basılmalı; kapanışta senaryoya uygun doğal sesli yorum, kaydetme veya abonelik teşviki olmalı. Kullanıcının seçtiği ses korunmalı; yeniden üretim erişilemiyorsa bu sınırlama gizlenmemeli.
 - Etkileşim düğmeleri kısa süre görünüp hızlıca kaybolmalı; döngüde uzun süre ekranda kalıp rahatsız etmemeli. Her test için ayrı MD raporu veya Drive raporu oluşturma; önemli sınırlamaları kısa mesajla bildir.
 - Video daha hareketli, enerjik ve tempolu olmalı; sahneye uygun, dikkat tutan hareketler ekle. Etkileşim düğmeleri ve efektleri en fazla iki saniye sürsün; biter bitmez video da bitsin, birkaç saniye daha devam etmesin.
+- Senaryoya uygun onaylanmış tüm grafik, ses ve doğru işaretleme kuralları için `.claude/skills/remotion-senaryo-animasyon/SKILL.md` skill'ini uygula; doğrulanamayan hedefe ok veya çember yerleştirme.
