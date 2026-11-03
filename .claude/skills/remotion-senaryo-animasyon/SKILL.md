@@ -5,7 +5,7 @@ description: Kadınca Yaşam kısa videolarında senaryoya uygun Remotion animas
 
 # Senaryoya uygun Remotion animasyonu
 
-Önce `production/yeni-senaryolar/TERCIHLER.md` ve ilgili senaryoyu oku. Kullanıcının en güncel talimatı önce gelir; özgün metni izinsiz değiştirme. Yanlış veya tehlikeli iddiayı ayrı bildir, animasyonla doğrulanmış gibi gösterme. İnsan yüzü kullanma. Video başına en az dört sahneye uygun görsel, 1080×1920, gerçek Remotion, onaylı V14 altyazı; ses hızı varsayılan 1,55×. Kullanıcı prompt vermese de sahne planını kendin üret.
+Önce `production/yeni-senaryolar/TERCIHLER.md`, bu skill yanındaki `motion-kutuphanesi.md` kataloğunu ve ilgili senaryoyu oku. Kullanıcının en güncel talimatı önce gelir; özgün metni izinsiz değiştirme. Yanlış veya tehlikeli iddiayı ayrı bildir, animasyonla doğrulanmış gibi gösterme. İnsan yüzü kullanma. Video başına en az dört sahneye uygun görsel, 1080×1920, gerçek Remotion, onaylı V14 altyazı; ses hızı varsayılan 1,55×. Kullanıcı prompt vermese de sahne planını kendin üret.
 
 ## Akış
 1. Metni anlamlı cümlelere böl. Her cümle için görsel, önemli nesne, yaklaşık ses zamanı, animasyon ve efekt planla. Bütün animasyonları her videoya yığma: sadece anlatılan olaya, nesneye ve kelimeye uygun olanları seç. İşlem, sonuç, süre veya tehlike uydurma.
