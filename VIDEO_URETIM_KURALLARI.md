@@ -1,5 +1,7 @@
 # Video üretim hafızası — her yeni oturumda önce oku
 
+> **Güncel yönetmenlik talimatı (2026-11-03):** [Sinematik Kısa Video Yönetmenliği](SINEMATIK_KISA_VIDEO_YONETMENLIGI.md) bu belgedeki önceki format ve geçiş sesi tercihlerine göre önceliklidir. 1080×1920 varsayılandır; bağlama uygun geçiş seslerine izin vardır. Yanıltıcı iddialardan kaçın ve uygulama/kontrol sınırlarını açıkla.
+
 Son güncelleme: 2026-11-01. Görsel üretim ve kalite kapısı ayrıntıları: [GORSEL_KALITE_KURALLARI.md](GORSEL_KALITE_KURALLARI.md). Bu belge kullanıcı talimatlarını, beğenilen/geri çevrilen örnekleri ve teknik sınırlamaları kaydeder; bağımsız bir kalite garantisi veya kullanıcının yerine verilmiş onay değildir. Yeni açık kullanıcı talimatı bu belgedeki eski tercihle çelişirse yenisi geçerlidir. Kullanıcı Türkçe ve kısa yanıt ister.
 
 ## 1. İşin kapsamı ve kaynak
