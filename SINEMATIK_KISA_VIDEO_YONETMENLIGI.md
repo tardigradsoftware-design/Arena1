@@ -2,11 +2,13 @@
 
 Bu belge 3 Kasım 2026 kullanıcı talimatıdır. Önceki teknik/stil belgeleriyle çelişen noktalarda bu belge önceliklidir. Mevcut videolar değiştirilmez. Ayrı test klasörü: https://drive.google.com/drive/folders/1XQCWe2fIbBB6TyOiOCs3ck3ECRnOQXtZ .
 
+> **Son tercih, 3 Kasım 2026:** Kullanıcı yanlışlık olduğunda senaryonun strateji ve doğruluk açısından geliştirilmesine izin verdi. Önceki yalnız VID-004/013 için düzenleme izni ve değişiklik öncesi tekrar anlaşma notu bu konuda geçerli değildir. Düzeltmeleri kaydet ve teslimde açıkla; riskli/kanıtsız iddiaları doğrulanmış gibi sunma. Kullanıcı gerçek video yerine görsel ve FFmpeg temelli üretim, çok dinamik ama anlaşılır kurgu istiyor. Araştırma ve deney planı: `yayin/strateji-raporu/rapor.md`.
+
 ## Amaç ve içerik
 
 - Fotoğraf, görsel, metin, animasyon ve sesi Remotion/FFmpeg ile sahneye özgü yaşayan sinematik anlatıya dönüştür. İlk 1–2 saniyede konuya bağlı çarpıcı, dürüst kanca ve erken bilgi ödülü; gereksiz gecikme ve tekrar yok. Mobil izlenebilirlik, yorum ve paylaşım potansiyelini hedefle; viral performans garantisi verme.
 - Her senaryo için özgün sahne sırası, süre, kamera, palet, müzik, efekt ve animasyon planı yap. Her karede gereksiz hareket veya aynı hareketi tekrarlama. Anlatım–görüntü uyumu, görsel gerçekçilik ve mevcut video üretim kurallarındaki kullanıcı tercihleri korunur.
-- Clickbait, yanıltıcı bilgi, sahte iddia ve doğrulanmamış sonuçları olgu gibi kullanma. Kaynak senaryoda bunlar varsa sessizce değiştirme, kısa ve net bildir; gerekli hallerde düzeltilmiş metin üzerinde anlaşmadan yayıma hazır bir son ürün gibi sunma. Önceden verilen VID-004 ve VID-013 değişiklik izinleri diğer senaryoları kapsamaz.
+- Clickbait, yanıltıcı bilgi, sahte iddia ve doğrulanmamış sonuçları olgu gibi kullanma. Kaynak senaryoda bunlar varsa doğruluk ve güvenlik için düzelt; değişiklikleri kısa ve net bildir. Yeterli güvenilir kaynak yoksa kesin iddiayı çıkar ve gerekirse konuyu daha güvenli bilgiye dönüştür.
 - Kapanışta kullanıcı isteği kapsamında uygun beğeni, takip, paylaşım ve doğal yorum daveti eklenebilir; senaryoya ait ana bilgi ile yeni CTA'yı ayrı tut. İzleyiciye uygulanması riskli tavsiyeyi sadece açıklamada uyararak güvenli hale getirmiş sayma.
 
 ## Sahne ve grafik dili
