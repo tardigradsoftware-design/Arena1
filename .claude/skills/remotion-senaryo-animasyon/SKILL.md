@@ -11,7 +11,7 @@ description: Kadınca Yaşam kısa videolarında senaryoya uygun Remotion animas
 - Tüm anlatımı, onaylanmış iki eylemli kapanış dâhil, seçilen sesle tek seferde bir bütün olarak üret. Ayrı sesli çağrı üretip sonradan ekleme veya anlatım parçalarını birleştirme. Kullanıcının özgün metin ve onay sınırlarına uy; gerekirse önce izin al. Müzik/SFX ayrıca mikslenebilir.
 - Vurgulanacak doğru noktalar görselde gerçekten doğrulandığında kırmızı, hafif düzensiz görünmez kalemle göster ve kamera hareketiyle aynı dönüşümü uygula. Doğrulanamayan noktaları çizme; eksikliği bildir.
 - Uygun sahnelerde daha fazla anlamlı Remotion SVG animasyonu kullan; ana eylem ve altyazıyı kapatma. Her video için konuya uygun farklı, özgün bir giriş sesi sentezle; ses anlatımı bastırmasın. Sahne, anlatım, ses ve çizgiler tutarlı olsun.
-- Kapanış tarzı son testten sonra henüz onaylanmadı. Bu kurallar aşağıdaki eski örneklerin üzerinde önceliklidir.
+- Sesli kapanış çağrısı sırasında altyazı gösterme; uygun çağrı düğmeleri/grafikleri kalabilir. Kapanış tarzı son testten sonra henüz onaylanmadı. Bu kurallar aşağıdaki eski örneklerin üzerinde önceliklidir.
 
 ## Akış
 1. Metni anlamlı cümlelere böl. Her cümle için görsel, önemli nesne, yaklaşık ses zamanı, animasyon ve efekt planla. Bütün animasyonları her videoya yığma: sadece anlatılan olaya, nesneye ve kelimeye uygun olanları seç. İşlem, sonuç, süre veya tehlike uydurma.
