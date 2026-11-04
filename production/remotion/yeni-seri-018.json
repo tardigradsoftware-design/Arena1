@@ -1,0 +1,71 @@
+{
+  "caption": "En besleyici yemekleri yemenize rağmen sürekli üşüyor, halsiz kalıyor ve saçlarınız dökülüyorsa yemekten hemen sonra çay içmeyi bırakın! Çayın içindeki tanen maddesi, yediğiniz yemekten vücudunuza geçecek olan demiri midede bağlayarak yüzde yetmiş oranında yok eder. Çayınızı yemekten en az kırk beş dakika sonra ve limonla için.",
+  "ctaStart": 461,
+  "hook": [
+    "YEMEKTEN SONRA",
+    "ÇAY İÇMEK?"
+  ],
+  "openIcon": "cup",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 150,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 370,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 461,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 80,
+      "to": 125,
+      "a": "YEMEK VE",
+      "b": "ÇAY",
+      "icon": "cup",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 190,
+      "to": 245,
+      "a": "ÇAYDAKİ",
+      "b": "TANEN",
+      "icon": "cup",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 380,
+      "to": 430,
+      "a": "45 DAKİKA",
+      "b": "BEKLE",
+      "icon": "clock",
+      "side": "left",
+      "y": 350
+    }
+  ],
+  "frames": 615,
+  "captionEnd": 15.366666666666667,
+  "id": "018",
+  "dir": "yeniseri018",
+  "ctaHeading": "SONRA LAZIM OLABİLİR",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ]
+}

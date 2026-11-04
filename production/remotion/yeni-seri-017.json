@@ -1,0 +1,82 @@
+{
+  "caption": "Karşınızdaki insanın yüzünüze gülümserken aslında o ortamdan kaçmak istediğini veya sizinle gerçekten ilgilenip ilgilenmediğini anlamak için ayak uçlarına bakın! İnsanlar yüz ifadelerini kontrol edebilir ama beden dili yalan söylemez. Gövdesi size dönük olduğu halde ayak uçları kapıya bakıyorsa zihni orada değildir.",
+  "ctaStart": 438,
+  "cta2Start": 526,
+  "hook": [
+    "AYAK UÇLARI",
+    "NE ANLATIR?"
+  ],
+  "openIcon": "foot",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 145,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 220,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 438,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 90,
+      "to": 130,
+      "a": "SOHBETTE",
+      "b": "DİKKAT",
+      "icon": "talk",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 155,
+      "to": 205,
+      "a": "AYAK UÇLARI",
+      "b": "BEDEN DİLİ",
+      "icon": "foot",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 280,
+      "to": 330,
+      "a": "AYAK YÖNÜ",
+      "b": "VE DURUŞ",
+      "icon": "question",
+      "side": "right",
+      "y": 350
+    }
+  ],
+  "frames": 590,
+  "captionEnd": 14.6,
+  "id": "017",
+  "dir": "yeniseri017",
+  "ctaHeading": "SONRA LAZIM OLABİLİR",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ]
+}
