@@ -1,0 +1,95 @@
+{
+  "caption": "Duşakabin camlarında biriken o mat beyaz kireç ve sabun kalıntılarını çıkarmak için her hafta fırçayla kollarınızı yormayın! Süngerin üzerine bir tatlı kaşığı bulaşık makinesi parlatıcısı ve birkaç damla bulaşık deterjanı döküp camı silin, ardından suyla durulayın. Parlatıcı camda su kaydırıcı bir kalkan oluşturur.",
+  "ctaStart": 382,
+  "cta2Start": 508,
+  "hook": [
+    "DUŞ CAMINDAKİ",
+    "SU LEKELERİ?"
+  ],
+  "openIcon": "drop",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 150,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 218,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 285,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 382,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 75,
+      "to": 125,
+      "a": "CAMDAKİ",
+      "b": "SU LEKELERİ",
+      "icon": "drop",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 160,
+      "to": 205,
+      "a": "PARLATICI",
+      "b": "VE DETERJAN",
+      "icon": "bottle",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 225,
+      "to": 265,
+      "a": "CAMI SİL",
+      "b": "SUYLA DURULA",
+      "icon": "wipe",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 305,
+      "to": 350,
+      "a": "DURULAMA",
+      "b": "SU AKIŞI",
+      "icon": "drop",
+      "side": "left",
+      "y": 350
+    }
+  ],
+  "frames": 572,
+  "captionEnd": 12.733333333333333,
+  "id": "015",
+  "dir": "yeniseri015",
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "KAYDET",
+      "save"
+    ]
+  ]
+}
