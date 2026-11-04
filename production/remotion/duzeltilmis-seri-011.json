@@ -1,0 +1,79 @@
+{
+  "caption": "Gece yalnız başınıza bir taksiye binerken kapıyı kapatmadan önce hayatınızı kurtaracak şu iki saniyelik hareketi mutlaka yapın! Oturmadan önce kapının iç kenarındaki küçük çocuk kilidi mandalının açık olduğundan emin olun; kilitliyse içeriden kapıyı asla açamazsınız. Oturduğunuz an bir yakınınızı arayıp Plakayı attım, canlı konumumu izle deyin.",
+  "ctaStart": 460,
+  "hook": [
+    "TAKSİYE BİNMEDEN",
+    "NEYE BAKMALI?"
+  ],
+  "openIcon": "door",
+  "shots": [
+    {
+      "from": 0,
+      "file": "duzeltilmis-1.png"
+    },
+    {
+      "from": 45,
+      "file": "duzeltilmis-2.png"
+    },
+    {
+      "from": 90,
+      "file": "duzeltilmis-1.png"
+    },
+    {
+      "from": 174,
+      "file": "duzeltilmis-2.png"
+    },
+    {
+      "from": 333,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 460,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 70,
+      "to": 124,
+      "a": "KAPIYI",
+      "b": "KONTROL ET",
+      "icon": "door",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 189,
+      "to": 253,
+      "a": "ÇOCUK KİLİDİ",
+      "b": "ARAÇ KAPISI",
+      "icon": "lock",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 343,
+      "to": 407,
+      "a": "PLAKA VE",
+      "b": "CANLI KONUM",
+      "icon": "pin",
+      "side": "right",
+      "y": 350
+    }
+  ],
+  "frames": 536,
+  "captionEnd": 15.34,
+  "id": "011",
+  "dir": "yeniseri011",
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ]
+}

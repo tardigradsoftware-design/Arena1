@@ -1,0 +1,88 @@
+{
+  "caption": "Sabahları yataktan kazınarak kalkıyor ve gün boyu tatlı krizleriyle savaşıyorsanız aç karnına yaptığınız su hatasını düzeltin! Gece düşen kan şekerinizi dengelemek için bir bardak ılık suya yarım çay kaşığı toz tarçın ve üç damla limon sıkıp içerek güne başlayın. Tarçın insülin dalgalanmasını durdurur ve ödemi hızla atar.",
+  "ctaStart": 430,
+  "hook": [
+    "SABAH RUTİNİ",
+    "TARÇINLI SU?"
+  ],
+  "openIcon": "glass",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 158,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 282,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 430,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 87,
+      "to": 131,
+      "a": "ILIK SU",
+      "b": "BİR BARDAK",
+      "icon": "glass",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 173,
+      "to": 227,
+      "a": "YARIM KAŞIK",
+      "b": "TOZ TARÇIN",
+      "icon": "spoon",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 242,
+      "to": 292,
+      "a": "ÜÇ DAMLA",
+      "b": "LİMON",
+      "icon": "drop",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 336,
+      "to": 390,
+      "a": "TARÇINLI",
+      "b": "KARIŞIM",
+      "icon": "glass",
+      "side": "left",
+      "y": 350
+    }
+  ],
+  "frames": 514,
+  "captionEnd": 14.33,
+  "id": "008",
+  "dir": "yeniseri008",
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ]
+}

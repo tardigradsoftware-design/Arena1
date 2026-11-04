@@ -1,0 +1,91 @@
+{
+  "caption": "Karşınızdaki insanın size yalan söylediğini saniyeler içinde anlamak istiyorsanız anlattığı hikayeyi tersten sormayı deneyin! Yalan söyleyen kişi hikayeyi kronolojik ezberler; Peki ondan hemen önce ne olmuştu? dediğinizde duraksar ve göz kırpma hızı iki katına çıkar.",
+  "ctaStart": 370,
+  "cta2Start": 523,
+  "hook": [
+    "BİR HİKAYEYİ",
+    "TERSTEN SORARSAN?"
+  ],
+  "openIcon": "question",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 107,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 256,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 370,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 69,
+      "to": 123,
+      "a": "HİKAYEYİ",
+      "b": "TERSTEN SOR",
+      "icon": "question",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 203,
+      "to": 264,
+      "a": "ONDAN ÖNCE",
+      "b": "NE OLMUŞTU?",
+      "icon": "talk",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 288,
+      "to": 352,
+      "a": "GÖZ KIRPMA",
+      "b": "VE DURAKSAMA",
+      "icon": "question",
+      "side": "right",
+      "y": 350
+    }
+  ],
+  "frames": 599,
+  "captionEnd": 12.35,
+  "id": "007",
+  "dir": "yeniseri007",
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN"
+}

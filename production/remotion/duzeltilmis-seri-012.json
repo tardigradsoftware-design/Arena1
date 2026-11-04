@@ -1,0 +1,91 @@
+{
+  "caption": "Biri kendi hatasını örtbas etmek için Sen çok alıngansın, her şeyi büyütüyorsun diyerek sizi suçlu hissettirmeye çalışıyorsa bu tuzağa düşmeyin! Tartışmaya girmek yerine sakince Benim tepkimi tartışmak yerine senin yaptığın davranışı konuşmaya geri dönelim deyin. Odağı tekrar onun hatasına çevirdiğiniz an manipülasyonu çöker.",
+  "ctaStart": 442,
+  "cta2Start": 540,
+  "hook": [
+    "ÇOK ALINGANSIN",
+    "DİYENE NE DEMELİ?"
+  ],
+  "openIcon": "talk",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 169,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 272,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 442,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 87,
+      "to": 142,
+      "a": "KONUŞMAYI",
+      "b": "DİNLE",
+      "icon": "talk",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 180,
+      "to": 256,
+      "a": "SAKİNCE",
+      "b": "İFADE ET",
+      "icon": "talk",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 294,
+      "to": 359,
+      "a": "DAVRANIŞA",
+      "b": "GERİ DÖN",
+      "icon": "question",
+      "side": "right",
+      "y": 350
+    }
+  ],
+  "frames": 623,
+  "captionEnd": 14.72,
+  "id": "012",
+  "dir": "yeniseri012",
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN"
+}

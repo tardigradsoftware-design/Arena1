@@ -1,0 +1,88 @@
+{
+  "caption": "Yıkadığınız çamaşırların makineden çıktığında kokmamasının sebebi yumuşatıcının durulama suyunda akıp gitmesidir! Kıyafetlerinizin aylarca lüks bir parfüm gibi kokması için küçük bir kavanoza bir bardak çiğ pirinç koyun, üzerine yirmi damla lavanta veya sabun esansı damlatıp ağzına tülbent bağlayarak gardırobunuza yerleştirin.",
+  "ctaStart": 418,
+  "hook": [
+    "GARDIROBUN İÇİN",
+    "PİRİNÇ KAVANOZU?"
+  ],
+  "openIcon": "jar",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 154,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 261,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 418,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 77,
+      "to": 133,
+      "a": "KÜÇÜK KAVANOZ",
+      "b": "ÇİĞ PİRİNÇ",
+      "icon": "jar",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 190,
+      "to": 246,
+      "a": "YİRMİ DAMLA",
+      "b": "ESANS",
+      "icon": "drop",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 277,
+      "to": 338,
+      "a": "TÜLBENTLE",
+      "b": "BAĞLA",
+      "icon": "jar",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 353,
+      "to": 405,
+      "a": "GARDIROBA",
+      "b": "YERLEŞTİR",
+      "icon": "wardrobe",
+      "side": "left",
+      "y": 350
+    }
+  ],
+  "frames": 493,
+  "captionEnd": 13.92,
+  "id": "010",
+  "dir": "yeniseri010",
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ]
+}
