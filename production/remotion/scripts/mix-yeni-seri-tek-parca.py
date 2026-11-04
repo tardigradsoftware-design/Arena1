@@ -26,6 +26,7 @@ for event in c['events']:
  add('sfx-isin.wav',event['from'],.38)
  if event['icon']=='clock':
   for frame in range(event['from'],event['to'],4): add('sfx-fast-tick.wav',frame,.14)
+if id == '026': add('sfx-isin.wav', 240, .38)
 for frame in (c['ctaStart'], c['ctaStart']+4): add('sfx-kaydet.wav',frame,.22)
 with tempfile.TemporaryDirectory() as tmp:
  wav=Path(tmp)/'effects.wav'
