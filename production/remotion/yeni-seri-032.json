@@ -1,0 +1,86 @@
+{
+  "caption": "Birinin ricasını reddettiğinizde arkasından beş dakika boyunca mazeret uydurup kendinizi açıklamaya çalışıyorsanız, karşı tarafa sizi ikna etmesi için açık kapı bırakıyorsunuz demektir! Psikolojide fazla açıklama yapmak suçluluk belirtisidir. İstemediğiniz bir şeye sınır koyarken mazeret bildirmeyin; sadece gülümseyerek maalesef bu plan bana uymuyor ama sorman çok incelikliydi deyin.",
+  "hook": [
+    "HAYIR DERKEN",
+    "ZORLANIYOR MUSUN?"
+  ],
+  "openIcon": "talk",
+  "id": "032",
+  "dir": "yeniseri032",
+  "frames": 682,
+  "captionEnd": 17.2,
+  "ctaStart": 516,
+  "cta2Start": 603,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 215,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 305,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 410,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 155,
+      "a": "AÇIKLAMA",
+      "b": "YAPMAK",
+      "icon": "talk",
+      "side": "right",
+      "y": 340
+    },
+    {
+      "from": 305,
+      "to": 355,
+      "a": "SINIR",
+      "b": "KOYMAK",
+      "icon": "hand",
+      "side": "left",
+      "y": 340
+    }
+  ]
+}

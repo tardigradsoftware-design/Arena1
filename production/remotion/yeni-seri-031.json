@@ -1,0 +1,86 @@
+{
+  "caption": "Otoparkta arabanıza bindiğinizde ön cam sileceğinizin altına sıkıştırılmış bir kağıt görürseniz sakın arabadan inip onu almaya çalışmayın! Bu, kötü niyetli kişilerin sizi çalışır vaziyetteki araçtan dışarı çekmek için kullandığı en tehlikeli tuzaktır. Arabaya biner binmez ilk saniyede merkezi kilidi kapatın ve kağıdı almadan doğrudan güvenli bir yere sürün.",
+  "hook": [
+    "SİLECEKTEKİ",
+    "KAĞIT NE?"
+  ],
+  "openIcon": "question",
+  "id": "031",
+  "dir": "yeniseri031",
+  "frames": 661,
+  "captionEnd": 16.4,
+  "ctaStart": 492,
+  "cta2Start": 588,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 115,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 220,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 345,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 445,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 500,
+      "file": "sahne-1.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 75,
+      "to": 125,
+      "a": "SİLECEKTE",
+      "b": "KAĞIT",
+      "icon": "question",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 345,
+      "to": 395,
+      "a": "ARAÇ",
+      "b": "KİLİDİ",
+      "icon": "lock",
+      "side": "right",
+      "y": 300
+    }
+  ]
+}
