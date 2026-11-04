@@ -1,0 +1,71 @@
+{
+  "caption": "Gece yatağa girdiğinizde beyninizdeki düşünceler susmuyor ve saatlerce uyuyamıyorsanız ayak tabanlarınızdaki sinir uçlarını kullanın! Ayak tabanlarımız doğrudan vagus sinirine bağlı refleksoloji noktalarına sahiptir. Yatmadan önce ayak altınıza üç damla saf lavanta yağı sürüp pamuklu bir çorap giyin. Yağ on dakikada kana karışarak stres hormonunu düşürecektir.",
+  "hook": [
+    "GECE UYKUSU",
+    "LAVANTA MI?"
+  ],
+  "openIcon": "foot",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 160,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 286,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 478,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 75,
+      "to": 120,
+      "a": "GECE",
+      "b": "UYKU",
+      "icon": "clock",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 178,
+      "to": 220,
+      "a": "AYAK",
+      "b": "TABANI",
+      "icon": "foot",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 300,
+      "to": 345,
+      "a": "LAVANTA",
+      "b": "YAĞI",
+      "icon": "drop",
+      "side": "right",
+      "y": 320
+    }
+  ],
+  "ctaStart": 478,
+  "frames": 540,
+  "ctaHeading": "SONRA LAZIM OLABİLİR",
+  "id": "028",
+  "dir": "yeniseri028",
+  "captionEnd": 15.933333333333334,
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ]
+}
