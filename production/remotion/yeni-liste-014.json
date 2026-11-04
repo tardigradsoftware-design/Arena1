@@ -1,0 +1,90 @@
+{
+  "caption": "Aniden misafiriniz geldiğinde soğuk içeceğiniz yoksa şişeyi buzluğa atıp saatlerce soğumasını beklemeyin! Oda sıcaklığındaki içecek şişesinin etrafına bir kat kağıt havlu sarın, kağıt havluyu suyla tamamen ıslatıp üzerine bir yemek kaşığı tuz serpin ve buzlukta sadece beş dakika bekletin. Tuz suyun donma noktasını düşürürken ıslak peçete şişenin ısısını saniyeler içinde emerek içeceğinizi buz gibi yapar.",
+  "hook": [
+    "İÇECEKLER",
+    "NASIL SOĞUR?"
+  ],
+  "openIcon": "bottle",
+  "highlight": {
+    "file": "sahne-2.png",
+    "from": 140,
+    "to": 200,
+    "path": "M235 510 C238 495 292 489 374 490 C463 491 515 493 522 515 L528 1145 C520 1185 480 1202 394 1205 C310 1208 259 1190 253 1159 Z"
+  },
+  "id": "014",
+  "dir": "yeniliste014",
+  "frames": 606,
+  "captionEnd": 17.33,
+  "ctaStart": 520,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 220,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 300,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 390,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 510,
+      "file": "sahne-1.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "KAĞIT",
+      "b": "HAVLU",
+      "icon": "wipe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 230,
+      "to": 275,
+      "a": "SU VE",
+      "b": "TUZ",
+      "icon": "drop",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 325,
+      "to": 370,
+      "a": "BUZLUKTA",
+      "b": "BEKLET",
+      "icon": "ice",
+      "side": "right",
+      "y": 320
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "caption": "Kapağını açtığınız salça kavanozunun üstüne zeytinyağı dökseniz bile kaşık değdiği için kenarlarından beyaz küf bağlamasına son verin! Salçadan her zaman temiz ve kuru bir kaşıkla aldıktan sonra, kavanozun iç kenarlarını peçeteyle silin, üzerine ince bir kat zeytinyağı gezdirip kapağını sıkıca kapatın ve buzdolabına ters çevirerek koyun. Kavanoza hava sızamayacağı için salçanız son kaşığına kadar küflenmez.",
+  "hook": [
+    "SALÇAYI",
+    "NASIL SAKLAMALI?"
+  ],
+  "openIcon": "jar",
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 70,
+    "to": 112,
+    "path": "M195 657 C214 603 276 574 352 582 C432 583 496 610 520 659 C545 708 500 744 434 750 C337 764 234 745 207 705 C195 691 191 674 195 657"
+  },
+  "id": "013",
+  "dir": "yeniliste013",
+  "frames": 673,
+  "captionEnd": 17.4,
+  "ctaStart": 522,
+  "ctaTop": 300,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 125,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 240,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 335,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 445,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "TEMİZ",
+      "b": "KAŞIK",
+      "icon": "spoon",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 220,
+      "to": 265,
+      "a": "ZEYTİNYAĞI",
+      "b": "KAVANOZ",
+      "icon": "jar",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 350,
+      "to": 390,
+      "a": "BUZDOLABI",
+      "b": "SAKLAMA",
+      "icon": "ice",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "cta2Start": 598,
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ]
+}
