@@ -1,0 +1,27 @@
+{
+  "id": "003",
+  "frames": 514,
+  "ctaStart": 427,
+  "events": [
+    {
+      "from": 72,
+      "to": 120,
+      "icon": "foot"
+    },
+    {
+      "from": 130,
+      "to": 190,
+      "icon": "foot"
+    },
+    {
+      "from": 197,
+      "to": 252,
+      "icon": "hand"
+    },
+    {
+      "from": 278,
+      "to": 336,
+      "icon": "clock"
+    }
+  ]
+}
