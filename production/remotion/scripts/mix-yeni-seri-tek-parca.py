@@ -22,7 +22,10 @@ for i in range(round(.62*rate)):
  t=i/rate;prev=.96*prev+.04*rng.uniform(-1,1);env=math.sin(math.pi*t/.62)**2
  freq=310+int(id)*65
  samples[i]+=env*(.055*prev+.065*math.sin(2*math.pi*(freq*t+250*t*t)))
-for event in c['events']: add('sfx-isin.wav',event['from'],.38)
+for event in c['events']:
+ add('sfx-isin.wav',event['from'],.38)
+ if event['icon']=='clock':
+  for frame in range(event['from'],event['to'],4): add('sfx-fast-tick.wav',frame,.14)
 for frame in (c['ctaStart'], c['ctaStart']+4): add('sfx-kaydet.wav',frame,.22)
 with tempfile.TemporaryDirectory() as tmp:
  wav=Path(tmp)/'effects.wav'

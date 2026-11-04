@@ -1,0 +1,80 @@
+{
+  "id": "004",
+  "frames": 520,
+  "dir": "yeniseri004",
+  "caption": "Buzdolabında kuruyup taş gibi sertleşen beyaz peynirleri ve kaşarları çöpe atmayın! Sertleşen peynirleri kaseye alın, üzerini geçecek kadar soğuk süt ve maden suyu döküp bir çay kaşığı şeker ekleyerek iki saat bekletin. Peynir süt yağını geri emerek pamuk gibi yumuşacık olur. Saklama kabına bir küp şeker koyarsanız da asla küflenmez.",
+  "captionEnd": 14.0,
+  "ctaStart": 420,
+  "ctaHeading": "SONRA LAZIM OLABİLİR",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ],
+  "hook": [
+    "SERTLEŞEN PEYNİR",
+    "BU KARIŞIMLA NE OLUR?"
+  ],
+  "openIcon": "cheese",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 125,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 310,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 420,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 70,
+      "to": 120,
+      "a": "BEYAZ PEYNİR",
+      "b": "VE KAŞAR",
+      "icon": "cheese",
+      "side": "right",
+      "y": 370
+    },
+    {
+      "from": 145,
+      "to": 205,
+      "a": "SÜT VE",
+      "b": "MADEN SUYU",
+      "icon": "bottle",
+      "side": "left",
+      "y": 360
+    },
+    {
+      "from": 230,
+      "to": 285,
+      "a": "İKİ SAAT",
+      "b": "BEKLET",
+      "icon": "clock",
+      "side": "right",
+      "y": 360
+    },
+    {
+      "from": 320,
+      "to": 373,
+      "a": "SAKLAMA KABI",
+      "b": "KÜP ŞEKER",
+      "icon": "save",
+      "side": "left",
+      "y": 370
+    }
+  ]
+}
