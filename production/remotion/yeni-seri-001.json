@@ -1,0 +1,64 @@
+{
+  "id": "001",
+  "frames": 503,
+  "dir": "yeniseri001",
+  "caption": "Girdiğiniz soyunma kabinindeki aynaya tırnağınızı dayadığınızda parmağınızla yansımanız arasında boşluk yoksa hemen oradan çıkın! Gerçek aynalarda cam kalınlığından dolayı milimetrik bir boşluk kalır; boşluk olmaması arkadan izlenen çift taraflı bir cam olduğunu gösterir. Peki sen kabine girdiğinde ilk neyi kontrol edersin?",
+  "captionEnd": 13.7,
+  "ctaStart": 412,
+  "hook": [
+    "SOYUNMA KABİNİNDE",
+    "AYNAYI KONTROL ET!"
+  ],
+  "openIcon": "mirror",
+  "shots": [
+    {
+      "file": "test-parmak.png",
+      "from": 0
+    },
+    {
+      "file": "yeni-mirror-close.png",
+      "from": 165
+    },
+    {
+      "file": "yuzsuz-1.png",
+      "from": 275
+    },
+    {
+      "file": "yuzsuz-2.png",
+      "from": 360
+    },
+    {
+      "file": "yeni-support.png",
+      "from": 440
+    }
+  ],
+  "events": [
+    {
+      "to": 125,
+      "a": "TIRNAK TESTİ",
+      "b": "AYNAYA TEMAS",
+      "icon": "hand",
+      "side": "right",
+      "y": 370,
+      "from": 70
+    },
+    {
+      "to": 235,
+      "a": "AYNA",
+      "b": "CAM YÜZEYİ",
+      "icon": "mirror",
+      "side": "left",
+      "y": 370,
+      "from": 172
+    },
+    {
+      "to": 400,
+      "a": "SEN OLSAN",
+      "b": "NEYE BAKARSIN?",
+      "icon": "question",
+      "side": "right",
+      "y": 390,
+      "from": 344
+    }
+  ]
+}
