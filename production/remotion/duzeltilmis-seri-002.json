@@ -1,0 +1,87 @@
+{
+  "id": "002",
+  "frames": 545,
+  "dir": "yeniseri002",
+  "caption": "Biri kalabalık bir ortamda size şaka adı altında iğneleyici bir laf soktuğunda sakın savunmaya geçmeyin! Gözlerinin içine dümdüz bakın ve sakin bir sesle, tam anlayamadım, ne demek istediğini tekrar eder misin, deyin. Kaba espriyi ikinci kez açıklamak zorunda kaldıklarında tüm güçlerini kaybederler.",
+  "captionEnd": 12.966666666666667,
+  "ctaStart": 389,
+  "hook": [
+    "LAF SOKULDUĞUNDA",
+    "BÖYLE KARŞILIK VER!"
+  ],
+  "openIcon": "talk",
+  "shots": [
+    {
+      "file": "sahne-1-yeni.png",
+      "from": 0
+    },
+    {
+      "file": "sahne-2-yeni.png",
+      "from": 45
+    },
+    {
+      "file": "sahne-1-yeni.png",
+      "from": 140
+    },
+    {
+      "file": "sahne-3-yeni.png",
+      "from": 255
+    },
+    {
+      "file": "sahne-4.png",
+      "from": 380
+    }
+  ],
+  "events": [
+    {
+      "to": 126,
+      "a": "İĞNELEYİCİ",
+      "b": "BİR ŞAKA",
+      "icon": "talk",
+      "side": "right",
+      "y": 360,
+      "from": 70
+    },
+    {
+      "to": 220,
+      "a": "SAKİNCE SOR",
+      "b": "NE DEMEK İSTEDİN?",
+      "icon": "question",
+      "side": "left",
+      "y": 350,
+      "from": 156
+    },
+    {
+      "to": 353,
+      "a": "TEKRAR",
+      "b": "AÇIKLAMAK",
+      "icon": "talk",
+      "side": "right",
+      "y": 390,
+      "from": 295
+    }
+  ],
+  "cta2Start": 467,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN"
+}

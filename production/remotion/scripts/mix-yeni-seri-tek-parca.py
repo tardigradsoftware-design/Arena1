@@ -4,9 +4,11 @@ from pathlib import Path
 import json, math, random, struct, subprocess, sys, tempfile, wave
 import imageio_ffmpeg
 root = Path(__file__).resolve().parents[3]
-if len(sys.argv)!=4: raise SystemExit('Usage: mix-yeni-seri-tek-parca.py ID muted.mp4 final.mp4')
-id, muted, output = sys.argv[1:]
-c = json.loads((root/'production/remotion'/f'yeni-seri-{id}.json').read_text())
+if len(sys.argv) not in (4, 6): raise SystemExit('Usage: mix-yeni-seri-tek-parca.py ID muted.mp4 final.mp4 [config.json narration.wav]')
+id, muted, output = sys.argv[1:4]
+config_path = Path(sys.argv[4]) if len(sys.argv)==6 else root/'production/remotion'/f'yeni-seri-{id}.json'
+voice_path = Path(sys.argv[5]) if len(sys.argv)==6 else root/'production/yeni-senaryolar'/f'VID-{id}'/'seri-yeni-anlatim.wav'
+c = json.loads(config_path.read_text())
 public = root/'production/remotion/public'; rate=48000; duration=c['frames']/30; n=round(duration*rate); samples=[0.0]*n
 
 def add(filename, frame, gain):
@@ -36,4 +38,4 @@ with tempfile.TemporaryDirectory() as tmp:
        f'[2:a]atrim=duration={duration},asetpts=PTS-STARTPTS,aresample=48000,aformat=channel_layouts=stereo,volume=-22dB,afade=t=out:st={duration-.4}:d=0.4[music];'
        f'[3:a]aresample=48000,aformat=channel_layouts=stereo[sfx];'
        f'[voice][music][sfx]amix=inputs=3:duration=longest:normalize=0,alimiter=limit=0.85,atrim=duration={duration}[out]')
- subprocess.run([imageio_ffmpeg.get_ffmpeg_exe(),'-y','-hide_banner','-loglevel','error','-i',muted,'-i',str(root/'production/yeni-senaryolar'/f'VID-{id}'/'seri-yeni-anlatim.wav'),'-stream_loop','-1','-i',str(root/'production/assets/peaceful_days.mp3'),'-i',str(wav),'-filter_complex',filt,'-map','0:v','-map','[out]','-c:v','copy','-c:a','aac','-b:a','128k','-movflags','+faststart',output],check=True)
+ subprocess.run([imageio_ffmpeg.get_ffmpeg_exe(),'-y','-hide_banner','-loglevel','error','-i',muted,'-i',str(voice_path),'-stream_loop','-1','-i',str(root/'production/assets/peaceful_days.mp3'),'-i',str(wav),'-filter_complex',filt,'-map','0:v','-map','[out]','-c:v','copy','-c:a','aac','-b:a','128k','-movflags','+faststart',output],check=True)

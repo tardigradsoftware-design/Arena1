@@ -1,0 +1,91 @@
+{
+  "id": "001",
+  "frames": 551,
+  "dir": "yeniseri001",
+  "caption": "Girdiğiniz soyunma kabinindeki aynaya tırnağınızı dayadığınızda parmağınızla yansımanız arasında boşluk yoksa hemen oradan çıkın! Gerçek aynalarda cam kalınlığından dolayı milimetrik bir boşluk kalır; boşluk olmaması arkadan izlenen çift taraflı bir cam olduğunu gösterir.",
+  "captionEnd": 11.833333333333334,
+  "ctaStart": 355,
+  "hook": [
+    "SOYUNMA KABİNİNDE",
+    "AYNAYI KONTROL ET!"
+  ],
+  "openIcon": "mirror",
+  "shots": [
+    {
+      "file": "yeni-mirror-close.png",
+      "from": 0
+    },
+    {
+      "file": "test-parmak.png",
+      "from": 45
+    },
+    {
+      "file": "yeni-mirror-close.png",
+      "from": 165
+    },
+    {
+      "file": "yuzsuz-1.png",
+      "from": 275
+    },
+    {
+      "file": "yuzsuz-2.png",
+      "from": 355
+    },
+    {
+      "file": "yeni-support.png",
+      "from": 470
+    }
+  ],
+  "events": [
+    {
+      "to": 125,
+      "a": "TIRNAK TESTİ",
+      "b": "AYNAYA TEMAS",
+      "icon": "hand",
+      "side": "right",
+      "y": 370,
+      "from": 70
+    },
+    {
+      "to": 235,
+      "a": "AYNA",
+      "b": "CAM YÜZEYİ",
+      "icon": "mirror",
+      "side": "left",
+      "y": 370,
+      "from": 172
+    },
+    {
+      "to": 400,
+      "a": "SEN OLSAN",
+      "b": "NEYE BAKARSIN?",
+      "icon": "question",
+      "side": "right",
+      "y": 390,
+      "from": 344
+    }
+  ],
+  "cta2Start": 470,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN"
+}
