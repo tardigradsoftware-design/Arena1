@@ -1,0 +1,82 @@
+{
+  "caption": "Siyah kıyafetleriniz makineden çıktığında üzerleri hala saç ve tüy dolu oluyorsa deterjan koymadan önce bunu yapın! Çamaşırları yerleştirdikten sonra tambura yırtılmayan iki adet yeni ıslak mendil atın. Makine döndükçe ıslak mendiller suyun içindeki tüm kopmuş saçları ve tüyleri mıknatıs gibi üzerine toplar.",
+  "ctaStart": 394,
+  "cta2Start": 465,
+  "hook": [
+    "ÇAMAŞIRDA TÜYLER",
+    "İKİ MENDİL Mİ?"
+  ],
+  "openIcon": "washer",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 115,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 237,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 370,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 75,
+      "to": 110,
+      "a": "SİYAH KIYAFET",
+      "b": "SAÇ VE TÜY",
+      "icon": "washer",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 145,
+      "to": 210,
+      "a": "İKİ ADET",
+      "b": "ISLAK MENDİL",
+      "icon": "wipe",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 260,
+      "to": 325,
+      "a": "YIKAMA",
+      "b": "SIRASINDA",
+      "icon": "washer",
+      "side": "right",
+      "y": 350
+    }
+  ],
+  "frames": 544,
+  "captionEnd": 13.133333333333333,
+  "id": "005",
+  "dir": "yeniseri005",
+  "ctaHeading": "SONRA LAZIM OLABİLİR",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ]
+}

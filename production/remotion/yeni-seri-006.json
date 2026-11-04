@@ -1,0 +1,71 @@
+{
+  "caption": "Gece yalnız kaldığınız bir otel odasında veya evde uyurken kapı kolunun üzerine mutlaka bir su bardağı asın! Dışarıdan biri kapıyı sessizce açmaya çalıştığı an kol aşağı inecek ve bardak yere düşüp kırılarak hem sizi uyandıracak hem de saldırganı paniğe sokup kaçıracaktır.",
+  "ctaStart": 330,
+  "hook": [
+    "KAPI KOLUNA",
+    "BİR BARDAK?"
+  ],
+  "openIcon": "glass",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 125,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 230,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 330,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 75,
+      "to": 120,
+      "a": "KAPI KOLU",
+      "b": "CAM BARDAK",
+      "icon": "glass",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 145,
+      "to": 205,
+      "a": "KAPI KOLU",
+      "b": "AŞAĞI İNER",
+      "icon": "door",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 240,
+      "to": 295,
+      "a": "BARDAK",
+      "b": "YERE DÜŞER",
+      "icon": "glass",
+      "side": "right",
+      "y": 350
+    }
+  ],
+  "frames": 426,
+  "captionEnd": 11.0,
+  "id": "006",
+  "dir": "yeniseri006",
+  "ctaHeading": "SONRA LAZIM OLABİLİR",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ]
+}
