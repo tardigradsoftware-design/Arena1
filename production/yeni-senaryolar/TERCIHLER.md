@@ -19,3 +19,4 @@
 - Video daha hareketli, enerjik ve tempolu olmalı; sahneye uygun, dikkat tutan hareketler ekle. Etkileşim düğmeleri ve efektleri en fazla iki saniye sürsün; biter bitmez video da bitsin, birkaç saniye daha devam etmesin.
 - Senaryoya uygun onaylanmış tüm grafik, ses ve doğru işaretleme kuralları için `.claude/skills/remotion-senaryo-animasyon/SKILL.md` skill'ini uygula; doğrulanamayan hedefe ok veya çember yerleştirme.
 - Görünmez kalem vurgusu geometrik kusursuz daire gibi değil, kullanıcının kırmızı örneğindeki gibi hafif düzensiz, elle çizilmiş hissi ve yuvarlak uçlu çizgiyle yapılsın. Doğru nesneyi takip etmeli ve metni kapatmamalı; sahne kontrastı kontrol edilmeli.
+- Kapak görsellerinde kısa, merak uyandıran ve konuyla uyumlu büyük puntolu metin; yüksek kontrast, mobil küçük önizlemede okunabilirlik ve ID ile eşleşen dosya adı kullan. Kapağı küçük boyutta da kontrol et; yanıltıcı kesinlik veya tıklanma garantisi verme.
