@@ -1,0 +1,82 @@
+{
+  "caption": "Çevrenizde sizi duygusal çöp kutusu gibi kullanan, aradığında bir saat boyunca sadece dert anlatıp enerjinizi tüketen biri varsa onu kırmadan durdurmanın yolu çok basittir! Şikayet etmeye başladığı üçüncü dakikada sözünü sakince kesin ve “Bu durum seni çok yormuş, peki bunu çözmek için yarın ilk adım olarak ne yapmayı planlıyorsun?” diye sorun. Sorumluluk sorusunu duyduğu an konuyu kapatacaktır.",
+  "hook": [
+    "UZUN ŞİKAYETLER",
+    "NE SORABİLİRSİN?"
+  ],
+  "openIcon": "question",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 170,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 385,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 570,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 87,
+      "to": 130,
+      "a": "UZUN",
+      "b": "KONUŞMALAR",
+      "icon": "phone",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 200,
+      "to": 255,
+      "a": "SAKİNCE",
+      "b": "SOR",
+      "icon": "question",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 400,
+      "to": 455,
+      "a": "İLK ADIM",
+      "b": "NE OLACAK?",
+      "icon": "talk",
+      "side": "left",
+      "y": 340
+    }
+  ],
+  "ctaStart": 570,
+  "cta2Start": 627,
+  "frames": 685,
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "KAYDET",
+      "save"
+    ]
+  ],
+  "id": "022",
+  "dir": "yeniseri022",
+  "captionEnd": 19.0,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ]
+}
