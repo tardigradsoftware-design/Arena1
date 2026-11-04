@@ -32,7 +32,7 @@ function Background(){
  return <AbsoluteFill style={{overflow:'hidden',background:'#13100c'}}>
   <AbsoluteFill style={{transform}}><Img src={staticFile('yenitest/'+c.file)} style={{width:'100%',height:'100%',objectFit:'cover',objectPosition:c.position}}/>
    {mark&&<svg width="100%" height="100%" viewBox="0 0 768 1376" preserveAspectRatio="xMidYMid slice" style={{position:'absolute',inset:0,opacity,filter:'drop-shadow(0px 2px 3px #000)'}}>
-    <path d="M 268 738 C 268 710 302 699 345 699 C 388 699 418 714 418 737 C 418 761 386 776 345 776 C 302 776 270 763 268 738" fill="none" stroke="#ffe135" strokeWidth="6" strokeLinecap="round" pathLength="1" strokeDasharray="1" strokeDashoffset={1-draw}/>
+    <path d="M 304 701 C 337 693 385 695 407 706 C 432 718 433 746 411 763 C 389 781 344 781 311 773 C 282 766 262 751 264 735 C 266 718 294 704 323 702 C 348 700 376 703 390 707" fill="none" stroke="#f5222d" strokeWidth="7" strokeLinecap="round" strokeLinejoin="round" pathLength="1" strokeDasharray="1" strokeDashoffset={1-draw}/>
    </svg>}
   </AbsoluteFill>
   <AbsoluteFill style={{background:'linear-gradient(180deg,rgba(0,0,0,.32),transparent 48%,rgba(0,0,0,.22))'}}/>
