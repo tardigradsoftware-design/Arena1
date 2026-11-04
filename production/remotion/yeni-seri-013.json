@@ -1,0 +1,72 @@
+{
+  "caption": "İlaç içmenize rağmen geçmeyen gerilim tipi baş ağrısı veya alın baskısı yaşıyorsanız buzluktaki metal kaşığı hemen çıkarın! Soğuk kaşığın bombeli sırtını iki kaşınızın tam ortasındaki noktaya ve şakaklarınıza otuz saniye bastırın. Soğuk şok genişleyen damarları büzerek ağrıyı dakikalar içinde keser.",
+  "ctaStart": 417,
+  "cta2Start": 516,
+  "hook": [
+    "BAŞ AĞRISINDA",
+    "SOĞUK KAŞIK?"
+  ],
+  "openIcon": "spoon",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 140,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 245,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 417,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 70,
+      "to": 115,
+      "a": "METAL KAŞIK",
+      "b": "SOĞUK",
+      "icon": "spoon",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 165,
+      "to": 220,
+      "a": "KAŞIN ORTASI",
+      "b": "VE ŞAKAKLAR",
+      "icon": "question",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 260,
+      "to": 305,
+      "a": "OTUZ SANİYE",
+      "b": "BEKLEME",
+      "icon": "clock",
+      "side": "right",
+      "y": 350
+    }
+  ],
+  "frames": 584,
+  "captionEnd": 13.9,
+  "id": "013",
+  "dir": "yeniseri013",
+  "ctaHeading": "SONRA LAZIM OLABİLİR",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ]
+}
