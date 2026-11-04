@@ -1,0 +1,71 @@
+{
+  "caption": "Evde köfte veya balık kızartırken tavanın kenarlarındaki yağın yanıp tüm mutfağı duman ve ağır koku içinde bırakmasına son verin! Köfteleri tavaya dizdiğinizde yağın boş bir köşesine soyulmuş iki halka çiğ havuç dilimi bırakın. Havuç yanmaya başlayan yağ asitlerini sünger gibi çekecek ve yağınız hiç kararmadan köfteleriniz pişecektir.",
+  "hook": [
+    "KÖFTE KIZARTIRKEN",
+    "HAVUÇ NEDEN?"
+  ],
+  "openIcon": "carrot",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 179,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 310,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 455,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 88,
+      "to": 130,
+      "a": "KÖFTE",
+      "b": "TAVASI",
+      "icon": "pan",
+      "side": "right",
+      "y": 370
+    },
+    {
+      "from": 200,
+      "to": 250,
+      "a": "2 DİLİM",
+      "b": "HAVUÇ",
+      "icon": "carrot",
+      "side": "left",
+      "y": 360
+    },
+    {
+      "from": 330,
+      "to": 375,
+      "a": "YAĞ VE",
+      "b": "ISI",
+      "icon": "pan",
+      "side": "right",
+      "y": 360
+    }
+  ],
+  "ctaStart": 455,
+  "frames": 510,
+  "id": "019",
+  "dir": "yeniseri019",
+  "captionEnd": 15.166666666666666,
+  "ctaHeading": "SONRA LAZIM OLABİLİR",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ]
+}
