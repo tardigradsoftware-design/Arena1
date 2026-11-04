@@ -1,0 +1,82 @@
+{
+  "caption": "Biri kendi hatasını örtbas etmek için Sen çok alıngansın, her şeyi büyütüyorsun diyerek sizi suçlu hissettirmeye çalışıyorsa bu tuzağa düşmeyin! Tartışmaya girmek yerine sakince Benim tepkimi tartışmak yerine senin yaptığın davranışı konuşmaya geri dönelim deyin. Odağı tekrar onun hatasına çevirdiğiniz an manipülasyonu çöker.",
+  "ctaStart": 406,
+  "cta2Start": 495,
+  "hook": [
+    "ÇOK ALINGANSIN",
+    "DİYENE NE DEMELİ?"
+  ],
+  "openIcon": "talk",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 155,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 250,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 406,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 80,
+      "to": 130,
+      "a": "KONUŞMAYI",
+      "b": "DİNLE",
+      "icon": "talk",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 165,
+      "to": 235,
+      "a": "SAKİNCE",
+      "b": "İFADE ET",
+      "icon": "talk",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 270,
+      "to": 330,
+      "a": "DAVRANIŞA",
+      "b": "GERİ DÖN",
+      "icon": "question",
+      "side": "right",
+      "y": 350
+    }
+  ],
+  "frames": 555,
+  "captionEnd": 13.533333333333333,
+  "id": "012",
+  "dir": "yeniseri012",
+  "ctaHeading": "SONRA LAZIM OLABİLİR",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ]
+}
