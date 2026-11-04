@@ -1,0 +1,388 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.637,
+    "words": [
+      "sakın",
+      "salatalıkları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.637,
+    "end": 1.062,
+    "words": [
+      "sakın",
+      "salatalıkları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.062,
+    "end": 1.41,
+    "words": [
+      "poşet",
+      "içinde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.41,
+    "end": 1.725,
+    "words": [
+      "poşet",
+      "içinde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.725,
+    "end": 2.077,
+    "words": [
+      "buzdolabına",
+      "atıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.077,
+    "end": 2.43,
+    "words": [
+      "buzdolabına",
+      "atıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.43,
+    "end": 2.73,
+    "words": [
+      "birkaç",
+      "günde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.73,
+    "end": 3.017,
+    "words": [
+      "birkaç",
+      "günde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.017,
+    "end": 3.352,
+    "words": [
+      "yumuşayıp",
+      "sümüksü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.352,
+    "end": 3.687,
+    "words": [
+      "yumuşayıp",
+      "sümüksü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.687,
+    "end": 4.024,
+    "words": [
+      "hale",
+      "gelmelerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.024,
+    "end": 4.361,
+    "words": [
+      "hale",
+      "gelmelerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.361,
+    "end": 4.673,
+    "words": [
+      "izin",
+      "verme!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.673,
+    "end": 5.07,
+    "words": [
+      "izin",
+      "verme!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.07,
+    "end": 5.52,
+    "words": [
+      "Çünkü",
+      "salatalıklar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.52,
+    "end": 5.91,
+    "words": [
+      "Çünkü",
+      "salatalıklar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.91,
+    "end": 6.3,
+    "words": [
+      "nemden",
+      "çürür."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.3,
+    "end": 6.664,
+    "words": [
+      "nemden",
+      "çürür."
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.664,
+    "end": 7.001,
+    "words": [
+      "Salatalıkları",
+      "kağıt"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.001,
+    "end": 7.339,
+    "words": [
+      "Salatalıkları",
+      "kağıt"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.339,
+    "end": 7.676,
+    "words": [
+      "havluya",
+      "tek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.676,
+    "end": 8.014,
+    "words": [
+      "havluya",
+      "tek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.014,
+    "end": 8.351,
+    "words": [
+      "tek",
+      "sarıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.351,
+    "end": 8.715,
+    "words": [
+      "tek",
+      "sarıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.715,
+    "end": 9.07,
+    "words": [
+      "kilitli",
+      "poşette"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.07,
+    "end": 9.39,
+    "words": [
+      "kilitli",
+      "poşette"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.39,
+    "end": 9.71,
+    "words": [
+      "veya",
+      "saklama"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.71,
+    "end": 10.018,
+    "words": [
+      "veya",
+      "saklama"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.018,
+    "end": 10.314,
+    "words": [
+      "kabında",
+      "muhafaza"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.314,
+    "end": 10.601,
+    "words": [
+      "kabında",
+      "muhafaza"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.601,
+    "end": 11.032,
+    "words": [
+      "et.",
+      "Haftalarca"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.032,
+    "end": 11.527,
+    "words": [
+      "et.",
+      "Haftalarca"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.527,
+    "end": 11.902,
+    "words": [
+      "çıtır",
+      "kalacaklar."
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.902,
+    "end": 12.345,
+    "words": [
+      "çıtır",
+      "kalacaklar."
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.345,
+    "end": 12.727,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.727,
+    "end": 12.982,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.982,
+    "end": 13.275,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.275,
+    "end": 13.598,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.598,
+    "end": 13.988,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.988,
+    "end": 14.37,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.37,
+    "end": 14.771,
+    "words": [
+      "unutma,",
+      "aldığın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.771,
+    "end": 15.242,
+    "words": [
+      "unutma,",
+      "aldığın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.242,
+    "end": 15.95,
+    "words": [
+      "salatalıkları."
+    ],
+    "active": 0
+  }
+]

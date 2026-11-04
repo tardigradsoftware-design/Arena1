@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-010-1.png",
+      "sha256": "c2dae36a974121ec3be039ee20f86b8a90880de62944bc754bc37219fc481de7",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yalnız kısmi yüz ve kuru dudaklar."
+    },
+    {
+      "file": "../../remotion/public/VID-010-2.png",
+      "sha256": "5051eb53d731cc16adfa2935c7b528529bd365812072225007d6116134411fcf",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bal ve esmer şeker tek bir karışım, kaşık kaseye dayanıyor."
+    },
+    {
+      "file": "../../remotion/public/VID-010-3.png",
+      "sha256": "59d23024603ace73d7a6a8712c469cad0ba78bd9d5b6bd744120d596685aab8e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Parmak dudakla temas halinde; kısmi yüz."
+    },
+    {
+      "file": "../../remotion/public/VID-010-4.png",
+      "sha256": "4a7d4d390be0ba2b24d5a317fd9abac88aca4a70df1d7088381bc94972669f75",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi yüz ve doğal parlak dudaklar; temsili sonuç."
+    }
+  ]
+}

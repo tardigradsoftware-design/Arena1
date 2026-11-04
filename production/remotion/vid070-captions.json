@@ -1,0 +1,442 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.518,
+    "words": [
+      "sakın",
+      "duşakabin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.518,
+    "end": 0.863,
+    "words": [
+      "sakın",
+      "duşakabin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.863,
+    "end": 1.125,
+    "words": [
+      "ve",
+      "banyo"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.125,
+    "end": 1.399,
+    "words": [
+      "ve",
+      "banyo"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.399,
+    "end": 1.766,
+    "words": [
+      "duvarlarındaki",
+      "o"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.766,
+    "end": 2.134,
+    "words": [
+      "duvarlarındaki",
+      "o"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.134,
+    "end": 2.501,
+    "words": [
+      "matlaşmış",
+      "sabun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.501,
+    "end": 2.859,
+    "words": [
+      "matlaşmış",
+      "sabun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.859,
+    "end": 3.206,
+    "words": [
+      "artıklarını",
+      "temizlemek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.206,
+    "end": 3.528,
+    "words": [
+      "artıklarını",
+      "temizlemek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.528,
+    "end": 3.894,
+    "words": [
+      "için",
+      "deterjan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.894,
+    "end": 4.333,
+    "words": [
+      "için",
+      "deterjan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.333,
+    "end": 4.772,
+    "words": [
+      "kokularıyla",
+      "boğulma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.772,
+    "end": 5.211,
+    "words": [
+      "kokularıyla",
+      "boğulma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.211,
+    "end": 5.531,
+    "words": [
+      "Çünkü",
+      "su"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.531,
+    "end": 5.734,
+    "words": [
+      "Çünkü",
+      "su"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.734,
+    "end": 5.933,
+    "words": [
+      "ve",
+      "beyaz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.933,
+    "end": 6.158,
+    "words": [
+      "ve",
+      "beyaz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.158,
+    "end": 6.428,
+    "words": [
+      "sirke",
+      "karışımı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.428,
+    "end": 6.713,
+    "words": [
+      "sirke",
+      "karışımı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.713,
+    "end": 7.02,
+    "words": [
+      "tüm",
+      "kalıntıları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.02,
+    "end": 7.35,
+    "words": [
+      "tüm",
+      "kalıntıları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.35,
+    "end": 7.77,
+    "words": [
+      "çözer.",
+      "Eşit"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.77,
+    "end": 8.175,
+    "words": [
+      "çözer.",
+      "Eşit"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.175,
+    "end": 8.49,
+    "words": [
+      "miktarda",
+      "ılık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.49,
+    "end": 8.738,
+    "words": [
+      "miktarda",
+      "ılık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.738,
+    "end": 8.873,
+    "words": [
+      "su",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.873,
+    "end": 9.081,
+    "words": [
+      "su",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.081,
+    "end": 9.392,
+    "words": [
+      "sirkeyi",
+      "sprey"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.392,
+    "end": 9.703,
+    "words": [
+      "sirkeyi",
+      "sprey"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.703,
+    "end": 10.014,
+    "words": [
+      "şişesinde",
+      "karıştırıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.014,
+    "end": 10.327,
+    "words": [
+      "şişesinde",
+      "karıştırıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.327,
+    "end": 10.642,
+    "words": [
+      "fayanslara",
+      "püskürt"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.642,
+    "end": 10.957,
+    "words": [
+      "fayanslara",
+      "püskürt"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.957,
+    "end": 11.272,
+    "words": [
+      "ve",
+      "bezle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.272,
+    "end": 11.587,
+    "words": [
+      "ve",
+      "bezle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.587,
+    "end": 11.901,
+    "words": [
+      "sil.",
+      "Pırıl"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.901,
+    "end": 12.216,
+    "words": [
+      "sil.",
+      "Pırıl"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.216,
+    "end": 12.531,
+    "words": [
+      "pırıl",
+      "olacaklar."
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.531,
+    "end": 12.899,
+    "words": [
+      "pırıl",
+      "olacaklar."
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.899,
+    "end": 13.202,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.202,
+    "end": 13.436,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.436,
+    "end": 13.719,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.719,
+    "end": 14.01,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.01,
+    "end": 14.34,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.34,
+    "end": 14.633,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.633,
+    "end": 14.955,
+    "words": [
+      "unutma,",
+      "banyo"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.955,
+    "end": 15.383,
+    "words": [
+      "unutma,",
+      "banyo"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.383,
+    "end": 16.036,
+    "words": [
+      "fayanslarını."
+    ],
+    "active": 0
+  }
+]

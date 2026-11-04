@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-063-1.png",
+      "sha256": "ae7d21c2c36d288913a09c65cb5c81c6046da4f7b248382866cd2fe01c3a9fbc",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kahve ve diş fırçası temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-063-2.png",
+      "sha256": "d07a8b9d41b44d6b07ac97f4fb9c05f6996ed48647a59d293049a65478ed7049",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek kâse beyaz karışım ve limon, içerik temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-063-3.png",
+      "sha256": "ba8bb91549527dd8360d20ff73b180f8d8ff70489633c6ea329fec2d44888418",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâse ve fırça; ağızda uygulama gösterilmez."
+    },
+    {
+      "file": "../../remotion/public/VID-063-4.png",
+      "sha256": "8c15e498f77f2a940ebc271a54d93b7bf48fb1fd64c2041123045c2dce32c101",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Lavaboda fırça; sonuç iddiasının görsel kanıtı değil."
+    }
+  ]
+}

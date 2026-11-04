@@ -1,0 +1,68 @@
+{
+  "frames": 611,
+  "hook": [
+    "YUMURTAYI",
+    "TEST ETMEDEN KULLANMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-044-1.png"
+    },
+    {
+      "from": 235,
+      "file": "VID-044-2.png"
+    },
+    {
+      "from": 430,
+      "file": "VID-044-4.png"
+    }
+  ],
+  "result": 490,
+  "save": 542,
+  "clocks": [
+    {
+      "from": 185,
+      "to": 230
+    }
+  ],
+  "events": [
+    {
+      "from": 185,
+      "to": 225,
+      "a": "ÜÇ SANİYELİK",
+      "b": "SU TESTİ",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 270,
+      "to": 303,
+      "a": "SOĞUK SU",
+      "b": "DERİN KÂSE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 320,
+      "to": 358,
+      "a": "DİBE ÇÖKÜYORSA",
+      "b": "YATAY DURUR",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 542,
+      "to": 572,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-044-voice.wav"
+}

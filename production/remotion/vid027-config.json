@@ -1,0 +1,85 @@
+{
+  "frames": 677,
+  "hook": [
+    "KURU DİRSEK VE DİZ",
+    "GÖRÜNÜMÜ!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-027-1.png"
+    },
+    {
+      "from": 289,
+      "file": "VID-027-2.png"
+    },
+    {
+      "from": 399,
+      "file": "VID-027-3.png"
+    },
+    {
+      "from": 550,
+      "file": "VID-027-4.png"
+    }
+  ],
+  "result": 553,
+  "save": 614,
+  "clocks": [
+    {
+      "from": 245,
+      "to": 272
+    },
+    {
+      "from": 451,
+      "to": 478
+    }
+  ],
+  "events": [
+    {
+      "from": 245,
+      "to": 272,
+      "a": "İKİ DAKİKADA",
+      "b": "HAZIRLIK",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 300,
+      "to": 350,
+      "a": "LİMON",
+      "b": "VE KARBONAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "lemon"
+    },
+    {
+      "from": 371,
+      "to": 400,
+      "a": "ZEYTİNYAĞI",
+      "b": "BİRKAÇ DAMLA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 451,
+      "to": 482,
+      "a": "ÜÇ DAKİKA",
+      "b": "MASAJ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 614,
+      "to": 642,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-027-voice.wav"
+}

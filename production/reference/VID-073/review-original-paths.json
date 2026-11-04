@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-073-1.png",
+      "sha256": "7a413bb73f34c97321419e2c610250b546bdfb9db6a6077e047dec12bcfc6e6e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Çay lekesi ve halı lifleri."
+    },
+    {
+      "file": "../../remotion/public/VID-073-2.png",
+      "sha256": "23c380df1ba897b1864a6fdc4a907f71e9453e50f0ee5f02528711899423ae30",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Şeffaf içecek şişesi ve leke temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-073-3.png",
+      "sha256": "a4bf4f959b77a8303413ba8b9664fdc8b972892a5602a3f3333d1f9cc2f95c46",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bez ve çay lekesi, eylem canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-073-4.png",
+      "sha256": "8a645fa1fc9004666f6c9643e349395611f002c121c78bfe6b4ce10dd87324f0",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz halı temsili, gerçek önce/sonra değil."
+    }
+  ]
+}

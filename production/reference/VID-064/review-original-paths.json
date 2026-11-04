@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-064-1.png",
+      "sha256": "af19b91788bc6d64dfdfada4b2cd71a1d7c0e2bee2f83fbb713a6ce91607f16a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Dolap ve kıyafetler; nem/koku görselleştirilemez."
+    },
+    {
+      "file": "../../remotion/public/VID-064-2.png",
+      "sha256": "7b5a7e9c05d17934f0639b442e0331c39050d0dd3f1b9911fc9fd8c3b04dd6fd",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâsede iri tuz temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-064-3.png",
+      "sha256": "0f48396cf95767dbba3d0c83fcb0e59abe16e07441dbd24b6e35ee4d0c4667ea",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Dolapta tuz kâsesi."
+    },
+    {
+      "file": "../../remotion/public/VID-064-4.png",
+      "sha256": "38162d612adb894c3635364671a81e74093c5d27bb64ff9b4f23538f3065a42e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Düzenli dolap, gerçek önce/sonra değil."
+    }
+  ]
+}

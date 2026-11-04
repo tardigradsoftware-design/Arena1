@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-016-1.png",
+      "sha256": "d9b2c4407929e2a7012f0928bd57974cb45cdc35c9f9f19d56d2b57440ee4473",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kesilmiş kahverengileşmiş avokado; tahta üzerinde."
+    },
+    {
+      "file": "../../remotion/public/VID-016-2.png",
+      "sha256": "8de4a7b0c08cd83d956abba0c0536fe38086c0a19600c1512f0afe72821a56b7",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Çekirdekli taze yarım avokado ve yanındaki su dolu kâse, eylem temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-016-3.png",
+      "sha256": "c304d10e7462beed6d933298018e9d5b046a987bdc5b514b389c46ba12db68c6",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Dolap rafındaki tabakta yarım avokado ve yanında su kâsesi; suya yerleştirme gösterilmemiştir."
+    },
+    {
+      "file": "../../remotion/public/VID-016-4.png",
+      "sha256": "0be0c0923f2823b4fdc8d9b56cadedd65a6335a4c92ba49ba03cb9a10fedcb9f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tahtada yarım avokado, çekirdek yerinde, bıçak yatay destekli."
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.562,
+    "words": [
+      "sakın",
+      "parfümü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.562,
+    "end": 0.975,
+    "words": [
+      "sakın",
+      "parfümü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.975,
+    "end": 1.318,
+    "words": [
+      "doğrudan",
+      "kuru"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.318,
+    "end": 1.584,
+    "words": [
+      "doğrudan",
+      "kuru"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.584,
+    "end": 1.851,
+    "words": [
+      "cildine",
+      "sıkıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.851,
+    "end": 2.117,
+    "words": [
+      "cildine",
+      "sıkıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.117,
+    "end": 2.475,
+    "words": [
+      "çıkma!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.475,
+    "end": 2.828,
+    "words": [
+      "çıkma!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.828,
+    "end": 3.06,
+    "words": [
+      "en",
+      "pahalı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.06,
+    "end": 3.33,
+    "words": [
+      "en",
+      "pahalı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.33,
+    "end": 3.66,
+    "words": [
+      "parfümlerin",
+      "bile"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.66,
+    "end": 3.929,
+    "words": [
+      "parfümlerin",
+      "bile"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.929,
+    "end": 4.108,
+    "words": [
+      "bir",
+      "saat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.108,
+    "end": 4.282,
+    "words": [
+      "bir",
+      "saat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.282,
+    "end": 4.5,
+    "words": [
+      "içinde",
+      "uçup"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.5,
+    "end": 4.74,
+    "words": [
+      "içinde",
+      "uçup"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.74,
+    "end": 5.032,
+    "words": [
+      "gitmesinin",
+      "sebebi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.032,
+    "end": 5.403,
+    "words": [
+      "gitmesinin",
+      "sebebi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.403,
+    "end": 5.8,
+    "words": [
+      "cildinin",
+      "kokuyu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.8,
+    "end": 6.139,
+    "words": [
+      "cildinin",
+      "kokuyu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.139,
+    "end": 6.424,
+    "words": [
+      "tutacak",
+      "nemden"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.424,
+    "end": 6.71,
+    "words": [
+      "tutacak",
+      "nemden"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.71,
+    "end": 7.036,
+    "words": [
+      "yoksun",
+      "olmasıdır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.036,
+    "end": 7.539,
+    "words": [
+      "yoksun",
+      "olmasıdır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.539,
+    "end": 8.021,
+    "words": [
+      "Parfümü",
+      "sıkmadan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.021,
+    "end": 8.344,
+    "words": [
+      "Parfümü",
+      "sıkmadan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.344,
+    "end": 8.61,
+    "words": [
+      "hemen",
+      "önce"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.61,
+    "end": 8.887,
+    "words": [
+      "hemen",
+      "önce"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.887,
+    "end": 9.232,
+    "words": [
+      "bileklerine",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.232,
+    "end": 9.514,
+    "words": [
+      "bileklerine",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.514,
+    "end": 9.731,
+    "words": [
+      "boynuna",
+      "çok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.731,
+    "end": 9.915,
+    "words": [
+      "boynuna",
+      "çok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.915,
+    "end": 10.102,
+    "words": [
+      "az",
+      "miktarda"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.102,
+    "end": 10.378,
+    "words": [
+      "az",
+      "miktarda"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.378,
+    "end": 10.704,
+    "words": [
+      "kokusuz",
+      "vazelin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.704,
+    "end": 11.031,
+    "words": [
+      "kokusuz",
+      "vazelin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.031,
+    "end": 11.357,
+    "words": [
+      "sür,",
+      "ardından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.357,
+    "end": 11.708,
+    "words": [
+      "sür,",
+      "ardından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.708,
+    "end": 12.039,
+    "words": [
+      "parfümü",
+      "tam"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.039,
+    "end": 12.334,
+    "words": [
+      "parfümü",
+      "tam"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.334,
+    "end": 12.639,
+    "words": [
+      "o",
+      "noktalara"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.639,
+    "end": 12.944,
+    "words": [
+      "o",
+      "noktalara"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.944,
+    "end": 13.248,
+    "words": [
+      "sık.",
+      "Vazelinin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.248,
+    "end": 13.553,
+    "words": [
+      "sık.",
+      "Vazelinin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.553,
+    "end": 13.858,
+    "words": [
+      "yağlı",
+      "yapısı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.858,
+    "end": 14.182,
+    "words": [
+      "yağlı",
+      "yapısı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.182,
+    "end": 14.557,
+    "words": [
+      "koku",
+      "moleküllerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.557,
+    "end": 14.962,
+    "words": [
+      "koku",
+      "moleküllerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.962,
+    "end": 15.338,
+    "words": [
+      "hapseder",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.338,
+    "end": 15.626,
+    "words": [
+      "hapseder",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.626,
+    "end": 15.858,
+    "words": [
+      "kokunun",
+      "gün"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.858,
+    "end": 16.089,
+    "words": [
+      "kokunun",
+      "gün"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.089,
+    "end": 16.32,
+    "words": [
+      "boyu",
+      "kalıcı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.32,
+    "end": 16.552,
+    "words": [
+      "boyu",
+      "kalıcı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.552,
+    "end": 16.831,
+    "words": [
+      "olmasını",
+      "sağlar."
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.831,
+    "end": 17.205,
+    "words": [
+      "olmasını",
+      "sağlar."
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.205,
+    "end": 17.527,
+    "words": [
+      "Bu",
+      "basit"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.527,
+    "end": 17.782,
+    "words": [
+      "Bu",
+      "basit"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.782,
+    "end": 18.068,
+    "words": [
+      "hileyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.068,
+    "end": 18.345,
+    "words": [
+      "hileyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.345,
+    "end": 18.705,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.705,
+    "end": 19.05,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.05,
+    "end": 19.373,
+    "words": [
+      "unutma,",
+      "evden"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.373,
+    "end": 19.733,
+    "words": [
+      "unutma,",
+      "evden"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.733,
+    "end": 20.099,
+    "words": [
+      "çıkarken",
+      "parfümü."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.099,
+    "end": 20.727,
+    "words": [
+      "çıkarken",
+      "parfümü."
+    ],
+    "active": 1
+  }
+]

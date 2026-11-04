@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-096-1.png",
+      "sha256": "7c2b433ea4a5aad3bb8e3696884f019ccce1300203bfb3eb9ceda1100eda07e1",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi göz makyajı görünümü; tekrar edildi."
+    },
+    {
+      "file": "../../remotion/public/VID-096-2.png",
+      "sha256": "f9f213567045e8c7264a472d0ba37533301bfbef3bed05d0ebf5cf82d4f4ad69",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı şişe, pamuk; gözle temas yok."
+    },
+    {
+      "file": "../../remotion/public/VID-096-3.png",
+      "sha256": "479535bc8547d4c4ce9d6c30f0f0d4cc3bc3a19f1ee4084823bffbcd6d7c0005",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Pamuk ve kapalı şişe."
+    }
+  ]
+}

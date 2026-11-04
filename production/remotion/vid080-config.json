@@ -1,0 +1,45 @@
+{
+  "frames": 364,
+  "hook": [
+    "EKMEĞİN",
+    "BAYATLAMASINA DİKKAT!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-080-1.png"
+    },
+    {
+      "from": 123,
+      "file": "VID-080-2.png"
+    },
+    {
+      "from": 254,
+      "file": "VID-080-4.png"
+    }
+  ],
+  "result": 260,
+  "save": 294,
+  "clocks": [],
+  "events": [
+    {
+      "to": 195,
+      "a": "İKİ KÜP ŞEKER",
+      "b": "EKMEK KUTUSUNA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "basket",
+      "from": 155
+    },
+    {
+      "to": 318,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 294
+    }
+  ],
+  "voice": "VID-080-voice.wav"
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-055-1.png",
+      "sha256": "5198c2d854b19ba1a62f572eaf7f29a410e3777f207c4f54899d504721f7cb9a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yiyeceklerle dolap içi, kokunun görselleştirilmesi mümkün değil."
+    },
+    {
+      "file": "../../remotion/public/VID-055-2.png",
+      "sha256": "3929c97c8282f06141331868101afbf864a01f61022f9761e551aa9e63a0bd0e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tabakta yarım limon ve beyaz toz temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-055-3.png",
+      "sha256": "d0c57adfdfbc48f719c0ae4d8a84c3e54bd5028ccf8444532d69e593ca1ade30",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Dolap rafında tabak ve limon; farklı temsili dolap."
+    },
+    {
+      "file": "../../remotion/public/VID-055-4.png",
+      "sha256": "ee52821c5044cfba2c0b310861e03aa8811a2643b84a90553d98334a95481851",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Düzenli dolap, gerçek sonuç kanıtı değil."
+    }
+  ]
+}

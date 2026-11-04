@@ -1,0 +1,45 @@
+{
+  "frames": 380,
+  "hook": [
+    "YORGUN AYAKLAR",
+    "İÇİN BAKIM"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-081-1.png"
+    },
+    {
+      "from": 165,
+      "file": "VID-081-2.png"
+    },
+    {
+      "from": 285,
+      "file": "VID-081-1.png"
+    }
+  ],
+  "result": 285,
+  "save": 310,
+  "clocks": [],
+  "events": [
+    {
+      "to": 272,
+      "a": "ILIK SU",
+      "b": "VE KARBONAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop",
+      "from": 245
+    },
+    {
+      "to": 338,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 310
+    }
+  ],
+  "voice": "VID-081-voice.wav"
+}

@@ -1,0 +1,49 @@
+{
+  "frames": 335,
+  "hook": [
+    "KURUYAN",
+    "DUDAKLAR"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-117-1.png"
+    },
+    {
+      "from": 135,
+      "file": "VID-117-2.png"
+    },
+    {
+      "from": 225,
+      "file": "VID-117-3.png"
+    },
+    {
+      "from": 280,
+      "file": "VID-117-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 257,
+  "clocks": [],
+  "events": [
+    {
+      "from": 142,
+      "to": 171,
+      "a": "BAL VE ŞEKER",
+      "b": "PEELİNG",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 257,
+      "to": 281,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-117-voice.wav"
+}

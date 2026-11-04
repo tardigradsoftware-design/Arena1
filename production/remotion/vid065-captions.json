@@ -1,0 +1,434 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.6,
+    "words": [
+      "sakın",
+      "patates"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.6,
+    "end": 0.986,
+    "words": [
+      "sakın",
+      "patates"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.986,
+    "end": 1.339,
+    "words": [
+      "kasanızın",
+      "içine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.339,
+    "end": 1.672,
+    "words": [
+      "kasanızın",
+      "içine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.672,
+    "end": 1.995,
+    "words": [
+      "elma",
+      "koymayı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.995,
+    "end": 2.355,
+    "words": [
+      "elma",
+      "koymayı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.355,
+    "end": 2.827,
+    "words": [
+      "unutarak",
+      "filizlenmelerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.827,
+    "end": 3.383,
+    "words": [
+      "unutarak",
+      "filizlenmelerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.383,
+    "end": 3.878,
+    "words": [
+      "seyirci",
+      "kalma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.878,
+    "end": 4.312,
+    "words": [
+      "seyirci",
+      "kalma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.312,
+    "end": 4.703,
+    "words": [
+      "Çünkü",
+      "elmadan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.703,
+    "end": 5.048,
+    "words": [
+      "Çünkü",
+      "elmadan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.048,
+    "end": 5.378,
+    "words": [
+      "yayılan",
+      "doğal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.378,
+    "end": 5.718,
+    "words": [
+      "yayılan",
+      "doğal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.718,
+    "end": 6.082,
+    "words": [
+      "etilen",
+      "gazı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.082,
+    "end": 6.447,
+    "words": [
+      "etilen",
+      "gazı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.447,
+    "end": 6.825,
+    "words": [
+      "dengeleme",
+      "özelliği"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.825,
+    "end": 7.245,
+    "words": [
+      "dengeleme",
+      "özelliği"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.245,
+    "end": 7.76,
+    "words": [
+      "sayesinde",
+      "patateslerin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.76,
+    "end": 8.341,
+    "words": [
+      "sayesinde",
+      "patateslerin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.341,
+    "end": 8.922,
+    "words": [
+      "çimlenmesini",
+      "şaşırtıcı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.922,
+    "end": 9.421,
+    "words": [
+      "çimlenmesini",
+      "şaşırtıcı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.421,
+    "end": 9.832,
+    "words": [
+      "şekilde",
+      "yavaşlatır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.832,
+    "end": 10.293,
+    "words": [
+      "şekilde",
+      "yavaşlatır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.293,
+    "end": 10.808,
+    "words": [
+      "Patates",
+      "sepetinin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.808,
+    "end": 11.322,
+    "words": [
+      "Patates",
+      "sepetinin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.322,
+    "end": 11.768,
+    "words": [
+      "ortasına",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.768,
+    "end": 12.045,
+    "words": [
+      "ortasına",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.045,
+    "end": 12.277,
+    "words": [
+      "adet",
+      "taze"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.277,
+    "end": 12.54,
+    "words": [
+      "adet",
+      "taze"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.54,
+    "end": 12.78,
+    "words": [
+      "elma",
+      "koyarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.78,
+    "end": 13.043,
+    "words": [
+      "elma",
+      "koyarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.043,
+    "end": 13.44,
+    "words": [
+      "sakla.",
+      "Filizlenmenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.44,
+    "end": 13.95,
+    "words": [
+      "sakla.",
+      "Filizlenmenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.95,
+    "end": 14.46,
+    "words": [
+      "geciktiğini",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.46,
+    "end": 14.812,
+    "words": [
+      "geciktiğini",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.812,
+    "end": 15.068,
+    "words": [
+      "sert",
+      "kaldığını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.068,
+    "end": 15.448,
+    "words": [
+      "sert",
+      "kaldığını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.448,
+    "end": 15.893,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.893,
+    "end": 16.221,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.221,
+    "end": 16.473,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.473,
+    "end": 16.785,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.785,
+    "end": 17.123,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.123,
+    "end": 17.468,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.468,
+    "end": 17.812,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.812,
+    "end": 18.255,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.255,
+    "end": 18.795,
+    "words": [
+      "patateslerini",
+      "saklarken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.795,
+    "end": 19.515,
+    "words": [
+      "patateslerini",
+      "saklarken."
+    ],
+    "active": 1
+  }
+]

@@ -1,0 +1,2 @@
+# VID-088 — V14
+Drive: https://drive.google.com/file/d/1TeUq9qKkbnQWcxn5bnnY2wM5AhSUOI1F/view — 11,76 sn / 2.035.925 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; dört incelenmiş temsili yapay sahne, gerçek önce/sonra değil. Vosk 21/33, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −7,67 dBFS. Sabunlu bez her lekeyi veya yanık hasarını gidermez; kılıf bakım etiketine uyulmalı, ütü fişten çekilip soğutulmalı, hasarlı kılıf değiştirilmeli.

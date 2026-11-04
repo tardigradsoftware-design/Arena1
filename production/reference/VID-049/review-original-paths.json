@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-049-1.png",
+      "sha256": "8d2c6420c61cb792aaaf5f9ca90ddfddb4026042435f7add5f72dab27542b7bc",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yağ lekeli dolap temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-049-2.png",
+      "sha256": "aad4e4a752782e651765c72830bb8973e5b762cb7228cbca8d5ca49a0b3bc206",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temizlik karışımına ait etiketlenmemiş şişe ve bez; işlem durağan."
+    },
+    {
+      "file": "../../remotion/public/VID-049-3.png",
+      "sha256": "2b7304220190de9ca4be29dc267881a5bceeaa0e0224faa0e669863f41d91f41",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Şişe ve bez, silme hareketi canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-049-4.png",
+      "sha256": "f67e678344eb0f8dc715b4f12dcf26e22a527a9498cf207cc6a364f3d537cc63",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz krem mutfak; gerçek önce/sonra değil."
+    }
+  ]
+}

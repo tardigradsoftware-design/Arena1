@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-018-1.png",
+      "sha256": "6a2c600bf39a8d1597c97fed6411865367e189f576d06c938bfea6119be7b615",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Saçın arka tarafı, yüz kadraj dışı."
+    },
+    {
+      "file": "../../remotion/public/VID-018-2.png",
+      "sha256": "dbb418960b9f7f5398766b31cf063e9e1c33135ba82b2640167a2c263dfe1867",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Sprey ve fırça tezgâhta destekli; sıkma eylemi görselleştirilmedi."
+    },
+    {
+      "file": "../../remotion/public/VID-018-3.png",
+      "sha256": "8282f7912fea0a11ee208f23b6047be17c343ab8c6ee094dbdd806f62546ba68",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Fırça elde saça temas ediyor, yüz kısmi kadraj."
+    },
+    {
+      "file": "../../remotion/public/VID-018-4.png",
+      "sha256": "6a6ffbd0a899b58fceebb82d2001d41a80668625cce171f3e4085ef0dd607674",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aynı renk ve model saçın düzgün görünümü, yüz kadraj dışı."
+    }
+  ]
+}

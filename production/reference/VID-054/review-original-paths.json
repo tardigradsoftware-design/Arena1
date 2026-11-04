@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-054-1.png",
+      "sha256": "3ab7750296df9b6417f1037c575beb4b99e544f6f2ab38a8c06a086c8e9c68ec",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Saç ucu doğal doku temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-054-2.png",
+      "sha256": "aa8a53237c719c92b975d8bd06fbf5a4742a98dbe19ff2d476600cd9c39853b5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâsede bulanık su, ayrı süzgeç ve pirinç."
+    },
+    {
+      "file": "../../remotion/public/VID-054-3.png",
+      "sha256": "2b889807ac0c60aea51b77bf16c3d586908267e113fe069564cc6e3cd513877e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Pirinç ve tek kâse bulanık su; uygulama canlandırılmaz."
+    },
+    {
+      "file": "../../remotion/public/VID-054-4.png",
+      "sha256": "b368ea95ed136345cee48c868e26a04f85f00ade0f27b246cb2d2f9036ae084d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Arkadan saç, gerçek önce/sonra sonucu değil."
+    }
+  ]
+}

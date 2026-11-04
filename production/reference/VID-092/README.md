@@ -1,0 +1,2 @@
+# VID-092 — V14
+Drive: https://drive.google.com/file/d/1IYFAutsI7gEf1DCMgZmlJBNE9OoHbO4O/view — 10,37 sn / 2.496.009 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; dört incelenmiş temsili yapay sahne. Vosk 20/26, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −5,71 dBFS. Ayrı saklamak yararlı olabilir ancak soğan gazının patatesi kesin çürüttüğü iddiası doğrulanmadı; patatesler serin, karanlık ve havadar yerde saklanmalı. https://www.seriouseats.com/how-to-store-potatoes-8711610

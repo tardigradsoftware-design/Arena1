@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.652,
+    "words": [
+      "sakın",
+      "yumurta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.652,
+    "end": 1.05,
+    "words": [
+      "sakın",
+      "yumurta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.05,
+    "end": 1.44,
+    "words": [
+      "sarısını",
+      "beyazından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.44,
+    "end": 1.83,
+    "words": [
+      "sarısını",
+      "beyazından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.83,
+    "end": 2.246,
+    "words": [
+      "ayırırken",
+      "kabuklar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.246,
+    "end": 2.689,
+    "words": [
+      "ayırırken",
+      "kabuklar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.689,
+    "end": 3.094,
+    "words": [
+      "arasında",
+      "aktarıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.094,
+    "end": 3.463,
+    "words": [
+      "arasında",
+      "aktarıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.463,
+    "end": 3.812,
+    "words": [
+      "patlatma",
+      "riskine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.812,
+    "end": 4.141,
+    "words": [
+      "patlatma",
+      "riskine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.141,
+    "end": 4.448,
+    "words": [
+      "girerek",
+      "sinir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.448,
+    "end": 4.733,
+    "words": [
+      "girerek",
+      "sinir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.733,
+    "end": 5.205,
+    "words": [
+      "olmayın!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.205,
+    "end": 5.783,
+    "words": [
+      "olmayın!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.783,
+    "end": 6.195,
+    "words": [
+      "plastik",
+      "şişe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.195,
+    "end": 6.51,
+    "words": [
+      "plastik",
+      "şişe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.51,
+    "end": 6.81,
+    "words": [
+      "vakumu",
+      "ayırır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.81,
+    "end": 7.223,
+    "words": [
+      "vakumu",
+      "ayırır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.223,
+    "end": 7.627,
+    "words": [
+      "Plastik",
+      "şişeyle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.627,
+    "end": 7.912,
+    "words": [
+      "Plastik",
+      "şişeyle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.912,
+    "end": 8.303,
+    "words": [
+      "çekin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.303,
+    "end": 8.67,
+    "words": [
+      "çekin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.67,
+    "end": 8.94,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.94,
+    "end": 9.24,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.24,
+    "end": 9.547,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.547,
+    "end": 9.93,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.93,
+    "end": 10.29,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.29,
+    "end": 10.688,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.688,
+    "end": 11.205,
+    "words": [
+      "yumurta",
+      "ayırırken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.205,
+    "end": 11.928,
+    "words": [
+      "yumurta",
+      "ayırırken."
+    ],
+    "active": 1
+  }
+]

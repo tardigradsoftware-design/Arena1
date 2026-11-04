@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-118-1.png",
+      "sha256": "ca38045d1860a34b8d21d26324dcc64e3fcaa0f2353bc06f6f25157427dd8f04",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yapışkan izi olan dolap temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-118-2.png",
+      "sha256": "610162214ffb5df8440611dd9d9c4e480b12850a37bf4cefe7aca13353726846",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yağ ve bez ayrı, işlem/sonuç gösterilmiyor; içerik görselden doğrulanmaz."
+    }
+  ]
+}

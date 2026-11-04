@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-039-1.png",
+      "sha256": "ca5f0a658fc24500f969ab1ec627ecab5deb758176f494482d3a6b194cc3a704",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi burun ve cilt dokusu gösterimi."
+    },
+    {
+      "file": "../../remotion/public/VID-039-2.png",
+      "sha256": "2860dea858f32d0735e72116b9206bfe05cc496e21556e4d0bfe4829a1212c8e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek birleşmiş kil karışımı ve destekli fırça."
+    },
+    {
+      "file": "../../remotion/public/VID-039-3.png",
+      "sha256": "e18af10b8029393f95c441ee7d9447bba8e98e2ca35233830c1d74a624f37c18",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâse ve fırça destekli; uygulama durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-039-4.png",
+      "sha256": "eb3ffadc3c69c110df14ac7f1c9b0b74b43dd5a413b7f14bb0bf092a89898464",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aynı kısmi burun, değişim kanıtı değil durağan temsil."
+    }
+  ]
+}

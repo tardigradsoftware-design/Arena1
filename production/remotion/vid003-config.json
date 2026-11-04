@@ -1,0 +1,78 @@
+{
+  "frames": 696,
+  "hook": [
+    "SABAHLARI YÜZÜNDEKİ",
+    "ŞİŞLİKLE GÜNE BAŞLAMA!"
+  ],
+  "result": 592,
+  "save": 627,
+  "events": [
+    {
+      "from": 120,
+      "to": 205,
+      "a": "İKİ DOĞAL",
+      "b": "MALZEME",
+      "side": "left",
+      "sfx": "beam"
+    },
+    {
+      "from": 280,
+      "to": 310,
+      "a": "YEŞİL ÇAY",
+      "b": "DEMLENMİŞ VE SOĞUK",
+      "side": "left",
+      "sfx": "beam"
+    },
+    {
+      "from": 315,
+      "to": 344,
+      "a": "SALATALIK SUYU",
+      "b": "KARIŞTIR",
+      "side": "right",
+      "sfx": "beam"
+    },
+    {
+      "from": 347,
+      "to": 380,
+      "a": "BUZ KALIBINDA",
+      "b": "DONDUR",
+      "side": "left",
+      "sfx": "beam"
+    },
+    {
+      "from": 407,
+      "to": 456,
+      "a": "TEMİZ CİLDE",
+      "b": "DAİRESEL HAREKETLER",
+      "side": "right",
+      "sfx": "beam"
+    },
+    {
+      "from": 627,
+      "to": 660,
+      "a": "KAYDET",
+      "b": "GÜZELLİK SIRRI",
+      "side": "right",
+      "sfx": "save"
+    }
+  ],
+  "voice": "VID-003-voice.wav",
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-003-1.png"
+    },
+    {
+      "from": 250,
+      "file": "VID-003-2.png"
+    },
+    {
+      "from": 405,
+      "file": "VID-003-3.png"
+    },
+    {
+      "from": 591,
+      "file": "VID-003-4.png"
+    }
+  ]
+}

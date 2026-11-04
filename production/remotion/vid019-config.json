@@ -1,0 +1,94 @@
+{
+  "frames": 697,
+  "hook": [
+    "TIKANAN LAVABOYA",
+    "AĞIR AÇICI DÖKME!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-019-1.png"
+    },
+    {
+      "from": 280,
+      "file": "VID-019-2.png"
+    },
+    {
+      "from": 498,
+      "file": "VID-019-3.png"
+    },
+    {
+      "from": 555,
+      "file": "VID-019-4.png"
+    }
+  ],
+  "result": 572,
+  "save": 632,
+  "clocks": [
+    {
+      "from": 207,
+      "to": 229
+    },
+    {
+      "from": 469,
+      "to": 498
+    }
+  ],
+  "events": [
+    {
+      "from": 207,
+      "to": 229,
+      "a": "BİR DAKİKA",
+      "b": "TIKANIKLIK",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 324,
+      "to": 352,
+      "a": "YARIM BARDAK",
+      "b": "KARBONAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 388,
+      "to": 418,
+      "a": "BİR BARDAK",
+      "b": "BEYAZ SİRKE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 469,
+      "to": 499,
+      "a": "BEŞ DAKİKA",
+      "b": "BEKLE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 527,
+      "to": 557,
+      "a": "BİR LİTRE",
+      "b": "KAYNAR SU",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 632,
+      "to": 660,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-019-voice.wav"
+}

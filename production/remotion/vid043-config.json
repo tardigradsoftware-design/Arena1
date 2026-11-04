@@ -1,0 +1,72 @@
+{
+  "frames": 590,
+  "hook": [
+    "DOLAPTAKİ",
+    "KÖTÜ KOKUYA"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-043-1.png"
+    },
+    {
+      "from": 255,
+      "file": "VID-043-2.png"
+    },
+    {
+      "from": 350,
+      "file": "VID-043-3.png"
+    },
+    {
+      "from": 458,
+      "file": "VID-043-4.png"
+    }
+  ],
+  "result": 465,
+  "save": 527,
+  "clocks": [
+    {
+      "from": 450,
+      "to": 480
+    }
+  ],
+  "events": [
+    {
+      "from": 272,
+      "to": 310,
+      "a": "KOKULU SABUN",
+      "b": "TÜL KESEYE KOY",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "perfume"
+    },
+    {
+      "from": 360,
+      "to": 395,
+      "a": "KIYAFETLERİN",
+      "b": "ARASINA YERLEŞTİR",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 458,
+      "to": 490,
+      "a": "AYLARCA",
+      "b": "KOKU YAYAR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 527,
+      "to": 557,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-043-voice.wav"
+}

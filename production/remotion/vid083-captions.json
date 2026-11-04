@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.586,
+    "words": [
+      "sakın",
+      "doğradığınız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.586,
+    "end": 0.979,
+    "words": [
+      "sakın",
+      "doğradığınız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.979,
+    "end": 1.371,
+    "words": [
+      "soğanların",
+      "açıkta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.371,
+    "end": 1.764,
+    "words": [
+      "soğanların",
+      "açıkta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.764,
+    "end": 2.156,
+    "words": [
+      "kalıp",
+      "kararmasına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.156,
+    "end": 2.549,
+    "words": [
+      "kalıp",
+      "kararmasına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.549,
+    "end": 2.88,
+    "words": [
+      "ve",
+      "koku"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.88,
+    "end": 3.15,
+    "words": [
+      "ve",
+      "koku"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.15,
+    "end": 3.42,
+    "words": [
+      "yaymasına",
+      "izin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.42,
+    "end": 3.705,
+    "words": [
+      "yaymasına",
+      "izin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.705,
+    "end": 4.11,
+    "words": [
+      "vermeyin!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.11,
+    "end": 4.537,
+    "words": [
+      "vermeyin!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.537,
+    "end": 4.86,
+    "words": [
+      "kapaklı",
+      "kapta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.86,
+    "end": 5.16,
+    "words": [
+      "kapaklı",
+      "kapta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.16,
+    "end": 5.475,
+    "words": [
+      "saklamak",
+      "taze"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.475,
+    "end": 5.768,
+    "words": [
+      "saklamak",
+      "taze"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.768,
+    "end": 6.165,
+    "words": [
+      "tutar.",
+      "Buzdolabında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.165,
+    "end": 6.705,
+    "words": [
+      "tutar.",
+      "Buzdolabında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.705,
+    "end": 7.106,
+    "words": [
+      "kapalı",
+      "kapta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.106,
+    "end": 7.369,
+    "words": [
+      "kapalı",
+      "kapta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.369,
+    "end": 7.777,
+    "words": [
+      "saklayın.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.777,
+    "end": 8.192,
+    "words": [
+      "saklayın.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.192,
+    "end": 8.467,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.467,
+    "end": 8.742,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.742,
+    "end": 9.015,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.015,
+    "end": 9.413,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.413,
+    "end": 9.825,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.825,
+    "end": 10.249,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.249,
+    "end": 10.796,
+    "words": [
+      "soğanları",
+      "saklarken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.796,
+    "end": 11.52,
+    "words": [
+      "soğanları",
+      "saklarken."
+    ],
+    "active": 1
+  }
+]

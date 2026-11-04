@@ -1,0 +1,49 @@
+{
+  "frames": 358,
+  "hook": [
+    "YUMURTA SARISINI",
+    "KOLAYCA AYIRIN"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-113-1.png"
+    },
+    {
+      "from": 172,
+      "file": "VID-113-2.png"
+    },
+    {
+      "from": 239,
+      "file": "VID-113-3.png"
+    },
+    {
+      "from": 302,
+      "file": "VID-113-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 286,
+  "clocks": [],
+  "events": [
+    {
+      "from": 175,
+      "to": 207,
+      "a": "PLASTİK ŞİŞE",
+      "b": "VAKUM ETKİSİ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 286,
+      "to": 312,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-113-voice.wav"
+}

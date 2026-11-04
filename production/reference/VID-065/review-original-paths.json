@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-065-1.png",
+      "sha256": "fb438dba9d1bd88b1ba62477a5eae4ebc9dea7dd4c5b79c7cf4fff529a1a6ab8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Filizlenmiş patatesler."
+    },
+    {
+      "file": "../../remotion/public/VID-065-2.png",
+      "sha256": "b107b63b45bf39ca109ff818d2c4ce820ccb86dd6abb4844cf4e5fd811343f78",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Sepette tek elma ve patates."
+    },
+    {
+      "file": "../../remotion/public/VID-065-3.png",
+      "sha256": "c838d7f36d72ffc9edb697d78dcfdcc6f45e2de5a342c621fbbf807dfb135f8e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kilerde aynı fikir; temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-065-4.png",
+      "sha256": "2e1ffb8fe270f62977ac95579bdfbe294d807a4a79a1987564d08ad1df16390f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kesilmiş patates, temsili."
+    }
+  ]
+}

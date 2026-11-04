@@ -1,0 +1,63 @@
+{
+  "frames": 633,
+  "hook": [
+    "DEODORANT İZİNİ",
+    "SUYLA YIKAMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-052-1.png"
+    },
+    {
+      "from": 285,
+      "file": "VID-052-2.png"
+    },
+    {
+      "from": 500,
+      "file": "VID-052-4.png"
+    }
+  ],
+  "result": 500,
+  "save": 558,
+  "clocks": [],
+  "events": [
+    {
+      "from": 307,
+      "to": 346,
+      "a": "NAYLON ÇORABI",
+      "b": "TOP HALİNE GETİR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 364,
+      "to": 402,
+      "a": "LEKENİN ÜZERİNE",
+      "b": "KURU ŞEKİLDE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 421,
+      "to": 454,
+      "a": "STATİK ELEKTRİK",
+      "b": "VE SÜRTÜNME",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 558,
+      "to": 589,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-052-voice.wav"
+}

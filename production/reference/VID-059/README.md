@@ -1,0 +1,5 @@
+# VID-059 — V14
+
+Drive: https://drive.google.com/file/d/1Kwq7Y0t7XD6M6_HvtWiBvAlJl9_fvblv/view — 20,25 sn, 2.121.078 bayt. ODS anlatımı aynen; kaynakta “olcuya” sözcüğü ve yarım son cümle korunmuştur. Tek parça voice-01, 1,45×. Dört incelenmiş yapay durağan sahne: buzdolabında yağ, kapalı şişe ve ayrı defne, dolapta kapalı şişe, salata. Defnenin yağa eklenmesi veya uzun süreli saklama canlandırılmadı.
+
+ÖNEMLİ: Kuru defne eklenmiş yağı aylarca dolapta saklama önerisi botulizm riski taşır. Idaho Üniversitesi kuru otla aromalandırılmış yağın buzdolabında en fazla dört gün saklanması veya daha uzun süre için dondurulması gerektiğini bildirir: https://extension.uidaho.edu/publishing/html/PNW664-Making-Infused-Oils-At-Home.aspx . Kaynaktaki riskli öneri değiştirilmedi; uyarısız yayımlamayın. Soğukta bulanıklaşma tek başına bozulma değildir. Vosk 35/60 eşleşme, kalan zamanlar interpolasyon; kesin senkron değil, ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve 3 sn aralıklı kare inceleme; ses tepe −4,6 dBFS. Müzik/efekt lisansları production/assets/CREDITS.md ve sentetik efekt betikleri.

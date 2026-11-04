@@ -1,0 +1,542 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.627,
+    "words": [
+      "sakın",
+      "haşladığın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.627,
+    "end": 1.102,
+    "words": [
+      "sakın",
+      "haşladığın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.102,
+    "end": 1.506,
+    "words": [
+      "makarnanın",
+      "o"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.506,
+    "end": 1.84,
+    "words": [
+      "makarnanın",
+      "o"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.84,
+    "end": 2.174,
+    "words": [
+      "nişastalı",
+      "haşlama"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.174,
+    "end": 2.507,
+    "words": [
+      "nişastalı",
+      "haşlama"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.507,
+    "end": 2.841,
+    "words": [
+      "suyunu",
+      "lavaboya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.841,
+    "end": 3.175,
+    "words": [
+      "suyunu",
+      "lavaboya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.175,
+    "end": 3.508,
+    "words": [
+      "döküp",
+      "ziyan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.508,
+    "end": 3.825,
+    "words": [
+      "döküp",
+      "ziyan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.825,
+    "end": 4.252,
+    "words": [
+      "etme!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.252,
+    "end": 4.777,
+    "words": [
+      "etme!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.777,
+    "end": 5.228,
+    "words": [
+      "restoran",
+      "usulü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.228,
+    "end": 5.67,
+    "words": [
+      "restoran",
+      "usulü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.67,
+    "end": 6.09,
+    "words": [
+      "pürüzsüz",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.09,
+    "end": 6.375,
+    "words": [
+      "pürüzsüz",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.375,
+    "end": 6.69,
+    "words": [
+      "sosa",
+      "mükemmel"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.69,
+    "end": 7.125,
+    "words": [
+      "sosa",
+      "mükemmel"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.125,
+    "end": 7.56,
+    "words": [
+      "bağlanan",
+      "makarnalar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.56,
+    "end": 7.98,
+    "words": [
+      "bağlanan",
+      "makarnalar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.98,
+    "end": 8.37,
+    "words": [
+      "yapmanın",
+      "sırrı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.37,
+    "end": 8.765,
+    "words": [
+      "yapmanın",
+      "sırrı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.765,
+    "end": 9.194,
+    "words": [
+      "o",
+      "sudadır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.194,
+    "end": 9.623,
+    "words": [
+      "o",
+      "sudadır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.623,
+    "end": 10.026,
+    "words": [
+      "Sosu",
+      "tencereye"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.026,
+    "end": 10.402,
+    "words": [
+      "Sosu",
+      "tencereye"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.402,
+    "end": 10.74,
+    "words": [
+      "dökmeden",
+      "önce"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.74,
+    "end": 11.066,
+    "words": [
+      "dökmeden",
+      "önce"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.066,
+    "end": 11.419,
+    "words": [
+      "içerisine",
+      "yarım"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.419,
+    "end": 11.707,
+    "words": [
+      "içerisine",
+      "yarım"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.707,
+    "end": 11.947,
+    "words": [
+      "çay",
+      "bardağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.947,
+    "end": 12.262,
+    "words": [
+      "çay",
+      "bardağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.262,
+    "end": 12.637,
+    "words": [
+      "nişastalı",
+      "makarna"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.637,
+    "end": 12.975,
+    "words": [
+      "nişastalı",
+      "makarna"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.975,
+    "end": 13.275,
+    "words": [
+      "haşlama",
+      "suyundan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.275,
+    "end": 13.575,
+    "words": [
+      "haşlama",
+      "suyundan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.575,
+    "end": 13.898,
+    "words": [
+      "ekle",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.898,
+    "end": 14.197,
+    "words": [
+      "ekle",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.197,
+    "end": 14.453,
+    "words": [
+      "sosu",
+      "öyle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.453,
+    "end": 14.738,
+    "words": [
+      "sosu",
+      "öyle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.738,
+    "end": 15.108,
+    "words": [
+      "karıştır.",
+      "Nişastalı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.108,
+    "end": 15.533,
+    "words": [
+      "karıştır.",
+      "Nişastalı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.533,
+    "end": 15.958,
+    "words": [
+      "su",
+      "sosun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.958,
+    "end": 16.383,
+    "words": [
+      "su",
+      "sosun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.383,
+    "end": 16.808,
+    "words": [
+      "makarnaya",
+      "yapışmasını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.808,
+    "end": 17.233,
+    "words": [
+      "makarnaya",
+      "yapışmasını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.233,
+    "end": 17.715,
+    "words": [
+      "sağlayarak",
+      "kusursuz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.715,
+    "end": 18.135,
+    "words": [
+      "sağlayarak",
+      "kusursuz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.135,
+    "end": 18.367,
+    "words": [
+      "bir",
+      "kıvam"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.367,
+    "end": 18.623,
+    "words": [
+      "bir",
+      "kıvam"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.623,
+    "end": 19.052,
+    "words": [
+      "verecektir.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.052,
+    "end": 19.425,
+    "words": [
+      "verecektir.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.425,
+    "end": 19.655,
+    "words": [
+      "şef",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.655,
+    "end": 19.931,
+    "words": [
+      "şef",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.931,
+    "end": 20.254,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.254,
+    "end": 20.648,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.648,
+    "end": 20.985,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.985,
+    "end": 21.33,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.33,
+    "end": 21.803,
+    "words": [
+      "makarna",
+      "yaparken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.803,
+    "end": 22.454,
+    "words": [
+      "makarna",
+      "yaparken."
+    ],
+    "active": 1
+  }
+]

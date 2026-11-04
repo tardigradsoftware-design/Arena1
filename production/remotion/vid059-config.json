@@ -1,0 +1,72 @@
+{
+  "frames": 607,
+  "hook": [
+    "ZEYTİNYAĞINI",
+    "BUZDOLABINA KOYMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-059-1.png"
+    },
+    {
+      "from": 248,
+      "file": "VID-059-2.png"
+    },
+    {
+      "from": 400,
+      "file": "VID-059-3.png"
+    },
+    {
+      "from": 512,
+      "file": "VID-059-4.png"
+    }
+  ],
+  "result": 495,
+  "save": 550,
+  "clocks": [
+    {
+      "from": 448,
+      "to": 485
+    }
+  ],
+  "events": [
+    {
+      "from": 284,
+      "to": 321,
+      "a": "KOYU RENKLİ",
+      "b": "CAM ŞİŞE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 354,
+      "to": 391,
+      "a": "KURU",
+      "b": "DEFNE YAPRAĞI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "leaf"
+    },
+    {
+      "from": 450,
+      "to": 484,
+      "a": "AYLARCA",
+      "b": "AROMASINI KORUR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 550,
+      "to": 582,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-059-voice.wav"
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "reference/VID-001/VID-001-a.png",
+      "sha256": "103e98036d6e51747df1a792ad0345d1874774a0acbf1d8c99a5658400848475",
+      "reviewed": true,
+      "score": 91,
+      "critical_error": false,
+      "notes": "Sararmış kılıf sepette, fiziki sahne uygun; makine arkada flu."
+    },
+    {
+      "file": "reference/VID-001/VID-001-b.png",
+      "sha256": "627d4414f380af75c1ce371f5cdaa14bf6ffe5dbb0bed8ac83ec36a12a395471",
+      "reviewed": true,
+      "score": 91,
+      "critical_error": false,
+      "notes": "Makine açık, tablet ve kaşık kılıf üstünde, bardak tezgâhta, ölçek ve temas incelendi."
+    },
+    {
+      "file": "reference/VID-001/VID-001-c.png",
+      "sha256": "02598e4b0df18831aa4945c9f3c331a9b5edf42c1d039b744b22198ac3ceeb5d",
+      "reviewed": true,
+      "score": 91,
+      "critical_error": false,
+      "notes": "Kapalı makinede sadece beyaz kumaş ve su, referans makine ve ışık benzer."
+    },
+    {
+      "file": "reference/VID-001/VID-001-d.png",
+      "sha256": "3904ce9f93857a3dd54297948bd438c8456212818ca9bf4b67c2dd546ceec9c5",
+      "reviewed": true,
+      "score": 91,
+      "critical_error": false,
+      "notes": "Katlanmış beyaz kumaş tezgâha temas ediyor; makine ve ortam uyumlu."
+    }
+  ]
+}

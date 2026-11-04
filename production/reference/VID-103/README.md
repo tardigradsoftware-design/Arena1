@@ -1,0 +1,2 @@
+# VID-103 — V14
+Drive: https://drive.google.com/file/d/1ynwzzJJwIDWl9TjvH5wKx-_xrKAs1jNS/view — 12,14 sn / 3.795.293 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; üç incelenmiş temsili yapay sahne, 4. aday yanlış önce/sonra izlenimi vermemek için kullanılmadı. Vosk 17/31, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −6,87 dBFS. Dondurmanın tüylenmeyi önlediği kanıtlanmış değil; bakım etiketine ve gıda hijyenine uyun: https://www.apartmenttherapy.com/cashmere-freezing-expert-hacks-37535324

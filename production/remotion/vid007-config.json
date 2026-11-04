@@ -1,0 +1,85 @@
+{
+  "frames": 622,
+  "hook": [
+    "PARFÜMÜ",
+    "KURU CİLDE SIKMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-007-1.png"
+    },
+    {
+      "from": 237,
+      "file": "VID-007-3.png"
+    },
+    {
+      "from": 275,
+      "file": "VID-007-2.png"
+    },
+    {
+      "from": 450,
+      "file": "VID-007-1.png"
+    }
+  ],
+  "result": 490,
+  "save": 550,
+  "clocks": [
+    {
+      "from": 123,
+      "to": 143
+    },
+    {
+      "from": 476,
+      "to": 502
+    }
+  ],
+  "events": [
+    {
+      "from": 123,
+      "to": 143,
+      "a": "BİR SAAT",
+      "b": "İÇİNDE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 270,
+      "to": 320,
+      "a": "ÇOK AZ",
+      "b": "KOKUSUZ VAZELİN",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 350,
+      "to": 390,
+      "a": "PARFÜM",
+      "b": "AYNI NOKTALARA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "perfume"
+    },
+    {
+      "from": 476,
+      "to": 505,
+      "a": "GÜN BOYU",
+      "b": "KALICILIK",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 550,
+      "to": 581,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-007-voice.wav"
+}

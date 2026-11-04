@@ -1,0 +1,58 @@
+{
+  "frames": 597,
+  "hook": [
+    "BUZDOLABI KOKUSUNA",
+    "SPREY KULLANMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-055-1.png"
+    },
+    {
+      "from": 248,
+      "file": "VID-055-2.png"
+    },
+    {
+      "from": 345,
+      "file": "VID-055-3.png"
+    },
+    {
+      "from": 492,
+      "file": "VID-055-4.png"
+    }
+  ],
+  "result": 490,
+  "save": 530,
+  "clocks": [],
+  "events": [
+    {
+      "from": 260,
+      "to": 300,
+      "a": "YARIM LİMON",
+      "b": "VE KARBONAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "lemon"
+    },
+    {
+      "from": 340,
+      "to": 380,
+      "a": "KÜÇÜK TABAKLA",
+      "b": "ARKA RAFA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 530,
+      "to": 560,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-055-voice.wav"
+}

@@ -1,0 +1,63 @@
+{
+  "frames": 726,
+  "hook": [
+    "YUMURTAYI",
+    "KÂSEYE VURMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-053-1.png"
+    },
+    {
+      "from": 440,
+      "file": "VID-053-3.png"
+    },
+    {
+      "from": 580,
+      "file": "VID-053-4.png"
+    }
+  ],
+  "result": 575,
+  "save": 636,
+  "clocks": [],
+  "events": [
+    {
+      "from": 247,
+      "to": 288,
+      "a": "DÜZ",
+      "b": "TEZGAH YÜZEYİ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 363,
+      "to": 410,
+      "a": "YUMURTAYI",
+      "b": "ORTADAN ÇATLAT",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 454,
+      "to": 487,
+      "a": "İKİ PARMAKLA",
+      "b": "NAZİKÇE AYIR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 636,
+      "to": 667,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-053-voice.wav"
+}

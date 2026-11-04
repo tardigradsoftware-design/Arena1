@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../remotion/public/VID-003-1.png",
+      "sha256": "e3d9de4bbed161fdf5eb547a3ce093a4869d5ad8cbcaac78cbd1d76d84f181c1",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi yüz ve tek göz, kullanıcıya uygun kadraj; başlangıç."
+    },
+    {
+      "file": "../remotion/public/VID-003-2.png",
+      "sha256": "dc4f39d5c78cd05f5961e952014686a62e37bf86a7ee0b8f869f252dc272bfc2",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek karışım ve dolu buz kalıbı; birleşik içerik."
+    },
+    {
+      "file": "../remotion/public/VID-003-3.png",
+      "sha256": "36b0268fa036a275be3e86fca577b92a901b6476e77ea3042807ee96946aa362",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek elde doğal tutuş ve buz/yanak teması görülüyor; gerçek cilt güvenliğini göstermez."
+    },
+    {
+      "file": "../remotion/public/VID-003-4.png",
+      "sha256": "aa384428f02758b674e496a5c00966e11231f4b54c5033ff18b0c00c3b5976e3",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aynı referans yüzün yakın kadrajı; sonuç iddiasına kanıt sayılmaz."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "frames": 727,
+  "hook": [
+    "AHŞAP MASADAKİ",
+    "CİLAYI KAZIMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-024-1.png"
+    },
+    {
+      "from": 277,
+      "file": "VID-024-2.png"
+    },
+    {
+      "from": 380,
+      "file": "VID-024-3.png"
+    },
+    {
+      "from": 567,
+      "file": "VID-024-4.png"
+    }
+  ],
+  "result": 579,
+  "save": 649,
+  "clocks": [
+    {
+      "from": 212,
+      "to": 239
+    },
+    {
+      "from": 442,
+      "to": 468
+    }
+  ],
+  "events": [
+    {
+      "from": 212,
+      "to": 239,
+      "a": "SANİYELER",
+      "b": "İÇİNDE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 311,
+      "to": 355,
+      "a": "KURU PAMUKLU",
+      "b": "BEZ SER",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 390,
+      "to": 429,
+      "a": "BUHARSIZ",
+      "b": "ILIK ÜTÜ",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "iron"
+    },
+    {
+      "from": 442,
+      "to": 473,
+      "a": "BEŞ SANİYE",
+      "b": "BEZİN ÜZERİNDE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 649,
+      "to": 680,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-024-voice.wav"
+}

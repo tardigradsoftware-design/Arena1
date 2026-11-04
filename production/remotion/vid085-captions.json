@@ -1,0 +1,316 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.532,
+    "words": [
+      "sakın",
+      "sertleşen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.532,
+    "end": 0.923,
+    "words": [
+      "sakın",
+      "sertleşen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.923,
+    "end": 1.192,
+    "words": [
+      "ve",
+      "havlu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.192,
+    "end": 1.451,
+    "words": [
+      "ve",
+      "havlu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.451,
+    "end": 1.744,
+    "words": [
+      "kumaşı",
+      "taş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.744,
+    "end": 1.995,
+    "words": [
+      "kumaşı",
+      "taş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.995,
+    "end": 2.205,
+    "words": [
+      "gibi",
+      "olan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.205,
+    "end": 2.438,
+    "words": [
+      "gibi",
+      "olan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.438,
+    "end": 2.783,
+    "words": [
+      "banyo",
+      "havlularınızı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.783,
+    "end": 3.218,
+    "words": [
+      "banyo",
+      "havlularınızı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.218,
+    "end": 3.607,
+    "words": [
+      "yumuşatmak",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.607,
+    "end": 4.012,
+    "words": [
+      "yumuşatmak",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.012,
+    "end": 4.432,
+    "words": [
+      "yumuşatıcı",
+      "kullanıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.432,
+    "end": 4.781,
+    "words": [
+      "yumuşatıcı",
+      "kullanıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.781,
+    "end": 5.104,
+    "words": [
+      "emiciliğini",
+      "yok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.104,
+    "end": 5.393,
+    "words": [
+      "emiciliğini",
+      "yok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.393,
+    "end": 5.782,
+    "words": [
+      "etmeyin!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.782,
+    "end": 6.188,
+    "words": [
+      "etmeyin!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.188,
+    "end": 6.487,
+    "words": [
+      "beyaz",
+      "sirke"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.487,
+    "end": 6.848,
+    "words": [
+      "beyaz",
+      "sirke"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.848,
+    "end": 7.255,
+    "words": [
+      "havluları",
+      "yumuşatır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.255,
+    "end": 7.662,
+    "words": [
+      "havluları",
+      "yumuşatır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.662,
+    "end": 8.068,
+    "words": [
+      "Durulama",
+      "suyuna"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.068,
+    "end": 8.475,
+    "words": [
+      "Durulama",
+      "suyuna"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.475,
+    "end": 8.882,
+    "words": [
+      "sirke",
+      "ekleyin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.882,
+    "end": 9.312,
+    "words": [
+      "sirke",
+      "ekleyin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.312,
+    "end": 9.637,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.637,
+    "end": 9.889,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.889,
+    "end": 10.196,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.196,
+    "end": 10.523,
+    "words": [
+      "bilgiyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.523,
+    "end": 10.95,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.95,
+    "end": 11.457,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.457,
+    "end": 11.961,
+    "words": [
+      "unutma,",
+      "havlularınızı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.961,
+    "end": 12.465,
+    "words": [
+      "unutma,",
+      "havlularınızı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.465,
+    "end": 13.141,
+    "words": [
+      "yıkarken."
+    ],
+    "active": 0
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "frames": 707,
+  "hook": [
+    "DİŞ MİNESİNİ",
+    "AŞINDIRMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-033-1.png"
+    },
+    {
+      "from": 254,
+      "file": "VID-033-2.png"
+    },
+    {
+      "from": 405,
+      "file": "VID-033-3.png"
+    },
+    {
+      "from": 559,
+      "file": "VID-033-4.png"
+    }
+  ],
+  "result": 572,
+  "save": 637,
+  "clocks": [
+    {
+      "from": 439,
+      "to": 468
+    }
+  ],
+  "events": [
+    {
+      "from": 311,
+      "to": 350,
+      "a": "OLGUN ÇİLEK",
+      "b": "EZ VE KARIŞTIR",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "strawberry"
+    },
+    {
+      "from": 376,
+      "to": 405,
+      "a": "KARBONAT",
+      "b": "YARIM ÇAY KAŞIĞI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 439,
+      "to": 469,
+      "a": "İKİ DAKİKA",
+      "b": "NAZİKÇE FIRÇALA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 637,
+      "to": 666,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-033-voice.wav"
+}

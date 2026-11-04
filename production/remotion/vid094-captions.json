@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.637,
+    "words": [
+      "sakın",
+      "banyo"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.637,
+    "end": 0.999,
+    "words": [
+      "sakın",
+      "banyo"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.999,
+    "end": 1.35,
+    "words": [
+      "fayans",
+      "derzlerindeki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.35,
+    "end": 1.707,
+    "words": [
+      "fayans",
+      "derzlerindeki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.707,
+    "end": 2.064,
+    "words": [
+      "su",
+      "izi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.064,
+    "end": 2.42,
+    "words": [
+      "su",
+      "izi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.42,
+    "end": 2.777,
+    "words": [
+      "kararmalarını",
+      "önlemek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.777,
+    "end": 3.105,
+    "words": [
+      "kararmalarını",
+      "önlemek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.105,
+    "end": 3.442,
+    "words": [
+      "için",
+      "her"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.442,
+    "end": 3.735,
+    "words": [
+      "için",
+      "her"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.735,
+    "end": 3.975,
+    "words": [
+      "duş",
+      "sonrası"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.975,
+    "end": 4.328,
+    "words": [
+      "duş",
+      "sonrası"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.328,
+    "end": 4.74,
+    "words": [
+      "saatlerce",
+      "kurulama"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.74,
+    "end": 5.13,
+    "words": [
+      "saatlerce",
+      "kurulama"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.13,
+    "end": 5.61,
+    "words": [
+      "yapmayın!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.61,
+    "end": 6.592,
+    "words": [
+      "yapmayın!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.592,
+    "end": 7.381,
+    "words": [
+      "sirke",
+      "spreyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.381,
+    "end": 7.564,
+    "words": [
+      "sirke",
+      "spreyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.564,
+    "end": 7.748,
+    "words": [
+      "korur.",
+      "Sirke"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.748,
+    "end": 7.931,
+    "words": [
+      "korur.",
+      "Sirke"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.931,
+    "end": 8.114,
+    "words": [
+      "püskürtün.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.114,
+    "end": 8.31,
+    "words": [
+      "püskürtün.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.31,
+    "end": 8.569,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.569,
+    "end": 8.876,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.876,
+    "end": 9.195,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.195,
+    "end": 9.615,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.615,
+    "end": 10.027,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.027,
+    "end": 10.402,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.402,
+    "end": 10.83,
+    "words": [
+      "duş",
+      "sonrasında."
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.83,
+    "end": 11.505,
+    "words": [
+      "duş",
+      "sonrasında."
+    ],
+    "active": 1
+  }
+]

@@ -1,0 +1,2 @@
+# VID-095 — V14
+Drive: https://drive.google.com/file/d/1f4PiNbk9v5qvCvrijYnGbi2hYvawrvRo/view — 12,59 sn / 1.925.748 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; dört incelenmiş temsili yapay sahne. Vosk 20/31, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −6,55 dBFS. Sirke çatlamayı önlemeyi garanti etmez, çatlak oluşursa akın pıhtılaşmasına yardımcı olabilir. Kaynar suya dikkat edin: https://www.chefsresource.com/how-to-hard-boil-eggs-vinegar/

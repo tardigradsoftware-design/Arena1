@@ -1,0 +1,3 @@
+# VID-078 — V14
+Drive: https://drive.google.com/file/d/1wvqakgGqIkkEYZsSo26-ON1-rHW5rhVt/view — 13,44 sn / 2.895.280 bayt. Özgün ODS (son cümle yarım), voice-01 1,45×; üç incelenmiş temsili yapay sahne, ilk sahne sonda tekrar; 4. aday senaryoda olmayan kremi göstermekten kaçınmak için kullanılmadı. Cilde uygulama canlandırılmadı. Vosk 28/38, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniye aralıklı kare kontrolü; tepe −6,41 dBFS.
+ÖNEMLİ: Limon cildi tahriş edebilir, güneşle birleştiğinde fototoksik yanık ve lekelere yol açabilir. Uygulamayın, uyarısız yayımlamayın. https://forefrontdermatology.com/what-are-citrus-burns/

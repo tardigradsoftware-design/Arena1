@@ -1,0 +1,3 @@
+# VID-003 — V14 stili kaynaklar ve kontrol
+
+`VID-003-raw.wav` önceki voice-01 ile tek parça; `VID-003-fast.wav` 1,45×. Dört görsel incelendi ve `review-original-paths.json` SHA kayıtları hazırlandı. 1 ve 3 sonradan aynı kısmi yüz referansına göre oluşturuldu; 2 tek yeşil çay + salatalık suyu karışımı ve kalıp, 3 buz ve cilt teması, 4 kısmi yüzdür. İlk üretilen tam profilli yüz reddedildi ve kullanılmadı. Gözenek küçültme vb. sonuçlar doğrulanmamıştır; buzu doğrudan cilde uygulamak soğuk yanığı ve tahriş riski taşır. 39/63 Vosk eşleşmesi, kalanı interpolasyon; ses bütünüyle dinlenmedi. 15 örnek kare ve tam decode incelendi; siyah aralık tespit edilmedi. Drive: https://drive.google.com/file/d/1qDz-u-ZwtVXnuYa9oOTSO152WPx4J27P/view

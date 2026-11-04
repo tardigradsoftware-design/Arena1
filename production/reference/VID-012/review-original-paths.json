@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-012-1.png",
+      "sha256": "56303c45dd7af9e5b97103c9e36d626ce266c4a982929bdee5965bfcdc28b855",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Etiket kalıntılı kavanoz tezgah üzerinde."
+    },
+    {
+      "file": "../../remotion/public/VID-012-2.png",
+      "sha256": "83fffa86c44b7a2c0605f338f023bd67dd1ced49eeaf22da08bc6a9907754422",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Fön makinesi ve etiketli kavanoz tezgaha dayanıyor; çalışma anı değil temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-012-3.png",
+      "sha256": "bf2265866f2ec317ddc89116bd284b58b09a0f6aa1bce9ff5af1c3405fe1ba29",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Etiket elle tutuluyor ve kavanoz tezgah üzerinde; kısmi el anatomisi makul."
+    },
+    {
+      "file": "../../remotion/public/VID-012-4.png",
+      "sha256": "ab52ac8ae2278d79b494762685bdeb16fc49b1d90c3d8f30bfc3b9cc7ca320a7",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz cam kavanoz, yağ ve bez tezgah üzerinde."
+    }
+  ]
+}

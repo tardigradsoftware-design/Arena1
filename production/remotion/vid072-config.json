@@ -1,0 +1,63 @@
+{
+  "frames": 509,
+  "hook": [
+    "KIRILAN TIRNAKLAR",
+    "İÇİN ÖNERİ"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-072-1.png"
+    },
+    {
+      "from": 143,
+      "file": "VID-072-2.png"
+    },
+    {
+      "from": 289,
+      "file": "VID-072-3.png"
+    },
+    {
+      "from": 405,
+      "file": "VID-072-4.png"
+    }
+  ],
+  "result": 415,
+  "save": 441,
+  "clocks": [
+    {
+      "from": 327,
+      "to": 360
+    }
+  ],
+  "events": [
+    {
+      "to": 290,
+      "a": "ZEYTİNYAĞI",
+      "b": "VE SARIMSAK",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon",
+      "from": 255
+    },
+    {
+      "to": 360,
+      "a": "ON DAKİKA",
+      "b": "TIRNAK BAKIMI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock",
+      "from": 327
+    },
+    {
+      "to": 468,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 441
+    }
+  ],
+  "voice": "VID-072-voice.wav"
+}

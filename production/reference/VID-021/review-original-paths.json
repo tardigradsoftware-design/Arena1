@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-021-1.png",
+      "sha256": "71c7fadb0bfd21a430b720b8ba6ad3660de8360cfe69b6f3a124b76bf935dad6",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Fondöten lekeli beyaz gömlek yakası."
+    },
+    {
+      "file": "../../remotion/public/VID-021-2.png",
+      "sha256": "a4b6054d3e5b853028c66b02e27ceedf88c2bbacd6d28d581f9cbd7cd6921646",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Köpük yakada, kutu kumaşa dayanıyor."
+    },
+    {
+      "file": "../../remotion/public/VID-021-3.png",
+      "sha256": "edd07507273e3de6cc8ad13877516491dd1ab21bc202b13911b91831d505919b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yakada köpük ve havlu, uygulama temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-021-4.png",
+      "sha256": "d5716f35afdb74eedaa60bb0bb4fe3cf78db3ac2806171227489e28a9b24cc3f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Lekesiz yaka temsili sonuç."
+    }
+  ]
+}

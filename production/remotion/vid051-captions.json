@@ -1,0 +1,542 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.574,
+    "words": [
+      "sakın",
+      "kimyasal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.574,
+    "end": 0.94,
+    "words": [
+      "sakın",
+      "kimyasal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.94,
+    "end": 1.29,
+    "words": [
+      "kirpirik",
+      "serumlarına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.29,
+    "end": 1.64,
+    "words": [
+      "kirpirik",
+      "serumlarına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.64,
+    "end": 1.958,
+    "words": [
+      "yüksek",
+      "paralar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.958,
+    "end": 2.272,
+    "words": [
+      "yüksek",
+      "paralar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.272,
+    "end": 2.7,
+    "words": [
+      "harcama!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.7,
+    "end": 3.09,
+    "words": [
+      "harcama!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.09,
+    "end": 3.36,
+    "words": [
+      "evde",
+      "dudak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.36,
+    "end": 3.731,
+    "words": [
+      "evde",
+      "dudak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.731,
+    "end": 4.202,
+    "words": [
+      "dolgunlaştıran",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.202,
+    "end": 4.672,
+    "words": [
+      "dolgunlaştıran",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.672,
+    "end": 5.143,
+    "words": [
+      "kirpikleri",
+      "gürleştiren"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.143,
+    "end": 5.614,
+    "words": [
+      "kirpikleri",
+      "gürleştiren"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.614,
+    "end": 5.985,
+    "words": [
+      "mucizevi",
+      "bakım"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.985,
+    "end": 6.255,
+    "words": [
+      "mucizevi",
+      "bakım"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.255,
+    "end": 6.525,
+    "words": [
+      "yağı",
+      "formülü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.525,
+    "end": 6.772,
+    "words": [
+      "yağı",
+      "formülü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.772,
+    "end": 7.035,
+    "words": [
+      "seni",
+      "bekliyor."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.035,
+    "end": 7.56,
+    "words": [
+      "seni",
+      "bekliyor."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.56,
+    "end": 8.025,
+    "words": [
+      "Temiz",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.025,
+    "end": 8.213,
+    "words": [
+      "Temiz",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.213,
+    "end": 8.539,
+    "words": [
+      "maskara",
+      "fırçasına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.539,
+    "end": 8.996,
+    "words": [
+      "maskara",
+      "fırçasına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.996,
+    "end": 9.383,
+    "words": [
+      "eşit",
+      "miktarda"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.383,
+    "end": 9.697,
+    "words": [
+      "eşit",
+      "miktarda"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.697,
+    "end": 9.975,
+    "words": [
+      "hint",
+      "yağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.975,
+    "end": 10.219,
+    "words": [
+      "hint",
+      "yağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.219,
+    "end": 10.466,
+    "words": [
+      "ile",
+      "tatlı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.466,
+    "end": 10.732,
+    "words": [
+      "ile",
+      "tatlı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.732,
+    "end": 10.98,
+    "words": [
+      "badem",
+      "yağı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.98,
+    "end": 11.273,
+    "words": [
+      "badem",
+      "yağı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.273,
+    "end": 11.648,
+    "words": [
+      "damlatıp",
+      "her"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.648,
+    "end": 11.933,
+    "words": [
+      "damlatıp",
+      "her"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.933,
+    "end": 12.172,
+    "words": [
+      "gece",
+      "yatmadan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.172,
+    "end": 12.465,
+    "words": [
+      "gece",
+      "yatmadan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.465,
+    "end": 12.797,
+    "words": [
+      "önce",
+      "kaş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.797,
+    "end": 13.163,
+    "words": [
+      "önce",
+      "kaş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.163,
+    "end": 13.527,
+    "words": [
+      "ve",
+      "kirpiklerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.527,
+    "end": 13.893,
+    "words": [
+      "ve",
+      "kirpiklerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.893,
+    "end": 14.258,
+    "words": [
+      "nazikçe",
+      "uygula."
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.258,
+    "end": 14.622,
+    "words": [
+      "nazikçe",
+      "uygula."
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.622,
+    "end": 14.94,
+    "words": [
+      "Hint",
+      "yağının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.94,
+    "end": 15.24,
+    "words": [
+      "Hint",
+      "yağının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.24,
+    "end": 15.578,
+    "words": [
+      "zengin",
+      "yapısı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.578,
+    "end": 15.953,
+    "words": [
+      "zengin",
+      "yapısı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.953,
+    "end": 16.35,
+    "words": [
+      "kökleri",
+      "besleyerek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.35,
+    "end": 16.71,
+    "words": [
+      "kökleri",
+      "besleyerek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.71,
+    "end": 16.98,
+    "words": [
+      "kısa",
+      "sürede"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.98,
+    "end": 17.273,
+    "words": [
+      "kısa",
+      "sürede"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.273,
+    "end": 17.648,
+    "words": [
+      "uzatacaktır.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.648,
+    "end": 18.023,
+    "words": [
+      "uzatacaktır.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.023,
+    "end": 18.398,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.398,
+    "end": 18.758,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.758,
+    "end": 19.17,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.17,
+    "end": 19.538,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.538,
+    "end": 19.825,
+    "words": [
+      "unutma,",
+      "kaş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.825,
+    "end": 20.147,
+    "words": [
+      "unutma,",
+      "kaş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.147,
+    "end": 20.468,
+    "words": [
+      "ve",
+      "kirpiklerini."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.468,
+    "end": 20.949,
+    "words": [
+      "ve",
+      "kirpiklerini."
+    ],
+    "active": 1
+  }
+]

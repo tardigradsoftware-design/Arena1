@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-097-1.png",
+      "sha256": "21e928ca1f63c2e8e750b91d19e705945fd0e0524f894087e1c00a75c1a8fca3",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yanık tepsi temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-097-2.png",
+      "sha256": "f58291b9594b1006eff619f5cbacfc19f6e15e74b6ba2ef4237f6215a249f48e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Buruşuk folyo, karbonat ve tepsi, ovma gösterilmiyor."
+    }
+  ]
+}

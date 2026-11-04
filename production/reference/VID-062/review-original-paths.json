@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-062-1.png",
+      "sha256": "91ef600088f488fdcdbc5a25f20147e511e905b77784254a80764397e1aa5815",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Soğan ve sarımsak tezgâhta."
+    },
+    {
+      "file": "../../remotion/public/VID-062-2.png",
+      "sha256": "b1b06790e60fc04f613de3863026c33c00e35c8b5914643e0a3ba41bd9ae63b2",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Lavaboda çelik kaşık; uygulama canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-062-3.png",
+      "sha256": "9746aa59203a5cde71a6208f922e387ce2d1bc1f0afd272377e354ec2d191e17",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Havlu üzerinde çelik kaşık."
+    },
+    {
+      "file": "../../remotion/public/VID-062-4.png",
+      "sha256": "b0fa33b7e27e321c488a09990db5084dba31f410af51c0983dacb3c187870a58",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temsili mutfak lavabosu."
+    }
+  ]
+}

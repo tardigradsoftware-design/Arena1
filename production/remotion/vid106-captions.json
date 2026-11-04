@@ -1,0 +1,290 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.525,
+    "words": [
+      "sakın",
+      "ütü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.525,
+    "end": 0.84,
+    "words": [
+      "sakın",
+      "ütü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.84,
+    "end": 1.2,
+    "words": [
+      "masasının",
+      "altından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.2,
+    "end": 1.568,
+    "words": [
+      "masasının",
+      "altından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.568,
+    "end": 1.883,
+    "words": [
+      "su",
+      "damlatıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.883,
+    "end": 2.199,
+    "words": [
+      "su",
+      "damlatıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.199,
+    "end": 2.476,
+    "words": [
+      "yerleri",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.476,
+    "end": 2.7,
+    "words": [
+      "yerleri",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.7,
+    "end": 3.008,
+    "words": [
+      "masayı",
+      "mahveden"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.008,
+    "end": 3.401,
+    "words": [
+      "masayı",
+      "mahveden"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.401,
+    "end": 3.784,
+    "words": [
+      "kireçli",
+      "buhar"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.784,
+    "end": 4.136,
+    "words": [
+      "kireçli",
+      "buhar"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.136,
+    "end": 4.459,
+    "words": [
+      "sorununa",
+      "sessiz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.459,
+    "end": 4.792,
+    "words": [
+      "sorununa",
+      "sessiz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.792,
+    "end": 5.25,
+    "words": [
+      "kalmayın!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.25,
+    "end": 5.678,
+    "words": [
+      "kalmayın!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.678,
+    "end": 5.947,
+    "words": [
+      "temiz",
+      "bez"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.947,
+    "end": 6.203,
+    "words": [
+      "temiz",
+      "bez"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.203,
+    "end": 6.457,
+    "words": [
+      "sermek",
+      "çözer."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.457,
+    "end": 6.831,
+    "words": [
+      "sermek",
+      "çözer."
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.831,
+    "end": 7.213,
+    "words": [
+      "Altına",
+      "havlu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.213,
+    "end": 7.487,
+    "words": [
+      "Altına",
+      "havlu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.487,
+    "end": 7.766,
+    "words": [
+      "serin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.766,
+    "end": 8.003,
+    "words": [
+      "serin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.003,
+    "end": 8.228,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.228,
+    "end": 8.485,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.485,
+    "end": 8.771,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.771,
+    "end": 9.167,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.167,
+    "end": 9.525,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.525,
+    "end": 9.862,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.862,
+    "end": 10.244,
+    "words": [
+      "ütü",
+      "yaparken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.244,
+    "end": 10.765,
+    "words": [
+      "ütü",
+      "yaparken."
+    ],
+    "active": 1
+  }
+]

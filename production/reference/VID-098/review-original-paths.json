@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-098-1.png",
+      "sha256": "f2b78dbd2fb9e5eccf65cd98f26aba76c8d8320b8c83e24fdc10b9499f40b5bd",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Açık pakette bisküvi."
+    },
+    {
+      "file": "../../remotion/public/VID-098-2.png",
+      "sha256": "fa07c9674ca038221def5fdc477e776dc05e2fa6dda395d901a2a138aeddaf59",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bisküvi ve küp şeker kavanozda."
+    },
+    {
+      "file": "../../remotion/public/VID-098-3.png",
+      "sha256": "68552d53110c9c191333cf87d3f2ca6f945f867dfc5e4b7455963129e0e2bf61",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı kavanozda bisküvi ve küp şeker."
+    },
+    {
+      "file": "../../remotion/public/VID-098-4.png",
+      "sha256": "9fcf2208012c4408feda85b411818f4d13998d79468d4a071bea6638d3b78aa5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bisküvi kavanozu temsili."
+    }
+  ]
+}

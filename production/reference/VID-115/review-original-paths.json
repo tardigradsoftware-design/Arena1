@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-115-1.png",
+      "sha256": "f4052bd18aa0cca5f3f5d1ecd6599397adcd6ab3eabfe111dd6146ad7a82dae5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kireçli başlık, su kapalı ve gerçekçi."
+    },
+    {
+      "file": "../../remotion/public/VID-115-2.png",
+      "sha256": "387888126c7f3f3d2a60cfe0d55753f79371d764252dd903c4919891557e1e99",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Etiketsiz sıvı ve boş poşet temsili; uygulama gösterilmez."
+    }
+  ]
+}

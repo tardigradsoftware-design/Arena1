@@ -1,0 +1,280 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.525,
+    "words": [
+      "sakın",
+      "kışın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.525,
+    "end": 0.862,
+    "words": [
+      "sakın",
+      "kışın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.862,
+    "end": 1.208,
+    "words": [
+      "soğuktan",
+      "çatlayan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.208,
+    "end": 1.552,
+    "words": [
+      "soğuktan",
+      "çatlayan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.552,
+    "end": 1.913,
+    "words": [
+      "parmak",
+      "uçlarınız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.913,
+    "end": 2.288,
+    "words": [
+      "parmak",
+      "uçlarınız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.288,
+    "end": 2.61,
+    "words": [
+      "ve",
+      "sertleşen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.61,
+    "end": 2.925,
+    "words": [
+      "ve",
+      "sertleşen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.925,
+    "end": 3.259,
+    "words": [
+      "tırnak",
+      "etleriniz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.259,
+    "end": 3.566,
+    "words": [
+      "tırnak",
+      "etleriniz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.566,
+    "end": 3.893,
+    "words": [
+      "için",
+      "ağır"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.893,
+    "end": 4.207,
+    "words": [
+      "için",
+      "ağır"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.207,
+    "end": 4.492,
+    "words": [
+      "kremlere",
+      "para"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.492,
+    "end": 4.838,
+    "words": [
+      "kremlere",
+      "para"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.838,
+    "end": 5.242,
+    "words": [
+      "dökmeyin!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.242,
+    "end": 5.617,
+    "words": [
+      "dökmeyin!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.617,
+    "end": 6.041,
+    "words": [
+      "eczane",
+      "gliserini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.041,
+    "end": 6.544,
+    "words": [
+      "eczane",
+      "gliserini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.544,
+    "end": 7.035,
+    "words": [
+      "harika",
+      "nemlendirir."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.035,
+    "end": 7.526,
+    "words": [
+      "harika",
+      "nemlendirir."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.526,
+    "end": 8.029,
+    "words": [
+      "Gliserin",
+      "uygulayın."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.029,
+    "end": 8.503,
+    "words": [
+      "Gliserin",
+      "uygulayın."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.503,
+    "end": 8.831,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.831,
+    "end": 9.096,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.096,
+    "end": 9.42,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.42,
+    "end": 9.818,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.818,
+    "end": 10.178,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.178,
+    "end": 10.575,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.575,
+    "end": 11.017,
+    "words": [
+      "elleri",
+      "korumak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.017,
+    "end": 11.34,
+    "words": [
+      "elleri",
+      "korumak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.34,
+    "end": 11.819,
+    "words": [
+      "için."
+    ],
+    "active": 0
+  }
+]

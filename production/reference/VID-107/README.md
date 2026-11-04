@@ -1,0 +1,2 @@
+# VID-107
+Drive: https://drive.google.com/file/d/1DcPqi91uDVCdul6TSyrdlblmhXOhU1IN/view — 11,52 sn, 2.164.508 bayt. Senaryo aynen seslendirildi (1,45×), Vosk 23/30 çapa; kalanlar interpolasyon. Ses baştan sona dinlenmedi; senkron kesin değil. Limon suyu tane tane pilavı garanti etmez, pirinç türü ve pişirme yöntemi de önemlidir. 3–4 görselleri senaryoda olmayan ilave malzemeler nedeniyle kullanılmadı. Limon damlatma işlemi gösterilmiyor.

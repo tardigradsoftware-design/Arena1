@@ -1,0 +1,49 @@
+{
+  "frames": 353,
+  "hook": [
+    "SOĞANLARINIZ",
+    "FİLİZLENİYOR MU?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-110-1.png"
+    },
+    {
+      "from": 155,
+      "file": "VID-110-2.png"
+    },
+    {
+      "from": 220,
+      "file": "VID-110-4.png"
+    },
+    {
+      "from": 298,
+      "file": "VID-110-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 286,
+  "clocks": [],
+  "events": [
+    {
+      "from": 169,
+      "to": 202,
+      "a": "KARANFİL",
+      "b": "VE KURU SOĞAN",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "leaf"
+    },
+    {
+      "from": 286,
+      "to": 312,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-110-voice.wav"
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-026-1.png",
+      "sha256": "a6ed8b5889fb9c0ad061312fa83a4930e7e5038226265a0adb49fb143e2b2917",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Makas ve yırtık kenarlı kağıt tezgâhta; makas geometrisi ve destek uygun."
+    },
+    {
+      "file": "../../remotion/public/VID-026-2.png",
+      "sha256": "b1a2429774a557265bab61b76f670a7affd8cbcb41271526e7065574a4feca3a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Katlı folyo ve kapalı makas tezgâhta; katlama durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-026-3.png",
+      "sha256": "af13f9731d3ae02722518aa7508b732c64f5c35b28a69e04fad0ecdd6ef04820",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Folyo şeritleri ve kapalı makas, kesme durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-026-4.png",
+      "sha256": "42d362b632e2b94e850a0aca8303b52b0ef02c82d3639c12bfa6e64a5ad230c5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı makas ve kağıt şeritler, sonuç durağan temsil."
+    }
+  ]
+}

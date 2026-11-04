@@ -1,0 +1,290 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.578,
+    "words": [
+      "sakın",
+      "fırın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.578,
+    "end": 0.907,
+    "words": [
+      "sakın",
+      "fırın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.907,
+    "end": 1.222,
+    "words": [
+      "tepsisine",
+      "yapışan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.222,
+    "end": 1.537,
+    "words": [
+      "tepsisine",
+      "yapışan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.537,
+    "end": 1.894,
+    "words": [
+      "o",
+      "taşlaşmış"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.894,
+    "end": 2.291,
+    "words": [
+      "o",
+      "taşlaşmış"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.291,
+    "end": 2.64,
+    "words": [
+      "siyah",
+      "yağları"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.64,
+    "end": 2.955,
+    "words": [
+      "siyah",
+      "yağları"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.955,
+    "end": 3.27,
+    "words": [
+      "çıkarmak",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.27,
+    "end": 3.683,
+    "words": [
+      "çıkarmak",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.683,
+    "end": 4.158,
+    "words": [
+      "saatlerce",
+      "telleyip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.158,
+    "end": 4.584,
+    "words": [
+      "saatlerce",
+      "telleyip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.584,
+    "end": 5.01,
+    "words": [
+      "tepsiyi",
+      "hurdaya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.01,
+    "end": 5.436,
+    "words": [
+      "tepsiyi",
+      "hurdaya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.436,
+    "end": 5.862,
+    "words": [
+      "çevirmeyin!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.862,
+    "end": 6.263,
+    "words": [
+      "çevirmeyin!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.263,
+    "end": 6.609,
+    "words": [
+      "alüminyum",
+      "folyo"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.609,
+    "end": 6.928,
+    "words": [
+      "alüminyum",
+      "folyo"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.928,
+    "end": 7.226,
+    "words": [
+      "ve",
+      "karbonat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.226,
+    "end": 7.553,
+    "words": [
+      "ve",
+      "karbonat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.553,
+    "end": 7.97,
+    "words": [
+      "çözer.",
+      "Folyoyla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.97,
+    "end": 8.43,
+    "words": [
+      "çözer.",
+      "Folyoyla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.43,
+    "end": 8.89,
+    "words": [
+      "ovun.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.89,
+    "end": 9.225,
+    "words": [
+      "ovun.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.225,
+    "end": 9.484,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.484,
+    "end": 9.791,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.791,
+    "end": 10.117,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.117,
+    "end": 10.455,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.455,
+    "end": 10.785,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.785,
+    "end": 11.205,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.205,
+    "end": 11.715,
+    "words": [
+      "tepsileri",
+      "temizlerken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.715,
+    "end": 12.431,
+    "words": [
+      "tepsileri",
+      "temizlerken."
+    ],
+    "active": 1
+  }
+]

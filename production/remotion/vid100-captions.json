@@ -1,0 +1,298 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.585,
+    "words": [
+      "sakın",
+      "evcil"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.585,
+    "end": 1.039,
+    "words": [
+      "sakın",
+      "evcil"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.039,
+    "end": 1.556,
+    "words": [
+      "hayvanlarınızın",
+      "koltuklarda"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.556,
+    "end": 2.04,
+    "words": [
+      "hayvanlarınızın",
+      "koltuklarda"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.04,
+    "end": 2.442,
+    "words": [
+      "bıraktığı",
+      "o"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.442,
+    "end": 2.797,
+    "words": [
+      "bıraktığı",
+      "o"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.797,
+    "end": 3.152,
+    "words": [
+      "yoğun",
+      "tüy"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.152,
+    "end": 3.507,
+    "words": [
+      "yoğun",
+      "tüy"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.507,
+    "end": 3.862,
+    "words": [
+      "yığınlarını",
+      "ellerinizle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.862,
+    "end": 4.217,
+    "words": [
+      "yığınlarını",
+      "ellerinizle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.217,
+    "end": 4.508,
+    "words": [
+      "tek",
+      "tek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.508,
+    "end": 4.858,
+    "words": [
+      "tek",
+      "tek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.858,
+    "end": 5.334,
+    "words": [
+      "toplamakla",
+      "ömrünüzü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.334,
+    "end": 5.811,
+    "words": [
+      "toplamakla",
+      "ömrünüzü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.811,
+    "end": 6.287,
+    "words": [
+      "tüketmeyin!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.287,
+    "end": 6.705,
+    "words": [
+      "tüketmeyin!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.705,
+    "end": 7.037,
+    "words": [
+      "banyo",
+      "lifi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.037,
+    "end": 7.34,
+    "words": [
+      "banyo",
+      "lifi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.34,
+    "end": 7.644,
+    "words": [
+      "tüyleri",
+      "toplar."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.644,
+    "end": 8.053,
+    "words": [
+      "tüyleri",
+      "toplar."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.053,
+    "end": 8.488,
+    "words": [
+      "Banyo",
+      "lifiyle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.488,
+    "end": 8.843,
+    "words": [
+      "Banyo",
+      "lifiyle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.843,
+    "end": 9.197,
+    "words": [
+      "silin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.197,
+    "end": 9.488,
+    "words": [
+      "silin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.488,
+    "end": 9.758,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.758,
+    "end": 10.072,
+    "words": [
+      "pratik",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.072,
+    "end": 10.421,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.421,
+    "end": 10.804,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.804,
+    "end": 11.123,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.123,
+    "end": 11.52,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.52,
+    "end": 11.987,
+    "words": [
+      "koltuk",
+      "tüylerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.987,
+    "end": 12.381,
+    "words": [
+      "koltuk",
+      "tüylerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.381,
+    "end": 12.972,
+    "words": [
+      "temizlerken."
+    ],
+    "active": 0
+  }
+]

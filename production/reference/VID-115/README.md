@@ -1,0 +1,2 @@
+# VID-115
+Drive: https://drive.google.com/file/d/15fYMUEWDjKcY4ynPU8RLu-e6uh6bsh1p/view — 11,90 sn, 2.017.213 bayt. Senaryo aynen seslendirildi (1,45×); Vosk 17/33 çapa, diğerleri interpolasyon. Ses baştan sona dinlenmedi; senkron kesin değil. Sirke bazı başlık kaplamalarına zarar verebilir; üretici talimatlarına uyulmalı. Sirke çamaşır suyu/klorlu temizleyicilerle asla karıştırılmaz, zehirli klor gazı oluşabilir. 3. görsel başlığın gerçek dışı bağlantısı, 4. görsel sıvının bulanıklığı nedeniyle kullanılmadı. İşlem ve sonuç gösterilmez.

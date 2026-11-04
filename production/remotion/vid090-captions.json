@@ -1,0 +1,290 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.547,
+    "words": [
+      "sakın",
+      "sertleşen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.547,
+    "end": 0.9,
+    "words": [
+      "sakın",
+      "sertleşen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.9,
+    "end": 1.258,
+    "words": [
+      "ve",
+      "koyulaşan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.258,
+    "end": 1.672,
+    "words": [
+      "ve",
+      "koyulaşan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.672,
+    "end": 2.087,
+    "words": [
+      "dirseklerinizi",
+      "gizlemek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.087,
+    "end": 2.422,
+    "words": [
+      "dirseklerinizi",
+      "gizlemek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.422,
+    "end": 2.67,
+    "words": [
+      "için",
+      "uzun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.67,
+    "end": 2.925,
+    "words": [
+      "için",
+      "uzun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.925,
+    "end": 3.195,
+    "words": [
+      "kollar",
+      "giymek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.195,
+    "end": 3.458,
+    "words": [
+      "kollar",
+      "giymek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.458,
+    "end": 3.75,
+    "words": [
+      "zorunda",
+      "kalmayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.75,
+    "end": 4.195,
+    "words": [
+      "zorunda",
+      "kalmayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.195,
+    "end": 4.618,
+    "words": [
+      "Çünkü",
+      "vazelin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.618,
+    "end": 4.906,
+    "words": [
+      "Çünkü",
+      "vazelin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.906,
+    "end": 5.22,
+    "words": [
+      "ve",
+      "limonla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.22,
+    "end": 5.56,
+    "words": [
+      "ve",
+      "limonla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.56,
+    "end": 5.918,
+    "words": [
+      "yumuşatmak",
+      "çok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.918,
+    "end": 6.232,
+    "words": [
+      "yumuşatmak",
+      "çok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.232,
+    "end": 6.622,
+    "words": [
+      "kolay.",
+      "Gece"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.622,
+    "end": 7.035,
+    "words": [
+      "kolay.",
+      "Gece"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.035,
+    "end": 7.32,
+    "words": [
+      "yatmadan",
+      "önce"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.32,
+    "end": 7.604,
+    "words": [
+      "yatmadan",
+      "önce"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.604,
+    "end": 7.901,
+    "words": [
+      "sürün.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.901,
+    "end": 8.186,
+    "words": [
+      "sürün.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.186,
+    "end": 8.459,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.459,
+    "end": 8.767,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.767,
+    "end": 9.195,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.195,
+    "end": 9.615,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.615,
+    "end": 10.035,
+    "words": [
+      "unutma,",
+      "dirseklerinizi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.035,
+    "end": 10.545,
+    "words": [
+      "unutma,",
+      "dirseklerinizi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.545,
+    "end": 10.95,
+    "words": [
+      "korumak",
+      "için."
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.95,
+    "end": 11.412,
+    "words": [
+      "korumak",
+      "için."
+    ],
+    "active": 1
+  }
+]

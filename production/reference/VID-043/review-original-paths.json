@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-043-1.png",
+      "sha256": "f3cdc6aad4b3ab0458860164c3a78f5b288eb37ff4406455c523adbc3a867eac",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Açık dolap ve giysiler; koku görsel olarak temsil edilemez."
+    },
+    {
+      "file": "../../remotion/public/VID-043-2.png",
+      "sha256": "bcf4f64cd648ff9faea54b8f1ae00382cbce8c20a656c80406c5099c856523b4",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tül kese içinde katı sabun."
+    },
+    {
+      "file": "../../remotion/public/VID-043-3.png",
+      "sha256": "8a617ce353895cc174e2ce3028f9e2e0a37a4f7421b7aa296e07cfa0a326f296",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Giysiler üzerinde kese; sabun içeride görünmüyor."
+    },
+    {
+      "file": "../../remotion/public/VID-043-4.png",
+      "sha256": "6333236b1e2c4ba4f501d1ed233d5b2ae7b7998e225c21a9cf7bb16a9dde5a84",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Düzenli çekmece, koku temsili."
+    }
+  ]
+}

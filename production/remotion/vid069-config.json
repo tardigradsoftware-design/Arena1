@@ -1,0 +1,54 @@
+{
+  "frames": 522,
+  "hook": [
+    "YAĞLANAN SAÇLAR",
+    "İÇİN PRATİK ÖNERİ"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-069-1.png"
+    },
+    {
+      "from": 218,
+      "file": "VID-069-3.png"
+    },
+    {
+      "from": 392,
+      "file": "VID-069-4.png"
+    }
+  ],
+  "result": 400,
+  "save": 454,
+  "clocks": [],
+  "events": [
+    {
+      "to": 290,
+      "a": "MISIR NİŞASTASI",
+      "b": "VE KAKAO",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon",
+      "from": 244
+    },
+    {
+      "to": 382,
+      "a": "MAKYAJ FIRÇASI",
+      "b": "SAÇ DİPLERİNE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "brush",
+      "from": 348
+    },
+    {
+      "to": 480,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 454
+    }
+  ],
+  "voice": "VID-069-voice.wav"
+}

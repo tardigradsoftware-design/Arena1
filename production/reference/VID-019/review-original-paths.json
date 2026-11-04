@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-019-1.png",
+      "sha256": "a1bdb34d1001b9c134387f8034e5216c9027916fdfb14ffc376e6800af20bf93",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Su birikmiş lavabo görünüyor."
+    },
+    {
+      "file": "../../remotion/public/VID-019-2.png",
+      "sha256": "851064a35d415f521be38e31a5925ed6b9fffd1f5f2fc50874d19b4598a19da2",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Karbonat kabı ve sirke şişesi tezgahta; dökme eylemi temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-019-3.png",
+      "sha256": "35bf5d9cb097353ffe149c474f8299ee00f9d64deea18264cc694333f7cea50e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Su ısıtıcısı ve bez tezgah üstünde; kaynar su dökme gösterilmez."
+    },
+    {
+      "file": "../../remotion/public/VID-019-4.png",
+      "sha256": "13ac476d41ab73b7b14494b3c47c6542aaebe39e19dc79252d4495c618e33511",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz lavabo ve gider temsili."
+    }
+  ]
+}

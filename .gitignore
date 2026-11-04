@@ -1,0 +1,21 @@
+production/.venv/
+production/vosk-tr/
+production/audio/
+production/images/
+production/videos/
+production/check.jpg
+
+google_drive/
+production/check-VID-*.jpg
+production/__pycache__/
+production/remotion/node_modules/
+production/remotion/public/
+production/remotion/out/
+production/remotion/still.png
+production/quality/
+
+__pycache__/
+
+# Claude Stüdyo dependencies and generated output
+/node_modules/
+/ciktilar/*.mp4

@@ -1,0 +1,63 @@
+{
+  "frames": 346,
+  "hook": [
+    "BANYO DERZLERİ",
+    "NASIL KORUNUR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-094-1.png"
+    },
+    {
+      "from": 184,
+      "file": "VID-094-2.png"
+    },
+    {
+      "from": 254,
+      "file": "VID-094-3.png"
+    },
+    {
+      "from": 290,
+      "file": "VID-094-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 276,
+  "clocks": [
+    {
+      "from": 129,
+      "to": 151
+    }
+  ],
+  "events": [
+    {
+      "from": 129,
+      "to": 151,
+      "a": "SAATLERCE",
+      "b": "KURULAMA",
+      "side": "left",
+      "sfx": "none",
+      "icon": "clock"
+    },
+    {
+      "from": 200,
+      "to": 226,
+      "a": "SİRKE SPREYİ",
+      "b": "BANYO DERZİ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 276,
+      "to": 300,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-094-voice.wav"
+}

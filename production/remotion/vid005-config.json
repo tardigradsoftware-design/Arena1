@@ -1,0 +1,78 @@
+{
+  "frames": 682,
+  "hook": [
+    "BAYATLADI DİYE",
+    "ÇÖPE ATMA!"
+  ],
+  "result": 456,
+  "save": 604,
+  "events": [
+    {
+      "from": 89,
+      "to": 155,
+      "a": "SERTLEŞMİŞ",
+      "b": "BAYAT EKMEK",
+      "side": "left",
+      "sfx": "beam"
+    },
+    {
+      "from": 263,
+      "to": 305,
+      "a": "DIŞ KABUĞUNU",
+      "b": "HIZLICA ISLAT",
+      "side": "left",
+      "sfx": "beam"
+    },
+    {
+      "from": 356,
+      "to": 405,
+      "a": "200 DERECE",
+      "b": "FIRIN TEL IZGARASI",
+      "side": "right",
+      "sfx": "beam"
+    },
+    {
+      "from": 425,
+      "to": 454,
+      "a": "BEŞ DAKİKA",
+      "b": "FIRINDA",
+      "side": "left",
+      "sfx": "beam"
+    },
+    {
+      "from": 460,
+      "to": 510,
+      "a": "ÇITIR",
+      "b": "DIŞ KABUK",
+      "side": "left",
+      "sfx": "result"
+    },
+    {
+      "from": 604,
+      "to": 637,
+      "a": "KAYDET",
+      "b": "MUTFAK SIRRI",
+      "side": "right",
+      "sfx": "save"
+    }
+  ],
+  "voice": "VID-005-voice.wav",
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-005-1.png"
+    },
+    {
+      "from": 263,
+      "file": "VID-005-2.png"
+    },
+    {
+      "from": 355,
+      "file": "VID-005-3.png"
+    },
+    {
+      "from": 456,
+      "file": "VID-005-4.png"
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.548,
+    "words": [
+      "sakın",
+      "kıyafetine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.548,
+    "end": 0.946,
+    "words": [
+      "sakın",
+      "kıyafetine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.946,
+    "end": 1.32,
+    "words": [
+      "bulaşan",
+      "tükenmez"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.32,
+    "end": 1.642,
+    "words": [
+      "bulaşan",
+      "tükenmez"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.642,
+    "end": 1.925,
+    "words": [
+      "kalem",
+      "lekesini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.925,
+    "end": 2.208,
+    "words": [
+      "kalem",
+      "lekesini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.208,
+    "end": 2.491,
+    "words": [
+      "su",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.491,
+    "end": 2.774,
+    "words": [
+      "su",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.774,
+    "end": 3.057,
+    "words": [
+      "sabunla",
+      "çitileyip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.057,
+    "end": 3.34,
+    "words": [
+      "sabunla",
+      "çitileyip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.34,
+    "end": 3.623,
+    "words": [
+      "kumaşa",
+      "iyice"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.623,
+    "end": 3.982,
+    "words": [
+      "kumaşa",
+      "iyice"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.982,
+    "end": 4.417,
+    "words": [
+      "yedirme!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.417,
+    "end": 4.789,
+    "words": [
+      "yedirme!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.789,
+    "end": 5.096,
+    "words": [
+      "mürekkep",
+      "suyla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.096,
+    "end": 5.377,
+    "words": [
+      "mürekkep",
+      "suyla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.377,
+    "end": 5.707,
+    "words": [
+      "değil",
+      "alkolle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.707,
+    "end": 6.112,
+    "words": [
+      "değil",
+      "alkolle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.112,
+    "end": 6.517,
+    "words": [
+      "çözünür.",
+      "Lekenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.517,
+    "end": 6.921,
+    "words": [
+      "çözünür.",
+      "Lekenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.921,
+    "end": 7.326,
+    "words": [
+      "altına",
+      "temiz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.326,
+    "end": 7.612,
+    "words": [
+      "altına",
+      "temiz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.612,
+    "end": 7.833,
+    "words": [
+      "bir",
+      "bez"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.833,
+    "end": 8.106,
+    "words": [
+      "bir",
+      "bez"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.106,
+    "end": 8.38,
+    "words": [
+      "ser,",
+      "lekenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.38,
+    "end": 8.653,
+    "words": [
+      "ser,",
+      "lekenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.653,
+    "end": 8.955,
+    "words": [
+      "üzerine",
+      "bolca"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.955,
+    "end": 9.302,
+    "words": [
+      "üzerine",
+      "bolca"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.302,
+    "end": 9.665,
+    "words": [
+      "kolonya",
+      "damlatıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.665,
+    "end": 10.029,
+    "words": [
+      "kolonya",
+      "damlatıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.029,
+    "end": 10.393,
+    "words": [
+      "pamukla",
+      "hafifçe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.393,
+    "end": 10.756,
+    "words": [
+      "pamukla",
+      "hafifçe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.756,
+    "end": 11.094,
+    "words": [
+      "tampon",
+      "yaparak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.094,
+    "end": 11.419,
+    "words": [
+      "tampon",
+      "yaparak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.419,
+    "end": 11.756,
+    "words": [
+      "mürekkebi",
+      "alt"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.756,
+    "end": 12.093,
+    "words": [
+      "mürekkebi",
+      "alt"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.093,
+    "end": 12.428,
+    "words": [
+      "bezin",
+      "emmesini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.428,
+    "end": 12.762,
+    "words": [
+      "bezin",
+      "emmesini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.762,
+    "end": 13.098,
+    "words": [
+      "sağla.",
+      "Kalem"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.098,
+    "end": 13.432,
+    "words": [
+      "sağla.",
+      "Kalem"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.432,
+    "end": 13.767,
+    "words": [
+      "lekesinin",
+      "iz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.767,
+    "end": 14.077,
+    "words": [
+      "lekesinin",
+      "iz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.077,
+    "end": 14.37,
+    "words": [
+      "bırakmadan",
+      "uçup"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.37,
+    "end": 14.64,
+    "words": [
+      "bırakmadan",
+      "uçup"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.64,
+    "end": 14.977,
+    "words": [
+      "gittiğini",
+      "göreceksin."
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.977,
+    "end": 15.412,
+    "words": [
+      "gittiğini",
+      "göreceksin."
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.412,
+    "end": 15.727,
+    "words": [
+      "Bu",
+      "hayat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.727,
+    "end": 15.982,
+    "words": [
+      "Bu",
+      "hayat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.982,
+    "end": 16.29,
+    "words": [
+      "kurtaran",
+      "bilgiyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.29,
+    "end": 16.59,
+    "words": [
+      "kurtaran",
+      "bilgiyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.59,
+    "end": 16.898,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.898,
+    "end": 17.288,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.288,
+    "end": 17.64,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.64,
+    "end": 17.956,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.956,
+    "end": 18.348,
+    "words": [
+      "kaleme",
+      "bulaşan."
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.348,
+    "end": 18.936,
+    "words": [
+      "kaleme",
+      "bulaşan."
+    ],
+    "active": 1
+  }
+]

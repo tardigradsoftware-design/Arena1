@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-079-1.png",
+      "sha256": "8d0f883a04c32babb69693efc906a2b78058d379e672ee7b464ea300ff99c1c7",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tozlu sineklik temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-079-2.png",
+      "sha256": "caf9d4ca14a588f74fbca58e99d55ffa58b86819fdb0e50ca78f9cb8fec480f8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "İç pencere pervazında fırça."
+    },
+    {
+      "file": "../../remotion/public/VID-079-3.png",
+      "sha256": "9519433f0f7cbe2b43a17b346503c1f07d7824bbfe4b9334daf5775690cbb131",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tel ve destekli fırça, işlem canlandırılmadı."
+    }
+  ]
+}

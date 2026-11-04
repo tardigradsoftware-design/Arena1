@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-059-1.png",
+      "sha256": "e1bd78332bb05744d04134b26f35ed89ae5c52b59659a64be298b9451318431c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Buzdolabı şişesi, bulanıklık temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-059-2.png",
+      "sha256": "1103065acdf3c420c8103df5a3f2824b9466c757ae990cf1549952faa845fb73",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı yağ şişesi ve ayrı defne yaprakları; karıştırma gösterilmez."
+    },
+    {
+      "file": "../../remotion/public/VID-059-3.png",
+      "sha256": "51538befd698c28c2748b83333821b5dff2a898d4bc9c40866525bb8f6928bb8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Koyu kapalı şişe, içinde yaprak görülmez."
+    },
+    {
+      "file": "../../remotion/public/VID-059-4.png",
+      "sha256": "5acbb58086ad7d017e2b5d0f418d82bf132ff8563d614efe6c2fb19f2a8fb212",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Salata ve kapalı yağ şişesi."
+    }
+  ]
+}

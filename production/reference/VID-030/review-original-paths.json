@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-030-1.png",
+      "sha256": "34cf113897f2bc20396e574066c1c18df66bd6f1851225dfe16d77359b254ef6",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kırık pembe allık gerçekçi açık kompakt içinde."
+    },
+    {
+      "file": "../../remotion/public/VID-030-2.png",
+      "sha256": "3e05ced3913445a8fc98cbcd305b065db36b3c0dce50defa3daa1a410495c89f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ezilmiş pembe allık ve damlalıklı kap, durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-030-4.png",
+      "sha256": "2214299684b008d2cb4163398cbce2849f35d1c80e18815aa81680c11f1353b6",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aynı kompakt içinde pürüzsüz pembe allık; temsili sonuç."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "frames": 395,
+  "hook": [
+    "SİNEKLİKLERİ",
+    "SÖKMEKLE UĞRAŞMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-079-1.png"
+    },
+    {
+      "from": 110,
+      "file": "VID-079-2.png"
+    },
+    {
+      "from": 218,
+      "file": "VID-079-3.png"
+    }
+  ],
+  "result": 284,
+  "save": 325,
+  "clocks": [],
+  "events": [
+    {
+      "to": 180,
+      "a": "NEMLİ SÜNGER",
+      "b": "VEYA BOYA FIRÇASI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "brush",
+      "from": 145
+    },
+    {
+      "to": 350,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 325
+    }
+  ],
+  "voice": "VID-079-voice.wav"
+}

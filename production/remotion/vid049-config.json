@@ -1,0 +1,76 @@
+{
+  "frames": 659,
+  "hook": [
+    "MUTFAK DOLABINI",
+    "SERTÇE OVMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-049-1.png"
+    },
+    {
+      "from": 232,
+      "file": "VID-049-2.png"
+    },
+    {
+      "from": 450,
+      "file": "VID-049-3.png"
+    },
+    {
+      "from": 510,
+      "file": "VID-049-4.png"
+    }
+  ],
+  "result": 517,
+  "save": 585,
+  "clocks": [],
+  "events": [
+    {
+      "from": 335,
+      "to": 366,
+      "a": "BİR BARDAK",
+      "b": "ILIK SU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 373,
+      "to": 402,
+      "a": "YARIM BARDAK",
+      "b": "BEYAZ SİRKE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 410,
+      "to": 450,
+      "a": "BİR KAŞIK",
+      "b": "BULAŞIK DETERJANI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 472,
+      "to": 504,
+      "a": "MİKROFİBER",
+      "b": "BEZLE SİL",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 585,
+      "to": 618,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-049-voice.wav"
+}

@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-078-1.png",
+      "sha256": "4addc5ed68e56cbd15c0d3a3c1889ffb57d5fc6a81abdef98fd0b719c8d52003",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Beş parmaklı kısmi el; ilk ve son kare temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-078-2.png",
+      "sha256": "26b73b9b2f62e104b3445afadaa7dca8d1f59593a8db63ae7afe8e6ab278c2af",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Limon ve yağ ayrı; cilde uygulama gösterilmez."
+    },
+    {
+      "file": "../../remotion/public/VID-078-3.png",
+      "sha256": "1b658df2243be7232d2b9c870b14eae4da8c81f3aa04fcc2554c8a5a2ce36e2b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Limon, yağ ve havlu; cilde uygulama gösterilmez."
+    }
+  ]
+}

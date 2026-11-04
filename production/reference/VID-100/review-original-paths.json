@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-100-1.png",
+      "sha256": "1a126d9158e8b72b0d5cda8dbb2dd315005172abcacf140be6e72dd0236a4add",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Koltukta temsili tüyler."
+    },
+    {
+      "file": "../../remotion/public/VID-100-2.png",
+      "sha256": "7b7416e3d31f07879eb255cefb6b42899d03db8fc0514031d6a582ce88386db8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Koltukta banyo lifi."
+    },
+    {
+      "file": "../../remotion/public/VID-100-3.png",
+      "sha256": "fa860b174f1de196a468dfd3c044a30ab1a13313db757905555fc1f6edfa66f6",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Lif üzerinde temsili tüy."
+    }
+  ]
+}

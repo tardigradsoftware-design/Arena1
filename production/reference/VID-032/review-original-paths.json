@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-032-1.png",
+      "sha256": "6fdad1c315c4fdd0e04d775ce499418e402961a9cd382bc01c0897d95b4a8f57",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kararmış halkalar ve zincir destekli."
+    },
+    {
+      "file": "../../remotion/public/VID-032-2.png",
+      "sha256": "6c0d0909e27b8515eff493913414adf1dee80c0b74aa3fbecfb7b93d57b70b0c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Folyo kaplı kâse ve kaplar; su düzeyi görselde net değil."
+    },
+    {
+      "file": "../../remotion/public/VID-032-3.png",
+      "sha256": "2ec266cd7d1aefd6605062573cc6312438663129cbff3c1c530bc417424c96aa",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Folyo kâse içindeki halka ve zincir; su düzeyi görselde net değil."
+    },
+    {
+      "file": "../../remotion/public/VID-032-4.png",
+      "sha256": "7d3dd44e3553fa407bf8233f03115e5c9a942126509dbe023d6e374e809b3c27",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Benzer parlak takılar kumaş üzerinde, temsili sonuç."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "frames": 381,
+  "hook": [
+    "KIYAFETTEKİ",
+    "YAĞ LEKESİ!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-082-1.png"
+    },
+    {
+      "from": 195,
+      "file": "VID-082-2.png"
+    },
+    {
+      "from": 245,
+      "file": "VID-082-3.png"
+    },
+    {
+      "from": 282,
+      "file": "VID-082-4.png"
+    }
+  ],
+  "result": 282,
+  "save": 312,
+  "clocks": [],
+  "events": [
+    {
+      "to": 243,
+      "a": "BULAŞIK",
+      "b": "DETERJANI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop",
+      "from": 206
+    },
+    {
+      "to": 339,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 312
+    }
+  ],
+  "voice": "VID-082-voice.wav"
+}

@@ -1,0 +1,3 @@
+# VID-072 — V14
+Drive: https://drive.google.com/file/d/1FsRCjbzplN-attX7w28Jd3T39zUxTEUv/view — 16,98 sn / 4.236.164 bayt. ODS aynen (son cümle yarım), voice-01 1,45×. Dört incelenmiş temsili yapay sahne, cilde uygulama veya gerçek önce/sonra gösterilmedi; süre için saat/tik. Vosk 40/50, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede bir kare kontrolü; tepe −5,92 dBFS.
+ÖNEMLİ: Ezilmiş çiğ sarımsak ciltte kimyasal yanık oluşturabilir; yöntemi uygulamayın, videoyu uyarısız yayımlamayın. Tırnağı çelik gibi güçlendirme ve hızla uzatma iddiaları kanıtlanmamış. https://pmc.ncbi.nlm.nih.gov/articles/PMC4883610/

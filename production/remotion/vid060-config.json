@@ -1,0 +1,85 @@
+{
+  "frames": 634,
+  "hook": [
+    "KURUYAN DUDAKLARI",
+    "KAPATMAYA ÇALIŞMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-060-1.png"
+    },
+    {
+      "from": 180,
+      "file": "VID-060-2.png"
+    },
+    {
+      "from": 318,
+      "file": "VID-060-3.png"
+    },
+    {
+      "from": 480,
+      "file": "VID-060-4.png"
+    }
+  ],
+  "result": 490,
+  "save": 570,
+  "clocks": [
+    {
+      "from": 405,
+      "to": 440
+    },
+    {
+      "from": 478,
+      "to": 505
+    }
+  ],
+  "events": [
+    {
+      "from": 220,
+      "to": 255,
+      "a": "SAF BAL",
+      "b": "ZEYTİNYAĞI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 327,
+      "to": 365,
+      "a": "YARIM ÇAY KAŞIĞI",
+      "b": "SÜZME BAL",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 405,
+      "to": 440,
+      "a": "YATMADAN ÖNCE",
+      "b": "DUDAKLARA SÜR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 480,
+      "to": 509,
+      "a": "SABAH",
+      "b": "YUMUŞACIK",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 570,
+      "to": 602,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-060-voice.wav"
+}

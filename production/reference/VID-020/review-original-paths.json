@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-020-1.png",
+      "sha256": "e17bf623ed610eade55183ecd7b86a0784720c6ea532bb6fc2eb84f1311bcbcd",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Zencefil, soyuk kabuk ve bıçak tahta üzerinde."
+    },
+    {
+      "file": "../../remotion/public/VID-020-2.png",
+      "sha256": "79e2410d7b3442ed53c2655c5f9b99f460d3c64201b71425b327f0436157ef16",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Zencefil ve kaşık tahta üzerinde; soyma eylemi temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-020-3.png",
+      "sha256": "39546765af33ac1bc2f59be59c321c9d7ac279f9f3a737f25546468abe655178",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bir kısmı kesilmiş zencefil, ince kabuklar ve kaşık destekli."
+    },
+    {
+      "file": "../../remotion/public/VID-020-4.png",
+      "sha256": "67b568ee5e91f231c23c6825e54f1ab899103daae69cd19f3fa01a847734624d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tahtada rendelenmiş zencefil ve çay bardağı."
+    }
+  ]
+}

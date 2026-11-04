@@ -1,0 +1,49 @@
+{
+  "frames": 310,
+  "hook": [
+    "TIRNAK BAKIMINDA",
+    "LİMON VE DİŞ MACUNU"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-099-1.png"
+    },
+    {
+      "from": 124,
+      "file": "VID-099-2.png"
+    },
+    {
+      "from": 195,
+      "file": "VID-099-3.png"
+    },
+    {
+      "from": 250,
+      "file": "VID-099-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 239,
+  "clocks": [],
+  "events": [
+    {
+      "from": 126,
+      "to": 154,
+      "a": "LİMON",
+      "b": "VE DİŞ MACUNU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 239,
+      "to": 264,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-099-voice.wav"
+}

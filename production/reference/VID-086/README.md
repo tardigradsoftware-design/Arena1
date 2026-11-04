@@ -1,0 +1,3 @@
+# VID-086 — V14
+Drive: https://drive.google.com/file/d/14yp20H7VdA9_Y-1HGwAy_hcwHjOOvsar/view — 12,89 sn / 2.094.022 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; dört incelenmiş temsili yapay sahne, küflü gıdanın tüketimi canlandırılmadı. Vosk 25/36, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −4,56 dBFS.
+ÖNEMLİ: Senaryodaki küflü salçayı atmama önerisi güvenli değildir, küflenmiş salçayı bütünüyle atın. Yağ küflenmenin önlenmesini garanti etmez. Uyarısız yayımlamayın: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/molds-food-are-they-dangerous

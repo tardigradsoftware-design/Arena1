@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-048-1.png",
+      "sha256": "102f33d998299533a4db482fbdcf59012687d1aba14433958b1295db388dd83a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temsili kuru topuk, kısmi kadraj."
+    },
+    {
+      "file": "../../remotion/public/VID-048-3.png",
+      "sha256": "29ed44d35812b40aa7082a0f24b94b7ae9aca5306c58a67eae8cfc96aebc0100",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Su leğeni ve havlu üzerinde ponza, işlem canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-048-4.png",
+      "sha256": "d9353dd5e4abd4129343ee36ffecce6aa2f3766d16e3e73207740c5537089d9f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temsili topuk; aynı kişi ve gerçek sonuç iddia edilmez."
+    }
+  ]
+}

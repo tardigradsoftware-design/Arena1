@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-084-1.png",
+      "sha256": "a3879da40f0a03cd0dd1e71dfe1d623ef0524f94f0fbb70c3f797b29a1e81876",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi ağız; aynı görsel tekrarı gerçek önce/sonra değil."
+    },
+    {
+      "file": "../../remotion/public/VID-084-2.png",
+      "sha256": "a940f2a32f9dc48e5c3a37d3e19a293050043d9e5373e37acaad5053c3b42f83",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapatılmış şişeler ve tarçın/nane temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-084-3.png",
+      "sha256": "49b4fd6ecd5a14e4e4837b7eff6ce3a6e6a15d2e73999b52a423fcc8903b93c1",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapatılmış şişeler ve bakım ürünü; cilde uygulama gösterilmedi."
+    }
+  ]
+}

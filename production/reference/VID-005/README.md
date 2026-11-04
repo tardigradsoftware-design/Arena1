@@ -1,0 +1,3 @@
+# VID-005 — V14 stili kaynaklar ve kontrol
+
+`VID-005-raw.wav` önceki voice-01 ile tek parça; `VID-005-fast.wav` 1,45×. Dört görsel incelendi ve `review-original-paths.json` SHA kayıtları hazırlandı. 1 yatay ekmek, 2 su altında ekmek ve el, 3 fırın rafında ekmek, 4 kesilmiş ekmek. İlk üretilen dik duran ekmek kompozisyonu yerine yatay sürüm kullanıldı. Su sahnesinde gizlenen parmaklar ayrıca değerlendirilemez. 47/66 Vosk eşleşmesi, kalanı interpolasyon; ses bütünüyle dinlenmedi. 15 örnek kare ve tam decode incelendi; siyah aralık tespit edilmedi. Drive: https://drive.google.com/file/d/1ZElThoRR2r7cVR_YnfTFM00l4_OB4GQy/view

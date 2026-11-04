@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-102-1.png",
+      "sha256": "34674bee995bbf0cbf7d87a9e9af1fbb26691719cef36e6b4d41efa3733a9ae7",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi göz ve kaş, tekrar kullanıldı."
+    },
+    {
+      "file": "../../remotion/public/VID-102-2.png",
+      "sha256": "aa6ea6224d7547e4deebe4698d8cd1b6f013eb9aba8feefd9dcf54932409a92f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Sabun ve kaş fırçası; uygulama gösterilmedi."
+    }
+  ]
+}

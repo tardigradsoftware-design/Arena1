@@ -1,0 +1,49 @@
+{
+  "frames": 390,
+  "hook": [
+    "KOLTUKTAKİ TÜYLER",
+    "NASIL TOPLANIR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-100-1.png"
+    },
+    {
+      "from": 201,
+      "file": "VID-100-2.png"
+    },
+    {
+      "from": 258,
+      "file": "VID-100-3.png"
+    },
+    {
+      "from": 332,
+      "file": "VID-100-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 312,
+  "clocks": [],
+  "events": [
+    {
+      "from": 203,
+      "to": 235,
+      "a": "BANYO LİFİ",
+      "b": "KOLTUK TÜYLERİ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "brush"
+    },
+    {
+      "from": 312,
+      "to": 339,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-100-voice.wav"
+}

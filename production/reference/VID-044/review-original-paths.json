@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-044-1.png",
+      "sha256": "d7cafe4bde7fecbd8d4f66790a8d644e3b5d3e6119b156d40a2e24e0c7ac9005",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tezgahta sağlam yumurtalar."
+    },
+    {
+      "file": "../../remotion/public/VID-044-2.png",
+      "sha256": "e1f708a6b948b1d47197936a3ca68d4b19c8a14d9fb3e7ba433ecb65a1696eb4",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Su dolu kâsede yatay dibe çökmüş yumurta."
+    },
+    {
+      "file": "../../remotion/public/VID-044-4.png",
+      "sha256": "fb5325330232a38759f30b8dc487aeff36bf2f4838116db1ccd110276b92b031",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kartonda yumurtalar; durumları görselden anlaşılamaz."
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.5,
+    "words": [
+      "sakın",
+      "lapa"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.5,
+    "end": 0.833,
+    "words": [
+      "sakın",
+      "lapa"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.833,
+    "end": 1.123,
+    "words": [
+      "olan",
+      "pirinç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.123,
+    "end": 1.417,
+    "words": [
+      "olan",
+      "pirinç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.417,
+    "end": 1.763,
+    "words": [
+      "pilavlarınız",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.763,
+    "end": 2.164,
+    "words": [
+      "pilavlarınız",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.164,
+    "end": 2.621,
+    "words": [
+      "üzülüp",
+      "misafirlerinize"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.621,
+    "end": 3.09,
+    "words": [
+      "üzülüp",
+      "misafirlerinize"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.09,
+    "end": 3.518,
+    "words": [
+      "rezil",
+      "olmayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.518,
+    "end": 3.893,
+    "words": [
+      "rezil",
+      "olmayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.893,
+    "end": 4.29,
+    "words": [
+      "Çünkü",
+      "pişerken"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.29,
+    "end": 4.71,
+    "words": [
+      "Çünkü",
+      "pişerken"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.71,
+    "end": 5.055,
+    "words": [
+      "birkaç",
+      "damla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.055,
+    "end": 5.317,
+    "words": [
+      "birkaç",
+      "damla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.317,
+    "end": 5.565,
+    "words": [
+      "limon",
+      "suyu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.565,
+    "end": 5.843,
+    "words": [
+      "limon",
+      "suyu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.843,
+    "end": 6.188,
+    "words": [
+      "taneleri",
+      "ayırır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.188,
+    "end": 6.623,
+    "words": [
+      "taneleri",
+      "ayırır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.623,
+    "end": 6.975,
+    "words": [
+      "Limon",
+      "suyu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.975,
+    "end": 7.29,
+    "words": [
+      "Limon",
+      "suyu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.29,
+    "end": 7.711,
+    "words": [
+      "damlatın.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.711,
+    "end": 8.048,
+    "words": [
+      "damlatın.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.048,
+    "end": 8.34,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.34,
+    "end": 8.67,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.67,
+    "end": 9.0,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.0,
+    "end": 9.39,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.39,
+    "end": 9.75,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.75,
+    "end": 10.133,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.133,
+    "end": 10.582,
+    "words": [
+      "pilav",
+      "yaparken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.582,
+    "end": 11.486,
+    "words": [
+      "pilav",
+      "yaparken."
+    ],
+    "active": 1
+  }
+]

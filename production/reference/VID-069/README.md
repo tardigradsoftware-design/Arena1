@@ -1,0 +1,3 @@
+# VID-069 — V14
+Drive: https://drive.google.com/file/d/1lFKaLq4AUDnLMwZ0mao4OJF7ibJCmScw/view — 17,41 sn / 4.037.230 bayt. ODS metni aynen (son cümle yarım), voice-01 1,45×. Üç incelenmiş temsili yapay durağan sahne. 2 numaralı aday kremsi görünümü nedeniyle reddedildi, kullanılmadı; uygulama canlandırılmadı ve gerçek önce/sonra değildir. Vosk 41/54 eşleşme, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede bir kare kontrolü; tepe −5,51 dBFS.
+Ev yapımı toz saç derisinde birikip tahriş yapabilir, yıkamanın yerine geçmez. Amerikan Dermatoloji Akademisi ev yapımı yerine ticari ürün öneriyor: https://www.aad.org/public/everyday-care/hair-scalp-care/hair/dry-shampoo-best-results

@@ -1,0 +1,72 @@
+{
+  "frames": 670,
+  "hook": [
+    "FONDÖTEN LEKESİNİ",
+    "ISLAK MENDİLLE YAYMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-021-1.png"
+    },
+    {
+      "from": 223,
+      "file": "VID-021-2.png"
+    },
+    {
+      "from": 317,
+      "file": "VID-021-3.png"
+    },
+    {
+      "from": 499,
+      "file": "VID-021-4.png"
+    }
+  ],
+  "result": 526,
+  "save": 588,
+  "clocks": [
+    {
+      "from": 361,
+      "to": 389
+    }
+  ],
+  "events": [
+    {
+      "from": 286,
+      "to": 317,
+      "a": "TIRAŞ KÖPÜĞÜ",
+      "b": "LEKENİN ÜZERİNE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 361,
+      "to": 389,
+      "a": "BEŞ DAKİKA",
+      "b": "BEKLET",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 407,
+      "to": 438,
+      "a": "SOĞUK SUYLA",
+      "b": "DURULA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 588,
+      "to": 618,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-021-voice.wav"
+}

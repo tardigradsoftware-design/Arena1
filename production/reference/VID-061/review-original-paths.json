@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-061-1.png",
+      "sha256": "ea60600144a7d9a48ae8f67f893c81389d72856b26e6c62f911df7b14b477009",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Koyu derzli karo."
+    },
+    {
+      "file": "../../remotion/public/VID-061-2.png",
+      "sha256": "6c980225938e87754bf768f63680004de706214efbb7dca7e77dd6a7785647b8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek kâse macun ve ayrı diş fırçası; içerik temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-061-3.png",
+      "sha256": "456a8d4aa20ee7b18ca92c27cae1cd9493dad21fcc8b9c830045dddb6a1e9f9e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Derz üzerinde destekli fırça ve kâse; ovma canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-061-4.png",
+      "sha256": "af403ab313f31b1e17857a7b68c0b75e0b3329be53030ad3421bf3e9afe3752c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz derz, gerçek önce/sonra değil."
+    }
+  ]
+}

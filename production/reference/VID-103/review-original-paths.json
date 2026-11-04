@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-103-1.png",
+      "sha256": "7e293f4ba359af78d41aaecc762b0cb791151f6083bc6b143a6aa8ad7b42a823",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tüylenmiş yün dokusu."
+    },
+    {
+      "file": "../../remotion/public/VID-103-2.png",
+      "sha256": "4e24a4483b90e7e28d03ff684f226305a232edb84ed7ccc7782f98020ad30642",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Poşette kazak."
+    },
+    {
+      "file": "../../remotion/public/VID-103-3.png",
+      "sha256": "0b8e32ca1f005e11fe05c1f25ce5e93ae699c0f2f397948b113dd8045441a9b4",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Poşette kazak buzluk rafında."
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.57,
+    "words": [
+      "sakın",
+      "kilerde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.57,
+    "end": 0.953,
+    "words": [
+      "sakın",
+      "kilerde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.953,
+    "end": 1.328,
+    "words": [
+      "sakladığınız",
+      "kuru"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.328,
+    "end": 1.688,
+    "words": [
+      "sakladığınız",
+      "kuru"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.688,
+    "end": 2.033,
+    "words": [
+      "soğanların",
+      "birkaç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.033,
+    "end": 2.34,
+    "words": [
+      "soğanların",
+      "birkaç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.34,
+    "end": 2.677,
+    "words": [
+      "haftada",
+      "filizlenip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.677,
+    "end": 3.083,
+    "words": [
+      "haftada",
+      "filizlenip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.083,
+    "end": 3.488,
+    "words": [
+      "yumuşayarak",
+      "çürümesine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.488,
+    "end": 3.893,
+    "words": [
+      "yumuşayarak",
+      "çürümesine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.893,
+    "end": 4.312,
+    "words": [
+      "göz",
+      "yummayın!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.312,
+    "end": 4.748,
+    "words": [
+      "göz",
+      "yummayın!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.748,
+    "end": 5.132,
+    "words": [
+      "Çünkü",
+      "soğan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.132,
+    "end": 5.466,
+    "words": [
+      "Çünkü",
+      "soğan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.466,
+    "end": 5.799,
+    "words": [
+      "arasına",
+      "karanfil"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.799,
+    "end": 6.133,
+    "words": [
+      "arasına",
+      "karanfil"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.133,
+    "end": 6.526,
+    "words": [
+      "batırmak",
+      "filizlenmeyi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.526,
+    "end": 6.979,
+    "words": [
+      "batırmak",
+      "filizlenmeyi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.979,
+    "end": 7.432,
+    "words": [
+      "önler.",
+      "Karanfil"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.432,
+    "end": 7.885,
+    "words": [
+      "önler.",
+      "Karanfil"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.885,
+    "end": 8.338,
+    "words": [
+      "batırın.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.338,
+    "end": 8.678,
+    "words": [
+      "batırın.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.678,
+    "end": 8.942,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.942,
+    "end": 9.25,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.25,
+    "end": 9.571,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.571,
+    "end": 9.945,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.945,
+    "end": 10.283,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.283,
+    "end": 10.643,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.643,
+    "end": 11.107,
+    "words": [
+      "soğan",
+      "saklarken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.107,
+    "end": 11.759,
+    "words": [
+      "soğan",
+      "saklarken."
+    ],
+    "active": 1
+  }
+]

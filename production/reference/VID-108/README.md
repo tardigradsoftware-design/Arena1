@@ -1,0 +1,2 @@
+# VID-108
+Drive: https://drive.google.com/file/d/1M6X9U1a1zrx8pDwD2BZcAR6_ib44sg4a/view — 11,84 sn, 1.763.280 bayt. Senaryo aynen seslendirildi (1,45×), Vosk 24/31 çapa; kalanlar interpolasyon. Ses baştan sona dinlenmedi; senkron kesin değil. Gliserin nem tutucudur; tahriş veya hassasiyet gelişebilir. Açık çatlaklarda ve süren belirtilerde eczacı/sağlık uzmanına danışılmalı ve ürün talimatı izlenmeli. Şişelerin içeriği doğrulanmamıştır; uygulama birebir gösterilmez. Kaynak https://drdavinlim.com/a-z-skin-care/glycerin/ .

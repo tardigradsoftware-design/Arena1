@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../../remotion/public/VID-036-v14-1.png",
+      "sha256": "cbe456a6b683cf6529b53e1060044ce451aee2c6ee68885ef58fd0da091cc972",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi kol ve el, havluya destekli, anatomisi uygun."
+    },
+    {
+      "file": "../../../remotion/public/VID-036-v14-3.png",
+      "sha256": "e81f9e9777b2d6280b876729a12db3a62a6c809c5adb81a3b43e7e003ca32018",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek birleşmiş kahveli koyu karışım, kâse ve kaşık destekli."
+    },
+    {
+      "file": "../../../remotion/public/VID-036-v14-4.png",
+      "sha256": "0c050d7878c9a1e66a23993dbafc127383acceab263bbabb00be4ce3a9c4640b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Benzer kısmi kol destekli, temsili sonuç."
+    }
+  ]
+}

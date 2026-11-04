@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-117-1.png",
+      "sha256": "e6707557306862c12447dc75210336f84f4de9ed3730fcd02a0df673ac2da784",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi yüz ve doğal dudak, müdahale gösterilmiyor."
+    },
+    {
+      "file": "../../remotion/public/VID-117-2.png",
+      "sha256": "ed72cc3e4e8cdab87395b5682dc1168801aca66fa4593c1c5103f74113665d3f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bal ve şeker karışımı temsili, kimliği doğrulanmaz."
+    },
+    {
+      "file": "../../remotion/public/VID-117-3.png",
+      "sha256": "2868b38bd26a4b1640bb5613aab69993ca9b17c4ab6ef25611e7bf485acb4c93",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek kase karışım temsili, uygulama yok."
+    }
+  ]
+}

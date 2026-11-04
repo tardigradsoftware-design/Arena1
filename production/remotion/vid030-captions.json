@@ -1,0 +1,650 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.51,
+    "words": [
+      "sakın",
+      "yere"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.51,
+    "end": 0.765,
+    "words": [
+      "sakın",
+      "yere"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.765,
+    "end": 1.005,
+    "words": [
+      "düşüp",
+      "tuzla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.005,
+    "end": 1.252,
+    "words": [
+      "düşüp",
+      "tuzla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.252,
+    "end": 1.455,
+    "words": [
+      "buz",
+      "olan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.455,
+    "end": 1.657,
+    "words": [
+      "buz",
+      "olan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.657,
+    "end": 1.905,
+    "words": [
+      "en",
+      "sevdiğin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.905,
+    "end": 2.194,
+    "words": [
+      "en",
+      "sevdiğin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.194,
+    "end": 2.501,
+    "words": [
+      "pudranı",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.501,
+    "end": 2.76,
+    "words": [
+      "pudranı",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.76,
+    "end": 2.977,
+    "words": [
+      "göz",
+      "farını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.977,
+    "end": 3.202,
+    "words": [
+      "göz",
+      "farını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.202,
+    "end": 3.513,
+    "words": [
+      "çöpe",
+      "atma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.513,
+    "end": 3.911,
+    "words": [
+      "çöpe",
+      "atma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.911,
+    "end": 4.29,
+    "words": [
+      "Çünkü",
+      "parçalanan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.29,
+    "end": 4.616,
+    "words": [
+      "Çünkü",
+      "parçalanan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.616,
+    "end": 4.909,
+    "words": [
+      "toz",
+      "makyaj"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.909,
+    "end": 5.306,
+    "words": [
+      "toz",
+      "makyaj"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.306,
+    "end": 5.809,
+    "words": [
+      "malzemelerini",
+      "sadece"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.809,
+    "end": 6.21,
+    "words": [
+      "malzemelerini",
+      "sadece"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.21,
+    "end": 6.502,
+    "words": [
+      "bir",
+      "dakikada"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.502,
+    "end": 6.795,
+    "words": [
+      "bir",
+      "dakikada"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.795,
+    "end": 7.058,
+    "words": [
+      "yeni",
+      "alınmış"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.058,
+    "end": 7.268,
+    "words": [
+      "yeni",
+      "alınmış"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.268,
+    "end": 7.447,
+    "words": [
+      "gibi",
+      "tek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.447,
+    "end": 7.65,
+    "words": [
+      "gibi",
+      "tek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.65,
+    "end": 7.897,
+    "words": [
+      "parça",
+      "haline"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.897,
+    "end": 8.235,
+    "words": [
+      "parça",
+      "haline"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.235,
+    "end": 8.666,
+    "words": [
+      "getirebilirsin.",
+      "Kırılan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.666,
+    "end": 9.109,
+    "words": [
+      "getirebilirsin.",
+      "Kırılan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.109,
+    "end": 9.551,
+    "words": [
+      "pudrayı",
+      "kutusunun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.551,
+    "end": 9.994,
+    "words": [
+      "pudrayı",
+      "kutusunun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.994,
+    "end": 10.372,
+    "words": [
+      "içinde",
+      "kürdanla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.372,
+    "end": 10.687,
+    "words": [
+      "içinde",
+      "kürdanla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.687,
+    "end": 11.001,
+    "words": [
+      "iyice",
+      "toz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.001,
+    "end": 11.272,
+    "words": [
+      "iyice",
+      "toz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.272,
+    "end": 11.52,
+    "words": [
+      "haline",
+      "getir,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.52,
+    "end": 11.902,
+    "words": [
+      "haline",
+      "getir,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.902,
+    "end": 12.269,
+    "words": [
+      "üzerine",
+      "beş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.269,
+    "end": 12.487,
+    "words": [
+      "üzerine",
+      "beş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.487,
+    "end": 12.675,
+    "words": [
+      "altı",
+      "damla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.675,
+    "end": 12.915,
+    "words": [
+      "altı",
+      "damla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.915,
+    "end": 13.23,
+    "words": [
+      "kolonya",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.23,
+    "end": 13.585,
+    "words": [
+      "kolonya",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.585,
+    "end": 13.966,
+    "words": [
+      "izopropil",
+      "alkol"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.966,
+    "end": 14.348,
+    "words": [
+      "izopropil",
+      "alkol"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.348,
+    "end": 14.729,
+    "words": [
+      "damlatıp",
+      "kaşığın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.729,
+    "end": 15.11,
+    "words": [
+      "damlatıp",
+      "kaşığın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.11,
+    "end": 15.473,
+    "words": [
+      "tersiyle",
+      "üzerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.473,
+    "end": 15.768,
+    "words": [
+      "tersiyle",
+      "üzerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.768,
+    "end": 16.013,
+    "words": [
+      "kağıt",
+      "havlu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.013,
+    "end": 16.258,
+    "words": [
+      "kağıt",
+      "havlu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.258,
+    "end": 16.523,
+    "words": [
+      "koyarak",
+      "sıkıca"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.523,
+    "end": 16.807,
+    "words": [
+      "koyarak",
+      "sıkıca"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.807,
+    "end": 17.273,
+    "words": [
+      "bastır.",
+      "Kolonya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.273,
+    "end": 17.782,
+    "words": [
+      "bastır.",
+      "Kolonya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.782,
+    "end": 18.157,
+    "words": [
+      "uçtuğunda",
+      "pudran"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.157,
+    "end": 18.532,
+    "words": [
+      "uçtuğunda",
+      "pudran"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.532,
+    "end": 18.832,
+    "words": [
+      "ilk",
+      "günkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.832,
+    "end": 19.033,
+    "words": [
+      "ilk",
+      "günkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.033,
+    "end": 19.322,
+    "words": [
+      "gibi",
+      "taşlaşacak."
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.322,
+    "end": 19.723,
+    "words": [
+      "gibi",
+      "taşlaşacak."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.723,
+    "end": 20.124,
+    "words": [
+      "Bu",
+      "kurtarıcı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.124,
+    "end": 20.471,
+    "words": [
+      "Bu",
+      "kurtarıcı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.471,
+    "end": 20.764,
+    "words": [
+      "hileyi",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.764,
+    "end": 21.068,
+    "words": [
+      "hileyi",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.068,
+    "end": 21.435,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.435,
+    "end": 21.773,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.773,
+    "end": 22.155,
+    "words": [
+      "unutma,",
+      "kırılan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.155,
+    "end": 22.56,
+    "words": [
+      "unutma,",
+      "kırılan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.56,
+    "end": 22.911,
+    "words": [
+      "makyaj",
+      "malzemelerini."
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.911,
+    "end": 23.514,
+    "words": [
+      "makyaj",
+      "malzemelerini."
+    ],
+    "active": 1
+  }
+]

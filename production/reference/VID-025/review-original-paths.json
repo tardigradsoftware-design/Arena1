@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-025-1.png",
+      "sha256": "c830ac50459d75a529037c457755a20bb2bf47041a4f02a7d06d63576ffb8ac9",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kasede kahverengi benekli muzlar."
+    },
+    {
+      "file": "../../remotion/public/VID-025-2.png",
+      "sha256": "29afa4ceef3ccfa5afb750380d126dd165b7131d5af8b43c9ee1eb60d97ebdec",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Salkımın ortak sapında folyo; bütün meyve destekli."
+    },
+    {
+      "file": "../../remotion/public/VID-025-3.png",
+      "sha256": "fcca7704d76413528864f8539a0d819e224e9009c2d977a3b1446ac7d8a53f53",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Sapı folyolu muz salkımı, destekli durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-025-4.png",
+      "sha256": "2606298d028aae9a90b4b39f51ecb7e19e097a38dff19bfd7b28cf08255f4f9a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek sarı muz, tezgâhta temsili sonuç."
+    }
+  ]
+}

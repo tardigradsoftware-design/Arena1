@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-099-1.png",
+      "sha256": "ea36fe07e7cd45362b3168d33471c8514fc8329ccb318c9b8ba2d7d07423c256",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tek el ve beş parmak, doğal tırnak; aynı kare tekrar."
+    },
+    {
+      "file": "../../remotion/public/VID-099-2.png",
+      "sha256": "49b6fd1e23a97368a9822b001d8f77b301e4dbda689d11619b77a7cd6343ca13",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Limon, kapalı tüp, fırça, uygulama yok."
+    },
+    {
+      "file": "../../remotion/public/VID-099-3.png",
+      "sha256": "09ed09e82767d88ef4a4095158b8660ee7137c364cbc700b2c92879baffc464d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Malzemeler ayrı, uygulama yok."
+    }
+  ]
+}

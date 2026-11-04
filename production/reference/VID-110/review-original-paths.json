@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-110-1.png",
+      "sha256": "00c866edc262227acbfbbce0628db43f1a018597ccbf9ebb8086940f4b88371d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Filizli soğanlar gerçekçi, çürük gösterilmiyor."
+    },
+    {
+      "file": "../../remotion/public/VID-110-2.png",
+      "sha256": "2960cfae91c425eec2b3cfb51e1450010fcba38d106425925c8bd0e4063c967b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Karanfil ve soğan ayrı, uygulama gösterilmiyor."
+    },
+    {
+      "file": "../../remotion/public/VID-110-4.png",
+      "sha256": "dfb3cf41d4c75a6ebd6f4dd660405c2b5e34fe40d09018d86317900873207c46",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Karanfil ve soğan ayrı; yöntem kanıtlanmış gibi gösterilmiyor."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "frames": 355,
+  "hook": [
+    "SAÇ DÖKÜLMESİ",
+    "VE ISIRGAN OTU"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-087-1.png"
+    },
+    {
+      "from": 156,
+      "file": "VID-087-2.png"
+    },
+    {
+      "from": 220,
+      "file": "VID-087-3.png"
+    },
+    {
+      "from": 290,
+      "file": "VID-087-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 285,
+  "clocks": [],
+  "events": [
+    {
+      "from": 163,
+      "to": 197,
+      "a": "ISIRGAN OTU",
+      "b": "SAÇ BAKIMI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "leaf"
+    },
+    {
+      "from": 285,
+      "to": 310,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-087-voice.wav"
+}

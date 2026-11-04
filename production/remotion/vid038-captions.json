@@ -1,0 +1,568 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.583,
+    "words": [
+      "sakın",
+      "kavanozdaki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.583,
+    "end": 0.998,
+    "words": [
+      "sakın",
+      "kavanozdaki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.998,
+    "end": 1.413,
+    "words": [
+      "pirinçlerin",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.413,
+    "end": 1.815,
+    "words": [
+      "pirinçlerin",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.815,
+    "end": 2.204,
+    "words": [
+      "bakliyatların",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.204,
+    "end": 2.474,
+    "words": [
+      "bakliyatların",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.474,
+    "end": 2.647,
+    "words": [
+      "süre",
+      "sonra"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.647,
+    "end": 2.925,
+    "words": [
+      "süre",
+      "sonra"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.925,
+    "end": 3.285,
+    "words": [
+      "böceklenip",
+      "çürümesine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.285,
+    "end": 3.645,
+    "words": [
+      "böceklenip",
+      "çürümesine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.645,
+    "end": 3.968,
+    "words": [
+      "izin",
+      "verme!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.968,
+    "end": 4.388,
+    "words": [
+      "izin",
+      "verme!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.388,
+    "end": 4.838,
+    "words": [
+      "Çünkü",
+      "marketten"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.838,
+    "end": 5.2,
+    "words": [
+      "Çünkü",
+      "marketten"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.2,
+    "end": 5.58,
+    "words": [
+      "aldığın",
+      "pirinçleri"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.58,
+    "end": 5.96,
+    "words": [
+      "aldığın",
+      "pirinçleri"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.96,
+    "end": 6.255,
+    "words": [
+      "uzun",
+      "süre"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.255,
+    "end": 6.473,
+    "words": [
+      "uzun",
+      "süre"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.473,
+    "end": 6.731,
+    "words": [
+      "taze",
+      "tutmanın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.731,
+    "end": 7.024,
+    "words": [
+      "taze",
+      "tutmanın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.024,
+    "end": 7.29,
+    "words": [
+      "çok",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.29,
+    "end": 7.508,
+    "words": [
+      "çok",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.508,
+    "end": 7.68,
+    "words": [
+      "bir",
+      "doğa"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.68,
+    "end": 7.868,
+    "words": [
+      "bir",
+      "doğa"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.868,
+    "end": 8.115,
+    "words": [
+      "sırrı",
+      "var."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.115,
+    "end": 8.49,
+    "words": [
+      "sırrı",
+      "var."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.49,
+    "end": 8.921,
+    "words": [
+      "Pirinç",
+      "kavanozunun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.921,
+    "end": 9.304,
+    "words": [
+      "Pirinç",
+      "kavanozunun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.304,
+    "end": 9.668,
+    "words": [
+      "içine",
+      "üç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.668,
+    "end": 9.93,
+    "words": [
+      "içine",
+      "üç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.93,
+    "end": 10.117,
+    "words": [
+      "dört",
+      "adet"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.117,
+    "end": 10.335,
+    "words": [
+      "dört",
+      "adet"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.335,
+    "end": 10.581,
+    "words": [
+      "kuru",
+      "defne"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.581,
+    "end": 10.832,
+    "words": [
+      "kuru",
+      "defne"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.832,
+    "end": 11.083,
+    "words": [
+      "yaprağı",
+      "at"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.083,
+    "end": 11.334,
+    "words": [
+      "yaprağı",
+      "at"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.334,
+    "end": 11.615,
+    "words": [
+      "ve",
+      "kapağını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.615,
+    "end": 11.925,
+    "words": [
+      "ve",
+      "kapağını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.925,
+    "end": 12.235,
+    "words": [
+      "sıkıca",
+      "kapat."
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.235,
+    "end": 12.623,
+    "words": [
+      "sıkıca",
+      "kapat."
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.623,
+    "end": 13.088,
+    "words": [
+      "Defne",
+      "yaprağının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.088,
+    "end": 13.53,
+    "words": [
+      "Defne",
+      "yaprağının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.53,
+    "end": 13.922,
+    "words": [
+      "salgıladığı",
+      "yoğun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.922,
+    "end": 14.286,
+    "words": [
+      "salgıladığı",
+      "yoğun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.286,
+    "end": 14.65,
+    "words": [
+      "koku",
+      "böceklerin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.65,
+    "end": 15.013,
+    "words": [
+      "koku",
+      "böceklerin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.013,
+    "end": 15.379,
+    "words": [
+      "ve",
+      "güvelerin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.379,
+    "end": 15.746,
+    "words": [
+      "ve",
+      "güvelerin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.746,
+    "end": 16.114,
+    "words": [
+      "kavanoza",
+      "yaklaşmasını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.114,
+    "end": 16.481,
+    "words": [
+      "kavanoza",
+      "yaklaşmasını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.481,
+    "end": 16.793,
+    "words": [
+      "kesin",
+      "olarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.793,
+    "end": 17.093,
+    "words": [
+      "kesin",
+      "olarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.093,
+    "end": 17.55,
+    "words": [
+      "engeller.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.55,
+    "end": 17.955,
+    "words": [
+      "engeller.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.955,
+    "end": 18.233,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.233,
+    "end": 18.54,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.54,
+    "end": 18.825,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.825,
+    "end": 19.207,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.207,
+    "end": 19.605,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.605,
+    "end": 20.017,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.017,
+    "end": 20.355,
+    "words": [
+      "pirinç",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.355,
+    "end": 20.644,
+    "words": [
+      "pirinç",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.644,
+    "end": 21.285,
+    "words": [
+      "bakliyatları."
+    ],
+    "active": 0
+  }
+]

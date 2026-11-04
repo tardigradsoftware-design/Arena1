@@ -1,0 +1,46 @@
+name: CPU image generation experiment
+on:
+  push:
+    branches: [arena/1bd5adc2-arena1]
+    paths: [.github/workflows/cpu-image-test.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  image-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Report available resources
+        run: |
+          nproc
+          free -h
+          df -h .
+      - name: Build stable-diffusion.cpp CPU backend
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone https://github.com/leejet/stable-diffusion.cpp.git sd-cpp
+          cd sd-cpp
+          git checkout c6dfa9def12fd0cb36ac7149ba30a75792bedbf0
+          git submodule update --init --recursive
+          cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+          cmake --build build --config Release --parallel 4
+          ./build/bin/sd-cli --help > /tmp/sd-help.txt
+      - name: Download upstream SD 1.5 model
+        run: |
+          curl --fail --location --retry 3 -o model.safetensors 'https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors'
+          test "$(stat -c %s model.safetensors)" -gt 1000000000
+          sha256sum model.safetensors
+      - name: Generate small test image on CPU
+        run: |
+          mkdir -p output
+          /usr/bin/time -v ./sd-cpp/build/bin/sd-cli -m model.safetensors -p 'Photograph of a folded white cotton pillowcase in a laundry basket, natural window light, realistic proportions, no people, no words' --steps 20 --threads 4 --seed 42 -W 512 -H 512 -o output/cpu-sd15-test.png
+          test -s output/cpu-sd15-test.png
+      - name: Upload test image
+        uses: actions/upload-artifact@v4
+        with:
+          name: cpu-image-experiment
+          path: output/cpu-sd15-test.png
+          retention-days: 7
+          if-no-files-found: error

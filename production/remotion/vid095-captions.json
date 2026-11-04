@@ -1,0 +1,280 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.597,
+    "words": [
+      "sakın",
+      "haşladığınız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.597,
+    "end": 1.072,
+    "words": [
+      "sakın",
+      "haşladığınız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.072,
+    "end": 1.547,
+    "words": [
+      "yumurtaların",
+      "suya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.547,
+    "end": 1.933,
+    "words": [
+      "yumurtaların",
+      "suya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.933,
+    "end": 2.24,
+    "words": [
+      "girer",
+      "girmez"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.24,
+    "end": 2.607,
+    "words": [
+      "girer",
+      "girmez"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.607,
+    "end": 3.022,
+    "words": [
+      "çatlayıp",
+      "akmasının"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.022,
+    "end": 3.438,
+    "words": [
+      "çatlayıp",
+      "akmasının"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.438,
+    "end": 3.825,
+    "words": [
+      "tüm",
+      "hevesinizi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.825,
+    "end": 4.185,
+    "words": [
+      "tüm",
+      "hevesinizi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.185,
+    "end": 4.545,
+    "words": [
+      "kaçırmasına",
+      "izin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.545,
+    "end": 4.875,
+    "words": [
+      "kaçırmasına",
+      "izin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.875,
+    "end": 5.288,
+    "words": [
+      "vermeyin!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.288,
+    "end": 5.693,
+    "words": [
+      "vermeyin!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.693,
+    "end": 5.985,
+    "words": [
+      "suya",
+      "sirke"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.985,
+    "end": 6.324,
+    "words": [
+      "suya",
+      "sirke"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.324,
+    "end": 6.739,
+    "words": [
+      "eklemek",
+      "çatlamayı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.739,
+    "end": 7.192,
+    "words": [
+      "eklemek",
+      "çatlamayı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.192,
+    "end": 7.645,
+    "words": [
+      "önler.",
+      "Suya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.645,
+    "end": 8.098,
+    "words": [
+      "önler.",
+      "Suya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.098,
+    "end": 8.531,
+    "words": [
+      "sirke",
+      "damlatın."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.531,
+    "end": 8.944,
+    "words": [
+      "sirke",
+      "damlatın."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.944,
+    "end": 9.262,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.262,
+    "end": 9.518,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.518,
+    "end": 9.825,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.825,
+    "end": 10.17,
+    "words": [
+      "sırrını",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.17,
+    "end": 10.613,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.613,
+    "end": 10.988,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.988,
+    "end": 11.34,
+    "words": [
+      "unutma,",
+      "yumurta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.34,
+    "end": 11.823,
+    "words": [
+      "unutma,",
+      "yumurta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.823,
+    "end": 12.553,
+    "words": [
+      "haşlarken."
+    ],
+    "active": 0
+  }
+]

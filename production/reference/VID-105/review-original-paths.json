@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-105-1.png",
+      "sha256": "5071c1a96c6be5752d0b5c014590e11a5bc848e7392c64d34ba9c718e11f9cb2",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi saç görünümü aynı sahne tekrar."
+    },
+    {
+      "file": "../../remotion/public/VID-105-2.png",
+      "sha256": "15c0b0d558adb11e74d15531c755f1f98ca020b3918e3964660167bedf4bccc1",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temsili kurutulmuş bitki, demlik."
+    },
+    {
+      "file": "../../remotion/public/VID-105-4.png",
+      "sha256": "e9c050005b9c1b5c8fe6b3898f2923ca2a5e869fd05f8f13c67920172ee6892a",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bitki ve çay temsili, ampul veya karışım gösterilmedi."
+    }
+  ]
+}

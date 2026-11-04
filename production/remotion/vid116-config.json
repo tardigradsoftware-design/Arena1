@@ -1,0 +1,49 @@
+{
+  "frames": 380,
+  "hook": [
+    "EKMEKLERİNİZ",
+    "KÜFLENİYOR MU?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-116-1.png"
+    },
+    {
+      "from": 190,
+      "file": "VID-116-2.png"
+    },
+    {
+      "from": 260,
+      "file": "VID-116-4.png"
+    },
+    {
+      "from": 320,
+      "file": "VID-116-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 308,
+  "clocks": [],
+  "events": [
+    {
+      "from": 198,
+      "to": 231,
+      "a": "DEFNE YAPRAĞI",
+      "b": "EKMEK KUTUSU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "leaf"
+    },
+    {
+      "from": 308,
+      "to": 333,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-116-voice.wav"
+}

@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-070-2.png",
+      "sha256": "bfee6a52989830c0f27a97a797506879b6548503aeeb4ba88021de82d0b9ca4f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Şeffaf sıvı sprey şişesi; içerik temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-070-3.png",
+      "sha256": "17ae76331f2bef2cdd2062b01366fbc2f7cab289162f0f5992c60916e06bdcd8",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Islak görünümlü seramik ve bez."
+    },
+    {
+      "file": "../../remotion/public/VID-070-4.png",
+      "sha256": "997712e051007db1489cf2fa279a1987482fba163c7d6895deb59cadb5bbddf0",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz banyo; gerçek önce/sonra değil."
+    }
+  ]
+}

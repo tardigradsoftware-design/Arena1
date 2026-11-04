@@ -1,0 +1,58 @@
+{
+  "frames": 503,
+  "hook": [
+    "HALIYA DÖKÜLEN",
+    "ÇAY LEKESİ!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-073-1.png"
+    },
+    {
+      "from": 155,
+      "file": "VID-073-2.png"
+    },
+    {
+      "from": 294,
+      "file": "VID-073-3.png"
+    },
+    {
+      "from": 360,
+      "file": "VID-073-4.png"
+    }
+  ],
+  "result": 369,
+  "save": 428,
+  "clocks": [],
+  "events": [
+    {
+      "to": 293,
+      "a": "SADE MADEN SUYU",
+      "b": "ÇAY LEKESİ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "glass",
+      "from": 264
+    },
+    {
+      "to": 345,
+      "a": "TEMİZ BEZ",
+      "b": "HAFİFÇE TAMPON",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "cloth",
+      "from": 310
+    },
+    {
+      "to": 453,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 428
+    }
+  ],
+  "voice": "VID-073-voice.wav"
+}

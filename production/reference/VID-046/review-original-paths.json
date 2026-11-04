@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-046-1.png",
+      "sha256": "7574fa47e2964e69ba67a2cb58bb187e5fce89a8af8dcd2e8f4be7458dee087d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Fişi çekilmiş ütü; tabanında kireç temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-046-2.png",
+      "sha256": "c7100851c7d14359aea47419e201b6f09ffbe4d396ebbd9020d6eaf23e1c5ede",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâse ve pamuklu çubuklar; temsili sıvı."
+    },
+    {
+      "file": "../../remotion/public/VID-046-3.png",
+      "sha256": "90a8e7987659b7e3c7ad883ca96b138547dd4cb782b57de23a13ec6cc1299200",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Fişsiz ütü ve ayrı çubuk; işlem canlandırılmadı."
+    },
+    {
+      "file": "../../remotion/public/VID-046-4.png",
+      "sha256": "6336e4e2c50a0bfbf91702a1609049652d3d10dc0a75af6263e95076c510eb54",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Temiz ütü tabanı, fişsiz ve buharsız."
+    }
+  ]
+}

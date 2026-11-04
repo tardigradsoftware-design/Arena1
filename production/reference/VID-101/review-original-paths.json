@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-101-1.png",
+      "sha256": "457d2f44fac852aa2b4e8f282ebf468127e42ad2c0c73921ebd6c69f74580e6e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Taze sebze yemeği temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-101-2.png",
+      "sha256": "736ce0a1db3c394a8b399893efdb08080ab667a22c0c4732ca9963da72384244",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Şeker ve ayrı tencerede yemek."
+    },
+    {
+      "file": "../../remotion/public/VID-101-3.png",
+      "sha256": "06c3df09e7865fd373026cdfd1be7cb42fd8b0581bdc7ecea927a79f622ea969",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yemek ve kaşık."
+    },
+    {
+      "file": "../../remotion/public/VID-101-4.png",
+      "sha256": "bc8ec09a521570ce8204103e533ae2d9edba7230d5f4eb57d55faaa0b4e5d991",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Servis edilmiş taze yemek."
+    }
+  ]
+}

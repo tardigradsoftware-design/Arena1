@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.578,
+    "words": [
+      "sakın",
+      "açtığınız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.578,
+    "end": 0.955,
+    "words": [
+      "sakın",
+      "açtığınız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.955,
+    "end": 1.327,
+    "words": [
+      "paket",
+      "bisküvilerin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.327,
+    "end": 1.722,
+    "words": [
+      "paket",
+      "bisküvilerin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.722,
+    "end": 2.055,
+    "words": [
+      "birkaç",
+      "günde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.055,
+    "end": 2.426,
+    "words": [
+      "birkaç",
+      "günde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.426,
+    "end": 2.899,
+    "words": [
+      "bayatlayıp",
+      "yumuşayarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.899,
+    "end": 3.371,
+    "words": [
+      "bayatlayıp",
+      "yumuşayarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.371,
+    "end": 3.844,
+    "words": [
+      "kıtırlığını",
+      "kaybetmesine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.844,
+    "end": 4.275,
+    "words": [
+      "kıtırlığını",
+      "kaybetmesine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.275,
+    "end": 4.643,
+    "words": [
+      "izin",
+      "vermeyin!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.643,
+    "end": 5.085,
+    "words": [
+      "izin",
+      "vermeyin!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.085,
+    "end": 5.52,
+    "words": [
+      "Çünkü",
+      "kavanoza"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.52,
+    "end": 5.85,
+    "words": [
+      "Çünkü",
+      "kavanoza"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.85,
+    "end": 6.165,
+    "words": [
+      "şeker",
+      "koymak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.165,
+    "end": 6.469,
+    "words": [
+      "şeker",
+      "koymak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.469,
+    "end": 6.776,
+    "words": [
+      "nemi",
+      "alır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.776,
+    "end": 7.155,
+    "words": [
+      "nemi",
+      "alır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.155,
+    "end": 7.532,
+    "words": [
+      "Şeker",
+      "küpü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.532,
+    "end": 7.837,
+    "words": [
+      "Şeker",
+      "küpü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.837,
+    "end": 8.142,
+    "words": [
+      "ekleyin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.142,
+    "end": 8.391,
+    "words": [
+      "ekleyin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.391,
+    "end": 8.64,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.64,
+    "end": 8.941,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.941,
+    "end": 9.256,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.256,
+    "end": 9.647,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.647,
+    "end": 10.101,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.101,
+    "end": 10.554,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.554,
+    "end": 11.008,
+    "words": [
+      "bisküvileri",
+      "saklarken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.008,
+    "end": 11.826,
+    "words": [
+      "bisküvileri",
+      "saklarken."
+    ],
+    "active": 1
+  }
+]

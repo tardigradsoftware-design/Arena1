@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-087-1.png",
+      "sha256": "48a31787393a484f649f3dc2bba85e29463aa91c86680fe55310aedebac2853e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Tarak ve saç telleri temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-087-2.png",
+      "sha256": "2d99afa845f58c2ae3a0b82a1b95495abc736b5712a358c3543c2d0cdb01aa9e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Isırgan ve bitki çayı sahnesi."
+    },
+    {
+      "file": "../../remotion/public/VID-087-3.png",
+      "sha256": "5e5e35982b79fe21dab133c3474244a96c18d0d847cbe32a7a8f4f9c00d50753",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bitki demlemesi, uygulama gösterilmedi."
+    }
+  ]
+}

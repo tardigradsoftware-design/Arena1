@@ -1,0 +1,63 @@
+{
+  "frames": 530,
+  "hook": [
+    "CİLT LEKELERİ",
+    "VE TON EŞİTSİZLİĞİ"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-066-1.png"
+    },
+    {
+      "from": 133,
+      "file": "VID-066-2.png"
+    },
+    {
+      "from": 286,
+      "file": "VID-066-3.png"
+    },
+    {
+      "from": 382,
+      "file": "VID-066-4.png"
+    }
+  ],
+  "result": 402,
+  "save": 460,
+  "clocks": [
+    {
+      "from": 317,
+      "to": 351
+    }
+  ],
+  "events": [
+    {
+      "to": 285,
+      "a": "PİRİNÇ UNU",
+      "b": "VE YOĞURT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon",
+      "from": 221
+    },
+    {
+      "to": 351,
+      "a": "ON BEŞ DAKİKA",
+      "b": "BEKLET",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock",
+      "from": 317
+    },
+    {
+      "to": 490,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save",
+      "from": 460
+    }
+  ],
+  "voice": "VID-066-voice.wav"
+}

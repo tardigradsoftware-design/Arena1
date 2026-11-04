@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-116-1.png",
+      "sha256": "667cf9ddca4ad09f54dd7bd101ae3e4f7cb1116c5c2bf4eb55bd8e124f817aaf",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Küflü ekmek temsili, tüketim gösterilmiyor."
+    },
+    {
+      "file": "../../remotion/public/VID-116-2.png",
+      "sha256": "25e5cdc81a29e5a16ea7ba6db6ea11c7b4c42bbf34604e298c43c4f346880b99",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı kutu ve temsili yapraklar, koruma iddiası gösterilmez."
+    },
+    {
+      "file": "../../remotion/public/VID-116-4.png",
+      "sha256": "6281120588fb7a23485db14f9f608152ca56695ea1be16fcd21bdc5785164844",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yaprak ve kapalı kutu; tür ve etkisi görselden doğrulanamaz."
+    }
+  ]
+}

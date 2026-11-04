@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-051-1.png",
+      "sha256": "310e5dccd75c42e6b8ffa48c4d709e575cbdc10e5cf1a9744c349081d3a69314",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi yüz ve kapalı göz; doğal görünüm."
+    },
+    {
+      "file": "../../remotion/public/VID-051-2.png",
+      "sha256": "18119d3fde6aba09b5312f0ec46bd6fb25ca7bd0b1b2b50b9d71db4b09b86fae",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yağlar ve tek karışım temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-051-3.png",
+      "sha256": "009121b54c1ad56fe38bab5a779bdc34dfd0070c94a1f9a2a79fcc862db4c252",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yağ kâsası, destekli maskara fırçası."
+    },
+    {
+      "file": "../../remotion/public/VID-051-4.png",
+      "sha256": "2ce4e32ff25759e884a14e0a79f2eff53479bfb77db496c27fe0f4754e6a10a7",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi yüz; gerçek önce-sonra sonucu değil."
+    }
+  ]
+}

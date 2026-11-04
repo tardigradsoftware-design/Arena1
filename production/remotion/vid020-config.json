@@ -1,0 +1,72 @@
+{
+  "frames": 678,
+  "hook": [
+    "ZENCEFİLİ",
+    "BIÇAKLA SOYMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-020-1.png"
+    },
+    {
+      "from": 270,
+      "file": "VID-020-2.png"
+    },
+    {
+      "from": 405,
+      "file": "VID-020-3.png"
+    },
+    {
+      "from": 555,
+      "file": "VID-020-4.png"
+    }
+  ],
+  "result": 554,
+  "save": 615,
+  "clocks": [
+    {
+      "from": 203,
+      "to": 228
+    }
+  ],
+  "events": [
+    {
+      "from": 203,
+      "to": 228,
+      "a": "SANİYELER",
+      "b": "İÇİNDE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 305,
+      "to": 338,
+      "a": "TATLI KAŞIĞI",
+      "b": "BIÇAK YERİNE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 377,
+      "to": 419,
+      "a": "İNCE KABUĞU",
+      "b": "HAFİFÇE KAZI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 615,
+      "to": 645,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-020-voice.wav"
+}

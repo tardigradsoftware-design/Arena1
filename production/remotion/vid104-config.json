@@ -1,0 +1,49 @@
+{
+  "frames": 365,
+  "hook": [
+    "SALATALIĞIN",
+    "ACILIĞI NASIL GİDER?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-104-1.png"
+    },
+    {
+      "from": 158,
+      "file": "VID-104-2.png"
+    },
+    {
+      "from": 258,
+      "file": "VID-104-3.png"
+    },
+    {
+      "from": 310,
+      "file": "VID-104-4.png"
+    }
+  ],
+  "result": 9999,
+  "save": 292,
+  "clocks": [],
+  "events": [
+    {
+      "from": 163,
+      "to": 194,
+      "a": "SALATALIK UÇLARI",
+      "b": "VE TUZ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 292,
+      "to": 319,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-104-voice.wav"
+}

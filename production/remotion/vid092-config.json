@@ -1,0 +1,49 @@
+{
+  "frames": 311,
+  "hook": [
+    "PATATES VE SOĞAN",
+    "NASIL SAKLANIR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-092-1.png"
+    },
+    {
+      "from": 166,
+      "file": "VID-092-2.png"
+    },
+    {
+      "from": 207,
+      "file": "VID-092-3.png"
+    },
+    {
+      "from": 256,
+      "file": "VID-092-4.png"
+    }
+  ],
+  "result": 9999,
+  "save": 234,
+  "clocks": [],
+  "events": [
+    {
+      "from": 167,
+      "to": 195,
+      "a": "AYRI YERLERDE",
+      "b": "SAKLAYIN",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 234,
+      "to": 254,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-092-voice.wav"
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.593,
+    "words": [
+      "sakın",
+      "bütün"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.593,
+    "end": 0.87,
+    "words": [
+      "sakın",
+      "bütün"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.87,
+    "end": 1.095,
+    "words": [
+      "gün",
+      "ayakta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.095,
+    "end": 1.357,
+    "words": [
+      "gün",
+      "ayakta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.357,
+    "end": 1.68,
+    "words": [
+      "kalıp",
+      "şişen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.68,
+    "end": 2.039,
+    "words": [
+      "kalıp",
+      "şişen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.039,
+    "end": 2.395,
+    "words": [
+      "ve",
+      "ağrıyan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.395,
+    "end": 2.748,
+    "words": [
+      "ve",
+      "ağrıyan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.748,
+    "end": 3.09,
+    "words": [
+      "ayaklarınız",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.09,
+    "end": 3.416,
+    "words": [
+      "ayaklarınız",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.416,
+    "end": 3.739,
+    "words": [
+      "masaj",
+      "salonlarına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.739,
+    "end": 4.05,
+    "words": [
+      "masaj",
+      "salonlarına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.05,
+    "end": 4.414,
+    "words": [
+      "para",
+      "harcاییon!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.414,
+    "end": 4.841,
+    "words": [
+      "para",
+      "harcاییon!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.841,
+    "end": 5.19,
+    "words": [
+      "Çünkü",
+      "evde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.19,
+    "end": 5.495,
+    "words": [
+      "Çünkü",
+      "evde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.495,
+    "end": 5.835,
+    "words": [
+      "karbonatlı",
+      "su"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.835,
+    "end": 6.175,
+    "words": [
+      "karbonatlı",
+      "su"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.175,
+    "end": 6.533,
+    "words": [
+      "ayak",
+      "yorgunluğunu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.533,
+    "end": 6.953,
+    "words": [
+      "ayak",
+      "yorgunluğunu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.953,
+    "end": 7.35,
+    "words": [
+      "anında",
+      "alır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.35,
+    "end": 7.777,
+    "words": [
+      "anında",
+      "alır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.777,
+    "end": 8.198,
+    "words": [
+      "Ilık",
+      "suya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.198,
+    "end": 8.515,
+    "words": [
+      "Ilık",
+      "suya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.515,
+    "end": 8.832,
+    "words": [
+      "karbonat",
+      "ekleyip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.832,
+    "end": 9.149,
+    "words": [
+      "karbonat",
+      "ekleyip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.149,
+    "end": 9.466,
+    "words": [
+      "dinlenin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.466,
+    "end": 9.722,
+    "words": [
+      "dinlenin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.722,
+    "end": 9.989,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.989,
+    "end": 10.344,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.344,
+    "end": 10.732,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.732,
+    "end": 11.055,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.055,
+    "end": 11.415,
+    "words": [
+      "unutma,",
+      "yorgun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.415,
+    "end": 11.82,
+    "words": [
+      "unutma,",
+      "yorgun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.82,
+    "end": 12.135,
+    "words": [
+      "ayaklar",
+      "için."
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.135,
+    "end": 12.646,
+    "words": [
+      "ayaklar",
+      "için."
+    ],
+    "active": 1
+  }
+]

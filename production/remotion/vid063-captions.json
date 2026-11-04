@@ -1,0 +1,532 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.578,
+    "words": [
+      "sakın",
+      "dişlerindeki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.578,
+    "end": 0.983,
+    "words": [
+      "sakın",
+      "dişlerindeki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.983,
+    "end": 1.26,
+    "words": [
+      "çay",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.26,
+    "end": 1.425,
+    "words": [
+      "çay",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.425,
+    "end": 1.665,
+    "words": [
+      "kahve",
+      "lekelerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.665,
+    "end": 1.965,
+    "words": [
+      "kahve",
+      "lekelerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.965,
+    "end": 2.213,
+    "words": [
+      "yok",
+      "etmek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.213,
+    "end": 2.43,
+    "words": [
+      "yok",
+      "etmek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.43,
+    "end": 2.692,
+    "words": [
+      "için",
+      "pahalı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.692,
+    "end": 3.008,
+    "words": [
+      "için",
+      "pahalı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.008,
+    "end": 3.353,
+    "words": [
+      "beyazlatma",
+      "tozlarına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.353,
+    "end": 3.697,
+    "words": [
+      "beyazlatma",
+      "tozlarına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.697,
+    "end": 3.99,
+    "words": [
+      "para",
+      "dökme!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.99,
+    "end": 4.35,
+    "words": [
+      "para",
+      "dökme!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.35,
+    "end": 4.728,
+    "words": [
+      "Çünkü",
+      "diş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.728,
+    "end": 5.002,
+    "words": [
+      "Çünkü",
+      "diş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.002,
+    "end": 5.277,
+    "words": [
+      "minesini",
+      "çizmeyen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.277,
+    "end": 5.625,
+    "words": [
+      "minesini",
+      "çizmeyen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.625,
+    "end": 5.977,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.977,
+    "end": 6.21,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.21,
+    "end": 6.412,
+    "words": [
+      "limon",
+      "suyu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.412,
+    "end": 6.716,
+    "words": [
+      "limon",
+      "suyu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.716,
+    "end": 7.099,
+    "words": [
+      "yöntemiyle",
+      "dişlerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.099,
+    "end": 7.631,
+    "words": [
+      "yöntemiyle",
+      "dişlerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.631,
+    "end": 8.314,
+    "words": [
+      "parlatabilirsin.",
+      "Yumuşak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.314,
+    "end": 8.783,
+    "words": [
+      "parlatabilirsin.",
+      "Yumuşak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.783,
+    "end": 9.053,
+    "words": [
+      "diş",
+      "fırçasına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.053,
+    "end": 9.338,
+    "words": [
+      "diş",
+      "fırçasına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.338,
+    "end": 9.555,
+    "words": [
+      "çok",
+      "az"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.555,
+    "end": 9.765,
+    "words": [
+      "çok",
+      "az"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.765,
+    "end": 10.041,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.041,
+    "end": 10.251,
+    "words": [
+      "karbonat",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.251,
+    "end": 10.41,
+    "words": [
+      "bir",
+      "damla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.41,
+    "end": 10.62,
+    "words": [
+      "bir",
+      "damla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.62,
+    "end": 10.837,
+    "words": [
+      "limon",
+      "suyu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.837,
+    "end": 11.103,
+    "words": [
+      "limon",
+      "suyu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.103,
+    "end": 11.438,
+    "words": [
+      "damlatıp",
+      "dişlerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.438,
+    "end": 11.773,
+    "words": [
+      "damlatıp",
+      "dişlerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.773,
+    "end": 12.045,
+    "words": [
+      "bir",
+      "dakika"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.045,
+    "end": 12.3,
+    "words": [
+      "bir",
+      "dakika"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.3,
+    "end": 12.672,
+    "words": [
+      "boyunca",
+      "nazikçe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.672,
+    "end": 13.117,
+    "words": [
+      "boyunca",
+      "nazikçe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.117,
+    "end": 13.562,
+    "words": [
+      "fırçala,",
+      "ardından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.562,
+    "end": 13.976,
+    "words": [
+      "fırçala,",
+      "ardından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.976,
+    "end": 14.36,
+    "words": [
+      "suyla",
+      "iyice"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.36,
+    "end": 14.744,
+    "words": [
+      "suyla",
+      "iyice"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.744,
+    "end": 15.128,
+    "words": [
+      "çalkala.",
+      "Lekenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.128,
+    "end": 15.512,
+    "words": [
+      "çalkala.",
+      "Lekenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.512,
+    "end": 15.876,
+    "words": [
+      "anında",
+      "çıktığını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.876,
+    "end": 16.222,
+    "words": [
+      "anında",
+      "çıktığını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.222,
+    "end": 16.626,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.626,
+    "end": 16.954,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.954,
+    "end": 17.188,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.188,
+    "end": 17.475,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.475,
+    "end": 17.872,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.872,
+    "end": 18.24,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.24,
+    "end": 18.582,
+    "words": [
+      "unutma,",
+      "sararan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.582,
+    "end": 19.026,
+    "words": [
+      "unutma,",
+      "sararan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.026,
+    "end": 19.657,
+    "words": [
+      "dişlerini."
+    ],
+    "active": 0
+  }
+]

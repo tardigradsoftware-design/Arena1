@@ -1,0 +1,72 @@
+{
+  "frames": 652,
+  "hook": [
+    "TIRNAK ETLERİNİ",
+    "KANATARAK KESME!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-045-1.png"
+    },
+    {
+      "from": 265,
+      "file": "VID-045-2.png"
+    },
+    {
+      "from": 360,
+      "file": "VID-045-3.png"
+    },
+    {
+      "from": 480,
+      "file": "VID-045-4.png"
+    }
+  ],
+  "result": 501,
+  "save": 578,
+  "clocks": [
+    {
+      "from": 402,
+      "to": 449
+    }
+  ],
+  "events": [
+    {
+      "from": 282,
+      "to": 320,
+      "a": "ZEYTİNYAĞI",
+      "b": "BİRKAÇ DAMLA LİMON",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 404,
+      "to": 449,
+      "a": "BEŞ DAKİKA",
+      "b": "BEKLET",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 450,
+      "to": 482,
+      "a": "ÖZEL ÇUBUKLA",
+      "b": "GERİYE İT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "brush"
+    },
+    {
+      "from": 578,
+      "to": 608,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-045-voice.wav"
+}

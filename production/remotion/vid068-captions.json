@@ -1,0 +1,452 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.578,
+    "words": [
+      "sakın",
+      "sert"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.578,
+    "end": 0.855,
+    "words": [
+      "sakın",
+      "sert"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.855,
+    "end": 1.013,
+    "words": [
+      "ve",
+      "ham"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.013,
+    "end": 1.264,
+    "words": [
+      "ve",
+      "ham"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.264,
+    "end": 1.631,
+    "words": [
+      "aldığın",
+      "avokadonun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.631,
+    "end": 1.999,
+    "words": [
+      "aldığın",
+      "avokadonun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.999,
+    "end": 2.366,
+    "words": [
+      "salataya",
+      "girmesi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.366,
+    "end": 2.7,
+    "words": [
+      "salataya",
+      "girmesi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.7,
+    "end": 3.038,
+    "words": [
+      "için",
+      "günlerce"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.038,
+    "end": 3.405,
+    "words": [
+      "için",
+      "günlerce"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.405,
+    "end": 3.765,
+    "words": [
+      "yumuşamasını",
+      "bekleyip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.765,
+    "end": 4.125,
+    "words": [
+      "yumuşamasını",
+      "bekleyip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.125,
+    "end": 4.47,
+    "words": [
+      "vakit",
+      "kaybetme!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.47,
+    "end": 4.897,
+    "words": [
+      "vakit",
+      "kaybetme!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.897,
+    "end": 5.295,
+    "words": [
+      "Çünkü",
+      "sert"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.295,
+    "end": 5.61,
+    "words": [
+      "Çünkü",
+      "sert"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.61,
+    "end": 5.97,
+    "words": [
+      "avokadoyu",
+      "kısa"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.97,
+    "end": 6.27,
+    "words": [
+      "avokadoyu",
+      "kısa"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.27,
+    "end": 6.652,
+    "words": [
+      "sürede",
+      "olgunlaştırmanın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.652,
+    "end": 7.177,
+    "words": [
+      "sürede",
+      "olgunlaştırmanın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.177,
+    "end": 7.582,
+    "words": [
+      "harika",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.582,
+    "end": 7.784,
+    "words": [
+      "harika",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.784,
+    "end": 7.933,
+    "words": [
+      "yolu",
+      "var."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.933,
+    "end": 8.293,
+    "words": [
+      "yolu",
+      "var."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.293,
+    "end": 8.834,
+    "words": [
+      "Avokadoyu",
+      "alüminyum"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.834,
+    "end": 9.274,
+    "words": [
+      "Avokadoyu",
+      "alüminyum"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.274,
+    "end": 9.611,
+    "words": [
+      "folyoya",
+      "sıkıca"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.611,
+    "end": 9.949,
+    "words": [
+      "folyoya",
+      "sıkıca"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.949,
+    "end": 10.286,
+    "words": [
+      "sarıp",
+      "yüz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.286,
+    "end": 10.53,
+    "words": [
+      "sarıp",
+      "yüz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.53,
+    "end": 10.71,
+    "words": [
+      "elli",
+      "derece"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.71,
+    "end": 10.957,
+    "words": [
+      "elli",
+      "derece"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.957,
+    "end": 11.242,
+    "words": [
+      "fırında",
+      "on"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.242,
+    "end": 11.52,
+    "words": [
+      "fırında",
+      "on"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.52,
+    "end": 11.812,
+    "words": [
+      "dakika",
+      "tut,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.812,
+    "end": 12.15,
+    "words": [
+      "dakika",
+      "tut,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.15,
+    "end": 12.491,
+    "words": [
+      "oda",
+      "sıcaklığına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.491,
+    "end": 12.814,
+    "words": [
+      "oda",
+      "sıcaklığına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.814,
+    "end": 13.159,
+    "words": [
+      "gelince",
+      "yumuşadığını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.159,
+    "end": 13.526,
+    "words": [
+      "gelince",
+      "yumuşadığını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.526,
+    "end": 13.95,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.95,
+    "end": 14.317,
+    "words": [
+      "göreceksin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.317,
+    "end": 14.572,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.572,
+    "end": 14.834,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.834,
+    "end": 15.104,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.104,
+    "end": 15.45,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.45,
+    "end": 15.787,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.787,
+    "end": 16.14,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.14,
+    "end": 16.594,
+    "words": [
+      "sert",
+      "avokadoları."
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.594,
+    "end": 17.28,
+    "words": [
+      "sert",
+      "avokadoları."
+    ],
+    "active": 1
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "frames": 675,
+  "hook": [
+    "KESME TAHTASI",
+    "KOKUSU!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-028-1.png"
+    },
+    {
+      "from": 268,
+      "file": "VID-028-2.png"
+    },
+    {
+      "from": 361,
+      "file": "VID-028-3.png"
+    }
+  ],
+  "result": 523,
+  "save": 603,
+  "clocks": [
+    {
+      "from": 394,
+      "to": 420
+    }
+  ],
+  "events": [
+    {
+      "from": 300,
+      "to": 333,
+      "a": "İRİ KAYA TUZU",
+      "b": "TAHTANIN ÜZERİNE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 346,
+      "to": 381,
+      "a": "YARIM LİMON",
+      "b": "VE TUZ",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "lemon"
+    },
+    {
+      "from": 394,
+      "to": 423,
+      "a": "İKİ DAKİKA",
+      "b": "OVALA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 603,
+      "to": 632,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-028-voice.wav"
+}

@@ -1,0 +1,85 @@
+{
+  "frames": 705,
+  "hook": [
+    "SARIMSAĞI",
+    "TEK TEK SOYMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-008-1.png"
+    },
+    {
+      "from": 284,
+      "file": "VID-008-2.png"
+    },
+    {
+      "from": 358,
+      "file": "VID-008-3.png"
+    },
+    {
+      "from": 484,
+      "file": "VID-008-4.png"
+    }
+  ],
+  "result": 484,
+  "save": 615,
+  "clocks": [
+    {
+      "from": 150,
+      "to": 173
+    },
+    {
+      "from": 358,
+      "to": 386
+    }
+  ],
+  "events": [
+    {
+      "from": 150,
+      "to": 174,
+      "a": "10 SANİYE",
+      "b": "PRATİK YÖNTEM",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 284,
+      "to": 324,
+      "a": "KAPAKLI",
+      "b": "CAM KAVANOZ",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 358,
+      "to": 400,
+      "a": "10 SANİYE",
+      "b": "ÇALKALA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 525,
+      "to": 564,
+      "a": "SOYULMUŞ",
+      "b": "SARIMSAKLAR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 615,
+      "to": 647,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-008-voice.wav"
+}

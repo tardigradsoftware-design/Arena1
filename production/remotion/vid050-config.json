@@ -1,0 +1,77 @@
+{
+  "frames": 693,
+  "hook": [
+    "MUZLARI",
+    "SALKIMDA BIRAKMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-050-1.png"
+    },
+    {
+      "from": 268,
+      "file": "VID-050-2.png"
+    },
+    {
+      "from": 545,
+      "file": "VID-050-4.png"
+    }
+  ],
+  "result": 555,
+  "save": 627,
+  "clocks": [
+    {
+      "from": 542,
+      "to": 584
+    }
+  ],
+  "events": [
+    {
+      "from": 282,
+      "to": 320,
+      "a": "MUZLARI",
+      "b": "TEK TEK AYIR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "banana"
+    },
+    {
+      "from": 350,
+      "to": 391,
+      "a": "SAP KISMINI",
+      "b": "STREÇ VEYA FOLYO",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "banana"
+    },
+    {
+      "from": 436,
+      "to": 474,
+      "a": "AYRI AYRI",
+      "b": "SIKICA SAR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "banana"
+    },
+    {
+      "from": 544,
+      "to": 584,
+      "a": "GÜNLERCE",
+      "b": "TAZE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 627,
+      "to": 660,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-050-voice.wav"
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-027-1.png",
+      "sha256": "5367939d2d3a62abbc041b5487f95f2ad98630ea2049faa153f0db5c550bc4b0",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Dirsek ve kol doğal anatomili, havlu üzerinde destekli."
+    },
+    {
+      "file": "../../remotion/public/VID-027-2.png",
+      "sha256": "0960f5d2a3c967eadbb76d9010592eb22ad60f90b7c52fd2048960d48fd87885",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Limon üzerinde beyaz toz ve altın tonlu damlalar, durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-027-3.png",
+      "sha256": "033c95f8c4aa75a667b41cca7ab4972a2bc62cb05cf08cf39c053461ff2ef60b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Limon, toz ve yağ ayrı kaplarda, işlem durağan temsil."
+    },
+    {
+      "file": "../../remotion/public/VID-027-4.png",
+      "sha256": "764c31098fcc832b3e7905b3ee2d66abdf6cdd7bbe5046613bc96947bb59d4c7",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Destekli dirsek kadrajı, temsili sonuç."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../remotion/public/VID-002-1.png",
+      "sha256": "e3ee9a6344f52052e2be15ab478761d4398f829a545623991123af1fb78051ac",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Nemli poşet içinde sararmış yeşillikler, el yok, senaryo açılışına uygun."
+    },
+    {
+      "file": "../remotion/public/VID-002-2.png",
+      "sha256": "de2e9f20e06dfe86868175e152817c8fd9132a8b59cc44d221c3af27b5bec8ca",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Cam kapta havlu ve yeşillik; üst havlu kenardan katlanmış, senaryonun hazırlık sahnesine uygun."
+    },
+    {
+      "file": "../remotion/public/VID-002-3.png",
+      "sha256": "55252a27c4a00a6e59183c6392ea0f2ad57af741dfbba1ad2d31b2d9259246e5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Buzdolabında kapağı altta duran cam kap ve havlular, nesne ölçekleri tutarlı."
+    },
+    {
+      "file": "../remotion/public/VID-002-4.png",
+      "sha256": "c5e1bd1717cc55c4fdc309d8dd0cea37173486caeb69fba89d6e78a1a987314b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yeşil otlar ve yanlarında kap; temsili sonuç sahnesi, saklama süresini kanıtlamaz."
+    }
+  ]
+}

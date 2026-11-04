@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-040-1.png",
+      "sha256": "f1f8d514d6e0087735a8254aef6fb51a750d11a29e80086f2ba00d46804bffe3",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kireçli krom musluk lavaboya bağlı."
+    },
+    {
+      "file": "../../remotion/public/VID-040-2.png",
+      "sha256": "fc42bbf4e9daeaec38bd21cf046ad85291364deeac40b43328363cf2c98865e3",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Aynı musluk ve destekli limon; uygulama durağan."
+    },
+    {
+      "file": "../../remotion/public/VID-040-3.png",
+      "sha256": "b2a474ddbb6c162ae023dba5f369576a727a18c969cada5723a33945fc6d97c9",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Bez lavaboda, musluk temiz temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-040-4.png",
+      "sha256": "e266bae1aa4e1d36c4e78e3342a6249ff0e18296b6dd45e6a7a3d5813ce82e06",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Benzer temiz musluk, temsili sonuç."
+    }
+  ]
+}

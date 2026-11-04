@@ -1,0 +1,290 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.652,
+    "words": [
+      "sakın",
+      "yaptığınız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.652,
+    "end": 1.118,
+    "words": [
+      "sakın",
+      "yaptığınız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.118,
+    "end": 1.583,
+    "words": [
+      "zeytinyağlı",
+      "sebze"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.583,
+    "end": 2.029,
+    "words": [
+      "zeytinyağlı",
+      "sebze"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.029,
+    "end": 2.456,
+    "words": [
+      "yemeklerinin",
+      "hafif"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.456,
+    "end": 2.854,
+    "words": [
+      "yemeklerinin",
+      "hafif"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.854,
+    "end": 3.221,
+    "words": [
+      "ekşiyip",
+      "bozulmasını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.221,
+    "end": 3.607,
+    "words": [
+      "ekşiyip",
+      "bozulmasını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.607,
+    "end": 3.953,
+    "words": [
+      "önlemek",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.953,
+    "end": 4.308,
+    "words": [
+      "önlemek",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.308,
+    "end": 4.732,
+    "words": [
+      "pişerken",
+      "içerisine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.732,
+    "end": 5.158,
+    "words": [
+      "pişerken",
+      "içerisine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.158,
+    "end": 5.498,
+    "words": [
+      "şeker",
+      "atmayı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.498,
+    "end": 5.79,
+    "words": [
+      "şeker",
+      "atmayı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.79,
+    "end": 6.218,
+    "words": [
+      "unutmayın!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.218,
+    "end": 6.593,
+    "words": [
+      "unutmayın!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.593,
+    "end": 6.803,
+    "words": [
+      "bir",
+      "çay"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.803,
+    "end": 7.005,
+    "words": [
+      "bir",
+      "çay"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.005,
+    "end": 7.238,
+    "words": [
+      "kaşığı",
+      "şeker"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.238,
+    "end": 7.537,
+    "words": [
+      "kaşığı",
+      "şeker"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.537,
+    "end": 7.957,
+    "words": [
+      "dengeler.",
+      "Şeker"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.957,
+    "end": 8.352,
+    "words": [
+      "dengeler.",
+      "Şeker"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.352,
+    "end": 8.648,
+    "words": [
+      "ekleyin.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.648,
+    "end": 8.942,
+    "words": [
+      "ekleyin.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.942,
+    "end": 9.262,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.262,
+    "end": 9.57,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.57,
+    "end": 9.848,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.848,
+    "end": 10.207,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.207,
+    "end": 10.568,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.568,
+    "end": 10.976,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.976,
+    "end": 11.507,
+    "words": [
+      "zeytinyağlı",
+      "pişirirken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.507,
+    "end": 12.304,
+    "words": [
+      "zeytinyağlı",
+      "pişirirken."
+    ],
+    "active": 1
+  }
+]

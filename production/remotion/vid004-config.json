@@ -1,0 +1,90 @@
+{
+  "frames": 686,
+  "hook": [
+    "ÜTÜ TABANINI",
+    "BIÇAKLA KAZIMA!"
+  ],
+  "voice": "VID-004-voice.wav",
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-004-1.png"
+    },
+    {
+      "from": 153,
+      "file": "VID-004-2.png"
+    },
+    {
+      "from": 278,
+      "file": "VID-004-3.png"
+    },
+    {
+      "from": 455,
+      "file": "VID-004-4.png"
+    }
+  ],
+  "result": 455,
+  "save": 596,
+  "clocks": [
+    {
+      "from": 120,
+      "to": 148
+    }
+  ],
+  "events": [
+    {
+      "from": 81,
+      "to": 119,
+      "a": "FİŞİNİ ÇEK",
+      "b": "ÜTÜNÜN",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "plug"
+    },
+    {
+      "from": 120,
+      "to": 148,
+      "a": "TAMAMEN",
+      "b": "SOĞUMASINI BEKLE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 166,
+      "to": 207,
+      "a": "KULLANIM",
+      "b": "KILAVUZUNU İZLE",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "book"
+    },
+    {
+      "from": 280,
+      "to": 315,
+      "a": "YUMUŞAK BEZ",
+      "b": "TALİMATA UYGUN",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "cloth"
+    },
+    {
+      "from": 396,
+      "to": 450,
+      "a": "BUHAR DELİKLERİNE",
+      "b": "SIVI KAÇIRMAMAYA DİKKAT",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "warning"
+    },
+    {
+      "from": 596,
+      "to": 630,
+      "a": "KAYDET",
+      "b": "GÜVENLİ TEMİZLİK",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ]
+}

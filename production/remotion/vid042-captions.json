@@ -1,0 +1,578 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.623,
+    "words": [
+      "sakın",
+      "güneşten"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.623,
+    "end": 1.017,
+    "words": [
+      "sakın",
+      "güneşten"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.017,
+    "end": 1.37,
+    "words": [
+      "kızaran",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.37,
+    "end": 1.681,
+    "words": [
+      "kızaran",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.681,
+    "end": 1.965,
+    "words": [
+      "ağda",
+      "sonrası"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.965,
+    "end": 2.25,
+    "words": [
+      "ağda",
+      "sonrası"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.25,
+    "end": 2.52,
+    "words": [
+      "tahriş",
+      "olan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.52,
+    "end": 2.782,
+    "words": [
+      "tahriş",
+      "olan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.782,
+    "end": 3.112,
+    "words": [
+      "cildine",
+      "kimyasal"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.112,
+    "end": 3.468,
+    "words": [
+      "cildine",
+      "kimyasal"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.468,
+    "end": 3.775,
+    "words": [
+      "krem",
+      "sürüp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.775,
+    "end": 4.012,
+    "words": [
+      "krem",
+      "sürüp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.012,
+    "end": 4.17,
+    "words": [
+      "daha",
+      "çok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.17,
+    "end": 4.38,
+    "words": [
+      "daha",
+      "çok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.38,
+    "end": 4.83,
+    "words": [
+      "yakma!",
+      "Çünkü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.83,
+    "end": 5.303,
+    "words": [
+      "yakma!",
+      "Çünkü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.303,
+    "end": 5.662,
+    "words": [
+      "cildini",
+      "anında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.662,
+    "end": 6.073,
+    "words": [
+      "cildini",
+      "anında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.073,
+    "end": 6.489,
+    "words": [
+      "yatıştırıp",
+      "ferahlatacak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.489,
+    "end": 6.906,
+    "words": [
+      "yatıştırıp",
+      "ferahlatacak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.906,
+    "end": 7.322,
+    "words": [
+      "aloe",
+      "vera"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.322,
+    "end": 7.62,
+    "words": [
+      "aloe",
+      "vera"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.62,
+    "end": 7.86,
+    "words": [
+      "buz",
+      "küplerini"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.86,
+    "end": 8.16,
+    "words": [
+      "buz",
+      "küplerini"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.16,
+    "end": 8.467,
+    "words": [
+      "evde",
+      "kolayca"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.467,
+    "end": 8.85,
+    "words": [
+      "evde",
+      "kolayca"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.85,
+    "end": 9.3,
+    "words": [
+      "hazırlayabilirsin.",
+      "Saf"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.3,
+    "end": 9.75,
+    "words": [
+      "hazırlayabilirsin.",
+      "Saf"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.75,
+    "end": 10.2,
+    "words": [
+      "aloe",
+      "vera"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.2,
+    "end": 10.57,
+    "words": [
+      "aloe",
+      "vera"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.57,
+    "end": 10.86,
+    "words": [
+      "jelini",
+      "buz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.86,
+    "end": 11.15,
+    "words": [
+      "jelini",
+      "buz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.15,
+    "end": 11.44,
+    "words": [
+      "kalıbına",
+      "döküp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.44,
+    "end": 11.73,
+    "words": [
+      "kalıbına",
+      "döküp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.73,
+    "end": 12.02,
+    "words": [
+      "dondur",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.02,
+    "end": 12.278,
+    "words": [
+      "dondur",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.278,
+    "end": 12.512,
+    "words": [
+      "tahriş",
+      "olan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.512,
+    "end": 12.758,
+    "words": [
+      "tahriş",
+      "olan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.758,
+    "end": 13.043,
+    "words": [
+      "hassas",
+      "bölgeye"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.043,
+    "end": 13.375,
+    "words": [
+      "hassas",
+      "bölgeye"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.375,
+    "end": 13.725,
+    "words": [
+      "nazikçe",
+      "masaj"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.725,
+    "end": 14.075,
+    "words": [
+      "nazikçe",
+      "masaj"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.075,
+    "end": 14.377,
+    "words": [
+      "yaparak",
+      "uygula."
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.377,
+    "end": 14.828,
+    "words": [
+      "yaparak",
+      "uygula."
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.828,
+    "end": 15.255,
+    "words": [
+      "Soğuk",
+      "şok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.255,
+    "end": 15.465,
+    "words": [
+      "Soğuk",
+      "şok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.465,
+    "end": 15.683,
+    "words": [
+      "ve",
+      "aloe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.683,
+    "end": 15.907,
+    "words": [
+      "ve",
+      "aloe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.907,
+    "end": 16.187,
+    "words": [
+      "vera",
+      "özü"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.187,
+    "end": 16.521,
+    "words": [
+      "vera",
+      "özü"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.521,
+    "end": 16.854,
+    "words": [
+      "kızarıklığı",
+      "anında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.854,
+    "end": 17.188,
+    "words": [
+      "kızarıklığı",
+      "anında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.188,
+    "end": 17.479,
+    "words": [
+      "alıp",
+      "cildi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.479,
+    "end": 17.726,
+    "words": [
+      "alıp",
+      "cildi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.726,
+    "end": 17.996,
+    "words": [
+      "yeniler.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.996,
+    "end": 18.289,
+    "words": [
+      "yeniler.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.289,
+    "end": 18.6,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.6,
+    "end": 18.915,
+    "words": [
+      "bakımı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.915,
+    "end": 19.29,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.29,
+    "end": 19.65,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.65,
+    "end": 19.947,
+    "words": [
+      "unutma,",
+      "tahriş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.947,
+    "end": 20.272,
+    "words": [
+      "unutma,",
+      "tahriş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.272,
+    "end": 20.597,
+    "words": [
+      "olan",
+      "cildini."
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.597,
+    "end": 21.084,
+    "words": [
+      "olan",
+      "cildini."
+    ],
+    "active": 1
+  }
+]

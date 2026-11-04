@@ -1,0 +1,58 @@
+{
+  "frames": 585,
+  "hook": [
+    "DOLAPTAKİ NEMİ",
+    "SPREYLE MASKELEME!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-064-1.png"
+    },
+    {
+      "from": 274,
+      "file": "VID-064-2.png"
+    },
+    {
+      "from": 351,
+      "file": "VID-064-3.png"
+    },
+    {
+      "from": 476,
+      "file": "VID-064-4.png"
+    }
+  ],
+  "result": 474,
+  "save": 510,
+  "clocks": [],
+  "events": [
+    {
+      "from": 282,
+      "to": 325,
+      "a": "KÜÇÜK KÂSE",
+      "b": "KAYA TUZU",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "glass"
+    },
+    {
+      "from": 351,
+      "to": 388,
+      "a": "DOLABIN",
+      "b": "KÖŞESİNE KOY",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 510,
+      "to": 543,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-064-voice.wav"
+}

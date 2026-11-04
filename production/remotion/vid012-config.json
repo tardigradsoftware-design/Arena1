@@ -1,0 +1,94 @@
+{
+  "frames": 629,
+  "hook": [
+    "ETİKETLERİ",
+    "TIRNAĞINLA KAZIMA!"
+  ],
+  "voice": "VID-012-voice.wav",
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-012-1.png"
+    },
+    {
+      "from": 220,
+      "file": "VID-012-2.png"
+    },
+    {
+      "from": 326,
+      "file": "VID-012-3.png"
+    },
+    {
+      "from": 391,
+      "file": "VID-012-4.png"
+    }
+  ],
+  "result": 480,
+  "save": 545,
+  "clocks": [
+    {
+      "from": 169,
+      "to": 194
+    },
+    {
+      "from": 263,
+      "to": 300
+    }
+  ],
+  "events": [
+    {
+      "from": 169,
+      "to": 194,
+      "a": "SANİYELER",
+      "b": "İÇİNDE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 241,
+      "to": 260,
+      "a": "FÖN MAKİNESİ",
+      "b": "SICAK HAVA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "dryer"
+    },
+    {
+      "from": 263,
+      "to": 301,
+      "a": "10 SANİYE",
+      "b": "SICAK HAVA",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 327,
+      "to": 368,
+      "a": "ETİKETİ",
+      "b": "SOY",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 397,
+      "to": 426,
+      "a": "ZEYTİNYAĞIYLA",
+      "b": "SİL",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 545,
+      "to": 574,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ]
+}

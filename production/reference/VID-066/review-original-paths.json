@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-066-1.png",
+      "sha256": "cf52e7996284b472d45e03771e04368b07853fdb5abdcd7b9033466744db80b9",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi yanak, doğal cilt dokusu."
+    },
+    {
+      "file": "../../remotion/public/VID-066-2.png",
+      "sha256": "b199e7a8d4c81645bbf4c7cd891ccb27b69679911eae9d516c5910d5d108aba3",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Pirinç unu ve yoğurt kâsede temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-066-3.png",
+      "sha256": "6a4e2928954c68b357898e9a63f3ca0b6dde21b7401ee0d755fcd751c2e50102",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâse ve kozmetik fırça; uygulama gösterilmez."
+    },
+    {
+      "file": "../../remotion/public/VID-066-4.png",
+      "sha256": "1578ec50e93b6ae767353e4877556787e1f6b8ddb3e9bf931da15ffdb90b660c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kısmi yüz; gerçek önce sonrası değildir."
+    }
+  ]
+}

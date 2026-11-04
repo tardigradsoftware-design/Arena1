@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.512,
+    "words": [
+      "sakın",
+      "dağınık"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.512,
+    "end": 0.827,
+    "words": [
+      "sakın",
+      "dağınık"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.827,
+    "end": 1.116,
+    "words": [
+      "duran",
+      "kaşlarınız"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.116,
+    "end": 1.404,
+    "words": [
+      "duran",
+      "kaşlarınız"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.404,
+    "end": 1.674,
+    "words": [
+      "için",
+      "pahalı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.674,
+    "end": 1.939,
+    "words": [
+      "için",
+      "pahalı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.939,
+    "end": 2.218,
+    "words": [
+      "kaş",
+      "sabunlarına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.218,
+    "end": 2.497,
+    "words": [
+      "kaş",
+      "sabunlarına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.497,
+    "end": 2.776,
+    "words": [
+      "ve",
+      "jellerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.776,
+    "end": 3.055,
+    "words": [
+      "ve",
+      "jellerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.055,
+    "end": 3.435,
+    "words": [
+      "servet",
+      "dökmeyin!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.435,
+    "end": 3.915,
+    "words": [
+      "servet",
+      "dökmeyin!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.915,
+    "end": 4.297,
+    "words": [
+      "Çünkü",
+      "klasik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.297,
+    "end": 4.559,
+    "words": [
+      "Çünkü",
+      "klasik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.559,
+    "end": 4.784,
+    "words": [
+      "kalıp",
+      "sabun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.784,
+    "end": 5.077,
+    "words": [
+      "kalıp",
+      "sabun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.077,
+    "end": 5.47,
+    "words": [
+      "mükemmel",
+      "sabitler."
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.47,
+    "end": 5.88,
+    "words": [
+      "mükemmel",
+      "sabitler."
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.88,
+    "end": 6.29,
+    "words": [
+      "Sabun",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.29,
+    "end": 6.578,
+    "words": [
+      "Sabun",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.578,
+    "end": 6.824,
+    "words": [
+      "fırça",
+      "kullanın."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.824,
+    "end": 7.151,
+    "words": [
+      "fırça",
+      "kullanın."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.151,
+    "end": 7.42,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.42,
+    "end": 7.67,
+    "words": [
+      "Bu",
+      "bakımı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.67,
+    "end": 7.965,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.965,
+    "end": 8.31,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.31,
+    "end": 8.633,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.633,
+    "end": 8.989,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.989,
+    "end": 9.446,
+    "words": [
+      "kaşları",
+      "tararken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.446,
+    "end": 10.131,
+    "words": [
+      "kaşları",
+      "tararken."
+    ],
+    "active": 1
+  }
+]

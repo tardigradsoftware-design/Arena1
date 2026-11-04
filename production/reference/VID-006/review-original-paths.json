@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-006-1.png",
+      "sha256": "3b9c9811c12c4e3420a828025e463749bf37def66266a26e2997d48c392398e5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kahve fincanı, tabak ve telve doğal biçimde destekli; insan yok."
+    },
+    {
+      "file": "../../remotion/public/VID-006-2.png",
+      "sha256": "9ec58c97f8cf32e956c8a952e5d072be5c0121379ea32c4c14510c0796b0d856",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Düz tabakta serilmiş telve, tezgah üzerinde."
+    },
+    {
+      "file": "../../remotion/public/VID-006-3.png",
+      "sha256": "2fc9fdc3f325bddc9dd12eaf58ac0e0fd318240be9b02eb4dc8afdb8dffdff6c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Cam kasede telve ve tezgaha dayanmış damlalık ile şişe; işlem temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-006-4.png",
+      "sha256": "15140b7190c2618c9988efc8e9c3832f9c863d5415598fdb816f585438fbe5bb",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Cam buzdolabı rafı üzerinde telve kasesi; koku sonucu görselden doğrulanamaz."
+    }
+  ]
+}

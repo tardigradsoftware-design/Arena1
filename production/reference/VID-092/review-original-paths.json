@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-092-1.png",
+      "sha256": "21a7524e91d6dd1d62bad5dfefdf2f5963b855bb96b60710ff417ff4effadf34",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Patates ve soğan aynı sepette, temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-092-2.png",
+      "sha256": "a28559d36b2ac7ff7b933f5cdb24c9307a5896ab8b593ec9303f09eb58f9715c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Patates ayrı sepet."
+    },
+    {
+      "file": "../../remotion/public/VID-092-3.png",
+      "sha256": "8b8904ae9e866bd0c403a4c8a9bb481ba18e9bc963a2eb349f843e1141522b4b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Sepette patates temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-092-4.png",
+      "sha256": "9f231a6aaa278e18498a8785f4d43e3c62a20bae63ed1cf6b414f6678a81721d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ayrı sepetler."
+    }
+  ]
+}

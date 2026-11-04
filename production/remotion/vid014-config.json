@@ -1,0 +1,85 @@
+{
+  "frames": 649,
+  "hook": [
+    "SARARAN",
+    "TIRNAKLARINI SAKLAMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-014-1.png"
+    },
+    {
+      "from": 230,
+      "file": "VID-014-2.png"
+    },
+    {
+      "from": 318,
+      "file": "VID-014-3.png"
+    },
+    {
+      "from": 450,
+      "file": "VID-014-4.png"
+    }
+  ],
+  "result": 480,
+  "save": 571,
+  "clocks": [
+    {
+      "from": 158,
+      "to": 179
+    },
+    {
+      "from": 397,
+      "to": 425
+    }
+  ],
+  "events": [
+    {
+      "from": 158,
+      "to": 181,
+      "a": "5 DAKİKA",
+      "b": "TIRNAK BAKIMI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 286,
+      "to": 316,
+      "a": "DİŞ MACUNU",
+      "b": "NOHUT KADAR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "brush"
+    },
+    {
+      "from": 339,
+      "to": 363,
+      "a": "BİRKAÇ DAMLA",
+      "b": "LİMON SUYU",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "lemon"
+    },
+    {
+      "from": 397,
+      "to": 429,
+      "a": "2 DAKİKA",
+      "b": "FIRÇALA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 571,
+      "to": 600,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-014-voice.wav"
+}

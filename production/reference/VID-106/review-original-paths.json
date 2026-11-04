@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-106-2.png",
+      "sha256": "edcade9b40148acb3b725128eb147c78cc2f190e3724dbcbfe7a089ddbee6d53",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Masanın altında havlu temsili; ütü yok."
+    },
+    {
+      "file": "../../remotion/public/VID-106-3.png",
+      "sha256": "16efee9cc004dc21b6446a5c374ba4eda66669be340577af4da8a335953acfcf",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Masanın altında havlu ve destekli masa."
+    },
+    {
+      "file": "../../remotion/public/VID-106-4.png",
+      "sha256": "311b78de3e1e3ed5f6c5f75253596c20b92a7c2859d97f2f7e20cd1f1f2930d7",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Masanın altında havlu, ütü yok."
+    }
+  ]
+}

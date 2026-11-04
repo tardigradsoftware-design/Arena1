@@ -1,0 +1,49 @@
+{
+  "frames": 342,
+  "hook": [
+    "SAÇ UÇLARI",
+    "VE ARGAN YAĞI"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-093-1.png"
+    },
+    {
+      "from": 140,
+      "file": "VID-093-2.png"
+    },
+    {
+      "from": 245,
+      "file": "VID-093-1.png"
+    },
+    {
+      "from": 290,
+      "file": "VID-093-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 265,
+  "clocks": [],
+  "events": [
+    {
+      "from": 152,
+      "to": 181,
+      "a": "ARGAN YAĞI",
+      "b": "SAÇ UÇLARI",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 265,
+      "to": 287,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-093-voice.wav"
+}

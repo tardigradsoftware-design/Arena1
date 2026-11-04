@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-008-1.png",
+      "sha256": "e8ed588f5e8884d29365e54fb3ffceeb82f0b9bb9990c4bbf1958d8a8019c39b",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Elle görsel inceleme: sahne nesneleri destekli, anlatımla ilgili temsili durağan kompozisyon."
+    },
+    {
+      "file": "../../remotion/public/VID-008-2.png",
+      "sha256": "1f758d337658c692eca3eb581e081b385abf144270557eb2023c909babede03f",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Elle görsel inceleme: sahne nesneleri destekli, anlatımla ilgili temsili durağan kompozisyon."
+    },
+    {
+      "file": "../../remotion/public/VID-008-3.png",
+      "sha256": "ee76d0afab5f7574a028a1ddf22230e0cdc145b106c9050d55eef83a838e6432",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Elle görsel inceleme: sahne nesneleri destekli, anlatımla ilgili temsili durağan kompozisyon."
+    },
+    {
+      "file": "../../remotion/public/VID-008-4.png",
+      "sha256": "b40fe272aced62f3b4da3137e27adcdac8e9620d132f538d0a8960ce9a8e56f6",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Elle görsel inceleme: sahne nesneleri destekli, anlatımla ilgili temsili durağan kompozisyon."
+    }
+  ]
+}

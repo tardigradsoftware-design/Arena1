@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-058-1.png",
+      "sha256": "8faa444c4210c3f54396d9bf386816604f4dc82194f6c19c70ae1b1ca58ce596",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Lavaboda sünger, mikroplar görünmez."
+    },
+    {
+      "file": "../../remotion/public/VID-058-3.png",
+      "sha256": "abb74d81e3a7a0af083a990a0ff91088fd63e7935f7f3b30173ff8df37f92634",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı mikrodalga ve dışında sünger, ısıtma gösterilmiyor."
+    },
+    {
+      "file": "../../remotion/public/VID-058-4.png",
+      "sha256": "3b525c67d5792db119bd037568550348360484ccaf7420e14c791d905ce57e6d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Süngerin görünümü steriliteyi kanıtlamaz."
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# VID-093 — V14
+Drive: https://drive.google.com/file/d/1gGcpi44I1_OzS1MLAWCz-GHkLptMPnb4/view — 11,41 sn / 2.420.639 bayt. ODS özgün (son cümle yarım), voice-01 1,45×; iki incelenmiş temsili yapay sahne; 3. ve 4. adaylar sırasıyla bağlantısız saç ve dökülmüş sıvı nedeniyle kullanılmadı. Vosk 17/33, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect ve üç saniyede kare kontrolü; tepe −5,97 dBFS. Yağ kırıkları onarmaz, geçici olarak görünümlerini yumuşatabilir: https://www.argan.com/blogs/articles/argan-oil-for-split-ends

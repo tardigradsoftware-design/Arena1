@@ -1,0 +1,578 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.645,
+    "words": [
+      "sakın",
+      "yumurtayı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.645,
+    "end": 1.066,
+    "words": [
+      "sakın",
+      "yumurtayı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.066,
+    "end": 1.457,
+    "words": [
+      "direkt",
+      "tencerenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.457,
+    "end": 1.848,
+    "words": [
+      "direkt",
+      "tencerenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.848,
+    "end": 2.222,
+    "words": [
+      "veya",
+      "kasenin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.222,
+    "end": 2.581,
+    "words": [
+      "veya",
+      "kasenin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.581,
+    "end": 2.94,
+    "words": [
+      "keskin",
+      "kenarına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.94,
+    "end": 3.263,
+    "words": [
+      "keskin",
+      "kenarına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.263,
+    "end": 3.555,
+    "words": [
+      "vurup",
+      "kabuk"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.555,
+    "end": 3.855,
+    "words": [
+      "vurup",
+      "kabuk"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.855,
+    "end": 4.16,
+    "words": [
+      "parçalarını",
+      "yemeğin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.16,
+    "end": 4.47,
+    "words": [
+      "parçalarını",
+      "yemeğin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.47,
+    "end": 4.78,
+    "words": [
+      "içine",
+      "düşürmeyin!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.78,
+    "end": 5.242,
+    "words": [
+      "içine",
+      "düşürmeyin!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.242,
+    "end": 5.715,
+    "words": [
+      "Çünkü",
+      "yumurtayı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.715,
+    "end": 6.086,
+    "words": [
+      "Çünkü",
+      "yumurtayı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.086,
+    "end": 6.424,
+    "words": [
+      "pürüzsüz",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.424,
+    "end": 6.727,
+    "words": [
+      "pürüzsüz",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.727,
+    "end": 7.072,
+    "words": [
+      "kabuksuz",
+      "kırmanın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.072,
+    "end": 7.418,
+    "words": [
+      "kabuksuz",
+      "kırmanın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.418,
+    "end": 7.688,
+    "words": [
+      "en",
+      "doğru"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.688,
+    "end": 7.905,
+    "words": [
+      "en",
+      "doğru"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.905,
+    "end": 8.145,
+    "words": [
+      "yolu",
+      "düz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.145,
+    "end": 8.385,
+    "words": [
+      "yolu",
+      "düz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.385,
+    "end": 8.625,
+    "words": [
+      "bir",
+      "tezgah"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.625,
+    "end": 9.023,
+    "words": [
+      "bir",
+      "tezgah"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.023,
+    "end": 9.578,
+    "words": [
+      "yüzeyidir.",
+      "Yumurtayı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.578,
+    "end": 10.027,
+    "words": [
+      "yüzeyidir.",
+      "Yumurtayı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.027,
+    "end": 10.372,
+    "words": [
+      "tavaya",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.372,
+    "end": 10.718,
+    "words": [
+      "tavaya",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.718,
+    "end": 11.062,
+    "words": [
+      "kaseye",
+      "vurmak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.062,
+    "end": 11.407,
+    "words": [
+      "kaseye",
+      "vurmak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.407,
+    "end": 11.753,
+    "words": [
+      "yerine",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.753,
+    "end": 12.113,
+    "words": [
+      "yerine",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.113,
+    "end": 12.585,
+    "words": [
+      "tezgahına",
+      "ortasından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.585,
+    "end": 13.089,
+    "words": [
+      "tezgahına",
+      "ortasından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.089,
+    "end": 13.528,
+    "words": [
+      "hafifçe",
+      "vurarak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.528,
+    "end": 13.967,
+    "words": [
+      "hafifçe",
+      "vurarak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.967,
+    "end": 14.406,
+    "words": [
+      "çatlat,",
+      "ardından"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.406,
+    "end": 14.82,
+    "words": [
+      "çatlat,",
+      "ardından"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.82,
+    "end": 15.224,
+    "words": [
+      "iki",
+      "parmağınla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.224,
+    "end": 15.642,
+    "words": [
+      "iki",
+      "parmağınla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.642,
+    "end": 16.056,
+    "words": [
+      "ortadan",
+      "nazikçe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.056,
+    "end": 16.468,
+    "words": [
+      "ortadan",
+      "nazikçe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.468,
+    "end": 16.879,
+    "words": [
+      "ayır.",
+      "İçindeki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.879,
+    "end": 17.25,
+    "words": [
+      "ayır.",
+      "İçindeki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.25,
+    "end": 17.572,
+    "words": [
+      "tüm",
+      "akışkan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.572,
+    "end": 17.88,
+    "words": [
+      "tüm",
+      "akışkan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.88,
+    "end": 18.218,
+    "words": [
+      "sıvı",
+      "sıfır"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.218,
+    "end": 18.639,
+    "words": [
+      "sıvı",
+      "sıfır"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.639,
+    "end": 19.108,
+    "words": [
+      "kabukla",
+      "tertemiz"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.108,
+    "end": 19.577,
+    "words": [
+      "kabukla",
+      "tertemiz"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.577,
+    "end": 20.046,
+    "words": [
+      "dökülecektir.",
+      "Bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.046,
+    "end": 20.385,
+    "words": [
+      "dökülecektir.",
+      "Bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.385,
+    "end": 20.633,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.633,
+    "end": 20.918,
+    "words": [
+      "mutfak",
+      "sırrını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.918,
+    "end": 21.218,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.218,
+    "end": 21.6,
+    "words": [
+      "hemen",
+      "kaydet."
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.6,
+    "end": 21.953,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.953,
+    "end": 22.312,
+    "words": [
+      "Ve",
+      "unutma,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.312,
+    "end": 22.718,
+    "words": [
+      "yemek",
+      "yaparken"
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.718,
+    "end": 23.145,
+    "words": [
+      "yemek",
+      "yaparken"
+    ],
+    "active": 1
+  },
+  {
+    "start": 23.145,
+    "end": 23.595,
+    "words": [
+      "yumurta",
+      "kırarken."
+    ],
+    "active": 0
+  },
+  {
+    "start": 23.595,
+    "end": 24.177,
+    "words": [
+      "yumurta",
+      "kırarken."
+    ],
+    "active": 1
+  }
+]

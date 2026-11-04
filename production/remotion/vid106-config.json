@@ -1,0 +1,49 @@
+{
+  "frames": 323,
+  "hook": [
+    "ÜTÜ MASASINDAN",
+    "SU DAMLIYOR MU?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-106-2.png"
+    },
+    {
+      "from": 171,
+      "file": "VID-106-3.png"
+    },
+    {
+      "from": 235,
+      "file": "VID-106-4.png"
+    },
+    {
+      "from": 285,
+      "file": "VID-106-2.png"
+    }
+  ],
+  "result": 9999,
+  "save": 263,
+  "clocks": [],
+  "events": [
+    {
+      "from": 174,
+      "to": 205,
+      "a": "TEMİZ HAVLU",
+      "b": "MASANIN ALTINA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 263,
+      "to": 287,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-106-voice.wav"
+}

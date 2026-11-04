@@ -1,0 +1,650 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.606,
+    "words": [
+      "sakın",
+      "poşetiyle"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.606,
+    "end": 1.037,
+    "words": [
+      "sakın",
+      "poşetiyle"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.037,
+    "end": 1.468,
+    "words": [
+      "buzdolabına",
+      "atma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.468,
+    "end": 1.899,
+    "words": [
+      "buzdolabına",
+      "atma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.899,
+    "end": 2.272,
+    "words": [
+      "Çünkü",
+      "aldığın"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.272,
+    "end": 2.588,
+    "words": [
+      "Çünkü",
+      "aldığın"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.588,
+    "end": 2.959,
+    "words": [
+      "taze",
+      "yeşilliklerin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.959,
+    "end": 3.388,
+    "words": [
+      "taze",
+      "yeşilliklerin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.388,
+    "end": 3.788,
+    "words": [
+      "sadece",
+      "üç"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.788,
+    "end": 4.065,
+    "words": [
+      "sadece",
+      "üç"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.065,
+    "end": 4.322,
+    "words": [
+      "günde",
+      "sararıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.322,
+    "end": 4.657,
+    "words": [
+      "günde",
+      "sararıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.657,
+    "end": 4.992,
+    "words": [
+      "çürümesinin",
+      "tek"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.992,
+    "end": 5.295,
+    "words": [
+      "çürümesinin",
+      "tek"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.295,
+    "end": 5.633,
+    "words": [
+      "sebebi",
+      "poşette"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.633,
+    "end": 6.037,
+    "words": [
+      "sebebi",
+      "poşette"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.037,
+    "end": 6.345,
+    "words": [
+      "biriken",
+      "o"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.345,
+    "end": 6.555,
+    "words": [
+      "biriken",
+      "o"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.555,
+    "end": 6.891,
+    "words": [
+      "gizli",
+      "nemdir."
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.891,
+    "end": 7.352,
+    "words": [
+      "gizli",
+      "nemdir."
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.352,
+    "end": 7.813,
+    "words": [
+      "Yeşillikleri",
+      "yıkamadan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.813,
+    "end": 8.274,
+    "words": [
+      "Yeşillikleri",
+      "yıkamadan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.274,
+    "end": 8.637,
+    "words": [
+      "önce",
+      "geniş"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.637,
+    "end": 8.9,
+    "words": [
+      "önce",
+      "geniş"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.9,
+    "end": 9.164,
+    "words": [
+      "bir",
+      "kaseye"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.164,
+    "end": 9.427,
+    "words": [
+      "bir",
+      "kaseye"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.427,
+    "end": 9.691,
+    "words": [
+      "kağıt",
+      "havlu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.691,
+    "end": 9.955,
+    "words": [
+      "kağıt",
+      "havlu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.955,
+    "end": 10.218,
+    "words": [
+      "ser,",
+      "üzerine"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.218,
+    "end": 10.523,
+    "words": [
+      "ser,",
+      "üzerine"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.523,
+    "end": 10.912,
+    "words": [
+      "yaprakları",
+      "yerleştir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.912,
+    "end": 11.317,
+    "words": [
+      "yaprakları",
+      "yerleştir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.317,
+    "end": 11.592,
+    "words": [
+      "ve",
+      "en"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.592,
+    "end": 11.767,
+    "words": [
+      "ve",
+      "en"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.767,
+    "end": 11.942,
+    "words": [
+      "üste",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.942,
+    "end": 12.116,
+    "words": [
+      "üste",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.116,
+    "end": 12.291,
+    "words": [
+      "kağıt",
+      "havlu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.291,
+    "end": 12.466,
+    "words": [
+      "kağıt",
+      "havlu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.466,
+    "end": 12.673,
+    "words": [
+      "daha",
+      "kapat."
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.673,
+    "end": 12.971,
+    "words": [
+      "daha",
+      "kapat."
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.971,
+    "end": 13.328,
+    "words": [
+      "Kabın",
+      "kapağını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.328,
+    "end": 13.685,
+    "words": [
+      "Kabın",
+      "kapağını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.685,
+    "end": 14.042,
+    "words": [
+      "sıkıca",
+      "kapatıp"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.042,
+    "end": 14.415,
+    "words": [
+      "sıkıca",
+      "kapatıp"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.415,
+    "end": 14.79,
+    "words": [
+      "buzdolabına",
+      "ters"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.79,
+    "end": 15.112,
+    "words": [
+      "buzdolabına",
+      "ters"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.112,
+    "end": 15.45,
+    "words": [
+      "çevirerek",
+      "koyduğunda"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.45,
+    "end": 15.9,
+    "words": [
+      "çevirerek",
+      "koyduğunda"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.9,
+    "end": 16.264,
+    "words": [
+      "fazla",
+      "nemi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.264,
+    "end": 16.481,
+    "words": [
+      "fazla",
+      "nemi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.481,
+    "end": 16.74,
+    "words": [
+      "havlu",
+      "çeker"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.74,
+    "end": 17.032,
+    "words": [
+      "havlu",
+      "çeker"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.032,
+    "end": 17.351,
+    "words": [
+      "ve",
+      "yeşillikler"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.351,
+    "end": 17.704,
+    "words": [
+      "ve",
+      "yeşillikler"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.704,
+    "end": 17.985,
+    "words": [
+      "üç",
+      "hafta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.985,
+    "end": 18.248,
+    "words": [
+      "üç",
+      "hafta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.248,
+    "end": 18.562,
+    "words": [
+      "kıtır",
+      "kıtır"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.562,
+    "end": 18.84,
+    "words": [
+      "kıtır",
+      "kıtır"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.84,
+    "end": 19.08,
+    "words": [
+      "taze",
+      "kalır."
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.08,
+    "end": 19.414,
+    "words": [
+      "taze",
+      "kalır."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.414,
+    "end": 19.841,
+    "words": [
+      "Mutfağında",
+      "hayat"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.841,
+    "end": 20.22,
+    "words": [
+      "Mutfağında",
+      "hayat"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.22,
+    "end": 20.5,
+    "words": [
+      "kurtaracak",
+      "bu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.5,
+    "end": 20.73,
+    "words": [
+      "kurtaracak",
+      "bu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.73,
+    "end": 20.96,
+    "words": [
+      "sırrı",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.96,
+    "end": 21.244,
+    "words": [
+      "sırrı",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.244,
+    "end": 21.581,
+    "words": [
+      "kaydet",
+      "ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.581,
+    "end": 21.919,
+    "words": [
+      "kaydet",
+      "ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.919,
+    "end": 22.256,
+    "words": [
+      "unutma,",
+      "pazardan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.256,
+    "end": 22.609,
+    "words": [
+      "unutma,",
+      "pazardan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.609,
+    "end": 22.976,
+    "words": [
+      "aldığın",
+      "yeşillikleri."
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.976,
+    "end": 23.571,
+    "words": [
+      "aldığın",
+      "yeşillikleri."
+    ],
+    "active": 1
+  }
+]

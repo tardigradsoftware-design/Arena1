@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-089-1.png",
+      "sha256": "13ea05a101da690cd30926c8f0b664dda07cdc2edd7df18ca8c40d344bf7a026",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Makarna kaynayan tencere."
+    },
+    {
+      "file": "../../remotion/public/VID-089-2.png",
+      "sha256": "18a6b4057d4e57e6272f4b69e4ef4c6fab4f7165d1ece10f74e62ce984ce689c",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kapalı yağ şişesi ve ayrı tencere."
+    },
+    {
+      "file": "../../remotion/public/VID-089-3.png",
+      "sha256": "060304fb08ed5400545f5cb2af1c9b29fcd9b0fe27310e944cd399cb558aa17d",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Makarna ve ocak."
+    },
+    {
+      "file": "../../remotion/public/VID-089-4.png",
+      "sha256": "681a1527c176c9bb5a2614b976a0c2041c6167e0bb496a72d454867f349e2cd0",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Ocakta tencere temsili."
+    }
+  ]
+}

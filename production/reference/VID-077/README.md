@@ -1,0 +1,3 @@
+# VID-077 — V14
+Drive: https://drive.google.com/file/d/1penzpq9s_lMv4MDhsNZL8X2jjndeDh80/view — 15,51 sn / 3.255.764 bayt. Özgün ODS (son cümle yarım), voice-01 1,45×; dört incelenmiş temsili yapay sahne. Vosk 33/44, diğer zamanlar tahmini; ses baştan sona dinlenmedi. 720×1280/30, decode/blackdetect, üç saniyede bir kare kontrolü; tepe −6,23 dBFS.
+ÖNEMLİ: Az pişmiş kuru fasulye zehirlenmeye neden olabilir; kısa süre ve karbonat güvenli pişme garantisi değildir. Özellikle kuru barbunya için ıslatma, suyunu değiştirme ve kuvvetli kaynatma gerekir; tamamen pişirin. https://nutritionfacts.org/blog/how-to-avoid-lectin-poisoning/

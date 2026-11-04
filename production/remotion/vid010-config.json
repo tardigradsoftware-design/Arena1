@@ -1,0 +1,72 @@
+{
+  "frames": 654,
+  "hook": [
+    "DUDAK DERİLERİNİ",
+    "DİŞLERİNLE KOPARMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-010-1.png"
+    },
+    {
+      "from": 216,
+      "file": "VID-010-2.png"
+    },
+    {
+      "from": 341,
+      "file": "VID-010-3.png"
+    },
+    {
+      "from": 442,
+      "file": "VID-010-4.png"
+    }
+  ],
+  "result": 485,
+  "save": 581,
+  "clocks": [
+    {
+      "from": 144,
+      "to": 166
+    }
+  ],
+  "events": [
+    {
+      "from": 144,
+      "to": 169,
+      "a": "BİR DAKİKA",
+      "b": "DUDAK BAKIMI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 255,
+      "to": 296,
+      "a": "BAL VE",
+      "b": "ESMER ŞEKER",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 357,
+      "to": 394,
+      "a": "NAZİKÇE",
+      "b": "MASAJ YAP",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 581,
+      "to": 610,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-010-voice.wav"
+}

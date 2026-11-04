@@ -1,0 +1,596 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.585,
+    "words": [
+      "sakın",
+      "sıcak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.585,
+    "end": 0.941,
+    "words": [
+      "sakın",
+      "sıcak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.941,
+    "end": 1.264,
+    "words": [
+      "duştan",
+      "çıktığında"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.264,
+    "end": 1.618,
+    "words": [
+      "duştan",
+      "çıktığında"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.618,
+    "end": 2.004,
+    "words": [
+      "buharlaşan",
+      "aynayı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.004,
+    "end": 2.391,
+    "words": [
+      "buharlaşan",
+      "aynayı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.391,
+    "end": 2.777,
+    "words": [
+      "havluyla",
+      "silip"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.777,
+    "end": 3.083,
+    "words": [
+      "havluyla",
+      "silip"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.083,
+    "end": 3.323,
+    "words": [
+      "iz",
+      "bırakma!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.323,
+    "end": 3.697,
+    "words": [
+      "iz",
+      "bırakma!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.697,
+    "end": 4.065,
+    "words": [
+      "Çünkü",
+      "banyo"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.065,
+    "end": 4.354,
+    "words": [
+      "Çünkü",
+      "banyo"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.354,
+    "end": 4.691,
+    "words": [
+      "aynasının",
+      "en"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.691,
+    "end": 4.973,
+    "words": [
+      "aynasının",
+      "en"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.973,
+    "end": 5.227,
+    "words": [
+      "yoğun",
+      "sıcak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.227,
+    "end": 5.509,
+    "words": [
+      "yoğun",
+      "sıcak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.509,
+    "end": 5.786,
+    "words": [
+      "buharda",
+      "bile"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.786,
+    "end": 6.015,
+    "words": [
+      "buharda",
+      "bile"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.015,
+    "end": 6.349,
+    "words": [
+      "hiç",
+      "buğulanmamasını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.349,
+    "end": 6.836,
+    "words": [
+      "hiç",
+      "buğulanmamasını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.836,
+    "end": 7.357,
+    "words": [
+      "sağlayacak",
+      "görünmez"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.357,
+    "end": 7.815,
+    "words": [
+      "sağlayacak",
+      "görünmez"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.815,
+    "end": 8.165,
+    "words": [
+      "kalkan",
+      "lavabonun"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.165,
+    "end": 8.505,
+    "words": [
+      "kalkan",
+      "lavabonun"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.505,
+    "end": 8.845,
+    "words": [
+      "kenarında",
+      "duruyor."
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.845,
+    "end": 9.203,
+    "words": [
+      "kenarında",
+      "duruyor."
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.203,
+    "end": 9.578,
+    "words": [
+      "Kuru",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.578,
+    "end": 9.938,
+    "words": [
+      "Kuru",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.938,
+    "end": 10.283,
+    "words": [
+      "mikrofiber",
+      "bezin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.283,
+    "end": 10.628,
+    "words": [
+      "mikrofiber",
+      "bezin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.628,
+    "end": 10.973,
+    "words": [
+      "üzerine",
+      "sadece"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.973,
+    "end": 11.28,
+    "words": [
+      "üzerine",
+      "sadece"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.28,
+    "end": 11.515,
+    "words": [
+      "bir",
+      "damla"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.515,
+    "end": 11.715,
+    "words": [
+      "bir",
+      "damla"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.715,
+    "end": 11.915,
+    "words": [
+      "sıvı",
+      "el"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.915,
+    "end": 12.143,
+    "words": [
+      "sıvı",
+      "el"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.143,
+    "end": 12.428,
+    "words": [
+      "sabunu",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.428,
+    "end": 12.766,
+    "words": [
+      "sabunu",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.766,
+    "end": 13.128,
+    "words": [
+      "gliserin",
+      "damlat,"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.128,
+    "end": 13.491,
+    "words": [
+      "gliserin",
+      "damlat,"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.491,
+    "end": 13.853,
+    "words": [
+      "aynanın",
+      "tamamına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.853,
+    "end": 14.215,
+    "words": [
+      "aynanın",
+      "tamamına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.215,
+    "end": 14.578,
+    "words": [
+      "kuru",
+      "şekilde"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.578,
+    "end": 14.909,
+    "words": [
+      "kuru",
+      "şekilde"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.909,
+    "end": 15.305,
+    "words": [
+      "yedirip",
+      "parlat."
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.305,
+    "end": 15.795,
+    "words": [
+      "yedirip",
+      "parlat."
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.795,
+    "end": 16.285,
+    "words": [
+      "Sabunun",
+      "oluşturduğu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.285,
+    "end": 16.674,
+    "words": [
+      "Sabunun",
+      "oluşturduğu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.674,
+    "end": 16.961,
+    "words": [
+      "ince",
+      "film"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.961,
+    "end": 17.275,
+    "words": [
+      "ince",
+      "film"
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.275,
+    "end": 17.663,
+    "words": [
+      "tabakası",
+      "su"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.663,
+    "end": 18.097,
+    "words": [
+      "tabakası",
+      "su"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.097,
+    "end": 18.532,
+    "words": [
+      "damlacıklarının",
+      "tutunmasını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.532,
+    "end": 18.968,
+    "words": [
+      "damlacıklarının",
+      "tutunmasını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.968,
+    "end": 19.417,
+    "words": [
+      "haftalarca",
+      "engeller."
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.417,
+    "end": 19.898,
+    "words": [
+      "haftalarca",
+      "engeller."
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.898,
+    "end": 20.25,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.25,
+    "end": 20.49,
+    "words": [
+      "Bu",
+      "pratik"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.49,
+    "end": 20.76,
+    "words": [
+      "tüyoyu",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 20.76,
+    "end": 21.045,
+    "words": [
+      "tüyoyu",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.045,
+    "end": 21.405,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 21.405,
+    "end": 21.788,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 21.788,
+    "end": 22.135,
+    "words": [
+      "unutma,",
+      "buğulanan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.135,
+    "end": 22.481,
+    "words": [
+      "unutma,",
+      "buğulanan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 22.481,
+    "end": 22.827,
+    "words": [
+      "banyo",
+      "aynasını."
+    ],
+    "active": 0
+  },
+  {
+    "start": 22.827,
+    "end": 23.347,
+    "words": [
+      "banyo",
+      "aynasını."
+    ],
+    "active": 1
+  }
+]

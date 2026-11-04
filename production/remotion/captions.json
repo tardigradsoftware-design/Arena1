@@ -1,0 +1,550 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.58,
+    "words": [
+      "sakın",
+      "soğan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 0.58,
+    "end": 0.98,
+    "words": [
+      "sakın",
+      "soğan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 0.98,
+    "end": 1.42,
+    "words": [
+      "doğrarken",
+      "gözyaşlarına"
+    ],
+    "active": 0
+  },
+  {
+    "start": 1.42,
+    "end": 1.86,
+    "words": [
+      "doğrarken",
+      "gözyaşlarına"
+    ],
+    "active": 1
+  },
+  {
+    "start": 1.86,
+    "end": 2.3,
+    "words": [
+      "boğulup",
+      "mutfakta"
+    ],
+    "active": 0
+  },
+  {
+    "start": 2.3,
+    "end": 2.74,
+    "words": [
+      "boğulup",
+      "mutfakta"
+    ],
+    "active": 1
+  },
+  {
+    "start": 2.74,
+    "end": 3.17,
+    "words": [
+      "işkence",
+      "çekme!"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.17,
+    "end": 3.6,
+    "words": [
+      "işkence",
+      "çekme!"
+    ],
+    "active": 1
+  },
+  {
+    "start": 3.6,
+    "end": 3.97,
+    "words": [
+      "Çünkü",
+      "soğan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 3.97,
+    "end": 4.29,
+    "words": [
+      "Çünkü",
+      "soğan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 4.29,
+    "end": 4.7,
+    "words": [
+      "keserken",
+      "gözlerinin"
+    ],
+    "active": 0
+  },
+  {
+    "start": 4.7,
+    "end": 5.16,
+    "words": [
+      "keserken",
+      "gözlerinin"
+    ],
+    "active": 1
+  },
+  {
+    "start": 5.16,
+    "end": 5.59,
+    "words": [
+      "yanmasını",
+      "tamamen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 5.59,
+    "end": 6.03,
+    "words": [
+      "yanmasını",
+      "tamamen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.03,
+    "end": 6.44,
+    "words": [
+      "engelleyen",
+      "çok"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.44,
+    "end": 6.73,
+    "words": [
+      "engelleyen",
+      "çok"
+    ],
+    "active": 1
+  },
+  {
+    "start": 6.73,
+    "end": 6.93,
+    "words": [
+      "basit",
+      "bir"
+    ],
+    "active": 0
+  },
+  {
+    "start": 6.93,
+    "end": 7.11,
+    "words": [
+      "basit",
+      "bir"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.11,
+    "end": 7.31,
+    "words": [
+      "fizik",
+      "kuralı"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.31,
+    "end": 7.53,
+    "words": [
+      "fizik",
+      "kuralı"
+    ],
+    "active": 1
+  },
+  {
+    "start": 7.53,
+    "end": 7.84,
+    "words": [
+      "var.",
+      "Kesme"
+    ],
+    "active": 0
+  },
+  {
+    "start": 7.84,
+    "end": 8.24,
+    "words": [
+      "var.",
+      "Kesme"
+    ],
+    "active": 1
+  },
+  {
+    "start": 8.24,
+    "end": 8.65,
+    "words": [
+      "tahtasının",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 8.65,
+    "end": 9.04,
+    "words": [
+      "tahtasının",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.04,
+    "end": 9.41,
+    "words": [
+      "yanına",
+      "içi"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.41,
+    "end": 9.69,
+    "words": [
+      "yanına",
+      "içi"
+    ],
+    "active": 1
+  },
+  {
+    "start": 9.69,
+    "end": 9.86,
+    "words": [
+      "su",
+      "dolu"
+    ],
+    "active": 0
+  },
+  {
+    "start": 9.86,
+    "end": 10.0,
+    "words": [
+      "su",
+      "dolu"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.0,
+    "end": 10.17,
+    "words": [
+      "bir",
+      "bardak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.17,
+    "end": 10.44,
+    "words": [
+      "bir",
+      "bardak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 10.44,
+    "end": 10.76,
+    "words": [
+      "koy",
+      "veya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 10.76,
+    "end": 11.09,
+    "words": [
+      "koy",
+      "veya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.09,
+    "end": 11.42,
+    "words": [
+      "bıçağın",
+      "ağzını"
+    ],
+    "active": 0
+  },
+  {
+    "start": 11.42,
+    "end": 11.77,
+    "words": [
+      "bıçağın",
+      "ağzını"
+    ],
+    "active": 1
+  },
+  {
+    "start": 11.77,
+    "end": 12.12,
+    "words": [
+      "soğanı",
+      "kesmeden"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.12,
+    "end": 12.44,
+    "words": [
+      "soğanı",
+      "kesmeden"
+    ],
+    "active": 1
+  },
+  {
+    "start": 12.44,
+    "end": 12.73,
+    "words": [
+      "önce",
+      "soğuk"
+    ],
+    "active": 0
+  },
+  {
+    "start": 12.73,
+    "end": 13.05,
+    "words": [
+      "önce",
+      "soğuk"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.05,
+    "end": 13.41,
+    "words": [
+      "suyla",
+      "hafifçe"
+    ],
+    "active": 0
+  },
+  {
+    "start": 13.41,
+    "end": 13.78,
+    "words": [
+      "suyla",
+      "hafifçe"
+    ],
+    "active": 1
+  },
+  {
+    "start": 13.78,
+    "end": 14.14,
+    "words": [
+      "ıslat.",
+      "Havaya"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.14,
+    "end": 14.47,
+    "words": [
+      "ıslat.",
+      "Havaya"
+    ],
+    "active": 1
+  },
+  {
+    "start": 14.47,
+    "end": 14.76,
+    "words": [
+      "yayılan",
+      "kükürt"
+    ],
+    "active": 0
+  },
+  {
+    "start": 14.76,
+    "end": 15.03,
+    "words": [
+      "yayılan",
+      "kükürt"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.03,
+    "end": 15.33,
+    "words": [
+      "gazı",
+      "sudaki"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.33,
+    "end": 15.62,
+    "words": [
+      "gazı",
+      "sudaki"
+    ],
+    "active": 1
+  },
+  {
+    "start": 15.62,
+    "end": 15.88,
+    "words": [
+      "neme",
+      "doğru"
+    ],
+    "active": 0
+  },
+  {
+    "start": 15.88,
+    "end": 16.15,
+    "words": [
+      "neme",
+      "doğru"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.15,
+    "end": 16.44,
+    "words": [
+      "çekileceği",
+      "için"
+    ],
+    "active": 0
+  },
+  {
+    "start": 16.44,
+    "end": 16.77,
+    "words": [
+      "çekileceği",
+      "için"
+    ],
+    "active": 1
+  },
+  {
+    "start": 16.77,
+    "end": 17.14,
+    "words": [
+      "gözlerine",
+      "ulaşamayacak."
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.14,
+    "end": 17.5,
+    "words": [
+      "gözlerine",
+      "ulaşamayacak."
+    ],
+    "active": 1
+  },
+  {
+    "start": 17.5,
+    "end": 17.87,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 0
+  },
+  {
+    "start": 17.87,
+    "end": 18.23,
+    "words": [
+      "Bu",
+      "mutfak"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.23,
+    "end": 18.6,
+    "words": [
+      "hilesini",
+      "hemen"
+    ],
+    "active": 0
+  },
+  {
+    "start": 18.6,
+    "end": 18.93,
+    "words": [
+      "hilesini",
+      "hemen"
+    ],
+    "active": 1
+  },
+  {
+    "start": 18.93,
+    "end": 19.29,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.29,
+    "end": 19.66,
+    "words": [
+      "kaydet.",
+      "Ve"
+    ],
+    "active": 1
+  },
+  {
+    "start": 19.66,
+    "end": 19.97,
+    "words": [
+      "unutma,",
+      "soğan"
+    ],
+    "active": 0
+  },
+  {
+    "start": 19.97,
+    "end": 20.33,
+    "words": [
+      "unutma,",
+      "soğan"
+    ],
+    "active": 1
+  },
+  {
+    "start": 20.33,
+    "end": 20.95,
+    "words": [
+      "doğrarken."
+    ],
+    "active": 0
+  }
+]

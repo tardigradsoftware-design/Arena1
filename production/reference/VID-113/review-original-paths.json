@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-113-1.png",
+      "sha256": "ab2c3b0e298761feac2185787c7c66c6e63c83813a09902da29ecb191d9b98c2",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yumurtalı kase temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-113-2.png",
+      "sha256": "23419d15d748d874a85ac74f971aec673d0d1d662ddb65f490d3da2ac16e82fe",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yumurta ve kapalı şişe yanında; vakum eylemi gösterilmez."
+    },
+    {
+      "file": "../../remotion/public/VID-113-3.png",
+      "sha256": "ef353a90031efa6b5bc91589e79295511d432857e2e381f97a37d6b96c22bc35",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Yumurta ve açık şişe temsili; ayrım kesin sonuç olarak gösterilmez."
+    }
+  ]
+}

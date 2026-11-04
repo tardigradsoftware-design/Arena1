@@ -1,0 +1,49 @@
+{
+  "frames": 364,
+  "hook": [
+    "YÜN KAZAKLAR",
+    "NEDEN TÜYLENİR?"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-103-1.png"
+    },
+    {
+      "from": 166,
+      "file": "VID-103-3.png"
+    },
+    {
+      "from": 221,
+      "file": "VID-103-2.png"
+    },
+    {
+      "from": 297,
+      "file": "VID-103-1.png"
+    }
+  ],
+  "result": 9999,
+  "save": 285,
+  "clocks": [],
+  "events": [
+    {
+      "from": 171,
+      "to": 202,
+      "a": "BUZLUK",
+      "b": "POŞETTE KAZAK",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "snow"
+    },
+    {
+      "from": 285,
+      "to": 312,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-103-voice.wav"
+}

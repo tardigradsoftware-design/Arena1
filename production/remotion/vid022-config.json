@@ -1,0 +1,85 @@
+{
+  "frames": 679,
+  "hook": [
+    "GÖZ ALTI HALKALARINI",
+    "SADECE GİZLEME!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-022-4.png"
+    },
+    {
+      "from": 240,
+      "file": "VID-022-2.png"
+    },
+    {
+      "from": 417,
+      "file": "VID-022-3.png"
+    },
+    {
+      "from": 502,
+      "file": "VID-022-4.png"
+    }
+  ],
+  "result": 556,
+  "save": 609,
+  "clocks": [
+    {
+      "from": 174,
+      "to": 200
+    },
+    {
+      "from": 370,
+      "to": 397
+    }
+  ],
+  "events": [
+    {
+      "from": 174,
+      "to": 202,
+      "a": "ON DAKİKA",
+      "b": "GÖZ ALTI BAKIMI",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 278,
+      "to": 325,
+      "a": "KAHVE TELVESİ",
+      "b": "VE BAL",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "coffee"
+    },
+    {
+      "from": 370,
+      "to": 398,
+      "a": "ON DAKİKA",
+      "b": "BEKLET",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 445,
+      "to": 485,
+      "a": "SOĞUK",
+      "b": "METAL KAŞIK",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "spoon"
+    },
+    {
+      "from": 609,
+      "to": 638,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "right",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-022-voice.wav"
+}

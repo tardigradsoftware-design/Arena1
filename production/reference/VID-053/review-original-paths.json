@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "../../remotion/public/VID-053-1.png",
+      "sha256": "f41ba8df3d6448873dc9fc9b17332d6e76a4dbf093f96846772ee20741ca9ef5",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Düz tezgahta yumurta ve kâse; kırma eylemi canlandırılmaz."
+    },
+    {
+      "file": "../../remotion/public/VID-053-3.png",
+      "sha256": "c771ca4079471c8d3cbed901bd8f068b9dc98c4df644b3c8d6ecc7913a71ff8e",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâsede yumurta, tabakta kabuk; işlem temsili."
+    },
+    {
+      "file": "../../remotion/public/VID-053-4.png",
+      "sha256": "d4edbceb94d895cd9f9be334207a686fbb142b5da0a30dc2a1726b3f4964f170",
+      "reviewed": true,
+      "score": 90,
+      "critical_error": false,
+      "notes": "Kâsede yumurta, sonuç temsili."
+    }
+  ]
+}

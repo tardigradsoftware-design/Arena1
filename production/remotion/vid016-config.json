@@ -1,0 +1,94 @@
+{
+  "frames": 656,
+  "hook": [
+    "AVOKADOYU",
+    "STREÇLE SAKLAMA!"
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "VID-016-1.png"
+    },
+    {
+      "from": 198,
+      "file": "VID-016-2.png"
+    },
+    {
+      "from": 370,
+      "file": "VID-016-3.png"
+    },
+    {
+      "from": 487,
+      "file": "VID-016-4.png"
+    }
+  ],
+  "result": 532,
+  "save": 587,
+  "clocks": [
+    {
+      "from": 137,
+      "to": 158
+    },
+    {
+      "from": 485,
+      "to": 508
+    }
+  ],
+  "events": [
+    {
+      "from": 137,
+      "to": 160,
+      "a": "SAATLER",
+      "b": "İÇİNDE",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 230,
+      "to": 256,
+      "a": "ÇEKİRDEĞİNİ",
+      "b": "ÇIKARMA",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "avocado"
+    },
+    {
+      "from": 300,
+      "to": 337,
+      "a": "SOĞUK SU",
+      "b": "YARIM BARDAK",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "drop"
+    },
+    {
+      "from": 385,
+      "to": 405,
+      "a": "BUZDOLABINA",
+      "b": "KALDIR",
+      "side": "left",
+      "sfx": "beam",
+      "icon": "jar"
+    },
+    {
+      "from": 485,
+      "to": 511,
+      "a": "GÜNLERCE",
+      "b": "YEŞİL KALSIN",
+      "side": "right",
+      "sfx": "beam",
+      "icon": "clock"
+    },
+    {
+      "from": 587,
+      "to": 616,
+      "a": "KAYDET",
+      "b": "SONRA BUL",
+      "side": "left",
+      "sfx": "save",
+      "icon": "save"
+    }
+  ],
+  "voice": "VID-016-voice.wav"
+}
