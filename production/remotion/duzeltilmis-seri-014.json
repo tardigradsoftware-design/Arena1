@@ -1,0 +1,79 @@
+{
+  "caption": "Evde humus yaparken nohutları tahin ve zeytinyağı ile robottan geçirdiğinizde pütürlü ve kuru bir püre oluyorsa zeytinyağını çoğaltmayın! Malzemeleri mutfak robotunda çekerken içine iki adet buz küpü atıp beş dakika aralıksız çekin. Soğuk şok tahini bembeyaz köpürtecek ve humusu ipek kıvamında bir kremaya dönüştürecektir.",
+  "ctaStart": 446,
+  "hook": [
+    "HUMUSUN KIVAMI",
+    "İKİ BUZ KÜPÜ?"
+  ],
+  "openIcon": "processor",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 101,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 181,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 446,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 85,
+      "to": 133,
+      "a": "NOHUT",
+      "b": "VE TAHİN",
+      "icon": "bowl",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 187,
+      "to": 245,
+      "a": "İKİ ADET",
+      "b": "BUZ KÜPÜ",
+      "icon": "ice",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 352,
+      "to": 405,
+      "a": "KREMAMSI",
+      "b": "HUMUS",
+      "icon": "bowl",
+      "side": "left",
+      "y": 350
+    }
+  ],
+  "frames": 531,
+  "captionEnd": 14.85,
+  "id": "014",
+  "dir": "yeniseri014",
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "caption": "Halınızı en güçlü süpürgeyle süpürdüğünüz halde derin ipliklerin arasına kilitlenen saç ve tüyler çıkmıyorsa banyodaki cam çekçeğini getirin! Kauçuk uçlu cam çekçeğini kuru halının üzerinde kendinize doğru bastırarak çekin. Kauçuk lastik halının en dibindeki görünmez saç yumaklarını rulo halinde yüzeye çıkarır. Deneyince halıdan çıkanlara inanamayacaksın;",
+  "hook": [
+    "HALIDAKİ TÜYLER",
+    "NASIL ÇIKAR?"
+  ],
+  "openIcon": "squeegee",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 146,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 268,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 437,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 87,
+      "to": 126,
+      "a": "KURU HALI",
+      "b": "ÇEKÇEK",
+      "icon": "squeegee",
+      "side": "right",
+      "y": 360
+    },
+    {
+      "from": 165,
+      "to": 209,
+      "a": "KAUÇUK UÇ",
+      "b": "KENDİNE ÇEK",
+      "icon": "squeegee",
+      "side": "left",
+      "y": 370
+    },
+    {
+      "from": 291,
+      "to": 335,
+      "a": "SAÇ VE TÜY",
+      "b": "TOPLA",
+      "icon": "hand",
+      "side": "right",
+      "y": 340
+    }
+  ],
+  "ctaStart": 437,
+  "frames": 514,
+  "id": "020",
+  "dir": "yeniseri020",
+  "captionEnd": 14.57,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "caption": "Duşakabin camlarında biriken o mat beyaz kireç ve sabun kalıntılarını çıkarmak için her hafta fırçayla kollarınızı yormayın! Süngerin üzerine bir tatlı kaşığı bulaşık makinesi parlatıcısı ve birkaç damla bulaşık deterjanı döküp camı silin, ardından suyla durulayın. Parlatıcı camda su kaydırıcı bir kalkan oluşturur.",
+  "ctaStart": 390,
+  "cta2Start": 465,
+  "hook": [
+    "DUŞ CAMINDAKİ",
+    "SU LEKELERİ?"
+  ],
+  "openIcon": "drop",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 153,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 223,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 291,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 390,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 77,
+      "to": 128,
+      "a": "CAMDAKİ",
+      "b": "SU LEKELERİ",
+      "icon": "drop",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 163,
+      "to": 209,
+      "a": "PARLATICI",
+      "b": "VE DETERJAN",
+      "icon": "bottle",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 230,
+      "to": 271,
+      "a": "CAMI SİL",
+      "b": "SUYLA DURULA",
+      "icon": "wipe",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 311,
+      "to": 357,
+      "a": "DURULAMA",
+      "b": "SU AKIŞI",
+      "icon": "drop",
+      "side": "left",
+      "y": 350
+    }
+  ],
+  "frames": 555,
+  "captionEnd": 13.01,
+  "id": "015",
+  "dir": "yeniseri015",
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN"
+}

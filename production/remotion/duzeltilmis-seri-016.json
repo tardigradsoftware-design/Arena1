@@ -1,0 +1,100 @@
+{
+  "caption": "Akşam yürürken arkanızdaki kişinin sizi takip ettiğinden şüpheleniyorsanız sakın adımlarınızı hızlandırıp doğrudan evinize girmeyin! Evinizin adresini açık etmiş olursunuz. Hemen yolun karşısına geçip mağaza vitrininden yansımasını kontrol edin; o da karşıya geçtiyse telefon kamerasını arkaya çevirip görüntülü konuşuyormuş gibi yapın ve ışıklı bir dükkana girin.",
+  "ctaStart": 452,
+  "cta2Start": 527,
+  "hook": [
+    "TAKİP EDİLDİĞİNİ",
+    "DÜŞÜNÜRSEN?"
+  ],
+  "openIcon": "pin",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 175,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 309,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 452,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 82,
+      "to": 151,
+      "a": "YOL VE",
+      "b": "ÇEVRE",
+      "icon": "pin",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 192,
+      "to": 262,
+      "a": "VİTRİN",
+      "b": "YANSIMASI",
+      "icon": "mirror",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 315,
+      "to": 361,
+      "a": "TELEFON",
+      "b": "KAMERASI",
+      "icon": "phone",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 390,
+      "to": 437,
+      "a": "IŞIKLI",
+      "b": "DÜKKAN",
+      "icon": "shop",
+      "side": "left",
+      "y": 350
+    }
+  ],
+  "frames": 603,
+  "captionEnd": 15.08,
+  "id": "016",
+  "dir": "yeniseri016",
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN"
+}
