@@ -1,0 +1,91 @@
+{
+  "caption": "Yalnız yaşadığınız eve ilk kez bir tamirci, nakliyeci veya yabancı biri gelecekse kapıyı açmadan önce şu güvenlik önlemini mutlaka alın! Antreye, kapıdan ilk bakışta görünecek şekilde büyük numara eski bir erkek ayakkabısı bırakın ve içerideki odaya doğru “Hayatım sen uyu, ben hallediyorum” diye seslenin.",
+  "hook": [
+    "EVE BİRİ GELİRSE",
+    "BU AYAKKABI?"
+  ],
+  "openIcon": "foot",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 185,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 289,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 392,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 85,
+      "to": 130,
+      "a": "KAPI ÖNÜ",
+      "b": "DİKKAT",
+      "icon": "door",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 199,
+      "to": 254,
+      "a": "ANTREDE",
+      "b": "AYAKKABI",
+      "icon": "foot",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 304,
+      "to": 349,
+      "a": "İÇERİYE",
+      "b": "SESLEN",
+      "icon": "talk",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "ctaStart": 392,
+  "cta2Start": 532,
+  "frames": 603,
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "id": "021",
+  "dir": "yeniseri021",
+  "captionEnd": 13.05,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN"
+}

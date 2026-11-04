@@ -1,0 +1,88 @@
+{
+  "caption": "Bulaşık makinesi bittiğinde porselenler kupkuru çıkarken plastik saklama kaplarının sırılsıklam çıkmasına son verin! Makinenin yıkama programı biter bitmez kapağını hafifçe aralayın, kapağın üst kenarına kuru ve kalın bir mutfak havlusunu yarısı içeride kalacak şekilde sıkıştırıp kapağı tekrar kapatın. On beş dakika içinde havlu içerideki tüm buharı sünger gibi çekecektir.",
+  "hook": [
+    "PLASTİK KAPLAR",
+    "ISLAK MI?"
+  ],
+  "openIcon": "washer",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 164,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 278,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 494,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 86,
+      "to": 134,
+      "a": "PLASTİK",
+      "b": "KAPLAR",
+      "icon": "washer",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 198,
+      "to": 246,
+      "a": "PROGRAM",
+      "b": "BİTİNCE",
+      "icon": "clock",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 321,
+      "to": 380,
+      "a": "KURU",
+      "b": "HAVLU",
+      "icon": "wipe",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 401,
+      "to": 449,
+      "a": "15 DAKİKA",
+      "b": "BEKLE",
+      "icon": "clock",
+      "side": "right",
+      "y": 350
+    }
+  ],
+  "ctaStart": 494,
+  "frames": 572,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "id": "025",
+  "dir": "yeniseri025",
+  "captionEnd": 16.47,
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ]
+}

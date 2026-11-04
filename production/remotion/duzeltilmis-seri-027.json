@@ -1,0 +1,91 @@
+{
+  "caption": "Gün içinde bir yere beş dakika geç kaldığınızda veya fikrinizi söylediğinizde sürekli “Özür dilerim” diyerek kendi değerinizi düşürmeyi bırakın! Gereksiz özür dilemek bilinçaltında karşı tarafa “Ben hatalıyım” mesajı verir. “Beklettiğim için özür dilerim” demek yerine “Sabrın ve beklediğin için teşekkür ederim” deyin.",
+  "hook": [
+    "HER SEFERİNDE",
+    "ÖZÜR MÜ?"
+  ],
+  "openIcon": "talk",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 161,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 296,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 415,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 80,
+      "to": 126,
+      "a": "SÖZLER",
+      "b": "İLETİŞİM",
+      "icon": "talk",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 191,
+      "to": 236,
+      "a": "ÖZÜR",
+      "b": "DİLEMEK",
+      "icon": "question",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 322,
+      "to": 377,
+      "a": "SABRIN İÇİN",
+      "b": "TEŞEKKÜRLER",
+      "icon": "talk",
+      "side": "right",
+      "y": 320
+    }
+  ],
+  "ctaStart": 415,
+  "cta2Start": 515,
+  "frames": 595,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "id": "027",
+  "dir": "yeniseri027",
+  "captionEnd": 13.84,
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN"
+}

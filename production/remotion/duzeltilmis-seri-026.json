@@ -1,0 +1,70 @@
+{
+  "caption": "Telefonunuz çalındığında veya başınıza bir şey geldiğinde kötü niyetli kişilerin yaptığı ilk şey kilit ekranını yukarıdan çekip telefonu uçak moduna alarak konumunuzu kapatmaktır! Bunu engellemek için telefon ayarlarınızdan “Yüz Tanıma ve Parola” bölümüne girin ve “Kilitliyken Erişime İzin Ver” listesinden Denetim Merkezini hemen kapatın.",
+  "hook": [
+    "KİLİTLİ EKRANDA",
+    "BU AYAR?"
+  ],
+  "openIcon": "phone",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 141,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 235,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 440,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 80,
+      "to": 126,
+      "a": "KİLİT EKRANI",
+      "b": "AYARLAR",
+      "icon": "lock",
+      "side": "right",
+      "y": 340
+    },
+    {
+      "from": 156,
+      "to": 206,
+      "a": "DENETİM",
+      "b": "MERKEZİ",
+      "icon": "phone",
+      "side": "left",
+      "y": 350
+    }
+  ],
+  "ctaStart": 440,
+  "frames": 519,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "id": "026",
+  "dir": "yeniseri026",
+  "captionEnd": 14.68,
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ]
+}

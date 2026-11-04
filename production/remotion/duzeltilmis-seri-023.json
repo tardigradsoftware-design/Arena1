@@ -1,0 +1,79 @@
+{
+  "caption": "Gece tam uykuya dalacakken bacaklarınıza giren kramplardan veya bacaklarınızı sürekli hareket ettirme isteğinden uyuyamıyorsanız bu yöntem sizi çok rahatlatacak! Yatmadan önce ayak tabanlarınıza ve baldırlarınıza birkaç damla magnezyum veya lavanta yağı sürüp masaj yapın; çarşafın altına bacak hizanıza da doğal bir kalıp zeytinyağlı sabun koyun.",
+  "hook": [
+    "GECE BACAKLARIN",
+    "RAHATSIZ MI?"
+  ],
+  "openIcon": "foot",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 228,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 385,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 482,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 86,
+      "to": 132,
+      "a": "GECE",
+      "b": "BACAKLAR",
+      "icon": "foot",
+      "side": "right",
+      "y": 340
+    },
+    {
+      "from": 248,
+      "to": 299,
+      "a": "BACAKLARA",
+      "b": "MASAJ",
+      "icon": "hand",
+      "side": "right",
+      "y": 340
+    },
+    {
+      "from": 400,
+      "to": 446,
+      "a": "ÇARŞAF ALTI",
+      "b": "SABUN",
+      "icon": "soap",
+      "side": "right",
+      "y": 340
+    }
+  ],
+  "ctaStart": 482,
+  "frames": 565,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "id": "023",
+  "dir": "yeniseri023",
+  "captionEnd": 16.07,
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ]
+}
