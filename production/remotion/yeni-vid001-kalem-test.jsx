@@ -1,0 +1,71 @@
+import React from 'react';
+import {AbsoluteFill, Composition, Img, interpolate, registerRoot, spring, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
+const clamp={extrapolateLeft:'clamp',extrapolateRight:'clamp'};
+const clips=[
+ {from:0,file:'test-parmak.png',position:'50% 52%'},
+ {from:21,file:'yeni-mirror-close.png',position:'50% 51%'},
+ {from:58,file:'test-parmak.png',position:'50% 52%'},
+ {from:106,file:'yuzsuz-1.png',position:'50% 50%'},
+ {from:170,file:'yeni-mirror-close.png',position:'50% 53%'},
+ {from:224,file:'test-parmak.png',position:'50% 54%'},
+ {from:282,file:'yuzsuz-1.png',position:'50% 54%'},
+ {from:349,file:'yuzsuz-2.png',position:'50% 49%'},
+ {from:415,file:'yeni-support.png',position:'50% 55%'},
+ {from:505,file:'yuzsuz-2.png',position:'50% 50%'}
+];
+const text='Girdiğiniz soyunma kabinindeki aynaya tırnağınızı dayadığınızda parmağınızla yansımanız arasında boşluk yoksa hemen oradan çıkın! Gerçek aynalarda cam kalınlığından dolayı milimetrik bir boşluk kalır; boşluk olmaması arkadan izlenen çift taraflı bir cam olduğunu gösterir. Peki sen kabine girdiğinde ilk neyi kontrol edersin? Yorumlara yaz ki herkes öğrensin ve bu videoyu arkadaşına göndermeyi unutma.';
+const captionText=text.split(' Yorumlara yaz')[0];
+const words=captionText.split(/\s+/); const weights=words.map(w=>Math.max(2,w.replace(/[^\p{L}]/gu,'').length)); const total=weights.reduce((a,b)=>a+b,0);
+let offset=0;const wordTime=words.map((w,i)=>{const start=offset/total*14.5;offset+=weights[i];return {word:w,start,end:offset/total*14.5};});
+// The finger and overlay share one CSS transform; source image is 768 × 1376.
+// The contact point was manually inspected near (345, 738). This is a
+// stylized mark over an AI image, not proof of mirror type or tracking.
+function Background(){
+ const f=useCurrentFrame();const i=clips.reduce((n,c,j)=>f>=c.from?j:n,0);const c=clips[i],age=f-c.from;
+ const p=interpolate(age,[0,32],[0,1],clamp), entrance=interpolate(age,[0,5],[0.025,0],clamp);
+ const zoom=(i%2===0?1.03+0.065*p:1.105-0.055*p)+entrance;
+ const transform=`scale(${zoom}) translateX(${(i%2?1:-1)*18*p}px) translateY(${(i%3===0?1:-1)*10*p}px)`;
+ const mark=(i===2 && age>=9)||(i===5 && age>=3);
+ const t=age-(i===2?9:3);
+ const draw=interpolate(t,[0,14],[0,1],clamp);
+ const opacity=interpolate(age,[0,4,(clips[i+1]?.from??548)-c.from-5,(clips[i+1]?.from??548)-c.from],[0,1,1,0],clamp);
+ return <AbsoluteFill style={{overflow:'hidden',background:'#13100c'}}>
+  <AbsoluteFill style={{transform}}><Img src={staticFile('yenitest/'+c.file)} style={{width:'100%',height:'100%',objectFit:'cover',objectPosition:c.position}}/>
+   {mark&&<svg width="100%" height="100%" viewBox="0 0 768 1376" preserveAspectRatio="xMidYMid slice" style={{position:'absolute',inset:0,opacity,filter:'drop-shadow(0px 2px 3px #000)'}}>
+    <path d="M 304 701 C 337 693 385 695 407 706 C 432 718 433 746 411 763 C 389 781 344 781 311 773 C 282 766 262 751 264 735 C 266 718 294 704 323 702 C 348 700 376 703 390 707" fill="none" stroke="#f5222d" strokeWidth="7" strokeLinecap="round" strokeLinejoin="round" pathLength="1" strokeDasharray="1" strokeDashoffset={1-draw}/>
+   </svg>}
+  </AbsoluteFill>
+  <AbsoluteFill style={{background:'linear-gradient(180deg,rgba(0,0,0,.32),transparent 48%,rgba(0,0,0,.22))'}}/>
+ </AbsoluteFill>
+}
+function Hook(){const f=useCurrentFrame(),{fps}=useVideoConfig();if(f>=67)return null;const p=spring({frame:f,fps,config:{damping:17,stiffness:220}});const opacity=interpolate(f,[0,3,55,67],[1,1,1,0],clamp);return <AbsoluteFill style={{opacity,pointerEvents:'none'}}><div style={{position:'absolute',left:85,right:85,top:255,textAlign:'center',fontFamily:'Arial, sans-serif',fontWeight:950,transform:`scale(${.82+.18*p})`,filter:'drop-shadow(0 8px 9px #000)'}}><div style={{color:'white',fontSize:62,textShadow:'0 3px 3px #000'}}>SOYUNMA KABİNİNDE</div><div style={{display:'inline-block',marginTop:12,background:'#ffe135',border:'5px solid #18140e',boxShadow:'8px 8px 0 #18140e',borderRadius:12,padding:'8px 24px',fontSize:86,color:'#18140e',transform:'rotate(-2deg)'}}>AYNAYI KONTROL ET!</div></div></AbsoluteFill>}
+function Captions(){const f=useCurrentFrame(),t=f/30;if(f<67||t>=14.5)return null;const i=wordTime.findIndex(w=>t>=w.start&&t<w.end);if(i<0)return null;const pair=i-i%2;return <div style={{transform:`rotate(${i%2 ? 1 : -1}deg) scale(${0.96+0.04*spring({frame:Math.max(0,f-Math.round(wordTime[i].start*30)),fps:30,config:{damping:18,stiffness:200}})})`,position:'absolute',top:1190,left:45,right:45,display:'flex',justifyContent:'center',gap:10,font:'900 55px Arial, sans-serif',textAlign:'center',flexWrap:'wrap'}}>{wordTime.slice(pair,pair+2).map((w,k)=><span key={w.start} style={{background:pair+k===i?'#ffe135':'white',border:'4px solid #16120e',borderRadius:9,padding:'7px 12px',color:'#16120e',boxShadow:'4px 5px 0 #16120e'}}>{w.word}</span>)}</div>}
+// Purpose-built scene overlays, not actual tracking or evidence of mirror type.
+function MotionAnnotations(){
+ const f=useCurrentFrame(),{fps}=useVideoConfig();
+ const scenes=[
+  {from:112,to:169,type:'mirror'},
+  {from:288,to:348,type:'glass'},
+  {from:380,to:464,type:'question'}
+ ];
+ const e=scenes.find(x=>f>=x.from&&f<x.to);if(!e)return null;
+ const age=f-e.from, length=e.to-e.from;
+ const pop=spring({frame:age,fps,config:{damping:16,stiffness:190,mass:.75}});
+ const fade=interpolate(age,[0,4,length-7,length],[0,1,1,0],clamp);
+ const draw=interpolate(age,[2,16],[0,1],clamp);
+ const pulse=1+0.018*Math.sin(age/7);
+ const style={filter:'drop-shadow(0px 4px 4px rgba(0,0,0,.8))'};
+ return <AbsoluteFill style={{opacity:fade,pointerEvents:'none'}}>
+  {e.type==='mirror'&&<div style={{position:'absolute',top:380,left:65,display:'flex',gap:18,alignItems:'center',transform:`translateX(${(1-pop)*-180}px) rotate(-2deg)`,...style}}><div style={{background:'#fffdf4',border:'6px solid #17130f',borderRadius:22,padding:15,boxShadow:'7px 8px 0 #17130f'}}><svg width="100" height="100" viewBox="0 0 100 100"><rect x="24" y="8" width="52" height="80" rx="10" fill="#bce1e4" stroke="#17130f" strokeWidth="5"/><path d="M34 35l20-20M36 57l28-28" stroke="white" strokeWidth="5"/></svg></div><div style={{display:'flex',flexDirection:'column',gap:10,font:'900 39px Arial',color:'#17130f'}}><div style={{background:'#ffe135',border:'5px solid #17130f',borderRadius:10,padding:'8px 16px',boxShadow:'5px 6px 0 #17130f'}}>SOYUNMA KABİNİ</div><div style={{background:'#fffdf4',border:'5px solid #17130f',borderRadius:10,padding:'8px 16px',boxShadow:'5px 6px 0 #17130f',alignSelf:'flex-start'}}>AYNA</div></div></div>}
+  {e.type==='glass'&&<div style={{position:'absolute',top:400,right:70,width:365,transform:`translateX(${(1-pop)*180}px)`,...style}}>
+   <svg viewBox="0 0 360 220" width="360" height="220"><rect x="18" y="18" width="324" height="184" rx="20" fill="#fff9ee" stroke="#15120e" strokeWidth="7"/><rect x="108" y="43" width="30" height="134" rx="7" fill="#83cad7" stroke="#15120e" strokeWidth="4"/><path d="M48 75 H93 M48 145 H93 M263 75 H315 M263 145 H315" stroke="#15120e" strokeWidth="6" strokeLinecap="round"/><path d="M162 72 H235 M162 145 H235" stroke="#e8a800" strokeWidth="7" strokeLinecap="round"/><path d="M222 60 L237 72 L222 84 M222 133 L237 145 L222 157" fill="none" stroke="#e8a800" strokeWidth="6"/></svg>
+   <div style={{font:'900 30px Arial',color:'#15120e',background:'#ffe135',border:'4px solid #15120e',borderRadius:10,textAlign:'center',padding:9}}>CAM YÜZEYİ · TEMSİLİ</div>
+  </div>}
+  {e.type==='question'&&<div style={{position:'absolute',top:370,right:90,transform:`scale(${.72+.28*pop}) rotate(${Math.sin(age/10)*3}deg)`,...style}}><svg width="170" height="190" viewBox="0 0 100 110"><rect x="7" y="5" width="86" height="100" rx="20" fill="#ffe135" stroke="#15120e" strokeWidth="5"/><text x="50" y="84" textAnchor="middle" fontFamily="Arial" fontWeight="900" fontSize="82" fill="#15120e">?</text></svg></div>}
+
+ </AbsoluteFill>
+}
+function CTA(){const f=useCurrentFrame(),{fps}=useVideoConfig();if(f<490||f>=548)return null;const age=f-490;const fade=interpolate(f,[490,495,539,548],[0,1,1,0],clamp);const items=[['BEĞEN','M12 21h-4V10h4m0 11h7a2 2 0 0 0 2-1.6l1-7A2 2 0 0 0 20 10h-5l.6-3.1C16 4.8 14.8 3 13 3l-1 5-3 3v10'],['YORUM','M4 4h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-8l-5 4v-4H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z'],['PAYLAŞ','M4 19c1-7 5-10 12-10V5l6 7-6 7v-4C10 15 7 16 4 19z'],['KAYDET','M6 3h12v18l-6-4-6 4z']];return <AbsoluteFill style={{opacity:fade,background:'linear-gradient(180deg,rgba(12,11,10,.35),rgba(12,11,10,.7))',pointerEvents:'none'}}><div style={{position:'absolute',top:300,left:55,right:55,textAlign:'center',color:'white',font:'900 46px Arial',textShadow:'0 5px 8px #000'}}>YORUMLARA YAZ!<br/>ARKADAŞINA GÖNDERMEYİ UNUTMA!</div><div style={{position:'absolute',top:510,left:65,right:65,display:'flex',justifyContent:'space-around'}}>{items.map(([label,path],i)=>{let t=age, click=7+i*5;let p=spring({frame:t,fps,config:{damping:17,stiffness:200}});let tap=interpolate(t,[click-2,click,click+3],[1,.80,1],clamp);let burst=interpolate(t,[click,click+2,click+9],[0,1,0],clamp);return <div key={label} style={{textAlign:'center',transform:`scale(${p*tap})`,color:'white',font:'900 32px Arial',textShadow:'0 3px 5px #000'}}><svg viewBox="0 0 100 100" width="155" height="155" style={{position:'absolute',top:-22,left:'50%',transform:'translateX(-50%)',overflow:'visible',opacity:burst,pointerEvents:'none'}}>{Array.from({length:8},(_,j)=>{let angle=j*Math.PI/4;let radius=35+Math.max(0,t-click)*2;return <circle key={j} cx={50+Math.cos(angle)*radius} cy={50+Math.sin(angle)*radius} r={j%2?3:5} fill={j%2?'#fff':'#ffe135'}/>})}</svg><svg viewBox="0 0 24 24" width="112" height="112" style={{display:'block',margin:'0 auto 12px',filter:'drop-shadow(0 5px 5px #000)'}}><path d={path} fill="#fa2028" stroke="white" strokeWidth="1.2" strokeLinejoin="round" strokeLinecap="round"/></svg>{label}</div>})}</div>{(()=>{let t=age,p=spring({frame:t,fps,config:{damping:17,stiffness:200}}),tap=interpolate(t,[25,27,30],[1,.85,1],clamp),burst=interpolate(t,[27,29,36],[0,1,0],clamp);return <div style={{position:'absolute',top:780,left:140,right:140,borderRadius:100,background:'#ef1b24',padding:'25px',textAlign:'center',font:'900 55px Arial',color:'white',boxShadow:'0 7px 0 #8e1118,0 12px 15px #0008',transform:`scale(${p*tap})`}}><svg viewBox="0 0 700 100" width="100%" height="120" style={{position:"absolute",left:0,top:-10,opacity:burst,overflow:"visible"}}>{Array.from({length:10},(_,i)=>{let a=i*Math.PI/5,r=40+Math.max(0,t-27)*5;return <circle key={i} cx={350+Math.cos(a)*r} cy={50+Math.sin(a)*r} r={i%2?5:8} fill={i%2?"#fff":"#ffe135"}/>})}</svg><svg viewBox="0 0 24 24" width="58" height="58" style={{verticalAlign:'middle',marginRight:20}}><path fill="white" d="M12 2a2 2 0 0 1 2 2 7 7 0 0 1 5 7v4l2 3v1H3v-1l2-3v-4a7 7 0 0 1 5-7 2 2 0 0 1 2-2zm-2 19h4a2 2 0 0 1-4 0z"/></svg>ABONE OL</div>})()}</AbsoluteFill>}
+function MotionAccents(){const f=useCurrentFrame();const times=[70,112,229,288,380];const start=[...times].reverse().find(x=>f>=x&&f<x+22);if(start===undefined)return null;const age=f-start,opacity=interpolate(age,[0,4,15,22],[0,.85,.85,0],clamp);return <AbsoluteFill style={{opacity,pointerEvents:'none'}}><svg viewBox="0 0 1080 1920" width="1080" height="1920">{[0,1,2,3].map((i)=>{let p=interpolate(age,[i*2,8+i*2],[0,1],clamp),x=i%2?970:110,y=330+Math.floor(i/2)*100;return <path key={i} d={`M ${x} ${y-12*p} L ${x+3*p} ${y-3*p} L ${x+12*p} ${y} L ${x+3*p} ${y+3*p} L ${x} ${y+12*p} L ${x-3*p} ${y+3*p} L ${x-12*p} ${y} L ${x-3*p} ${y-3*p} Z`} fill={i%2?'white':'#ffe135'} stroke="#15120e" strokeWidth="2"/>})}</svg></AbsoluteFill>}
+function Video(){return <AbsoluteFill><Background/><Hook/><MotionAnnotations/><MotionAccents/><Captions/><CTA/></AbsoluteFill>}
+function Root(){return <Composition id="Yeni001Grafik" component={Video} durationInFrames={548} fps={30} width={1080} height={1920}/>};registerRoot(Root);
