@@ -1,0 +1,88 @@
+{
+  "caption": "Akşam yemeğine yarım saat kala buzluktan çıkardığınız taş gibi kıymayı çözdürmek için üzerine sıcak su döküp bakteri üretmeyin! Kilitli poşetteki donmuş kıymayı derin bir kase soğuk çeşme suyunun içine batırın, suya iki yemek kaşığı kaya tuzu atıp üzerine ağır bir tabak koyun. Tuzlu soğuk su ısıyı yirmi kat hızlı ileterek kıymayı on dakikada lokum gibi çözer.",
+  "hook": [
+    "DONMUŞ KIYMA",
+    "NASIL ÇÖZÜLÜR?"
+  ],
+  "openIcon": "ice",
+  "id": "029",
+  "dir": "yeniseri029",
+  "frames": 576,
+  "captionEnd": 16.45,
+  "ctaStart": 494,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 165,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 310,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 494,
+      "file": "sahne-2.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 75,
+      "to": 125,
+      "a": "DONDURUCU",
+      "b": "KIYMA",
+      "icon": "ice",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 175,
+      "to": 225,
+      "a": "KİLİTLİ",
+      "b": "POŞET",
+      "icon": "bag",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 280,
+      "to": 330,
+      "a": "SOĞUK",
+      "b": "SU",
+      "icon": "drop",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 375,
+      "to": 420,
+      "a": "KAYA TUZU",
+      "b": "VE SU",
+      "icon": "bowl",
+      "side": "left",
+      "y": 320
+    }
+  ]
+}
