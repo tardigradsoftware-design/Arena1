@@ -7,6 +7,12 @@ description: Kadınca Yaşam kısa videolarında senaryoya uygun Remotion animas
 
 Önce `production/yeni-senaryolar/TERCIHLER.md`, bu skill yanındaki `motion-kutuphanesi.md` kataloğunu ve ilgili senaryoyu oku. Kullanıcının en güncel talimatı önce gelir; özgün metni izinsiz değiştirme. Yanlış veya tehlikeli iddiayı ayrı bildir, animasyonla doğrulanmış gibi gösterme. İnsan yüzü kullanma. Video başına en az dört sahneye uygun görsel, 1080×1920, gerçek Remotion, onaylı V14 altyazı; ses hızı varsayılan 1,55×. Kullanıcı prompt vermese de sahne planını kendin üret.
 
+## Öncelikli güncel kurallar
+- Tüm anlatımı, onaylanmış iki eylemli kapanış dâhil, seçilen sesle tek seferde bir bütün olarak üret. Ayrı sesli çağrı üretip sonradan ekleme veya anlatım parçalarını birleştirme. Kullanıcının özgün metin ve onay sınırlarına uy; gerekirse önce izin al. Müzik/SFX ayrıca mikslenebilir.
+- Vurgulanacak doğru noktalar görselde gerçekten doğrulandığında kırmızı, hafif düzensiz görünmez kalemle göster ve kamera hareketiyle aynı dönüşümü uygula. Doğrulanamayan noktaları çizme; eksikliği bildir.
+- Uygun sahnelerde daha fazla anlamlı Remotion SVG animasyonu kullan; ana eylem ve altyazıyı kapatma. Her video için konuya uygun farklı, özgün bir giriş sesi sentezle; ses anlatımı bastırmasın. Sahne, anlatım, ses ve çizgiler tutarlı olsun.
+- Kapanış tarzı son testten sonra henüz onaylanmadı. Bu kurallar aşağıdaki eski örneklerin üzerinde önceliklidir.
+
 ## Akış
 1. Metni anlamlı cümlelere böl. Her cümle için görsel, önemli nesne, yaklaşık ses zamanı, animasyon ve efekt planla. Bütün animasyonları her videoya yığma: sadece anlatılan olaya, nesneye ve kelimeye uygun olanları seç. İşlem, sonuç, süre veya tehlike uydurma.
 2. Görselleri üret ve tek tek incele; sahne ile anlatım, fizik, anatomi ve nesnelerin konumu tutarlı mı kontrol et. Önemli noktaları ana nesneyi/altyazıyı kapatmadan göster. Hızlı, enerjik ama anlaşılır hareket; pikselli zoom ve titreme yok.
