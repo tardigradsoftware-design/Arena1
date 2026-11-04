@@ -1,0 +1,82 @@
+{
+  "caption": "Salataya birkaç damla limon sıkmak için koca limonu ikiye kesip kalan yarısının buzdolabında kuruyup çöpe gitmesine son verin! Bütün limonu tezgaha bastırarak yuvarlayın, ardından bıçakla kesmek yerine ucuna kalın bir kürdan batırıp çıkarın. Sıktığınızda sadece o delikten sprey gibi su çıkacak ve limonunuz hava almadan haftalarca sulu kalacaktır.",
+  "ctaStart": 390,
+  "cta2Start": 531,
+  "hook": [
+    "LİMONU KESMEDEN",
+    "SUYU NASIL ÇIKAR?"
+  ],
+  "openIcon": "lemon",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 165,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 310,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 390,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 70,
+      "to": 130,
+      "a": "BÜTÜN",
+      "b": "LİMON",
+      "icon": "lemon",
+      "side": "right",
+      "y": 350
+    },
+    {
+      "from": 180,
+      "to": 245,
+      "a": "KÜRDANLA",
+      "b": "DELİK AÇ",
+      "icon": "toothpick",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 315,
+      "to": 370,
+      "a": "BİRKAÇ DAMLA",
+      "b": "LİMON SUYU",
+      "icon": "drop",
+      "side": "right",
+      "y": 350
+    }
+  ],
+  "frames": 599,
+  "captionEnd": 13.0,
+  "id": "009",
+  "dir": "yeniseri009",
+  "ctaHeading": "SONRA LAZIM OLABİLİR",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ],
+  "ctaFirstItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "BEĞEN",
+      "heart"
+    ]
+  ]
+}
