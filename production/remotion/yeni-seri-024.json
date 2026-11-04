@@ -1,0 +1,82 @@
+{
+  "caption": "Zeytinyağlı taze fasulye veya enginar pişirdiğinizde rengi kararıp matlaşıyorsa yaptığınız sıcak su hatasını hemen bırakın! Sebzeleri kavurduktan sonra yemeğe kaynar su yerine yarım bardak soğuk su ve iki adet buz küpüyle birlikte bir küp şeker atıp kısık ateşte pişirin. Ocağı kapattıktan sonra da tencere tamamen soğuyana kadar kapağını asla açmayın.",
+  "hook": [
+    "ZEYTİNYAĞLILAR",
+    "RENGİ NASIL?"
+  ],
+  "openIcon": "pot",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 170,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 348,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 450,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 90,
+      "to": 135,
+      "a": "YEŞİL",
+      "b": "SEBZELER",
+      "icon": "pot",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 195,
+      "to": 240,
+      "a": "2 KÜP BUZ",
+      "b": "1 KÜP ŞEKER",
+      "icon": "ice",
+      "side": "left",
+      "y": 350
+    },
+    {
+      "from": 360,
+      "to": 405,
+      "a": "KAPAĞI",
+      "b": "KAPALI",
+      "icon": "pot",
+      "side": "left",
+      "y": 350
+    }
+  ],
+  "ctaStart": 450,
+  "cta2Start": 553,
+  "frames": 605,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ],
+  "id": "024",
+  "dir": "yeniseri024",
+  "captionEnd": 15.0,
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ]
+  ]
+}
