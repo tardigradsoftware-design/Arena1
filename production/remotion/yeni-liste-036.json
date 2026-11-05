@@ -1,0 +1,119 @@
+{
+  "caption": "Mutfaktaki bıçaklarınız domatesi bile ezerek kesiyor ve makaslarınız köreldiyse yeni bıçak almanıza veya bileyici aramanıza hiç gerek yok! Evdeki herhangi bir porselen kahve kupasını ters çevirin; kupanın altındaki o sırsız, pütürlü beyaz çember aslında gerçek bir seramik bileyi taşıdır. Bıçağınızı yirmi derecelik açıyla bu pütürlü kenara beş altı kez sürttüğünüzde, makasınızla da alüminyum folyoyu birkaç kez kestiğinizde ikisinin de jilet gibi keskinleştiğini göreceksiniz.",
+  "hook": [
+    "KÖRELEN BIÇAK",
+    "NE YAPILIR?"
+  ],
+  "openIcon": "knife",
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 275,
+    "to": 335,
+    "path": "M298 515 C313 470 370 447 427 450 C491 449 547 472 563 510 C581 552 540 594 492 608 C440 624 370 617 328 590 C296 569 286 540 298 515"
+  },
+  "id": "036",
+  "dir": "yeniliste036",
+  "frames": 789,
+  "captionEnd": 21.32,
+  "ctaStart": 640,
+  "ctaTop": 300,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 150,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 260,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 350,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 440,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 525,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 590,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 700,
+      "file": "sahne-1.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 140,
+      "to": 180,
+      "a": "PORSELEN",
+      "b": "KUPA",
+      "icon": "mug",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 260,
+      "to": 310,
+      "a": "PÜTÜRLÜ",
+      "b": "ÇEMBER",
+      "icon": "mug",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 355,
+      "to": 400,
+      "a": "20 DERECE",
+      "b": "BIÇAK",
+      "icon": "knife",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 455,
+      "to": 505,
+      "a": "FOLYO",
+      "b": "VE MAKAS",
+      "icon": "scissors",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "cta2Start": 692,
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ]
+}

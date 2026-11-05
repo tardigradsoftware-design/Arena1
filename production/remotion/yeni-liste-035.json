@@ -1,0 +1,94 @@
+{
+  "caption": "Yemek için soğan doğrarken gözlerinizin cayır cayır yanmasına ve makyajınızın akmasına artık son verin! Soğanı doğramadan önce kabuğunu soyup ortadan ikiye bölün ve soğuk su dolu bir kasede sadece beş dakika bekletin; doğrarken de bıçağınızın yüzeyini ara ara muslukta ıslatın. Soğanın göz yaşartan sülfürik gazı havaya karışmadan önce her zaman en yakınındaki suya çekilir; bıçağınız ıslak olduğunda gaz gözünüze değil bıçağın üzerindeki suya hapsolacaktır.",
+  "hook": [
+    "SOĞAN DOĞRARKEN",
+    "BU İPUCUNU DENE!"
+  ],
+  "openIcon": "onion",
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 220,
+    "to": 280,
+    "path": "M135 748 C170 715 202 720 251 742 C284 753 325 770 346 805 C357 836 333 898 302 917 C259 935 210 912 176 880 C146 849 127 788 135 748 M331 767 C373 738 446 731 503 752 C555 771 589 797 581 829 C572 880 531 910 483 919 C425 926 364 906 337 875 C317 847 311 794 331 767"
+  },
+  "id": "035",
+  "dir": "yeniliste035",
+  "frames": 706,
+  "captionEnd": 20.35,
+  "ctaStart": 610,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 135,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 200,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 300,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 405,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 505,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 610,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 125,
+      "to": 165,
+      "a": "SOĞAN",
+      "b": "DOĞRAMA",
+      "icon": "onion",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 245,
+      "to": 290,
+      "a": "SOĞUK SU",
+      "b": "5 DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 355,
+      "to": 400,
+      "a": "BIÇAĞI",
+      "b": "ISLAT",
+      "icon": "knife",
+      "side": "right",
+      "y": 320
+    }
+  ]
+}
