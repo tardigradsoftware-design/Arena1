@@ -1,0 +1,99 @@
+{
+  "caption": "Dibini tutturduğunuz çelik tencerenin veya fırın tepsisinin yanık karasını çıkarmak için tel süngerle kollarınızı koparana kadar ovalamayın! Yanık tencerenin içine sıcak su doldurup bir adet bulaşık makinesi tableti atın ve ocağın üzerinde on dakika kaynatın. Ardından suyu döküp alüminyum folyoyu top gibi buruşturun ve yumuşayan yanıkları folyoyla hafifçe silin. Tablet yağı çözerken folyo tencereyi hiç çizmeden tüm yanıkları saniyeler içinde söküp atacaktır.",
+  "hook": [
+    "YANIK TENCERE",
+    "NASIL TEMİZLENİR?"
+  ],
+  "openIcon": "pot",
+  "highlight": null,
+  "id": "024",
+  "dir": "yeniliste024",
+  "frames": 696,
+  "captionEnd": 20.42,
+  "ctaStart": 613,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 130,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 200,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 320,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 400,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-6.png"
+    },
+    {
+      "from": 610,
+      "file": "sahne-1.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 95,
+      "to": 140,
+      "a": "YANIK",
+      "b": "TENCERE",
+      "icon": "pot",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 205,
+      "to": 250,
+      "a": "BULAŞIK",
+      "b": "TABLETİ",
+      "icon": "soap",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 285,
+      "to": 330,
+      "a": "10 DAKİKA",
+      "b": "BEKLET",
+      "icon": "clock",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 400,
+      "to": 445,
+      "a": "ALÜMİNYUM",
+      "b": "FOLYO",
+      "icon": "wipe",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "warning": "TASLAK · BU YÖNTEMİ UYGULAMAYIN"
+}
