@@ -1,0 +1,103 @@
+{
+  "caption": "Pişirdiğiniz çorbanın veya sulu yemeğin tuzu yanlışlıkla fazla kaçtığında tencerenin içine çiğ patates atıp yemeğin nişastasını bozmayın! Patates sadece suyunu çeker, tuzu azaltmaz. Bunun yerine kaynayan yemeğin içine bir çay kaşığı elma sirkesi veya limon suyu ile bir çay kaşığı toz şeker ekleyip karıştırın. Asit ve tatlı dengesi dildeki tuz reseptörlerini anında nötrleyecek ve yemeğinizin lezzeti kusursuz bir dengeye gelecektir.",
+  "hook": [
+    "YEMEĞİN TUZU",
+    "FAZLA MI KAÇTI?"
+  ],
+  "openIcon": "pot",
+  "highlight": {
+    "file": "sahne-2.png",
+    "from": 240,
+    "to": 300,
+    "path": "M235 704 C236 676 256 651 279 649 C301 649 328 662 333 685 C336 711 314 743 290 756 C267 766 239 753 235 734 C232 724 232 714 235 704"
+  },
+  "id": "037",
+  "dir": "yeniliste037",
+  "frames": 610,
+  "captionEnd": 17.95,
+  "ctaStart": 538,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 150,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 220,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 310,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 390,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 480,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 550,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 140,
+      "a": "TUZU",
+      "b": "FAZLA MI?",
+      "icon": "pot",
+      "side": "right",
+      "y": 310
+    },
+    {
+      "from": 245,
+      "to": 285,
+      "a": "ELMA",
+      "b": "SİRKESİ",
+      "icon": "bottle",
+      "side": "right",
+      "y": 310
+    },
+    {
+      "from": 305,
+      "to": 345,
+      "a": "BİR ÇAY",
+      "b": "KAŞIĞI ŞEKER",
+      "icon": "spoon",
+      "side": "left",
+      "y": 310
+    },
+    {
+      "from": 400,
+      "to": 445,
+      "a": "KARIŞTIR",
+      "b": "VE DENE",
+      "icon": "pot",
+      "side": "right",
+      "y": 310
+    }
+  ]
+}

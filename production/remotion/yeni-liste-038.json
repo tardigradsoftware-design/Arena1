@@ -1,0 +1,103 @@
+{
+  "caption": "Evi süpürürken elektrik süpürgenizin arkasından tüm odaya o ağır, bayat toz kokusu yayılıyorsa makinenizi çalıştırmadan önce haznesine bu dokunuşu yapın! Bir parça makyaj pamuğunun üzerine bir paket şekerli vanilin dökün veya on damla lavanta yağı damlatıp süpürgenin toz haznesinin veya temiz torbasının içine atın. Süpürge çalıştıkça ısınan hava vanilya kokusunu tüm odalara yayacak ve eviniz temizlik boyunca fırından yeni çıkmış kurabiye gibi kokacaktır.",
+  "hook": [
+    "SÜPÜRGE KOKUSU",
+    "NASIL DEĞİŞİR?"
+  ],
+  "openIcon": "vacuum",
+  "highlight": {
+    "file": "sahne-2.png",
+    "from": 225,
+    "to": 285,
+    "path": "M287 707 C290 635 351 584 438 580 C526 575 629 608 683 662 C725 704 719 779 683 827 C648 874 580 891 502 891 C410 892 332 860 300 814 C284 787 280 747 287 707"
+  },
+  "id": "038",
+  "dir": "yeniliste038",
+  "frames": 703,
+  "captionEnd": 20.15,
+  "ctaStart": 604,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 130,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 315,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 430,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 610,
+      "file": "sahne-1.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 145,
+      "a": "TOZ",
+      "b": "KOKUSU",
+      "icon": "vacuum",
+      "side": "right",
+      "y": 310
+    },
+    {
+      "from": 215,
+      "to": 260,
+      "a": "VANİLİN",
+      "b": "VE PAMUK",
+      "icon": "cotton",
+      "side": "left",
+      "y": 310
+    },
+    {
+      "from": 355,
+      "to": 400,
+      "a": "TOZ",
+      "b": "HAZNESİ",
+      "icon": "vacuum",
+      "side": "right",
+      "y": 310
+    },
+    {
+      "from": 495,
+      "to": 535,
+      "a": "TEMİZLİK",
+      "b": "ZAMANI",
+      "icon": "vacuum",
+      "side": "left",
+      "y": 310
+    }
+  ]
+}
