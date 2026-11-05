@@ -1,0 +1,94 @@
+{
+  "caption": "Evde patates kızarttığınızda dışının çıtır çıtır olmak yerine yağ çekip hamur gibi yumuşamasına son verin! Doğradığınız patatesleri yıkadıktan sonra soğuk su, bir yemek kaşığı elma sirkesi ve buz dolu kasede on beş dakika bekletin. Ardından patatesleri kağıt havluyla tek bir damla su kalmayana kadar kurutup üzerine sadece bir yemek kaşığı mısır nişastası serpiştirerek kızgın yağa atın. Patatesleriniz asla yağ çekmeden kütür kütür kızaracaktır.",
+  "hook": [
+    "PATATES",
+    "NASIL ÇITIR OLUR?"
+  ],
+  "openIcon": "pot",
+  "highlight": null,
+  "id": "023",
+  "dir": "yeniliste023",
+  "frames": 702,
+  "captionEnd": 19.1,
+  "ctaStart": 573,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "ARKADAŞINA GÖNDER",
+      "share"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 115,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 280,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 380,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 460,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 575,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 110,
+      "to": 155,
+      "a": "SOĞUK",
+      "b": "SU VE BUZ",
+      "icon": "ice",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 235,
+      "to": 280,
+      "a": "15 DAKİKA",
+      "b": "BEKLET",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 340,
+      "to": 385,
+      "a": "KAĞIT",
+      "b": "HAVLU",
+      "icon": "wipe",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 440,
+      "to": 485,
+      "a": "MISIR",
+      "b": "NİŞASTASI",
+      "icon": "spoon",
+      "side": "left",
+      "y": 330
+    }
+  ]
+}
