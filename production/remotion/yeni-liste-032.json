@@ -1,0 +1,107 @@
+{
+  "caption": "Kararan gümüş yüzüklerinizi, kolyelerinizi veya matlaşan çatal kaşıklarınızı parlatmak için kuyumcuya gitmenize ya da saatlerce ovalamanıza gerek yok! Derin bir kasenin içini alüminyum folyoyla kaplayın, takılarınızı içine bırakıp üzerine bir yemek kaşığı karbonat ve bir tatlı kaşığı tuz dökün; son olarak üzerini geçecek kadar kaynar su ekleyin. Saniyeler içinde gerçekleşen iyon transferi sayesinde tüm siyah kararmalar folyoya geçecek ve takılarınız ilk alındığı günkü gibi ışıldayacaktır.",
+  "hook": [
+    "GÜMÜŞ TAKILAR",
+    "NASIL PARLAR?"
+  ],
+  "openIcon": "ring",
+  "highlight": {
+    "file": "sahne-3.png",
+    "from": 300,
+    "to": 355,
+    "path": "M212 720 C215 669 248 637 296 629 C345 622 393 646 407 682 C422 723 405 778 374 800 C339 828 280 825 247 800 C224 781 212 751 212 720"
+  },
+  "id": "032",
+  "dir": "yeniliste032",
+  "frames": 714,
+  "captionEnd": 21.07,
+  "ctaStart": 632,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 130,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 280,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 370,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 455,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 545,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 640,
+      "file": "sahne-5.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 115,
+      "to": 155,
+      "a": "GÜMÜŞ",
+      "b": "TAKILAR",
+      "icon": "ring",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 225,
+      "to": 270,
+      "a": "ALÜMİNYUM",
+      "b": "FOLYO",
+      "icon": "bowl",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 325,
+      "to": 370,
+      "a": "KARBONAT",
+      "b": "VE TUZ",
+      "icon": "spoon",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 410,
+      "to": 455,
+      "a": "SICAK",
+      "b": "SU",
+      "icon": "drop",
+      "side": "left",
+      "y": 320
+    }
+  ]
+}

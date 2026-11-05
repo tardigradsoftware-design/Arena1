@@ -1,0 +1,103 @@
+{
+  "caption": "Evde kek veya poğaça yaptığınızda fırında harika kabarıp fırından çıkar çıkmaz sönüyorsa hamura bu gizli malzemeyi eklemeyi unutuyorsunuz! Kabartma tozunu eklediğiniz aşamada karışımın içine sadece bir yemek kaşığı elma sirkesi veya limon suyu damlatın. Sirkenin asidi kabartma tozuyla tepkimeye girerek hamurun içinde binlerce mikro hava kabarcığı oluşturur ve kekiniz günlerce bayatlamadan bulut gibi puf puf kalır.",
+  "hook": [
+    "KEKİNİZ",
+    "NASIL KABARIR?"
+  ],
+  "openIcon": "cake",
+  "highlight": {
+    "file": "sahne-5.png",
+    "from": 285,
+    "to": 340,
+    "path": "M332 558 C345 546 373 546 389 558 C403 570 402 592 390 606 C381 618 384 628 379 641 C373 656 348 656 341 642 C335 631 337 617 331 604 C325 592 321 573 332 558"
+  },
+  "id": "031",
+  "dir": "yeniliste031",
+  "frames": 675,
+  "captionEnd": 19.48,
+  "ctaStart": 584,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 120,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 185,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 265,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 380,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 480,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 585,
+      "file": "sahne-1.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "KEK VE",
+      "b": "POĞAÇA",
+      "icon": "cake",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 210,
+      "to": 255,
+      "a": "KABARTMA",
+      "b": "TOZU",
+      "icon": "spoon",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 315,
+      "to": 360,
+      "a": "ELMA",
+      "b": "SİRKESİ",
+      "icon": "drop",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 425,
+      "to": 470,
+      "a": "KEK",
+      "b": "KARIŞIMI",
+      "icon": "bowl",
+      "side": "left",
+      "y": 320
+    }
+  ]
+}
