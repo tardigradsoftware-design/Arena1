@@ -15,7 +15,7 @@ for id,s in settings.items():
  (r/f'yeni-liste-{id}.json').write_text(json.dumps(c,ensure_ascii=False,indent=2)+'\n')
  (r/f'yeni-liste-{id}.jsx').write_text((r/'yeni-seri-030.jsx').read_text().replace('yeni-seri-030.json',f'yeni-liste-{id}.json'))
  dest=pub/c['dir'];dest.mkdir(exist_ok=True)
- for i in range(1,5):shutil.copy(d/f'sahne-{i}.png',dest/f'sahne-{i}.png')
+ for i in sorted({i for _,i in s['shots']}):shutil.copy(d/f'sahne-{i}.png',dest/f'sahne-{i}.png')
  cover=4 if id=='013' else 1
  im=ImageOps.fit(Image.open(d/f'sahne-{cover}.png').convert('RGB'),(1080,1920));draw=ImageDraw.Draw(im,'RGBA')
  draw.rounded_rectangle((30,95,1050,735),radius=36,fill=(8,8,8,232),outline='white',width=6)

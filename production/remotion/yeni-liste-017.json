@@ -1,0 +1,115 @@
+{
+  "caption": "Aldığınız maydanoz, dereotu ve nanelerin buzdolabında üç gün içinde sararıp çamur gibi erimesine para harcamayı bırakın! Yıkayıp kuruttuğunuz yeşillikleri sapları aşağı gelecek şekilde geniş bir cam kavanoza dik olarak yerleştirin, kavanozun en üstüne bir yaprak kuru kağıt havlu koyup kapağını sıkıca kapatın. Kağıt havlu yeşilliğin terlediği tüm fazla nemi emecek ve yeşillikleriniz tam üç hafta boyunca dalından yeni kopmuş gibi kütür kütür kalacaktır.",
+  "hook": [
+    "YEŞİLLİKLER",
+    "NASIL SAKLANIR?"
+  ],
+  "openIcon": "jar",
+  "highlight": {
+    "file": "sahne-5.png",
+    "from": 345,
+    "to": 410,
+    "path": "M195 362 C199 326 258 305 369 306 C485 307 538 330 541 371 L540 1030 C533 1072 476 1090 371 1091 C267 1091 210 1072 204 1036 Z"
+  },
+  "id": "017",
+  "dir": "yeniliste017",
+  "frames": 692,
+  "captionEnd": 19.32,
+  "ctaStart": 580,
+  "ctaTop": 300,
+  "ctaHeading": "SEN NE DÜŞÜNÜYORSUN?",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 180,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 260,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 330,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 450,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 580,
+      "file": "sahne-5.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 95,
+      "to": 137,
+      "a": "MAYDANOZ",
+      "b": "DEREOTU",
+      "icon": "question",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 225,
+      "to": 266,
+      "a": "YIKA VE",
+      "b": "KURUT",
+      "icon": "drop",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 340,
+      "to": 380,
+      "a": "CAM",
+      "b": "KAVANOZ",
+      "icon": "jar",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 425,
+      "to": 463,
+      "a": "KAĞIT",
+      "b": "HAVLU",
+      "icon": "wipe",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "cta2Start": 618,
+  "ctaFinalHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaFirstItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ]
+}
