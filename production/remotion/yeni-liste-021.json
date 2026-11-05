@@ -5,7 +5,12 @@
     "NASIL SAKLANIR?"
   ],
   "openIcon": "avocado",
-  "highlight": null,
+  "highlight": {
+    "file": "sahne-5.png",
+    "from": 240,
+    "to": 292,
+    "path": "M94 716 C125 649 202 596 280 580 C365 560 469 585 551 642 C618 688 666 757 664 809 C660 872 590 911 517 924 C428 940 311 916 221 872 C138 835 95 789 94 716"
+  },
   "id": "021",
   "dir": "yeniliste021",
   "frames": 613,
@@ -41,7 +46,11 @@
       "file": "sahne-2.png"
     },
     {
-      "from": 300,
+      "from": 230,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 315,
       "file": "sahne-3.png"
     },
     {
