@@ -1,0 +1,90 @@
+{
+  "caption": "Karnabahar veya brokoli haşlarken tüm evi saran o ağır kükürt kokusu yüzünden bu şifalı sebzeleri pişirmekten kaçıyorsanız suya sadece bu iki malzemeyi atın! Haşlama suyuna yarım çay bardağı süt ve bir adet defne yaprağı veya bir dilim bayat ekmek içi ekleyin. Süt ve defne yaprağı kokuyu anında hapsederken karnabaharınızın kar gibi bembeyaz ve lokum gibi pişmesini sağlar.",
+  "hook": [
+    "KARNABAHAR",
+    "NASIL HAŞLANIR?"
+  ],
+  "openIcon": "pot",
+  "highlight": {
+    "file": "sahne-4.png",
+    "from": 300,
+    "to": 345,
+    "path": "M280 743 C299 676 343 633 411 614 C444 603 463 605 474 608 C470 660 452 707 411 728 C371 752 321 758 280 743"
+  },
+  "id": "025",
+  "dir": "yeniliste025",
+  "frames": 606,
+  "captionEnd": 17.27,
+  "ctaStart": 518,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 120,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 285,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 410,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 120,
+      "to": 160,
+      "a": "HAŞLAMA",
+      "b": "SUYU",
+      "icon": "pot",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 235,
+      "to": 280,
+      "a": "SÜT VE",
+      "b": "DEFNE",
+      "icon": "leaf",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 355,
+      "to": 400,
+      "a": "DEFNE",
+      "b": "YAPRAĞI",
+      "icon": "leaf",
+      "side": "right",
+      "y": 320
+    }
+  ]
+}
