@@ -1,0 +1,94 @@
+{
+  "caption": "Yarısını kahvaltıda yediğiniz avokadoyu veya elmayı buzdolabına koyduğunuzda bir saat içinde simsiyah olmasına son verin! Avokadonun çekirdeğini çıkarmayın, kesik olan yeşil yüzeyine parmağınızla çok ince bir kat zeytinyağı sürün ya da saklama kabının tabanına iki halka kuru soğan koyup avokadoyu üzerine yerleştirin. Zeytinyağı oksijenle teması keserek avokadonuzu günlerce yemyeşil tutacaktır.",
+  "hook": [
+    "YARIM AVOKADO",
+    "NASIL SAKLANIR?"
+  ],
+  "openIcon": "avocado",
+  "highlight": null,
+  "id": "021",
+  "dir": "yeniliste021",
+  "frames": 613,
+  "captionEnd": 17.36,
+  "ctaStart": 521,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 130,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 200,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 300,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 400,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-1.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 95,
+      "to": 140,
+      "a": "AVOKADO",
+      "b": "VE ELMA",
+      "icon": "food",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 215,
+      "to": 260,
+      "a": "ZEYTİNYAĞI",
+      "b": "İNCE KAT",
+      "icon": "drop",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 315,
+      "to": 360,
+      "a": "SOĞAN",
+      "b": "HALKALARI",
+      "icon": "avocado",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 430,
+      "a": "BUZDOLABI",
+      "b": "SAKLAMA",
+      "icon": "ice",
+      "side": "left",
+      "y": 330
+    }
+  ]
+}
