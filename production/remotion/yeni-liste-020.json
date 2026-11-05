@@ -1,0 +1,98 @@
+{
+  "caption": "Sıcak duştan çıktığınızda banyo aynasının tamamen buğulanıp hiçbir şey göstermemesine ve elinizle sildiğinizde iz kalmasına son verin! Kuru banyo aynasının yüzeyine bir kalıp kuru beyaz sabunu hafifçe sürün, ardından su değdirmeden sadece kuru bir mikrofiber bezle aynayı parlatana kadar silin. Camda oluşan görünmez gliserin tabakası su buharının tutunmasını bir ay boyunca engelleyecek ve aynanız en sıcak duşta bile net kalacaktır.",
+  "hook": [
+    "BUĞULU AYNA",
+    "NASIL TEMİZLENİR?"
+  ],
+  "openIcon": "mirror",
+  "highlight": {
+    "file": "sahne-3.png",
+    "from": 270,
+    "to": 330,
+    "path": "M225 546 C221 478 236 414 269 399 C310 385 373 399 405 428 C430 453 452 527 455 593 C458 652 430 694 388 714 C342 736 280 718 254 687 C231 657 224 603 225 546"
+  },
+  "id": "020",
+  "dir": "yeniliste020",
+  "frames": 681,
+  "captionEnd": 19.8,
+  "ctaStart": 594,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 200,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 255,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 355,
+      "file": "sahne-6.png"
+    },
+    {
+      "from": 430,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 540,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 600,
+      "file": "sahne-5.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 150,
+      "a": "BUĞULU",
+      "b": "AYNA",
+      "icon": "mirror",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 245,
+      "to": 290,
+      "a": "KURU",
+      "b": "SABUN",
+      "icon": "soap",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 435,
+      "a": "MİKROFİBER",
+      "b": "BEZ",
+      "icon": "wipe",
+      "side": "right",
+      "y": 330
+    }
+  ]
+}
