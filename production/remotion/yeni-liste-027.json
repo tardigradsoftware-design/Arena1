@@ -1,0 +1,107 @@
+{
+  "caption": "Pirinç pilavı yaparken bazen lapa oluyor, bazen de rengi matlaşıyorsa usta aşçıların kullandığı bu iki dokunuşu mutlaka deneyin! Pirinçleri tereyağında kavururken içine üç damla limon suyu sıkın ve suyunu eklediğinizde tencerenin ortasına bir adet buz küpü atıp kısık ateşte pişirin. Limon pirinçlerin kırılmasını önleyip kar beyazı yaparken, buz küpü pişme ısısını dengeleyerek pilavın inci gibi tek tek dökülmesini sağlar.",
+  "hook": [
+    "PİRİNÇ PİLAVI",
+    "NASIL PİŞİRİLİR?"
+  ],
+  "openIcon": "pot",
+  "highlight": {
+    "file": "sahne-5.png",
+    "from": 340,
+    "to": 400,
+    "path": "M311 687 C312 653 338 628 382 621 C416 621 453 643 463 667 C475 697 466 749 443 771 C416 794 363 790 329 771 C310 759 301 719 311 687"
+  },
+  "id": "027",
+  "dir": "yeniliste027",
+  "frames": 672,
+  "captionEnd": 19.58,
+  "ctaStart": 587,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-6.png"
+    },
+    {
+      "from": 125,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 190,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 270,
+      "file": "sahne-6.png"
+    },
+    {
+      "from": 325,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 425,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 510,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 590,
+      "file": "sahne-1.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 120,
+      "to": 160,
+      "a": "PİRİNÇ",
+      "b": "PİLAVI",
+      "icon": "pot",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 220,
+      "to": 265,
+      "a": "ÜÇ DAMLA",
+      "b": "LİMON",
+      "icon": "lemon",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 330,
+      "to": 375,
+      "a": "BİR KÜP",
+      "b": "BUZ",
+      "icon": "ice",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 415,
+      "to": 460,
+      "a": "KISIK",
+      "b": "ATEŞ",
+      "icon": "pot",
+      "side": "left",
+      "y": 320
+    }
+  ]
+}
