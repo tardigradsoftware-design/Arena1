@@ -1,0 +1,103 @@
+{
+  "caption": "Kahvaltıda ekmeğinize tereyağı sürmek istediğinizde dolaptan yeni çıkan tereyağı taş gibi sertse ve ekmeği parçalıyorsa sakın ocakta eritmeyin! Bir su bardağının içine kaynar su doldurup otuz saniye bekletin, ardından suyu döküp ısınan bardağı dikey olarak tereyağı kalıbının üzerine kapatın. Bardağın içindeki termal ısı tereyağını hiç eritmeden ve suyunu saldırmadan sadece bir dakikada oda sıcaklığına getirecek, pamuk gibi sürülebilir yapacaktır.",
+  "hook": [
+    "SERT TEREYAĞI",
+    "NASIL YUMUŞAR?"
+  ],
+  "openIcon": "glass",
+  "highlight": {
+    "file": "sahne-3.png",
+    "from": 320,
+    "to": 380,
+    "path": "M220 797 C225 760 262 728 327 714 C391 697 470 699 529 728 C555 740 559 761 553 799 L553 893 C550 930 510 950 461 962 C408 976 342 969 292 954 C249 941 228 927 226 900 Z"
+  },
+  "id": "033",
+  "dir": "yeniliste033",
+  "frames": 695,
+  "captionEnd": 20.29,
+  "ctaStart": 609,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 120,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 300,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 415,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 510,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 610,
+      "file": "sahne-1.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 120,
+      "to": 160,
+      "a": "SERT",
+      "b": "TEREYAĞI",
+      "icon": "spoon",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 235,
+      "to": 280,
+      "a": "30 SANİYE",
+      "b": "BEKLET",
+      "icon": "clock",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 340,
+      "to": 385,
+      "a": "SICAK",
+      "b": "BARDAK",
+      "icon": "glass",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 460,
+      "to": 505,
+      "a": "1 DAKİKA",
+      "b": "BEKLET",
+      "icon": "clock",
+      "side": "left",
+      "y": 320
+    }
+  ]
+}

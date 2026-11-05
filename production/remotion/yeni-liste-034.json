@@ -1,0 +1,107 @@
+{
+  "caption": "Yeni aldığınız siyah pantolonların veya canlı renkli kıyafetlerin ilk yıkamada boyasını salıp solmasını istemiyorsanız makineye atmadan önce bu sabitleme banyosunu yapın! Geniş bir leğene soğuk su doldurup içine bir çay bardağı beyaz sirke ve iki yemek kaşığı tuz ekleyerek yeni kıyafetinizi ters çevirip yarım saat bekletin. Sirke ve tuz kumaş boyasını liflere mühürleyecek, kıyafetiniz yıllarca yıkansa bile ilk günkü canlı rengini koruyacaktır.",
+  "hook": [
+    "KOYU KIYAFET",
+    "NASIL YIKANIR?"
+  ],
+  "openIcon": "washer",
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 275,
+    "to": 340,
+    "path": "M111 677 C136 620 184 575 248 558 C314 543 416 557 487 584 C532 603 550 647 543 700 C534 750 511 794 480 824 C430 861 299 859 230 831 C173 810 120 775 111 734 C107 712 106 693 111 677"
+  },
+  "id": "034",
+  "dir": "yeniliste034",
+  "frames": 650,
+  "captionEnd": 18.85,
+  "ctaStart": 566,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 125,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 190,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 240,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 350,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 460,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 540,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 590,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 150,
+      "a": "KOYU",
+      "b": "KIYAFET",
+      "icon": "washer",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 220,
+      "to": 265,
+      "a": "SOĞUK",
+      "b": "SU",
+      "icon": "drop",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 310,
+      "to": 355,
+      "a": "SİRKE",
+      "b": "VE TUZ",
+      "icon": "spoon",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 410,
+      "to": 455,
+      "a": "YARIM SAAT",
+      "b": "BEKLET",
+      "icon": "clock",
+      "side": "left",
+      "y": 320
+    }
+  ]
+}
