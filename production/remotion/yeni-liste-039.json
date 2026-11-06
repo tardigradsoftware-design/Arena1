@@ -1,0 +1,5 @@
+{
+  "id":"039", "frames":712, "captionEnd":21.1, "ctaStart":633,
+  "caption":"Evde balık pişirdiğinizde veya soğan doğradığınızda elinize sinen o ağır kokuyu sabunla defalarca yıkasanız bile çıkaramıyorsanız musluğun altında elinize çelik kaşık sürtün! Ellerinizi soğuk suyun altında tutarken paslanmaz çelik bir yemek kaşığını sabun sürer gibi parmaklarınıza otuz saniye ovalayın; çelikteki alaşımlar kokuya neden olan kükürt moleküllerini derinizden mıknatıs gibi çeker. Ocakta da küçük bir cezvede vanilya ve limon kabuğu kaynatırsanız mutfaktaki balık kokusu anında yok olur.",
+  "events":[{"from":105,"to":145,"icon":"spoon"},{"from":250,"to":305,"icon":"clock"},{"from":498,"to":540,"icon":"lemon"},{"from":555,"to":595,"icon":"pot"}]
+}
