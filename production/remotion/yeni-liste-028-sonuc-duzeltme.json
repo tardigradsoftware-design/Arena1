@@ -1,0 +1,102 @@
+{
+  "caption": "Kalorifer isi ve güneş yüzünden grileşip sararan tül perdelerinizi beyazlatmak için çamaşır suyu kullanıp tüllerinizi yakmayın! Tülleri katlayıp makineye koyduktan sonra doğrudan tamburun içine bir adet bulaşık makinesi tableti atın, deterjan gözüne ise iki yemek kaşığı toz şeker ekleyin ve otuz derecede yıkayın. Tablet tüm is ve yağ tabakasını sökerken, toz şeker tülün dokusunu koruyup ütülenmiş gibi pürüzsüz ve kar beyazı çıkmasını sağlar.",
+  "hook": [
+    "TÜL PERDELER",
+    "NASIL YIKANIR?"
+  ],
+  "openIcon": "washer",
+  "highlight": {
+    "file": "sahne-2.png",
+    "from": 220,
+    "to": 285,
+    "path": "M263 886 C266 873 281 866 301 868 C322 868 338 876 341 889 C346 901 343 915 331 923 C315 932 288 930 274 921 C264 915 258 898 263 886"
+  },
+  "id": "028",
+  "dir": "yeniliste028duzelt",
+  "frames": 663,
+  "captionEnd": 19.37,
+  "ctaStart": 581,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 130,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 200,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 310,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 410,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 500,
+      "file": "sahne-sonuc-duzeltilmis.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 120,
+      "to": 160,
+      "a": "TÜL",
+      "b": "PERDE",
+      "icon": "wipe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 230,
+      "to": 275,
+      "a": "BULAŞIK",
+      "b": "TABLETİ",
+      "icon": "soap",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 335,
+      "to": 380,
+      "a": "TOZ",
+      "b": "ŞEKER",
+      "icon": "spoon",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 430,
+      "to": 475,
+      "a": "30 DERECE",
+      "b": "YIKAMA",
+      "icon": "washer",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-sonuc-duzeltilmis.png"
+  ]
+}

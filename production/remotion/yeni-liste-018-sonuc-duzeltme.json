@@ -1,0 +1,111 @@
+{
+  "caption": "Evin şeklini değiştirdiğinizde ağır koltuk ve masa ayaklarının halıda bıraktığı o taşlaşmış çukur izlerini düzeltmek için halıyı boşuna fırçalamayın! Halıdaki her bir ezik çukurun tam ortasına bir adet buz küpü bırakın ve buz kendi kendine eriyene kadar bekleyin. Soğuk suyu yavaşça emen halı lifleri şişip dikleşecektir; ıslak tüyleri bir çatalın ucuyla hafifçe yukarı doğru taradığınızda çukur izinden eser kalmadığını göreceksiniz.",
+  "hook": [
+    "HALIDAKİ İZ",
+    "NASIL DÜZELİR?"
+  ],
+  "openIcon": "ice",
+  "highlight": {
+    "file": "sahne-2.png",
+    "from": 195,
+    "to": 248,
+    "path": "M247 740 C247 670 275 611 353 603 C439 592 513 607 530 659 C546 723 533 807 491 847 C449 882 351 885 298 854 C263 835 247 789 247 740"
+  },
+  "id": "018",
+  "dir": "yeniliste018duzelt",
+  "frames": 650,
+  "captionEnd": 18.71,
+  "ctaStart": 561,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-once-duzeltilmis.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-once-duzeltilmis.png"
+    },
+    {
+      "from": 185,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 270,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 340,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 415,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 495,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 560,
+      "file": "sahne-1.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "HALI",
+      "b": "LİFLERİ",
+      "icon": "question",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 215,
+      "to": 260,
+      "a": "BUZ",
+      "b": "KÜPÜ",
+      "icon": "ice",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 345,
+      "to": 388,
+      "a": "ERİMESİNİ",
+      "b": "BEKLE",
+      "icon": "clock",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 440,
+      "to": 480,
+      "a": "HAFİFÇE",
+      "b": "TARA",
+      "icon": "brush",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-once-duzeltilmis.png",
+    "sahne-1.png"
+  ]
+}

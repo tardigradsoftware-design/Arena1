@@ -1,0 +1,102 @@
+{
+  "caption": "Ütünüzün tabanı karardıysa ve en sevdiğiniz kıyafetlere yapışıp leke bırakıyorsa ütüyü bıçakla kazıyıp tabanını çizmeyin! Ütü masasının üzerine bir parça fırın pişirme kağıdı serin, üzerine iki yemek kaşığı sofra tuzu dökün ve en yüksek ısıdaki buharsız sıcak ütüyü tuzların üzerinde bir dakika boyunca ileri geri gezdirin. Tuzun kristalleri ütü tabanını çizmeden tüm yanık lekelerini silgi gibi söküp atacaktır.",
+  "hook": [
+    "ÜTÜ TABANI",
+    "NASIL TEMİZLENİR?"
+  ],
+  "openIcon": "iron",
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 115,
+    "to": 175,
+    "path": "M218 793 C239 678 278 534 333 425 C365 366 389 332 404 331 C425 358 431 412 426 491 C421 598 403 710 379 805 C367 853 344 878 311 879 C273 879 227 867 212 843 C205 831 211 808 218 793"
+  },
+  "id": "026",
+  "dir": "yeniliste026duzelt",
+  "frames": 618,
+  "captionEnd": 18.07,
+  "ctaStart": 542,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 200,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 300,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 360,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 470,
+      "file": "sahne-sonuc-duzeltilmis.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 115,
+      "to": 155,
+      "a": "ÜTÜ",
+      "b": "TABANI",
+      "icon": "iron",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 210,
+      "to": 255,
+      "a": "FIRIN",
+      "b": "KAĞIDI",
+      "icon": "wipe",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 295,
+      "to": 340,
+      "a": "SOFRA",
+      "b": "TUZU",
+      "icon": "spoon",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 385,
+      "to": 430,
+      "a": "BİR DAKİKA",
+      "b": "ÜTÜ",
+      "icon": "clock",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-sonuc-duzeltilmis.png"
+  ]
+}

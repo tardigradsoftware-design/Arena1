@@ -1,0 +1,93 @@
+{
+  "caption": "Buzdolabınızın kapağı tam vakumlamıyor ve lastik kıvrımlarının arasında siyah küf lekeleri birikiyorsa, dolabınız iki katı elektrik harcıyor demektir! Eski bir diş fırçasına biraz beyaz diş macunu sürüp lastik aralarındaki küfleri temizleyin; kuruladıktan sonra lastiğin dış yüzeyine parmağınızla çok ince bir kat vazelin sürün. Vazelin sertleşen kauçuğu yumuşatarak kapağın ilk günkü gibi mıknatıs gibi yapışmasını sağlar.",
+  "hook": [
+    "BUZDOLABI",
+    "LASTİĞİ NASIL?"
+  ],
+  "openIcon": "question",
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 140,
+    "to": 190,
+    "path": "M357 535 C385 506 459 501 511 531 C547 559 557 622 547 689 C538 752 507 795 461 801 C404 807 360 772 353 719 C346 657 343 585 357 535"
+  },
+  "id": "016",
+  "dir": "yeniliste016duzelt",
+  "frames": 617,
+  "captionEnd": 17.7,
+  "ctaStart": 531,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 130,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 200,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 310,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 410,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 480,
+      "file": "sahne-sonuc-duzeltilmis.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 75,
+      "to": 120,
+      "a": "KAPI",
+      "b": "LASTİĞİ",
+      "icon": "door",
+      "side": "right",
+      "y": 315
+    },
+    {
+      "from": 225,
+      "to": 270,
+      "a": "DİŞ",
+      "b": "FIRÇASI",
+      "icon": "brush",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 345,
+      "to": 390,
+      "a": "KAPI",
+      "b": "LASTİĞİ",
+      "icon": "door",
+      "side": "right",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-sonuc-duzeltilmis.png"
+  ]
+}
