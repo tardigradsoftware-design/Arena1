@@ -1,0 +1,105 @@
+{
+  "id": "007",
+  "dir": "yenilisteViral007",
+  "brand": true,
+  "frames": 750,
+  "caption": "Tam evden çıkacakken giydiğiniz siyah tişörtün veya elbisenin üzerine bulaşan o beyaz deodorant izini ıslak mendille silerseniz lekeyi çamur gibi yayıp daha da büyütürsünüz! Deodorant lekesine asla su sürmeyin. Çekmecenizdeki temiz ve kuru bir ince külotlu çorabı veya giydiğiniz pamuklu çorabın tersini top haline getirip beyaz lekenin üzerine kuru kuru üç saniye sürtün. Naylon dokunun yarattığı statik elektrik tüm beyaz pudra taneciklerini kumaştan mıknatıs gibi çekecek ve siyah kıyafetiniz anında tertemiz olacaktır.",
+  "captionEnd": 22.3,
+  "ctaStart": 675,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "DEODORANT",
+    "İZİ NASIL ÇIKAR?"
+  ],
+  "openIcon": "wipe",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 95,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 225,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 335,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 470,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 565,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 150,
+      "a": "BEYAZ",
+      "b": "İZ",
+      "icon": "wipe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 280,
+      "to": 330,
+      "a": "KURU",
+      "b": "ÇORAP",
+      "icon": "hand",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 410,
+      "to": 455,
+      "a": "HAFİFÇE",
+      "b": "SÜRT",
+      "icon": "hand",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 570,
+      "to": 610,
+      "a": "TEMİZ",
+      "b": "GÖRÜNÜM",
+      "icon": "wipe",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-2.png",
+    "sahne-3.png"
+  ],
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 100,
+    "to": 170,
+    "path": "M550 570 C567 528 617 505 661 509 C711 511 733 540 731 583 C728 624 699 653 655 660 C610 668 564 651 550 618 C544 604 545 585 550 570"
+  }
+}
