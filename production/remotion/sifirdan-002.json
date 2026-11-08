@@ -1,0 +1,99 @@
+{
+  "id": "002",
+  "dir": "yenilisteSifirdan002",
+  "brand": true,
+  "frames": 659,
+  "caption": "Halınızı en güçlü elektrik süpürgesiyle süpürdüğünüz halde halının ilmeklerine dolanan uzun saçları ve evcil hayvan tüylerini süpürgenin çekemediğini biliyor muydunuz? Halınızı süpürdükten sonra elinize cam silmek için kullandığınız kuru bir kauçuk çekpası alın ve halının üzerinde kendinize doğru bastırarak tarar gibi çekin. Kauçuk lastiğin sürtünme gücüyle temiz sandığınız halının içinden avuç dolusu saç ve tüy yumağı çıktığını gördüğünüzde gözlerinize inanamayacaksınız!",
+  "captionEnd": 19.2,
+  "ctaStart": 578,
+  "ctaTop": 300,
+  "ctaHeading": "FİKRİNİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "TEMİZ HALIDA",
+    "GİZLİ TÜYLER?"
+  ],
+  "openIcon": "vacuum",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 95,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 325,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 425,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "SAÇ VE",
+      "b": "TÜYLER",
+      "icon": "vacuum",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 230,
+      "to": 275,
+      "a": "KURU",
+      "b": "ÇEKPAS",
+      "icon": "squeegee",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 350,
+      "to": 395,
+      "a": "HALIDA",
+      "b": "GERİ ÇEK",
+      "icon": "squeegee",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 470,
+      "to": 515,
+      "a": "TOPLANAN",
+      "b": "TÜYLER",
+      "icon": "hand",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-2.png",
+    "sahne-3.png"
+  ]
+}
