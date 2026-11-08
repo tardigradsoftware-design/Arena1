@@ -1,0 +1,109 @@
+{
+  "id": "001",
+  "dir": "yenilisteViral001",
+  "brand": true,
+  "frames": 720,
+  "caption": "Duş alırken su gitmiyor ve banyo gideriniz saç yüzünden tıkandıysa, pahalı kimyasallara veya tesisatçıya para harcamadan evde bulunan plastik bir cırt kelepçeyle gideri beş saniyede açın! Uzun bir plastik kablo bağının, cırt kelepçenin, iki yan kenarına makasla yukarı doğru bakan küçük çapraz çentikler keserek kancalı bir şerit oluşturun. Bu şeridi gider deliğinden içeri sokup iki kez çevirerek yukarı çektiğinizde, boruyu tıkayan tüm saç yumağını tek seferde çekip çıkardığını göreceksiniz.",
+  "captionEnd": 21.13,
+  "ctaStart": 634,
+  "ctaTop": 300,
+  "ctaHeading": "BÖYLE İÇERİKLERİN DEVAMI İÇİN",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "ABONE OL",
+      "subscribe"
+    ]
+  ],
+  "hook": [
+    "TIKALI GİDER",
+    "NASIL AÇILIR?"
+  ],
+  "openIcon": "drop",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 125,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 290,
+      "file": "sahne-sema.png"
+    },
+    {
+      "from": 450,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 525,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 605,
+      "file": "sahne-5.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 150,
+      "a": "TIKALI",
+      "b": "GİDER",
+      "icon": "drop",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 230,
+      "to": 275,
+      "a": "CIRT",
+      "b": "KELEPÇE",
+      "icon": "wipe",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 315,
+      "to": 360,
+      "a": "KÜÇÜK",
+      "b": "ÇENTİKLER",
+      "icon": "wipe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 440,
+      "to": 485,
+      "a": "SAÇLARI",
+      "b": "ÇIKAR",
+      "icon": "hand",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-sema.png",
+    "sahne-3.png",
+    "sahne-5.png"
+  ],
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 135,
+    "to": 190,
+    "path": "M160 649 C165 598 206 563 262 562 C322 559 365 587 388 631 C407 670 398 716 371 741 C339 770 277 777 227 763 C184 750 156 716 158 681 C157 669 157 659 160 649"
+  }
+}
