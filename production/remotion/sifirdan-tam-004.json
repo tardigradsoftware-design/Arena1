@@ -1,0 +1,96 @@
+{
+  "id": "004",
+  "dir": "yenilisteTam004",
+  "brand": true,
+  "caption": "Beyaz spor ayakkabılarınızın lastik taban kenarları ne kadar silerseniz silin sararıyor ve siyah çizgiler çıkmıyorsa çamaşır suyu sürüp lastiği eritmeyin! Bir tatlı kaşığı beyazlatıcı diş macunu, bir tatlı kaşığı karbonat ve birkaç damla bulaşık deterjanını karıştırıp eski bir diş fırçasıyla tabanları fırçalayın. Sildiğiniz an ayakkabılarınız kutusundan yeni çıkmış gibi kar beyazı olacaktır.",
+  "captionEnd": 16.95,
+  "ctaStart": 510,
+  "ctaTop": 300,
+  "ctaHeading": "SONUCUNU PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "SARARAN TABAN",
+    "NASIL BEYAZLAR?"
+  ],
+  "openIcon": "shoe",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 190,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 290,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 440,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 145,
+      "a": "SARARAN",
+      "b": "TABAN",
+      "icon": "shoe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 205,
+      "to": 245,
+      "a": "DİŞ MACUNU",
+      "b": "KARBONAT",
+      "icon": "brush",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 320,
+      "to": 365,
+      "a": "FIRÇAYLA",
+      "b": "TEMİZLE",
+      "icon": "brush",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 450,
+      "to": 490,
+      "a": "BEYAZ",
+      "b": "TABAN",
+      "icon": "shoe",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-2.png",
+    "sahne-3.png",
+    "sahne-4.png"
+  ],
+  "frames": 594
+}
