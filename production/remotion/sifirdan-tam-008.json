@@ -1,0 +1,84 @@
+{
+  "id": "008",
+  "dir": "yenilisteTam008",
+  "brand": true,
+  "frames": 712,
+  "caption": "Elektrik süpürgenizin veya şarjlı süpürgenizin döner fırçasına dolanan saç yumaklarını elinizle çekiştirerek koparmaya çalışıyorsanız fırçanın üzerindeki o gizli oluğu hiç fark etmemişsiniz demektir! Her döner fırçanın üzerinde boydan boya uzanan ince bir makas kanalı bulunur. Bir makasın tek ağzını veya dikiş sökücüyü bu oluğun içine sokup baştan sona tek hamlede kaydırın; dolanan tüm saçlar fırça kıllarına hiç zarar vermeden beş saniyede kesilip tek parça halinde çıkacaktır.",
+  "captionEnd": 20.903225806451612,
+  "ctaStart": 627,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "SÜPÜRGE FIRÇASI",
+    "SAÇLAR NASIL ÇIKAR?"
+  ],
+  "openIcon": "vacuum",
+  "warning": "OLUK VE YÖNTEM MODELE GÖRE DEĞİŞİR",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 115,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 240,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 480,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "to": 165,
+      "a": "DOLANAN",
+      "b": "SAÇ",
+      "icon": "vacuum",
+      "side": "right",
+      "y": 320,
+      "from": 110
+    },
+    {
+      "to": 310,
+      "a": "KANAL",
+      "b": "ŞEMASI",
+      "icon": "scissors",
+      "side": "left",
+      "y": 320,
+      "from": 260
+    },
+    {
+      "to": 535,
+      "a": "TEMİZ",
+      "b": "FIRÇA",
+      "icon": "brush",
+      "side": "right",
+      "y": 320,
+      "from": 495
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-2.png",
+    "sahne-3.png",
+    "sahne-4.png"
+  ]
+}

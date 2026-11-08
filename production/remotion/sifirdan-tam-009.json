@@ -1,0 +1,88 @@
+{
+  "id": "009",
+  "dir": "yenilisteTam009",
+  "brand": true,
+  "frames": 769,
+  "caption": "Kışın pencereleriniz kapalı olduğu halde kenarlarından soğuk rüzgar sızıyor ve dışarıdaki tüm gürültü eve giriyorsa pencereleriniz hala yaz modunda kalmış demektir! Pencerenizi açıp kanadın iç kenarındaki o yuvarlak metal kilit pimine bakın; pimin üzerindeki küçük çentik dışarıya değil içeriye, yani lastik fitile doğru bakacak şekilde bir alyan anahtarı veya penseyle doksan derece çevirin. Kış moduna geçen pencere lastiğe iki kat sıkı basacak ve soğuk havayı anında kesecektir.",
+  "captionEnd": 21.96774193548387,
+  "ctaStart": 659,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "PENCERE PİMİ",
+    "AYARLANABİLİR Mİ?"
+  ],
+  "openIcon": "door",
+  "warning": "AYAR ŞEKLİ PENCERE MODELİNE BAĞLIDIR",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 115,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 210,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 315,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 550,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "to": 180,
+      "a": "PENCERE",
+      "b": "KENARI",
+      "icon": "door",
+      "side": "right",
+      "y": 320,
+      "from": 130
+    },
+    {
+      "to": 295,
+      "a": "METAL",
+      "b": "PİM",
+      "icon": "lock",
+      "side": "left",
+      "y": 320,
+      "from": 245
+    },
+    {
+      "to": 485,
+      "a": "AYAR",
+      "b": "ŞEMASI",
+      "icon": "lock",
+      "side": "right",
+      "y": 320,
+      "from": 440
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-2.png",
+    "sahne-3.png",
+    "sahne-4.png"
+  ]
+}
