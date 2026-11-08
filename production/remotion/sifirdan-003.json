@@ -1,0 +1,96 @@
+{
+  "id": "003",
+  "dir": "yenilisteSifirdan003",
+  "brand": true,
+  "frames": 714,
+  "caption": "Dibini tutturduğunuz çelik tencerenin veya fırın tepsisinin yanık karasını çıkarmak için tel süngerle kollarınızı koparana kadar ovalamayın! Yanık tencerenin içine sıcak su doldurup bir adet bulaşık makinesi tableti atın ve ocağın üzerinde on dakika kaynatın. Ardından suyu döküp alüminyum folyoyu top gibi buruşturun ve yumuşayan yanıkları folyoyla hafifçe silin. Tablet yağı çözerken folyo tencereyi hiç çizmeden tüm yanıkları saniyeler içinde söküp atacaktır.",
+  "captionEnd": 21.0,
+  "ctaStart": 630,
+  "ctaTop": 300,
+  "ctaHeading": "FİKRİNİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "YANMIŞ",
+    "TENCERE?"
+  ],
+  "openIcon": "pot",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 130,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 220,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 360,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 570,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "YANMIŞ",
+      "b": "TABAN",
+      "icon": "pot",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 235,
+      "to": 280,
+      "a": "BULAŞIK",
+      "b": "TABLETİ",
+      "icon": "washer",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 375,
+      "to": 420,
+      "a": "ALÜMİNYUM",
+      "b": "FOLYO",
+      "icon": "hand",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 575,
+      "to": 615,
+      "a": "TEMİZ",
+      "b": "GÖRÜNÜM",
+      "icon": "pot",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-2.png",
+    "sahne-3.png",
+    "sahne-4.png"
+  ]
+}
