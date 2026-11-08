@@ -1,0 +1,34 @@
+// npm ci in production/remotion first; set CHROMIUM_PATH when Chromium is not installed system-wide.
+const {chromium} = require('../production/remotion/node_modules/playwright-core');
+const {pathToFileURL} = require('url');
+const path = require('path');
+const assert = require('assert').strict;
+(async () => {
+  const browser = await chromium.launch({headless: true, executablePath: process.env.CHROMIUM_PATH || undefined, args: ['--no-sandbox']});
+  const context = await browser.newContext({permissions: ['clipboard-read', 'clipboard-write']});
+  const page = await context.newPage();
+  const errors = []; page.on('pageerror', e => errors.push(e.message));
+  await page.goto(pathToFileURL(path.resolve(__dirname, '../teslim/kadinca-yasam-icerik-paneli.html')).href);
+  assert.equal(await page.locator('#list textarea:visible').count(), 0);
+  await page.click('[data-expand="VID-001"]');
+  assert.equal(await page.locator('#list textarea:visible').count(), 5);
+  await page.click('#to-settings');
+  await page.locator('#choices input[value=title]').check();
+  await page.locator('#choices input[value=description]').check();
+  await page.click('#merge'); await page.click('#nav-list');
+  const merged = page.locator('textarea[data-id="VID-001"][data-merged="title,description"]');
+  await merged.fill('Deneme başlık\nDeneme açıklama');
+  await page.locator('.copy[data-id="VID-001"][data-keys="title,description"]').click();
+  assert.equal(await page.evaluate(() => navigator.clipboard.readText()), 'Deneme başlık\nDeneme açıklama');
+  await page.reload(); await page.click('[data-expand="VID-001"]');
+  assert.equal(await merged.inputValue(), 'Deneme başlık\nDeneme açıklama');
+  await page.click('#to-settings'); await page.click('[data-split="title,description"]'); await page.click('#nav-list');
+  assert.equal(await page.locator('#VID-001-title').inputValue(), 'Deneme başlık');
+  assert.equal(await page.locator('#VID-001-description').inputValue(), 'Deneme açıklama');
+  await page.evaluate(() => { document.execCommand = () => false; Object.defineProperty(navigator, 'clipboard', {value: undefined, configurable: true}); });
+  await page.locator('.copy[data-id="VID-001"][data-keys="title"]').click();
+  assert.equal(await page.locator('#manual-copy').isVisible(), true);
+  assert.equal(await page.locator('#manual-copy-text').inputValue(), 'Deneme başlık');
+  assert.deepEqual(errors, []);
+  await browser.close(); console.log('Panel testleri başarılı.');
+})().catch(e => { console.error(e); process.exit(1); });
