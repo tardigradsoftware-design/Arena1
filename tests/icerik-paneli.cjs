@@ -25,7 +25,7 @@ const assert = require('assert').strict;
   assert.equal(await page.locator('#VID-001-description').inputValue(), 'Deneme açıklama');
   await page.locator('.copy[data-id="VID-001"][data-keys="title,description"]').click();
   assert.equal(await page.evaluate(() => navigator.clipboard.readText()), 'Deneme başlık\nDeneme açıklama');
-  await page.reload(); await page.click('[data-expand="VID-001"]');
+  await page.reload(); assert.equal(await page.locator('[data-expand="VID-001"]').getAttribute('aria-expanded'), 'true');
   assert.equal(await merged.inputValue(), 'Deneme başlık\nDeneme açıklama');
   await page.click('#to-settings');
   await page.locator('#show-individual').uncheck(); await page.click('#nav-list');
