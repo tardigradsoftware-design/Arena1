@@ -1,0 +1,21 @@
+const {chromium}=require('../production/remotion/node_modules/playwright-core');
+const {pathToFileURL}=require('url'); const path=require('path'); const assert=require('assert').strict;
+(async()=>{
+ const browser=await chromium.launch({headless:true,executablePath:process.env.CHROMIUM_PATH||undefined,args:['--no-sandbox']});
+ const context=await browser.newContext({permissions:['clipboard-read','clipboard-write']}), p=await context.newPage(); let errors=[];p.on('pageerror',e=>errors.push(e.message));
+ await p.goto(pathToFileURL(path.resolve(__dirname,'../teslim/kadinca-yasam-icerik-paneli.html')).href);
+ await p.click('#to-settings'); await p.locator('#choices input[value=comment]').check(); await p.locator('#choices input[value=hashtags]').check();
+ assert.deepEqual(await p.locator('#selection-order .order-item').allTextContents(),['1. İlk yorum↑↓','2. Hashtag↑↓']);
+ await p.reload(); assert.equal((await p.locator('#selection-order .order-item').first().textContent()).includes('İlk yorum'),true);
+ await p.click('#merge'); assert.equal(await p.locator('[data-split="comment,hashtags"]').count(),1);
+ await p.click('#nav-list');await p.click('[data-expand="VID-001"]'); let box=p.locator('textarea[data-id="VID-001"][data-merged="comment,hashtags"]');
+ const comment=await p.locator('#VID-001-comment').inputValue(),hashtags=await p.locator('#VID-001-hashtags').inputValue();
+ assert.equal(await box.inputValue(),`${comment}\n${hashtags}`);await p.locator('.copy[data-id="VID-001"][data-keys="comment,hashtags"]').click();assert.equal(await p.evaluate(()=>navigator.clipboard.readText()),`${comment}\n${hashtags}`);
+ await p.click('#to-settings');await p.locator('[data-group="comment,hashtags"][data-index="1"][data-move="-1"]').click();
+ assert.equal(await p.locator('[data-split="hashtags,comment"]').count(),1);await p.reload();assert.equal(await p.locator('[data-split="hashtags,comment"]').count(),1);
+ await p.click('#nav-list');box=p.locator('textarea[data-id="VID-001"][data-merged="hashtags,comment"]');assert.equal(await box.inputValue(),`${hashtags}\n${comment}`);
+ await p.click('#to-settings');await p.locator('#choices input[value=comment]').check();await p.locator('#choices input[value=description]').check();
+ await p.locator('#selection-order [data-order="description"][data-move="-1"]').click();await p.click('#merge');assert.equal(await p.locator('[data-split="description,comment"]').count(),1);
+ await p.click('#nav-list');assert.equal(await p.locator('#VID-001-comment').inputValue(),comment);assert.equal(await p.locator('#VID-001-hashtags').inputValue(),hashtags);
+ assert.deepEqual(errors,[]);await browser.close();console.log('Seçim sırası, kopyalama, grup sıralama ve kalıcılık doğrulandı.');
+})().catch(e=>{console.error(e);process.exit(1)});
