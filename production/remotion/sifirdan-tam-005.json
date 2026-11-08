@@ -1,0 +1,95 @@
+{
+  "id": "005",
+  "dir": "yenilisteTam005",
+  "brand": true,
+  "frames": 692,
+  "caption": "Orijinal telefon şarj kablolarınızın her seferinde tam uç birleşim yerinden bükülüp dış plastiğinin soyulmasından ve kablonun çöp olmasından bıktıysanız, bitmiş bir tükenmez kalemi atmayın! Basmalı bir tükenmez kalemin içindeki o küçük esnek metal yayı çıkarın, yayın ucunu tırnağınızla hafifçe aralayıp şarj kablonuzun en çok bükülen uç kısmına döndürerek sarın. Çelik yay kablonun doksan derece kırılmasını fiziksel olarak engelleyecek ve şarj kablonuzu yıllarca kopmadan ilk günkü gibi koruyacaktır.",
+  "captionEnd": 20.7,
+  "ctaStart": 622,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "KOPAN ŞARJ",
+    "KABLOLARI?"
+  ],
+  "openIcon": "cable",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 190,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 325,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 470,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 145,
+      "a": "KABLO",
+      "b": "UCU",
+      "icon": "cable",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 220,
+      "to": 265,
+      "a": "KALEMİN",
+      "b": "YAYI",
+      "icon": "springwire",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 355,
+      "to": 400,
+      "a": "KABLOYA",
+      "b": "SAR",
+      "icon": "hand",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 480,
+      "to": 525,
+      "a": "UÇ",
+      "b": "BÖLGESİ",
+      "icon": "cable",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-2.png",
+    "sahne-3.png"
+  ]
+}
