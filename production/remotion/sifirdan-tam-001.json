@@ -1,0 +1,96 @@
+{
+  "id": "001",
+  "dir": "yenilisteSifirdan001",
+  "brand": true,
+  "frames": 705,
+  "caption": "Duş alırken su gitmiyor ve banyo gideriniz saç yüzünden tıkandıysa, pahalı kimyasallara veya tesisatçıya para harcamadan evde bulunan plastik bir cırt kelepçeyle gideri beş saniyede açın! Uzun bir plastik kablo bağının, cırt kelepçenin, iki yan kenarına makasla yukarı doğru bakan küçük çapraz çentikler keserek kancalı bir şerit oluşturun. Bu şeridi gider deliğinden içeri sokup iki kez çevirerek yukarı çektiğinizde, boruyu tıkayan tüm saç yumağını tek seferde çekip çıkardığını göreceksiniz.",
+  "captionEnd": 20.6,
+  "ctaStart": 618,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "TIKALI GİDER",
+    "NASIL AÇILIR?"
+  ],
+  "openIcon": "drop",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-sema.png"
+    },
+    {
+      "from": 120,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-sema.png"
+    },
+    {
+      "from": 420,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 150,
+      "a": "TIKALI",
+      "b": "GİDER",
+      "icon": "drop",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 230,
+      "to": 275,
+      "a": "CIRT",
+      "b": "KELEPÇE",
+      "icon": "wipe",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 315,
+      "to": 360,
+      "a": "KÜÇÜK",
+      "b": "ÇENTİKLER",
+      "icon": "scissors",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 455,
+      "to": 500,
+      "a": "SAÇLARI",
+      "b": "ÇIKAR",
+      "icon": "hand",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-3.png",
+    "sahne-4.png",
+    "sahne-sema.png"
+  ]
+}
