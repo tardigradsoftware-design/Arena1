@@ -1,0 +1,8 @@
+KADINCA YAŞAM İÇERİK PANELİ — KURULUM
+
+1. Dosyaları aynı klasörde tutun. Önce eski panelde Ayarlar > Yedeği indir ile JSON yedeği alın.
+2. Bilgisayar: Bu klasörde terminal açın ve python3 -m http.server 8000 komutunu çalıştırın (Windows: py -m http.server 8000). Chrome veya Edge ile http://localhost:8000/ adresini açın. Adres çubuğundaki uygulama yükleme simgesini veya uygulamada beliren “Uygulamayı yükle” düğmesini kullanın. Terminali kapatırsanız ilk açılış için sunucuyu tekrar çalıştırmanız gerekebilir; ilk başarılı kurulum ve önbelleğe almanın ardından çevrimdışı açılabilir.
+3. Telefon: Bu klasörü HTTPS sunan bir statik siteye yayınlayın ve HTTPS adresini telefonda açın. Android Chrome: menü > Uygulamayı yükle / Ana ekrana ekle. iPhone Safari: Paylaş > Ana Ekrana Ekle. Seçenek ve davranışlar tarayıcıya ve sisteme göre değişebilir. Google Drive dosya önizlemesi bir HTTPS uygulama sunucusu değildir; bu paket Drive üzerinden doğrudan kurulmaz.
+4. Yeni uygulamada Ayarlar > Yedeği yükle ile eski JSON yedeğinizi içeri alın. file://, localhost ve farklı HTTPS adresleri farklı depolama alanları kullanır; kayıtlar otomatik taşınmayabilir.
+
+Kurulumdan sonra en az bir kez çevrimiçi açılışı tamamlayın. Kayıtlar cihaz ve tarayıcıya özeldir; silinen site verileri, özel tarama ve cihaz değişikliği kayıtları etkileyebilir. Düzenli olarak Ayarlar > Yedeği indir yapın. Görünen K uygulama simgesi geçici bir monogramdır.

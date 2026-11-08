@@ -1,0 +1,11 @@
+const {chromium}=require('../production/remotion/node_modules/playwright-core');
+const http=require('http'),fs=require('fs'),path=require('path'),assert=require('assert').strict;
+const dir=path.resolve(__dirname,'../teslim/kadinca-yasam-uygulama');
+const server=http.createServer((req,res)=>{let name=decodeURIComponent(req.url.split('?')[0]);if(name==='/uygulama/')name='/uygulama/index.html';if(!name.startsWith('/uygulama/')){res.writeHead(404).end();return}let file=path.join(dir,path.basename(name));if(!fs.existsSync(file)){res.writeHead(404).end();return}let types={'.html':'text/html; charset=utf-8','.js':'text/javascript','.webmanifest':'application/manifest+json','.png':'image/png'};res.setHeader('Content-Type',types[path.extname(file)]||'application/octet-stream');fs.createReadStream(file).pipe(res)});
+(async()=>{await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));const port=server.address().port;
+ const browser=await chromium.launch({headless:true,executablePath:process.env.CHROMIUM_PATH||undefined,args:['--no-sandbox']});const context=await browser.newContext(),page=await context.newPage();
+ try {let errors=[];page.on('pageerror',e=>errors.push(e.message));await page.goto(`http://127.0.0.1:${port}/uygulama/`);await page.evaluate(()=>navigator.serviceWorker.ready);await page.reload();assert.ok(await page.evaluate(()=>!!navigator.serviceWorker.controller));
+ const cdp=await context.newCDPSession(page);const manifest=await cdp.send('Page.getAppManifest');assert.ok(manifest.url.endsWith('/uygulama/manifest.webmanifest'));assert.deepEqual(manifest.errors,[]);let install=await cdp.send('Page.getInstallabilityErrors');assert.deepEqual(install.installabilityErrors,[]);
+ await page.click('[data-expand="VID-001"]');await page.locator('#VID-001-title').fill('Çevrimdışı kayıt testi');await context.setOffline(true);await page.reload();assert.equal(await page.locator('#VID-001-title').inputValue(),'Çevrimdışı kayıt testi');assert.equal(await page.locator('#save-status').textContent(),'✓ Yerel kayıt açık');assert.deepEqual(errors,[]);console.log('Manifest ve kurulum uygunluğu doğrulandı; PWA alt yolda çevrimdışı açıldı ve kayıt korundu.');
+ }finally{await browser.close();await new Promise(resolve=>server.close(resolve))}
+})().catch(e=>{console.error(e);server.close();process.exit(1)});
