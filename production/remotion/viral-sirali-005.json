@@ -1,0 +1,98 @@
+{
+  "id": "005",
+  "dir": "yenilisteViral005",
+  "brand": true,
+  "frames": 747,
+  "caption": "Orijinal telefon şarj kablolarınızın her seferinde tam uç birleşim yerinden bükülüp dış plastiğinin soyulmasından ve kablonun çöp olmasından bıktıysanız, bitmiş bir tükenmez kalemi atmayın! Basmalı bir tükenmez kalemin içindeki o küçük esnek metal yayı çıkarın, yayın ucunu tırnağınızla hafifçe aralayıp şarj kablonuzun en çok bükülen uç kısmına döndürerek sarın. Çelik yay kablonun doksan derece kırılmasını fiziksel olarak engelleyecek ve şarj kablonuzu yıllarca kopmadan ilk günkü gibi koruyacaktır.",
+  "captionEnd": 22.2,
+  "ctaStart": 670,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "KOPAN ŞARJ",
+    "KABLOLARI?"
+  ],
+  "openIcon": "cable",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 120,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 210,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 345,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 440,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 550,
+      "file": "sahne-5.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 95,
+      "to": 140,
+      "a": "KABLO",
+      "b": "UCU",
+      "icon": "cable",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 245,
+      "to": 290,
+      "a": "KALEMİN",
+      "b": "YAYI",
+      "icon": "springwire",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 405,
+      "to": 450,
+      "a": "KABLOYA",
+      "b": "SAR",
+      "icon": "hand",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 560,
+      "to": 605,
+      "a": "UÇ",
+      "b": "BÖLGESİ",
+      "icon": "cable",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [
+    "sahne-3.png",
+    "sahne-5.png"
+  ]
+}
