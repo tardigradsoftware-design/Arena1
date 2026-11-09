@@ -1,0 +1,116 @@
+{
+  "id": "011",
+  "dir": "yeniden011",
+  "brand": true,
+  "frames": 644,
+  "caption": "Taş gibi kuruyup bayatlayan bütün somun veya baget ekmeği sakın çöpe atmayın ya da kuru kuru ısıtmaya çalışmayın! Bayat ekmeği musluğun altına tutup dış kabuğunu saniyeler içinde suyla tamamen ıslatın ve önceden ısıtılmış iki yüz derece fırının doğrudan tel ızgarasına koyup beş dakika fırınlayın. Dışındaki su buharlaşırken ekmeğin içini pamuk gibi yumuşatacak, dış kabuğunu ise fırından yeni çıkmış gibi çıtır çıtır yapacaktır.",
+  "captionEnd": 17.967741935483872,
+  "ctaStart": 539,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "BAYAT EKMEK",
+    "NASIL YUMUŞAR?"
+  ],
+  "openIcon": "oven",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 220,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 340,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 392,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 140,
+      "to": 185,
+      "a": "DIŞINI",
+      "b": "ISLAT",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 340,
+      "to": 390,
+      "a": "FIRIN",
+      "b": "5 DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 435,
+      "to": 480,
+      "a": "İÇİ",
+      "b": "YUMUŞAK",
+      "icon": "hand",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    576,
+    589,
+    602,
+    618
+  ],
+  "tempoBoundary": 27.85,
+  "highlight": {
+    "file": "sahne-4.png",
+    "from": 345,
+    "to": 385,
+    "path": "M 230 620 C 250 594 300 582 360 586 C 425 588 500 600 524 625 C 545 649 532 686 506 696 C 462 710 330 710 265 696 C 232 689 215 651 230 620"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "012",
+  "dir": "yeniden012",
+  "brand": true,
+  "frames": 763,
+  "caption": "Mutfaktaki bıçaklarınız domatesi bile ezerek kesiyor ve makaslarınız köreldiyse yeni bıçak almanıza veya bileyici aramanıza hiç gerek yok! Evdeki herhangi bir porselen kahve kupasını ters çevirin; kupanın altındaki o sırsız, pütürlü beyaz çember aslında gerçek bir seramik bileyi taşıdır. Bıçağınızı yirmi derecelik açıyla bu pütürlü kenara beş altı kez sürttüğünüzde, makasınızla da alüminyum folyoyu birkaç kez kestiğinizde ikisinin de jilet gibi keskinleştiğini göreceksiniz.",
+  "captionEnd": 21.645161290322577,
+  "ctaStart": 649,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "KÖRELEN BIÇAK",
+    "KUPA İŞE YARAR MI?"
+  ],
+  "openIcon": "mug",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 190,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 280,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 470,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 190,
+      "to": 245,
+      "a": "SIRSIZ",
+      "b": "HALKA",
+      "icon": "mug",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 310,
+      "to": 355,
+      "a": "20",
+      "b": "DERECE",
+      "icon": "knife",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 475,
+      "to": 515,
+      "a": "ALÜMİNYUM",
+      "b": "FOLYO",
+      "icon": "scissors",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    691,
+    706,
+    721,
+    739
+  ],
+  "tempoBoundary": 33.55,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 190,
+    "to": 235,
+    "path": "M 195 640 C 210 565 280 525 365 526 C 450 525 525 570 546 640 C 565 720 520 805 455 832 C 390 860 290 844 236 794 C 195 756 182 689 195 640"
+  }
+}
