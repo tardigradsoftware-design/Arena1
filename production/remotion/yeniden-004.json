@@ -1,0 +1,124 @@
+{
+  "id": "004",
+  "dir": "yeniden004",
+  "brand": true,
+  "caption": "Beyaz spor ayakkabılarınızın lastik taban kenarları ne kadar silerseniz silin sararıyor ve siyah çizgiler çıkmıyorsa çamaşır suyu sürüp lastiği eritmeyin! Bir tatlı kaşığı beyazlatıcı diş macunu, bir tatlı kaşığı karbonat ve birkaç damla bulaşık deterjanını karıştırıp eski bir diş fırçasıyla tabanları fırçalayın. Sildiğiniz an ayakkabılarınız kutusundan yeni çıkmış gibi kar beyazı olacaktır.",
+  "captionEnd": 15.838709677419354,
+  "ctaStart": 475,
+  "ctaTop": 300,
+  "ctaHeading": "SONUCUNU PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "SARARAN TABAN",
+    "NASIL BEYAZLAR?"
+  ],
+  "openIcon": "shoe",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 190,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 290,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 440,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 145,
+      "a": "SARARAN",
+      "b": "TABAN",
+      "icon": "shoe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 205,
+      "to": 245,
+      "a": "DİŞ MACUNU",
+      "b": "KARBONAT",
+      "icon": "brush",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 320,
+      "to": 365,
+      "a": "FIRÇAYLA",
+      "b": "TEMİZLE",
+      "icon": "brush",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 450,
+      "to": 490,
+      "a": "BEYAZ",
+      "b": "TABAN",
+      "icon": "shoe",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "frames": 580,
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    514,
+    527,
+    539,
+    554
+  ],
+  "tempoBoundary": 24.55,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 10,
+    "to": 43,
+    "path": "M 74 770 C 150 800 245 810 340 820 C 440 825 550 800 680 750 C 715 740 730 770 700 800 C 570 855 430 880 300 870 C 200 860 110 835 75 810 C 60 800 60 780 74 770"
+  }
+}

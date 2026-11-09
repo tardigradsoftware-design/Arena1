@@ -1,0 +1,124 @@
+{
+  "id": "003",
+  "dir": "yeniden003",
+  "brand": true,
+  "frames": 692,
+  "caption": "Dibini tutturduğunuz çelik tencerenin veya fırın tepsisinin yanık karasını çıkarmak için tel süngerle kollarınızı koparana kadar ovalamayın! Yanık tencerenin içine sıcak su doldurup bir adet bulaşık makinesi tableti atın ve ocağın üzerinde on dakika kaynatın. Ardından suyu döküp alüminyum folyoyu top gibi buruşturun ve yumuşayan yanıkları folyoyla hafifçe silin. Tablet yağı çözerken folyo tencereyi hiç çizmeden tüm yanıkları saniyeler içinde söküp atacaktır.",
+  "captionEnd": 19.677419354838708,
+  "ctaStart": 590,
+  "ctaTop": 300,
+  "ctaHeading": "SONUCUNU PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "YANMIŞ",
+    "TENCERE?"
+  ],
+  "openIcon": "pot",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 130,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 220,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 360,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "YANMIŞ",
+      "b": "TABAN",
+      "icon": "pot",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 235,
+      "to": 280,
+      "a": "BULAŞIK",
+      "b": "TABLETİ",
+      "icon": "washer",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 375,
+      "to": 420,
+      "a": "ALÜMİNYUM",
+      "b": "FOLYO",
+      "icon": "hand",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 565,
+      "to": 590,
+      "a": "TEMİZ",
+      "b": "GÖRÜNÜM",
+      "icon": "pot",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    627,
+    639,
+    652,
+    666
+  ],
+  "tempoBoundary": 30.5,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 10,
+    "to": 43,
+    "path": "M 180 520 C 230 450 310 430 390 440 C 480 450 560 500 580 575 C 600 660 550 750 475 775 C 375 810 255 790 205 730 C 165 680 155 570 180 520"
+  }
+}
