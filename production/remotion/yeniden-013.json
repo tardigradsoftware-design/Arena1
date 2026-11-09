@@ -1,0 +1,116 @@
+{
+  "id": "013",
+  "dir": "yeniden013",
+  "brand": true,
+  "frames": 727,
+  "caption": "Mutfak dolabında üst üste koyduğunuz iki cam bardak veya kase birbirinin içine vakumlanıp sıkıştığında, zorlayarak çekmeye çalışırsanız cam elinizde patlayıp kırılır! Araya bıçak veya yağ sokmakla uğraşmayın, basit fizik kuralını kullanın: Üstteki bardağın içine buzlu soğuk su doldurun, alttaki bardağı ise sıcak su dolu bir kasenin içine oturtun. Saniyeler içinde alttaki bardak ısıyla milimetrik genleşirken üstteki bardak soğukla büzülecek ve hiç güç harcamadan pıt diye kendiliğinden ayrılacaktır.",
+  "captionEnd": 20.999999999999996,
+  "ctaStart": 630,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "SIKIŞAN BARDAKLAR",
+    "NASIL AYRILIR?"
+  ],
+  "openIcon": "glass",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 250,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 345,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 575,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 125,
+      "to": 170,
+      "a": "İÇ İÇE",
+      "b": "BARDAK",
+      "icon": "glass",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 370,
+      "to": 420,
+      "a": "ISI",
+      "b": "FARKI",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 590,
+      "to": 630,
+      "a": "AYRI",
+      "b": "BARDAKLAR",
+      "icon": "glass",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    664,
+    677,
+    689,
+    703
+  ],
+  "tempoBoundary": 32.55,
+  "highlight": {
+    "file": "sahne-4.png",
+    "from": 355,
+    "to": 400,
+    "path": "M 245 530 C 270 510 320 510 370 510 C 425 510 480 510 510 530 C 530 550 520 580 500 590 C 450 610 300 610 260 590 C 240 580 235 550 245 530"
+  }
+}
