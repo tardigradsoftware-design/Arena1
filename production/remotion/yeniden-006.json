@@ -1,0 +1,124 @@
+{
+  "id": "006",
+  "dir": "yeniden006",
+  "brand": true,
+  "frames": 691,
+  "caption": "Fırınınızın iç camına yapışıp taşlaşmış o kahverengi yanık yağ lekelerini çıkarmak için tel süngerle camı çizmeyin! Elinize bir eldiven giyin, sert bir bulaşık makinesi tabletinin ucunu ılık suya sadece bir saniye batırıp çıkarın ve tableti doğrudan silgi gibi ıslak fırın camının üzerindeki yanık lekelerine sürtün. Tabletin yoğunlaştırılmış enzimleri camı zerre kadar çizmeden en eski yanık yağları bile saniyeler içinde eritip akıtacaktır.",
+  "captionEnd": 19.516129032258064,
+  "ctaStart": 585,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "FIRIN CAMI",
+    "NASIL TEMİZLENİR?"
+  ],
+  "openIcon": "oven",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 120,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 190,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 300,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 480,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "YANMIŞ",
+      "b": "YAĞ",
+      "icon": "oven",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 205,
+      "to": 250,
+      "a": "BULAŞIK",
+      "b": "TABLETİ",
+      "icon": "washer",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 330,
+      "to": 375,
+      "a": "ISLAK",
+      "b": "CAM",
+      "icon": "wipe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 520,
+      "to": 565,
+      "a": "TEMİZ",
+      "b": "GÖRÜNÜM",
+      "icon": "oven",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 10,
+    "to": 43,
+    "path": "M 245 540 C 285 495 355 480 415 495 C 490 510 545 555 550 620 C 552 690 500 740 430 747 C 345 755 265 720 245 670 C 230 640 230 575 245 540"
+  },
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    625,
+    639,
+    651,
+    666
+  ],
+  "tempoBoundary": 30.25
+}

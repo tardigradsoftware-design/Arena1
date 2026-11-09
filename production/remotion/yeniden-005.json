@@ -1,0 +1,128 @@
+{
+  "id": "005",
+  "dir": "yeniden005",
+  "brand": true,
+  "frames": 787,
+  "caption": "Orijinal telefon şarj kablolarınızın her seferinde tam uç birleşim yerinden bükülüp dış plastiğinin soyulmasından ve kablonun çöp olmasından bıktıysanız, bitmiş bir tükenmez kalemi atmayın! Basmalı bir tükenmez kalemin içindeki o küçük esnek metal yayı çıkarın, yayın ucunu tırnağınızla hafifçe aralayıp şarj kablonuzun en çok bükülen uç kısmına döndürerek sarın. Çelik yay kablonun doksan derece kırılmasını fiziksel olarak engelleyecek ve şarj kablonuzu yıllarca kopmadan ilk günkü gibi koruyacaktır.",
+  "captionEnd": 22.61290322580645,
+  "ctaStart": 678,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "KOPAN ŞARJ",
+    "KABLOLARI?"
+  ],
+  "openIcon": "cable",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 120,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 190,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 250,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 300,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 480,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 145,
+      "a": "KABLO",
+      "b": "UCU",
+      "icon": "cable",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 220,
+      "to": 265,
+      "a": "KALEMİN",
+      "b": "YAYI",
+      "icon": "springwire",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 355,
+      "to": 400,
+      "a": "KABLOYA",
+      "b": "SAR",
+      "icon": "hand",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 480,
+      "to": 525,
+      "a": "UÇ",
+      "b": "BÖLGESİ",
+      "icon": "cable",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    720,
+    733,
+    746,
+    761
+  ],
+  "tempoBoundary": 35.05,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 10,
+    "to": 43,
+    "path": "M 365 650 C 385 620 440 615 482 625 C 520 630 553 650 551 680 C 550 720 511 742 470 746 C 430 751 382 738 367 715 C 355 698 354 671 365 650"
+  }
+}
