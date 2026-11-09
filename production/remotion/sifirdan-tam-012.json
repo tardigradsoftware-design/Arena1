@@ -1,0 +1,88 @@
+{
+  "id": "012",
+  "dir": "yenilisteTam012",
+  "brand": true,
+  "frames": 692,
+  "caption": "Mutfaktaki bıçaklarınız domatesi bile ezerek kesiyor ve makaslarınız köreldiyse yeni bıçak almanıza veya bileyici aramanıza hiç gerek yok! Evdeki herhangi bir porselen kahve kupasını ters çevirin; kupanın altındaki o sırsız, pütürlü beyaz çember aslında gerçek bir seramik bileyi taşıdır. Bıçağınızı yirmi derecelik açıyla bu pütürlü kenara beş altı kez sürttüğünüzde, makasınızla da alüminyum folyoyu birkaç kez kestiğinizde ikisinin de jilet gibi keskinleştiğini göreceksiniz.",
+  "captionEnd": 21.096774193548388,
+  "ctaStart": 633,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "KÖRELEN BIÇAK",
+    "KUPA İŞE YARAR MI?"
+  ],
+  "openIcon": "mug",
+  "warning": "FOLYONUN BİLEME ETKİSİ BELİRSİZ",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 280,
+      "file": "sahne-sema-kupa.png"
+    },
+    {
+      "from": 470,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 565,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 190,
+      "to": 245,
+      "a": "SIRSIZ",
+      "b": "HALKA",
+      "icon": "mug",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 310,
+      "to": 355,
+      "a": "AÇI",
+      "b": "ŞEMASI",
+      "icon": "knife",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 475,
+      "to": 515,
+      "a": "ALÜMİNYUM",
+      "b": "FOLYO",
+      "icon": "scissors",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-3.png",
+    "sahne-sema-kupa.png",
+    "sahne-2.png"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "013",
+  "dir": "yenilisteTam013",
+  "brand": true,
+  "frames": 755,
+  "caption": "Mutfak dolabında üst üste koyduğunuz iki cam bardak veya kase birbirinin içine vakumlanıp sıkıştığında, zorlayarak çekmeye çalışırsanız cam elinizde patlayıp kırılır! Araya bıçak veya yağ sokmakla uğraşmayın, basit fizik kuralını kullanın: Üstteki bardağın içine buzlu soğuk su doldurun, alttaki bardağı ise sıcak su dolu bir kasenin içine oturtun. Saniyeler içinde alttaki bardak ısıyla milimetrik genleşirken üstteki bardak soğukla büzülecek ve hiç güç harcamadan pıt diye kendiliğinden ayrılacaktır.",
+  "captionEnd": 22.354838709677416,
+  "ctaStart": 671,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "SIKIŞAN BARDAKLAR",
+    "NASIL AYRILIR?"
+  ],
+  "openIcon": "glass",
+  "warning": "ANİ ISI FARKI CAMI ÇATLATABILIR",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-sema-bardak.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 250,
+      "file": "sahne-sema-bardak.png"
+    },
+    {
+      "from": 345,
+      "file": "sahne-sema-isi.png"
+    },
+    {
+      "from": 575,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 125,
+      "to": 170,
+      "a": "İÇ İÇE",
+      "b": "BARDAK",
+      "icon": "glass",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 370,
+      "to": 420,
+      "a": "ISI",
+      "b": "FARKI",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 590,
+      "to": 630,
+      "a": "AYRI",
+      "b": "BARDAKLAR",
+      "icon": "glass",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-sema-bardak.png",
+    "sahne-sema-isi.png",
+    "sahne-3.png"
+  ]
+}
