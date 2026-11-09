@@ -1,0 +1,94 @@
+{
+  "id": "015",
+  "dir": "yenilisteTam015",
+  "brand": true,
+  "frames": 740,
+  "caption": "Ocakta süt kaynatırken veya makarna haşlarken sadece bir saniye arkanızı döndüğünüzde sütün köpürüp tüm ocağı batırmasına artık son verin! Sütü tencereye koymadan önce tencerenin iç üst kenarına çepeçevre parmağınızla ince bir şerit tereyağı veya sıvı yağ sürün, tencerenin üzerine de yatay olarak bir tahta kaşık koyun. Kaynayan süt yükselip yağlı sınıra değdiği salisede yüzey gerilimi kırılacak ve süt asla o çizgiyi geçip ocağa taşamayacaktır.",
+  "captionEnd": 20.32258064516129,
+  "ctaStart": 610,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "SÜT TAŞMASI",
+    "NASIL ÖNLENİR?"
+  ],
+  "openIcon": "pot",
+  "warning": "TAŞMA YİNE OLABİLİR · OCAĞI TAKİP ET",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 200,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 340,
+      "file": "sahne-sema-tencere.png"
+    },
+    {
+      "from": 420,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 215,
+      "to": 260,
+      "a": "İNCE",
+      "b": "YAĞ ŞERİDİ",
+      "icon": "pot",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 345,
+      "to": 390,
+      "a": "TAHTA",
+      "b": "KAŞIK",
+      "icon": "spoon",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 470,
+      "to": 510,
+      "a": "OCAĞI",
+      "b": "TAKİP ET",
+      "icon": "oven",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-3.png",
+    "sahne-2.png",
+    "sahne-sema-tencere.png"
+  ],
+  "highlight": {
+    "file": "sahne-2.png",
+    "from": 215,
+    "to": 260,
+    "path": "M122 710 C145 684 188 657 231 640 C258 628 291 621 313 630 C328 641 326 661 305 676 C276 690 250 693 219 704 C186 717 153 737 133 739 C121 739 115 726 122 710"
+  }
+}

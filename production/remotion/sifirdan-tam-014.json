@@ -1,0 +1,94 @@
+{
+  "id": "014",
+  "dir": "yenilisteTam014",
+  "brand": true,
+  "frames": 732,
+  "caption": "Beyaz gömleklerinizin ve tişörtlerinizin koltuk altında oluşan o taşlaşmış sarı deodorant ve ter lekeleri yıkasanız da çıkmıyorsa bu eczane sırrını uygulayın! İki adet suda eriyen aspirini yarım bardak ılık suda eritip içine bir yemek kaşığı karbonat ve birkaç damla bulaşık deterjanı ekleyin; bu karışımı sarı lekenin üzerine döküp eski bir diş fırçasıyla hafifçe ovalayarak yarım saat bekletin. Aspirindeki salisilik asit kumaşa işleyen ter proteinlerini parçalayarak kıyafetinizi ilk günkü gibi kar beyazı yapacaktır.",
+  "captionEnd": 21.41935483870968,
+  "ctaStart": 643,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "SARI TER LEKESİ",
+    "NASIL ÇIKAR?"
+  ],
+  "openIcon": "wipe",
+  "warning": "SONUÇ KUMAŞA GÖRE DEĞİŞİR",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 350,
+      "file": "sahne-sema-firca.png"
+    },
+    {
+      "from": 515,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 120,
+      "to": 160,
+      "a": "SARI",
+      "b": "LEKE",
+      "icon": "wipe",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 235,
+      "to": 280,
+      "a": "KARIŞIM",
+      "b": "TEMSİLİ",
+      "icon": "bowl",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 435,
+      "a": "FIRÇA",
+      "b": "ŞEMASI",
+      "icon": "brush",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-2.png",
+    "sahne-sema-firca.png",
+    "sahne-3.png"
+  ],
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 110,
+    "to": 170,
+    "path": "M118 600 C126 568 158 544 190 550 C217 553 237 575 236 606 C236 636 211 666 178 670 C145 671 121 652 118 627 C116 618 116 608 118 600"
+  }
+}
