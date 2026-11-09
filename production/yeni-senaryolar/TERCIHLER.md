@@ -35,3 +35,5 @@
 VID-011'de ilk arka kapı görsellerinde menteşe yönü hatalıydı; kullanıcı reddetti. Düzeltmede gerçek kapı fotoğrafı yalnız geometri referansı olarak incelendi; araç önü, B sütunu, menteşe ve serbest mandal kenarı ayrı kontrol edilmeden kapı görüntüsü kullanılmamalı. Oluşan yapay sahne temsili, çocuk kilidi mekanizmasının veya yönünün kanıtı değil; bilinmeyen parça doğruymuş gibi işaretlenmemeli. Araç modeline göre mekanik veya elektronik çocuk kilidi olabilir.
 
 - Kullanıcı 05.11.2026 tarihinde: Her zaman senaryoya bağlı kalınmasını, videoların üretilmesine devam edilmesini ve sakıncalı bulduğum videolar hakkında kendisine rapor verilmemesini istedi. Kısa üretim ilerlemesi ve bağlantılar paylaş.
+
+- Yeni üretimlerde tam sahne SVG/şema kullanma. Her sahne için daha fazla, birbirleriyle tutarlı fotoğrafik görsel üret; küçük hareketli ikonlar ve hedef vurguları tam sahne görseli değildir. (Kullanıcı revizyonu.)

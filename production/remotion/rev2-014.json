@@ -1,0 +1,120 @@
+{
+  "id": "014",
+  "dir": "rev2-014",
+  "brand": true,
+  "frames": 754,
+  "caption": "Beyaz gömleklerinizin ve tişörtlerinizin koltuk altında oluşan o taşlaşmış sarı deodorant ve ter lekeleri yıkasanız da çıkmıyorsa bu eczane sırrını uygulayın! İki adet suda eriyen aspirini yarım bardak ılık suda eritip içine bir yemek kaşığı karbonat ve birkaç damla bulaşık deterjanı ekleyin; bu karışımı sarı lekenin üzerine döküp eski bir diş fırçasıyla hafifçe ovalayarak yarım saat bekletin. Aspirindeki salisilik asit kumaşa işleyen ter proteinlerini parçalayarak kıyafetinizi ilk günkü gibi kar beyazı yapacaktır.",
+  "captionEnd": 21.645161290322577,
+  "ctaStart": 649,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "SARI TER LEKESİ",
+    "NASIL ÇIKAR?"
+  ],
+  "openIcon": "wipe",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 155,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 245,
+      "file": "rev2-2.png"
+    },
+    {
+      "from": 355,
+      "file": "rev2-3.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 580,
+      "file": "rev2-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 120,
+      "to": 160,
+      "a": "SARI",
+      "b": "LEKE",
+      "icon": "wipe",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 235,
+      "to": 280,
+      "a": "KARIŞIM",
+      "b": "MALZEMELER",
+      "icon": "bowl",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 435,
+      "a": "FIRÇA",
+      "b": "UYGULA",
+      "icon": "brush",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 110,
+    "to": 150,
+    "path": "M 190 555 C 215 530 250 525 280 540 C 315 554 330 580 328 610 C 325 650 300 680 270 690 C 238 700 205 685 192 660 C 177 635 177 585 190 555"
+  },
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    685,
+    698,
+    711,
+    726
+  ],
+  "tempoBoundary": 33.55
+}
