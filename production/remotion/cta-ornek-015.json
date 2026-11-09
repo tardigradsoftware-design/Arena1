@@ -23,7 +23,7 @@
     "NASIL ÖNLENİR?"
   ],
   "openIcon": "pot",
-  "warning": "TAŞMA YİNE OLABİLİR · OCAĞI TAKİP ET",
+  "warning": "",
   "shots": [
     {
       "from": 0,
@@ -68,15 +68,6 @@
       "icon": "spoon",
       "side": "right",
       "y": 330
-    },
-    {
-      "from": 470,
-      "to": 510,
-      "a": "OCAĞI",
-      "b": "TAKİP ET",
-      "icon": "oven",
-      "side": "left",
-      "y": 330
     }
   ],
   "representativeFiles": [
@@ -108,5 +99,12 @@
       "TAKİP ET",
       "follow"
     ]
-  ]
+  ],
+  "ctaStackFrames": [
+    614,
+    626,
+    637,
+    649
+  ],
+  "hideRepresentativeLabel": true
 }
