@@ -1,0 +1,125 @@
+{
+  "id": "007",
+  "dir": "yeniden007",
+  "brand": true,
+  "frames": 801,
+  "caption": "Tam evden çıkacakken giydiğiniz siyah tişörtün veya elbisenin üzerine bulaşan o beyaz deodorant izini ıslak mendille silerseniz lekeyi çamur gibi yayıp daha da büyütürsünüz! Deodorant lekesine asla su sürmeyin. Çekmecenizdeki temiz ve kuru bir ince külotlu çorabı veya giydiğiniz pamuklu çorabın tersini top haline getirip beyaz lekenin üzerine kuru kuru üç saniye sürtün. Naylon dokunun yarattığı statik elektrik tüm beyaz pudra taneciklerini kumaştan mıknatıs gibi çekecek ve siyah kıyafetiniz anında tertemiz olacaktır.",
+  "captionEnd": 23.32258064516129,
+  "ctaStart": 700,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "DEODORANT",
+    "İZİ NASIL ÇIKAR?"
+  ],
+  "openIcon": "wipe",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 220,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 310,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 585,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 150,
+      "a": "BEYAZ",
+      "b": "İZ",
+      "icon": "wipe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 280,
+      "to": 330,
+      "a": "KURU",
+      "b": "ÇORAP",
+      "icon": "hand",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 410,
+      "to": 455,
+      "a": "HAFİFÇE",
+      "b": "SÜRT",
+      "icon": "hand",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 570,
+      "to": 610,
+      "a": "TEMİZ",
+      "b": "GÖRÜNÜM",
+      "icon": "wipe",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 10,
+    "to": 43,
+    "path": "M 280 535 C 300 510 340 505 370 515 C 405 525 413 550 410 590 L 382 920 C 376 950 345 975 315 968 C 285 965 275 940 278 900 L 285 600 C 286 575 278 550 280 535"
+  },
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "warning": "",
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    734,
+    746,
+    759,
+    777
+  ],
+  "tempoBoundary": 36.15
+}

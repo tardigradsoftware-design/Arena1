@@ -1,0 +1,112 @@
+{
+  "id": "008",
+  "dir": "yeniden008",
+  "brand": true,
+  "frames": 718,
+  "caption": "Elektrik süpürgenizin veya şarjlı süpürgenizin döner fırçasına dolanan saç yumaklarını elinizle çekiştirerek koparmaya çalışıyorsanız fırçanın üzerindeki o gizli oluğu hiç fark etmemişsiniz demektir! Her döner fırçanın üzerinde boydan boya uzanan ince bir makas kanalı bulunur. Bir makasın tek ağzını veya dikiş sökücüyü bu oluğun içine sokup baştan sona tek hamlede kaydırın; dolanan tüm saçlar fırça kıllarına hiç zarar vermeden beş saniyede kesilip tek parça halinde çıkacaktır.",
+  "captionEnd": 20.387096774193548,
+  "ctaStart": 612,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "SÜPÜRGE FIRÇASI",
+    "SAÇLAR NASIL ÇIKAR?"
+  ],
+  "openIcon": "vacuum",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 115,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 240,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 480,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "to": 165,
+      "a": "DOLANAN",
+      "b": "SAÇ",
+      "icon": "vacuum",
+      "side": "right",
+      "y": 320,
+      "from": 110
+    },
+    {
+      "to": 310,
+      "a": "KANAL",
+      "b": "OLUK",
+      "icon": "scissors",
+      "side": "left",
+      "y": 320,
+      "from": 260
+    },
+    {
+      "to": 535,
+      "a": "TEMİZ",
+      "b": "FIRÇA",
+      "icon": "brush",
+      "side": "right",
+      "y": 320,
+      "from": 495
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    650,
+    663,
+    676,
+    691
+  ],
+  "tempoBoundary": 31.6,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 10,
+    "to": 43,
+    "path": "M 180 630 C 230 580 320 560 410 570 C 520 575 600 600 640 650 C 665 680 640 730 595 750 C 500 790 300 790 215 750 C 175 730 150 675 180 630"
+  }
+}
