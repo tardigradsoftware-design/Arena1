@@ -1,0 +1,116 @@
+{
+  "id": "009",
+  "dir": "yeniden009",
+  "brand": true,
+  "frames": 735,
+  "caption": "Kışın pencereleriniz kapalı olduğu halde kenarlarından soğuk rüzgar sızıyor ve dışarıdaki tüm gürültü eve giriyorsa pencereleriniz hala yaz modunda kalmış demektir! Pencerenizi açıp kanadın iç kenarındaki o yuvarlak metal kilit pimine bakın; pimin üzerindeki küçük çentik dışarıya değil içeriye, yani lastik fitile doğru bakacak şekilde bir alyan anahtarı veya penseyle doksan derece çevirin. Kış moduna geçen pencere lastiğe iki kat sıkı basacak ve soğuk havayı anında kesecektir.",
+  "captionEnd": 21.064516129032256,
+  "ctaStart": 632,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "PENCERE PİMİ",
+    "AYARLANABİLİR Mİ?"
+  ],
+  "openIcon": "door",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 115,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 210,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 315,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 550,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "to": 180,
+      "a": "PENCERE",
+      "b": "KENARI",
+      "icon": "door",
+      "side": "right",
+      "y": 320,
+      "from": 130
+    },
+    {
+      "to": 295,
+      "a": "METAL",
+      "b": "PİM",
+      "icon": "lock",
+      "side": "left",
+      "y": 320,
+      "from": 245
+    },
+    {
+      "to": 485,
+      "a": "AYAR",
+      "b": "PİM",
+      "icon": "lock",
+      "side": "right",
+      "y": 320,
+      "from": 440
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    669,
+    681,
+    693,
+    708
+  ],
+  "tempoBoundary": 32.65,
+  "highlight": {
+    "file": "sahne-4.png",
+    "from": 325,
+    "to": 370,
+    "path": "M 240 595 C 255 570 290 553 325 555 C 365 557 404 578 414 611 C 424 647 405 678 374 688 C 339 700 290 689 265 675 C 240 661 230 620 240 595"
+  }
+}

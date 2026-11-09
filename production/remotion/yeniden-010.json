@@ -1,0 +1,111 @@
+{
+  "id": "010",
+  "dir": "yeniden010",
+  "brand": true,
+  "frames": 648,
+  "caption": "Yeni aldığınız konserve veya turşu kavanozunun kapağı vakumdan dolayı sıkıştığında bileğinizi zorlayıp elinizi acıtmayın! Kavanoz kapağının yan kenarındaki metal boşluğa bir tatlı kaşığının sapını sokup hafifçe dışa doğru kanırtın; \"pıs\" diye vakum sesini duyduğunuz an kapak tek parmakla dönecektir. Eğer kaşık yoksa kapağın etrafına bir parça koli bandı yapıştırıp bandın ucundan çekin, saniyesinde açılır.",
+  "captionEnd": 18.032258064516128,
+  "ctaStart": 541,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "KAVANOZ KAPAĞI",
+    "NASIL AÇILIR?"
+  ],
+  "openIcon": "jar",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 160,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 298,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 386,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 500,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 165,
+      "to": 210,
+      "a": "KAŞIK",
+      "b": "SAPI",
+      "icon": "spoon",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 435,
+      "a": "BANT",
+      "b": "YÖNTEMİ",
+      "icon": "hand",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    581,
+    593,
+    607,
+    621
+  ],
+  "tempoBoundary": 27.95,
+  "highlight": {
+    "file": "sahne-4.png",
+    "from": 165,
+    "to": 210,
+    "path": "M 540 520 C 557 510 584 512 604 525 C 624 537 627 557 611 570 C 595 584 565 581 547 570 C 530 559 526 533 540 520"
+  }
+}
