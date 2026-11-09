@@ -1,0 +1,116 @@
+{
+  "id": "002",
+  "dir": "yeniden002",
+  "brand": true,
+  "frames": 722,
+  "caption": "Halınızı en güçlü elektrik süpürgesiyle süpürdüğünüz halde halının ilmeklerine dolanan uzun saçları ve evcil hayvan tüylerini süpürgenin çekemediğini biliyor muydunuz? Halınızı süpürdükten sonra elinize cam silmek için kullandığınız kuru bir kauçuk çekpası alın ve halının üzerinde kendinize doğru bastırarak tarar gibi çekin. Kauçuk lastiğin sürtünme gücüyle temiz sandığınız halının içinden avuç dolusu saç ve tüy yumağı çıktığını gördüğünüzde gözlerinize inanamayacaksınız!",
+  "captionEnd": 20.35483870967742,
+  "ctaStart": 611,
+  "ctaTop": 300,
+  "ctaHeading": "SONUCUNU PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "TEMİZ HALIDA",
+    "GİZLİ TÜYLER?"
+  ],
+  "openIcon": "vacuum",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 420,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "SAÇ VE",
+      "b": "TÜYLER",
+      "icon": "vacuum",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 230,
+      "to": 275,
+      "a": "KURU",
+      "b": "ÇEKPAS",
+      "icon": "squeegee",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 350,
+      "to": 395,
+      "a": "HALIDA",
+      "b": "GERİ ÇEK",
+      "icon": "squeegee",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 470,
+      "to": 515,
+      "a": "TOPLANAN",
+      "b": "TÜYLER",
+      "icon": "hand",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    650,
+    665,
+    679,
+    693
+  ],
+  "tempoBoundary": 31.55,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 10,
+    "to": 43,
+    "path": "M 145 700 C 200 650 270 640 350 660 C 445 680 530 730 555 790 C 575 845 520 890 430 900 C 300 915 205 875 160 820 C 140 795 130 740 145 700"
+  }
+}

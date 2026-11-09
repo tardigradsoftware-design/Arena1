@@ -1,0 +1,116 @@
+{
+  "id": "001",
+  "dir": "yeniden001",
+  "brand": true,
+  "frames": 749,
+  "caption": "Duş alırken su gitmiyor ve banyo gideriniz saç yüzünden tıkandıysa, pahalı kimyasallara veya tesisatçıya para harcamadan evde bulunan plastik bir cırt kelepçeyle gideri beş saniyede açın! Uzun bir plastik kablo bağının, cırt kelepçenin, iki yan kenarına makasla yukarı doğru bakan küçük çapraz çentikler keserek kancalı bir şerit oluşturun. Bu şeridi gider deliğinden içeri sokup iki kez çevirerek yukarı çektiğinizde, boruyu tıkayan tüm saç yumağını tek seferde çekip çıkardığını göreceksiniz.",
+  "captionEnd": 21.67741935483871,
+  "ctaStart": 650,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "TIKALI GİDER",
+    "NASIL AÇILIR?"
+  ],
+  "openIcon": "drop",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 420,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 150,
+      "a": "TIKALI",
+      "b": "GİDER",
+      "icon": "drop",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 230,
+      "to": 275,
+      "a": "CIRT",
+      "b": "KELEPÇE",
+      "icon": "wipe",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 315,
+      "to": 360,
+      "a": "KÜÇÜK",
+      "b": "ÇENTİKLER",
+      "icon": "scissors",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 455,
+      "to": 500,
+      "a": "SAÇLARI",
+      "b": "ÇIKAR",
+      "icon": "hand",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    686,
+    699,
+    711,
+    724
+  ],
+  "tempoBoundary": 33.6,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 10,
+    "to": 43,
+    "path": "M 115 670 C 160 565 260 540 380 550 C 495 554 600 625 625 720 C 650 815 560 905 438 920 C 300 940 160 900 120 810 C 100 770 100 710 115 670"
+  }
+}
