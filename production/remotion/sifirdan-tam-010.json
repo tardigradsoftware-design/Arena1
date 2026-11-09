@@ -1,0 +1,83 @@
+{
+  "id": "010",
+  "dir": "yenilisteTam010",
+  "brand": true,
+  "frames": 612,
+  "caption": "Yeni aldığınız konserve veya turşu kavanozunun kapağı vakumdan dolayı sıkıştığında bileğinizi zorlayıp elinizi acıtmayın! Kavanoz kapağının yan kenarındaki metal boşluğa bir tatlı kaşığının sapını sokup hafifçe dışa doğru kanırtın; \"pıs\" diye vakum sesini duyduğunuz an kapak tek parmakla dönecektir. Eğer kaşık yoksa kapağın etrafına bir parça koli bandı yapıştırıp bandın ucundan çekin, saniyesinde açılır.",
+  "captionEnd": 17.419354838709676,
+  "ctaStart": 523,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "KAVANOZ KAPAĞI",
+    "NASIL AÇILIR?"
+  ],
+  "openIcon": "jar",
+  "warning": "CAM HASARLIYSA KULLANMA",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-sema-kasik.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 160,
+      "file": "sahne-sema-kasik.png"
+    },
+    {
+      "from": 298,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 386,
+      "file": "sahne-sema-bant.png"
+    },
+    {
+      "from": 520,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 165,
+      "to": 210,
+      "a": "KAŞIK",
+      "b": "SAPI",
+      "icon": "spoon",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 435,
+      "a": "BANT",
+      "b": "YÖNTEMİ",
+      "icon": "hand",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-sema-kasik.png",
+    "sahne-3.png",
+    "sahne-sema-bant.png"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "011",
+  "dir": "yenilisteTam011",
+  "brand": true,
+  "frames": 647,
+  "caption": "Taş gibi kuruyup bayatlayan bütün somun veya baget ekmeği sakın çöpe atmayın ya da kuru kuru ısıtmaya çalışmayın! Bayat ekmeği musluğun altına tutup dış kabuğunu saniyeler içinde suyla tamamen ıslatın ve önceden ısıtılmış iki yüz derece fırının doğrudan tel ızgarasına koyup beş dakika fırınlayın. Dışındaki su buharlaşırken ekmeğin içini pamuk gibi yumuşatacak, dış kabuğunu ise fırından yeni çıkmış gibi çıtır çıtır yapacaktır.",
+  "captionEnd": 18.741935483870968,
+  "ctaStart": 562,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "BAYAT EKMEK",
+    "NASIL YUMUŞAR?"
+  ],
+  "openIcon": "oven",
+  "warning": "KÜFLÜ EKMEĞİ TÜKETME",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 245,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 340,
+      "file": "sahne-sema-firin.png"
+    },
+    {
+      "from": 392,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 140,
+      "to": 185,
+      "a": "DIŞINI",
+      "b": "ISLAT",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 340,
+      "to": 390,
+      "a": "FIRIN",
+      "b": "5 DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 435,
+      "to": 480,
+      "a": "İÇİ",
+      "b": "YUMUŞAK",
+      "icon": "hand",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [
+    "sahne-1.png",
+    "sahne-2.png",
+    "sahne-sema-firin.png",
+    "sahne-3.png"
+  ]
+}
