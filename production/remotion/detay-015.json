@@ -1,0 +1,104 @@
+{
+  "id": "015",
+  "dir": "detay015",
+  "brand": true,
+  "frames": 673,
+  "caption": "Ocakta süt kaynatırken veya makarna haşlarken sadece bir saniye arkanızı döndüğünüzde sütün köpürüp tüm ocağı batırmasına artık son verin! Sütü tencereye koymadan önce tencerenin iç üst kenarına çepeçevre parmağınızla ince bir şerit tereyağı veya sıvı yağ sürün, tencerenin üzerine de yatay olarak bir tahta kaşık koyun. Kaynayan süt yükselip yağlı sınıra değdiği salisede yüzey gerilimi kırılacak ve süt asla o çizgiyi geçip ocağa taşamayacaktır.",
+  "captionEnd": 19.29032258064516,
+  "ctaStart": 579,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "SÜT TAŞMASI",
+    "NASIL ÖNLENİR?"
+  ],
+  "openIcon": "pot",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 155,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 300,
+      "file": "detay-1.png"
+    },
+    {
+      "from": 345,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 460,
+      "file": "sahne-2.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 215,
+      "to": 260,
+      "a": "İNCE",
+      "b": "YAĞ ŞERİDİ",
+      "icon": "pot",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 345,
+      "to": 390,
+      "a": "TAHTA",
+      "b": "KAŞIK",
+      "icon": "spoon",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [
+    "sahne-2.png",
+    "sahne-1.png",
+    "sahne-3.png",
+    "detay-1.png"
+  ],
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    614,
+    626,
+    637,
+    649
+  ],
+  "hideRepresentativeLabel": true
+}
