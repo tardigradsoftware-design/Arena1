@@ -1,0 +1,155 @@
+{
+  "id": "004",
+  "dir": "detay004",
+  "brand": true,
+  "caption": "Beyaz spor ayakkabılarınızın lastik taban kenarları ne kadar silerseniz silin sararıyor ve siyah çizgiler çıkmıyorsa çamaşır suyu sürüp lastiği eritmeyin! Bir tatlı kaşığı beyazlatıcı diş macunu, bir tatlı kaşığı karbonat ve birkaç damla bulaşık deterjanını karıştırıp eski bir diş fırçasıyla tabanları fırçalayın. Sildiğiniz an ayakkabılarınız kutusundan yeni çıkmış gibi kar beyazı olacaktır.",
+  "captionEnd": 16.258064516129032,
+  "ctaStart": 488,
+  "ctaTop": 300,
+  "ctaHeading": "SONUCUNU PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "SARARAN TABAN",
+    "NASIL BEYAZLAR?"
+  ],
+  "openIcon": "shoe",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 45,
+      "file": "rev2-2.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 110,
+      "file": "rev2-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 190,
+      "file": "detay-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 290,
+      "file": "detay-2.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 440,
+      "file": "rev2-4.png",
+      "captionTop": 1480
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 145,
+      "a": "SARARAN",
+      "b": "TABAN",
+      "icon": "shoe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 205,
+      "to": 245,
+      "a": "DİŞ MACUNU",
+      "b": "KARBONAT",
+      "icon": "brush",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 320,
+      "to": 365,
+      "a": "FIRÇAYLA",
+      "b": "TEMİZLE",
+      "icon": "brush",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 450,
+      "to": 490,
+      "a": "BEYAZ",
+      "b": "TABAN",
+      "icon": "shoe",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "frames": 601,
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    526,
+    541,
+    554,
+    571
+  ],
+  "tempoBoundary": 25.2,
+  "highlight": {
+    "file": "rev2-1.png",
+    "from": 115,
+    "to": 160,
+    "path": "M 65 750 C 170 760 290 770 390 780 C 505 780 600 760 700 710 C 725 700 730 735 700 760 C 610 820 490 845 365 845 C 245 840 140 825 70 800 C 50 790 50 760 65 750"
+  },
+  "detailCards": [
+    {
+      "from": 210,
+      "to": 275,
+      "top": 500,
+      "left": 55,
+      "width": 420,
+      "lines": [
+        "Macun + karbonat",
+        "+ birkaç damla",
+        "bulaşık deterjanı"
+      ]
+    },
+    {
+      "from": 310,
+      "to": 400,
+      "top": 500,
+      "left": 55,
+      "width": 350,
+      "lines": [
+        "Lastik kenarı",
+        "fırçala"
+      ]
+    }
+  ]
+}

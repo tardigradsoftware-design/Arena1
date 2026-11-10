@@ -1,0 +1,144 @@
+{
+  "id": "003",
+  "dir": "detay003",
+  "brand": true,
+  "frames": 673,
+  "caption": "Dibini tutturduğunuz çelik tencerenin veya fırın tepsisinin yanık karasını çıkarmak için tel süngerle kollarınızı koparana kadar ovalamayın! Yanık tencerenin içine sıcak su doldurup bir adet bulaşık makinesi tableti atın ve ocağın üzerinde on dakika kaynatın. Ardından suyu döküp alüminyum folyoyu top gibi buruşturun ve yumuşayan yanıkları folyoyla hafifçe silin. Tablet yağı çözerken folyo tencereyi hiç çizmeden tüm yanıkları saniyeler içinde söküp atacaktır.",
+  "captionEnd": 18.916129032258063,
+  "ctaStart": 567,
+  "ctaTop": 300,
+  "ctaHeading": "SONUCUNU PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "YANMIŞ",
+    "TENCERE?"
+  ],
+  "openIcon": "pot",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 45,
+      "file": "rev2-2.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 130,
+      "file": "rev2-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 205,
+      "file": "detay-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 355,
+      "file": "detay-2.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 500,
+      "file": "rev2-4.png",
+      "captionTop": 1480
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "YANMIŞ",
+      "b": "TABAN",
+      "icon": "pot",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 235,
+      "to": 280,
+      "a": "BULAŞIK",
+      "b": "TABLETİ",
+      "icon": "washer",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 375,
+      "to": 420,
+      "a": "ALÜMİNYUM",
+      "b": "FOLYO",
+      "icon": "hand",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 565,
+      "to": 590,
+      "a": "TEMİZ",
+      "b": "GÖRÜNÜM",
+      "icon": "pot",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    606,
+    618,
+    631,
+    646
+  ],
+  "tempoBoundary": 29.32,
+  "highlight": {
+    "file": "rev2-1.png",
+    "from": 10,
+    "to": 42,
+    "path": "M 205 550 C 240 500 320 480 390 490 C 465 500 525 540 550 600 C 570 670 530 745 480 770 C 405 800 300 780 245 740 C 200 700 180 610 205 550"
+  },
+  "detailCards": [
+    {
+      "from": 385,
+      "to": 450,
+      "top": 550,
+      "left": 55,
+      "width": 300,
+      "lines": [
+        "Folyoyu",
+        "top yapıp",
+        "hafifçe sil"
+      ]
+    }
+  ]
+}
