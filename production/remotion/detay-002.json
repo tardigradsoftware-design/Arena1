@@ -38,15 +38,18 @@
     },
     {
       "from": 300,
-      "file": "detay-1.png"
+      "file": "detay-3.png",
+      "captionTop": 1480
     },
     {
-      "from": 430,
-      "file": "rev2-3.png"
+      "from": 375,
+      "file": "detay-1.png",
+      "captionTop": 1480
     },
     {
-      "from": 500,
-      "file": "rev2-4.png"
+      "from": 490,
+      "file": "detay-4.png",
+      "captionTop": 1480
     }
   ],
   "events": [
