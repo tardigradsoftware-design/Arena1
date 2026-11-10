@@ -1,0 +1,120 @@
+{
+  "id": "012",
+  "dir": "bastan012",
+  "brand": true,
+  "frames": 711,
+  "caption": "Mutfaktaki bıçaklarınız domatesi bile ezerek kesiyor ve makaslarınız köreldiyse yeni bıçak almanıza veya bileyici aramanıza hiç gerek yok! Evdeki herhangi bir porselen kahve kupasını ters çevirin; kupanın altındaki o sırsız, pütürlü beyaz çember aslında gerçek bir seramik bileyi taşıdır. Bıçağınızı yirmi derecelik açıyla bu pütürlü kenara beş altı kez sürttüğünüzde, makasınızla da alüminyum folyoyu birkaç kez kestiğinizde ikisinin de jilet gibi keskinleştiğini göreceksiniz.",
+  "captionEnd": 19.890322580645158,
+  "ctaStart": 597,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "KÖRELEN BIÇAK",
+    "KUPA İŞE YARAR MI?"
+  ],
+  "openIcon": "mug",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-5.png"
+    },
+    {
+      "from": 41,
+      "file": "rev2-2.png"
+    },
+    {
+      "from": 92,
+      "file": "rev2-5.png"
+    },
+    {
+      "from": 175,
+      "file": "rev2-2.png"
+    },
+    {
+      "from": 258,
+      "file": "rev2-3.png"
+    },
+    {
+      "from": 432,
+      "file": "rev2-4.png"
+    },
+    {
+      "from": 506,
+      "file": "rev2-5.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 175,
+      "to": 225,
+      "a": "SIRSIZ",
+      "b": "HALKA",
+      "icon": "mug",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 285,
+      "to": 327,
+      "a": "20",
+      "b": "DERECE",
+      "icon": "knife",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 437,
+      "to": 474,
+      "a": "ALÜMİNYUM",
+      "b": "FOLYO",
+      "icon": "scissors",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    639,
+    653,
+    668,
+    686
+  ],
+  "tempoBoundary": 30.83,
+  "highlight": {
+    "file": "rev2-2.png",
+    "from": 179,
+    "to": 225,
+    "path": "M 205 735 C 208 657 256 592 331 579 C 409 564 483 602 518 668 C 552 736 537 820 484 866 C 438 905 365 912 304 887 C 239 860 204 807 205 735"
+  }
+}
