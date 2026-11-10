@@ -1,0 +1,125 @@
+{
+  "id": "007",
+  "dir": "bastan007",
+  "brand": true,
+  "frames": 759,
+  "caption": "Tam evden çıkacakken giydiğiniz siyah tişörtün veya elbisenin üzerine bulaşan o beyaz deodorant izini ıslak mendille silerseniz lekeyi çamur gibi yayıp daha da büyütürsünüz! Deodorant lekesine asla su sürmeyin. Çekmecenizdeki temiz ve kuru bir ince külotlu çorabı veya giydiğiniz pamuklu çorabın tersini top haline getirip beyaz lekenin üzerine kuru kuru üç saniye sürtün. Naylon dokunun yarattığı statik elektrik tüm beyaz pudra taneciklerini kumaştan mıknatıs gibi çekecek ve siyah kıyafetiniz anında tertemiz olacaktır.",
+  "captionEnd": 21.922580645161286,
+  "ctaStart": 658,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "DEODORANT",
+    "İZİ NASIL ÇIKAR?"
+  ],
+  "openIcon": "wipe",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 42,
+      "file": "rev2-2-ayna.png"
+    },
+    {
+      "from": 94,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 207,
+      "file": "rev2-2-ayna.png"
+    },
+    {
+      "from": 291,
+      "file": "rev2-3.png"
+    },
+    {
+      "from": 550,
+      "file": "rev2-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 99,
+      "to": 141,
+      "a": "BEYAZ",
+      "b": "İZ",
+      "icon": "wipe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 263,
+      "to": 310,
+      "a": "KURU",
+      "b": "ÇORAP",
+      "icon": "hand",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 385,
+      "to": 428,
+      "a": "HAFİFÇE",
+      "b": "SÜRT",
+      "icon": "hand",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 536,
+      "to": 573,
+      "a": "TEMİZ",
+      "b": "GÖRÜNÜM",
+      "icon": "wipe",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "highlight": {
+    "file": "rev2-1.png",
+    "from": 10,
+    "to": 42,
+    "path": "M 105 560 C 125 540 160 535 188 550 C 212 560 222 580 213 605 C 205 632 175 645 145 640 C 115 635 95 620 95 600 C 94 585 98 570 105 560"
+  },
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "warning": "",
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    694,
+    707,
+    719,
+    733
+  ],
+  "tempoBoundary": 33.98
+}
