@@ -1,0 +1,156 @@
+{
+  "id": "006",
+  "dir": "detay006",
+  "brand": true,
+  "frames": 641,
+  "caption": "Fırınınızın iç camına yapışıp taşlaşmış o kahverengi yanık yağ lekelerini çıkarmak için tel süngerle camı çizmeyin! Elinize bir eldiven giyin, sert bir bulaşık makinesi tabletinin ucunu ılık suya sadece bir saniye batırıp çıkarın ve tableti doğrudan silgi gibi ıslak fırın camının üzerindeki yanık lekelerine sürtün. Tabletin yoğunlaştırılmış enzimleri camı zerre kadar çizmeden en eski yanık yağları bile saniyeler içinde eritip akıtacaktır.",
+  "captionEnd": 18.258064516129032,
+  "ctaStart": 548,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "FIRIN CAMI",
+    "NASIL TEMİZLENİR?"
+  ],
+  "openIcon": "oven",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 42,
+      "file": "rev2-2.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 112,
+      "file": "rev2-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 183,
+      "file": "detay-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 272,
+      "file": "detay-2.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 436,
+      "file": "rev2-4.png",
+      "captionTop": 1480
+    }
+  ],
+  "events": [
+    {
+      "from": 94,
+      "to": 136,
+      "a": "YANMIŞ",
+      "b": "YAĞ",
+      "icon": "oven",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 192,
+      "to": 234,
+      "a": "BULAŞIK",
+      "b": "TABLETİ",
+      "icon": "washer",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 309,
+      "to": 351,
+      "a": "ISLAK",
+      "b": "CAM",
+      "icon": "wipe",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 487,
+      "to": 529,
+      "a": "TEMİZ",
+      "b": "GÖRÜNÜM",
+      "icon": "oven",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "highlight": {
+    "file": "rev2-1.png",
+    "from": 10,
+    "to": 42,
+    "path": "M 285 505 C 330 480 400 480 465 495 C 520 510 555 550 560 605 C 560 670 540 740 510 790 C 475 840 420 850 360 840 C 305 830 270 800 260 750 C 250 670 260 560 285 505"
+  },
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    581,
+    593,
+    604,
+    615
+  ],
+  "tempoBoundary": 28.3,
+  "detailCards": [
+    {
+      "from": 200,
+      "to": 260,
+      "top": 480,
+      "left": 55,
+      "width": 350,
+      "lines": [
+        "Eldiven giy",
+        "tabletin ucunu",
+        "ılık suya batır"
+      ]
+    },
+    {
+      "from": 300,
+      "to": 390,
+      "top": 500,
+      "left": 55,
+      "width": 380,
+      "lines": [
+        "Islak camdaki",
+        "lekenin üzerinde",
+        "tableti gezdir"
+      ]
+    }
+  ]
+}

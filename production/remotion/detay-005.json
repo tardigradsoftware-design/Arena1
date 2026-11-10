@@ -1,0 +1,143 @@
+{
+  "id": "005",
+  "dir": "detay005",
+  "brand": true,
+  "frames": 727,
+  "caption": "Orijinal telefon şarj kablolarınızın her seferinde tam uç birleşim yerinden bükülüp dış plastiğinin soyulmasından ve kablonun çöp olmasından bıktıysanız, bitmiş bir tükenmez kalemi atmayın! Basmalı bir tükenmez kalemin içindeki o küçük esnek metal yayı çıkarın, yayın ucunu tırnağınızla hafifçe aralayıp şarj kablonuzun en çok bükülen uç kısmına döndürerek sarın. Çelik yay kablonun doksan derece kırılmasını fiziksel olarak engelleyecek ve şarj kablonuzu yıllarca kopmadan ilk günkü gibi koruyacaktır.",
+  "captionEnd": 20.729032258064517,
+  "ctaStart": 622,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "KOPAN ŞARJ",
+    "KABLOLARI?"
+  ],
+  "openIcon": "cable",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 41,
+      "file": "rev2-5.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 119,
+      "file": "rev2-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 179,
+      "file": "detay-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 275,
+      "file": "detay-2.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 431,
+      "file": "rev2-4.png",
+      "captionTop": 1480
+    }
+  ],
+  "events": [
+    {
+      "from": 96,
+      "to": 133,
+      "a": "KABLO",
+      "b": "UCU",
+      "icon": "cable",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 202,
+      "to": 243,
+      "a": "KALEMİN",
+      "b": "YAYI",
+      "icon": "springwire",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 326,
+      "to": 367,
+      "a": "KABLOYA",
+      "b": "SAR",
+      "icon": "hand",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 440,
+      "to": 482,
+      "a": "UÇ",
+      "b": "BÖLGESİ",
+      "icon": "cable",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    660,
+    672,
+    686,
+    701
+  ],
+  "tempoBoundary": 32.13,
+  "highlight": {
+    "file": "rev2-1.png",
+    "from": 10,
+    "to": 42,
+    "path": "M 205 650 C 230 600 285 580 340 590 C 395 600 450 625 465 660 C 475 700 455 735 415 750 C 370 765 305 755 265 735 C 230 720 205 690 205 650"
+  },
+  "detailCards": [
+    {
+      "from": 300,
+      "to": 380,
+      "top": 510,
+      "left": 55,
+      "width": 360,
+      "lines": [
+        "Yayı kablo ucuna",
+        "döndürerek sar"
+      ]
+    }
+  ]
+}
