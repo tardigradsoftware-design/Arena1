@@ -1,0 +1,110 @@
+{
+  "id": "009",
+  "dir": "bastan009",
+  "brand": true,
+  "frames": 706,
+  "caption": "Kışın pencereleriniz kapalı olduğu halde kenarlarından soğuk rüzgar sızıyor ve dışarıdaki tüm gürültü eve giriyorsa pencereleriniz hala yaz modunda kalmış demektir! Pencerenizi açıp kanadın iç kenarındaki o yuvarlak metal kilit pimine bakın; pimin üzerindeki küçük çentik dışarıya değil içeriye, yani lastik fitile doğru bakacak şekilde bir alyan anahtarı veya penseyle doksan derece çevirin. Kış moduna geçen pencere lastiğe iki kat sıkı basacak ve soğuk havayı anında kesecektir.",
+  "captionEnd": 20.10967741935484,
+  "ctaStart": 603,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "PENCERE PİMİ",
+    "AYARLANABİLİR Mİ?"
+  ],
+  "openIcon": "door",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 43,
+      "file": "rev2-5.png"
+    },
+    {
+      "from": 110,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 200,
+      "file": "rev2-7.png"
+    },
+    {
+      "from": 301,
+      "file": "rev2-6.png"
+    },
+    {
+      "from": 525,
+      "file": "rev2-5.png"
+    }
+  ],
+  "events": [
+    {
+      "to": 172,
+      "a": "PENCERE",
+      "b": "KENARI",
+      "icon": "door",
+      "side": "right",
+      "y": 320,
+      "from": 124
+    },
+    {
+      "to": 281,
+      "a": "METAL",
+      "b": "PİM",
+      "icon": "lock",
+      "side": "left",
+      "y": 320,
+      "from": 234
+    },
+    {
+      "to": 463,
+      "a": "AYAR",
+      "b": "PİM",
+      "icon": "lock",
+      "side": "right",
+      "y": 320,
+      "from": 420
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    640,
+    653,
+    665,
+    680
+  ],
+  "tempoBoundary": 31.17
+}
