@@ -1,0 +1,150 @@
+{
+  "id": "001",
+  "dir": "detay001",
+  "brand": true,
+  "frames": 734,
+  "caption": "Duş alırken su gitmiyor ve banyo gideriniz saç yüzünden tıkandıysa, pahalı kimyasallara veya tesisatçıya para harcamadan evde bulunan plastik bir cırt kelepçeyle gideri beş saniyede açın! Uzun bir plastik kablo bağının, cırt kelepçenin, iki yan kenarına makasla yukarı doğru bakan küçük çapraz çentikler keserek kancalı bir şerit oluşturun. Bu şeridi gider deliğinden içeri sokup iki kez çevirerek yukarı çektiğinizde, boruyu tıkayan tüm saç yumağını tek seferde çekip çıkardığını göreceksiniz.",
+  "captionEnd": 20.903225806451612,
+  "ctaStart": 627,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "TIKALI GİDER",
+    "NASIL AÇILIR?"
+  ],
+  "openIcon": "drop",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 45,
+      "file": "rev2-2.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 210,
+      "file": "detay-5.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 405,
+      "file": "detay-8.png",
+      "captionTop": 1480
+    },
+    {
+      "from": 515,
+      "file": "detay-4.png",
+      "captionTop": 1480
+    }
+  ],
+  "events": [
+    {
+      "from": 105,
+      "to": 150,
+      "a": "TIKALI",
+      "b": "GİDER",
+      "icon": "drop",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 230,
+      "to": 275,
+      "a": "CIRT",
+      "b": "KELEPÇE",
+      "icon": "wipe",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 315,
+      "to": 360,
+      "a": "KÜÇÜK",
+      "b": "ÇENTİKLER",
+      "icon": "scissors",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 455,
+      "to": 500,
+      "a": "SAÇLARI",
+      "b": "ÇIKAR",
+      "icon": "hand",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    666,
+    679,
+    693,
+    707
+  ],
+  "tempoBoundary": 32.4,
+  "highlight": {
+    "file": "rev2-1.png",
+    "from": 10,
+    "to": 42,
+    "path": "M 190 570 C 230 500 320 490 385 490 C 480 490 550 530 580 600 C 610 680 590 770 540 825 C 490 880 405 892 330 880 C 250 870 195 830 180 760 C 165 700 165 625 190 570"
+  },
+  "detailCards": [
+    {
+      "from": 290,
+      "to": 380,
+      "top": 510,
+      "left": 60,
+      "width": 340,
+      "lines": [
+        "İki kenara",
+        "küçük çapraz",
+        "çentikler"
+      ]
+    },
+    {
+      "from": 425,
+      "to": 500,
+      "top": 1030,
+      "left": 60,
+      "width": 370,
+      "lines": [
+        "Giderden içeri",
+        "yerleştir ve çevir"
+      ]
+    }
+  ]
+}
