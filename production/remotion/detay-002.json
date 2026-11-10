@@ -1,0 +1,138 @@
+{
+  "id": "002",
+  "dir": "detay002",
+  "brand": true,
+  "frames": 727,
+  "caption": "Halınızı en güçlü elektrik süpürgesiyle süpürdüğünüz halde halının ilmeklerine dolanan uzun saçları ve evcil hayvan tüylerini süpürgenin çekemediğini biliyor muydunuz? Halınızı süpürdükten sonra elinize cam silmek için kullandığınız kuru bir kauçuk çekpası alın ve halının üzerinde kendinize doğru bastırarak tarar gibi çekin. Kauçuk lastiğin sürtünme gücüyle temiz sandığınız halının içinden avuç dolusu saç ve tüy yumağı çıktığını gördüğünüzde gözlerinize inanamayacaksınız!",
+  "captionEnd": 20.548387096774192,
+  "ctaStart": 616,
+  "ctaTop": 300,
+  "ctaHeading": "SONUCUNU PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ]
+  ],
+  "hook": [
+    "TEMİZ HALIDA",
+    "GİZLİ TÜYLER?"
+  ],
+  "openIcon": "vacuum",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 45,
+      "file": "rev2-2.png"
+    },
+    {
+      "from": 210,
+      "file": "rev2-2.png"
+    },
+    {
+      "from": 300,
+      "file": "detay-1.png"
+    },
+    {
+      "from": 430,
+      "file": "rev2-3.png"
+    },
+    {
+      "from": 500,
+      "file": "rev2-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 100,
+      "to": 145,
+      "a": "SAÇ VE",
+      "b": "TÜYLER",
+      "icon": "vacuum",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 230,
+      "to": 275,
+      "a": "KURU",
+      "b": "ÇEKPAS",
+      "icon": "squeegee",
+      "side": "left",
+      "y": 320
+    },
+    {
+      "from": 350,
+      "to": 395,
+      "a": "HALIDA",
+      "b": "GERİ ÇEK",
+      "icon": "squeegee",
+      "side": "right",
+      "y": 320
+    },
+    {
+      "from": 470,
+      "to": 515,
+      "a": "TOPLANAN",
+      "b": "TÜYLER",
+      "icon": "hand",
+      "side": "left",
+      "y": 320
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    660,
+    674,
+    687,
+    702
+  ],
+  "tempoBoundary": 31.85,
+  "highlight": {
+    "file": "rev2-1.png",
+    "from": 10,
+    "to": 42,
+    "path": "M 145 665 C 215 615 300 615 385 650 C 480 690 560 750 560 820 C 550 880 460 900 370 885 C 280 870 190 830 150 780 C 130 750 130 700 145 665"
+  },
+  "detailCards": [
+    {
+      "from": 325,
+      "to": 405,
+      "top": 510,
+      "left": 60,
+      "width": 425,
+      "lines": [
+        "Kuru kauçuk kenarı",
+        "halıya bastır;",
+        "kendine doğru çek."
+      ]
+    }
+  ]
+}
