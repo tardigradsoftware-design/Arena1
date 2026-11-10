@@ -1,0 +1,110 @@
+{
+  "id": "008",
+  "dir": "bastan008",
+  "brand": true,
+  "frames": 714,
+  "caption": "Elektrik süpürgenizin veya şarjlı süpürgenizin döner fırçasına dolanan saç yumaklarını elinizle çekiştirerek koparmaya çalışıyorsanız fırçanın üzerindeki o gizli oluğu hiç fark etmemişsiniz demektir! Her döner fırçanın üzerinde boydan boya uzanan ince bir makas kanalı bulunur. Bir makasın tek ağzını veya dikiş sökücüyü bu oluğun içine sokup baştan sona tek hamlede kaydırın; dolanan tüm saçlar fırça kıllarına hiç zarar vermeden beş saniyede kesilip tek parça halinde çıkacaktır.",
+  "captionEnd": 20.232258064516127,
+  "ctaStart": 607,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "BEĞEN",
+      "like"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "SÜPÜRGE FIRÇASI",
+    "SAÇLAR NASIL ÇIKAR?"
+  ],
+  "openIcon": "vacuum",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 45,
+      "file": "rev2-2.png"
+    },
+    {
+      "from": 114,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 238,
+      "file": "rev2-2.png"
+    },
+    {
+      "from": 367,
+      "file": "rev2-3.png"
+    },
+    {
+      "from": 476,
+      "file": "rev2-4.png"
+    }
+  ],
+  "events": [
+    {
+      "to": 164,
+      "a": "DOLANAN",
+      "b": "SAÇ",
+      "icon": "vacuum",
+      "side": "right",
+      "y": 320,
+      "from": 109
+    },
+    {
+      "to": 307,
+      "a": "KANAL",
+      "b": "OLUK",
+      "icon": "scissors",
+      "side": "left",
+      "y": 320,
+      "from": 258
+    },
+    {
+      "to": 531,
+      "a": "TEMİZ",
+      "b": "FIRÇA",
+      "icon": "brush",
+      "side": "right",
+      "y": 320,
+      "from": 491
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    645,
+    658,
+    671,
+    686
+  ],
+  "tempoBoundary": 31.36
+}
