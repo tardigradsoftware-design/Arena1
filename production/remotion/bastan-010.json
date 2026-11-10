@@ -1,0 +1,111 @@
+{
+  "id": "010",
+  "dir": "bastan010",
+  "brand": true,
+  "frames": 621,
+  "caption": "Yeni aldığınız konserve veya turşu kavanozunun kapağı vakumdan dolayı sıkıştığında bileğinizi zorlayıp elinizi acıtmayın! Kavanoz kapağının yan kenarındaki metal boşluğa bir tatlı kaşığının sapını sokup hafifçe dışa doğru kanırtın; \"pıs\" diye vakum sesini duyduğunuz an kapak tek parmakla dönecektir. Eğer kaşık yoksa kapağın etrafına bir parça koli bandı yapıştırıp bandın ucundan çekin, saniyesinde açılır.",
+  "captionEnd": 17.129032258064516,
+  "ctaStart": 514,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ]
+  ],
+  "hook": [
+    "KAVANOZ KAPAĞI",
+    "NASIL AÇILIR?"
+  ],
+  "openIcon": "jar",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 43,
+      "file": "rev2-4.png"
+    },
+    {
+      "from": 100,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 152,
+      "file": "rev2-5.png"
+    },
+    {
+      "from": 283,
+      "file": "rev2-4.png"
+    },
+    {
+      "from": 367,
+      "file": "rev2-6.png"
+    },
+    {
+      "from": 475,
+      "file": "rev2-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 157,
+      "to": 200,
+      "a": "KAŞIK",
+      "b": "SAPI",
+      "icon": "spoon",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 371,
+      "to": 413,
+      "a": "BANT",
+      "b": "YÖNTEMİ",
+      "icon": "hand",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    551,
+    564,
+    577,
+    593
+  ],
+  "tempoBoundary": 26.55,
+  "highlight": {
+    "file": "rev2-5.png",
+    "from": 157,
+    "to": 200,
+    "path": "M 285 478 C 315 450 365 439 405 450 C 435 458 440 482 421 499 C 395 513 346 514 315 503 C 297 497 285 490 285 478"
+  }
+}

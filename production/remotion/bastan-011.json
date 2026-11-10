@@ -1,0 +1,116 @@
+{
+  "id": "011",
+  "dir": "bastan011",
+  "brand": true,
+  "frames": 667,
+  "caption": "Taş gibi kuruyup bayatlayan bütün somun veya baget ekmeği sakın çöpe atmayın ya da kuru kuru ısıtmaya çalışmayın! Bayat ekmeği musluğun altına tutup dış kabuğunu saniyeler içinde suyla tamamen ıslatın ve önceden ısıtılmış iki yüz derece fırının doğrudan tel ızgarasına koyup beş dakika fırınlayın. Dışındaki su buharlaşırken ekmeğin içini pamuk gibi yumuşatacak, dış kabuğunu ise fırından yeni çıkmış gibi çıtır çıtır yapacaktır.",
+  "captionEnd": 18.741935483870968,
+  "ctaStart": 562,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "BAYAT EKMEK",
+    "NASIL YUMUŞAR?"
+  ],
+  "openIcon": "oven",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 47,
+      "file": "rev2-2.png"
+    },
+    {
+      "from": 104,
+      "file": "rev2-1.png"
+    },
+    {
+      "from": 146,
+      "file": "rev2-2.png"
+    },
+    {
+      "from": 355,
+      "file": "rev2-3.png"
+    },
+    {
+      "from": 454,
+      "file": "rev2-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 146,
+      "to": 193,
+      "a": "DIŞINI",
+      "b": "ISLAT",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 355,
+      "to": 407,
+      "a": "FIRIN",
+      "b": "5 DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 454,
+      "to": 500,
+      "a": "İÇİ",
+      "b": "YUMUŞAK",
+      "icon": "hand",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    599,
+    612,
+    625,
+    641
+  ],
+  "tempoBoundary": 29.05,
+  "highlight": {
+    "file": "rev2-4.png",
+    "from": 464,
+    "to": 511,
+    "path": "M 192 801 C 195 765 230 742 271 745 C 315 746 349 768 358 801 C 366 832 342 859 308 866 C 265 876 221 858 201 838 C 192 829 190 815 192 801"
+  }
+}
