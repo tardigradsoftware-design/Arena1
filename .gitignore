@@ -19,3 +19,8 @@ __pycache__/
 # Claude Stüdyo dependencies and generated output
 /node_modules/
 /ciktilar/*.mp4
+
+# Yasal seri geçici çıktıları
+production/yasal/work/
+production/yasal/img/
+production/yasal/audio/
