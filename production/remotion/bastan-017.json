@@ -1,0 +1,105 @@
+{
+  "id": "017",
+  "dir": "bastan017",
+  "brand": true,
+  "frames": 768,
+  "caption": "Haşladığınız yumurtaları soyarken kabuğun yumurtaya yapışıp beyazının yarısını koparmasına ve şeklinin bozulmasına artık son verin! Yumurtalar haşlanır haşlanmaz sıcak sudan çıkarıp buz gibi soğuk suya atarak iki dakika şoklayın. Ardından yumurtayı bir su bardağının içine koyup yarısına kadar soğuk su ekleyin, elinizle bardağın ağzını kapatıp üç saniye kuvvetlice çalkalayın. Su kabuğun altındaki zara sızacağı için yumurtayı çıkardığınızda kabuğun tek parça halinde elinizde kaldığını göreceksiniz.",
+  "captionEnd": 21.767741935483873,
+  "ctaStart": 653,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "YUMURTA KABUĞU",
+    "NASIL SOYULUR?"
+  ],
+  "openIcon": "bowl",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 180,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 310,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 390,
+      "file": "sahne-5.png"
+    },
+    {
+      "from": 550,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 215,
+      "to": 265,
+      "a": "BUZLU SU",
+      "b": "İKİ DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 410,
+      "to": 460,
+      "a": "SU BARDAĞI",
+      "b": "ÜÇ SANİYE",
+      "icon": "clock",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    700,
+    713,
+    726,
+    741
+  ],
+  "tempoBoundary": 33.74
+}
