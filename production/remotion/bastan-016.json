@@ -1,0 +1,101 @@
+{
+  "id": "016",
+  "dir": "bastan016",
+  "brand": true,
+  "frames": 763,
+  "caption": "Mutfak dolaplarınızın tepesine ve aspiratörün üzerine yapışıp tozla birleşerek zamk gibi sertleşen o sarı yağ tabakasını çıkarmak için ağır kimyasallarla dolaplarınızı aşındırmayın! Kimyada altın kuraldır: Yağı en hızlı yine yağ çözer. İki yemek kaşığı karbonatın içine bir yemek kaşığı bildiğimiz ayçiçek yağı döküp macun yapın ve bu karışımı süngerle yapışkan dolap yüzeyine sürün. Asla çıkmayan o taşlaşmış yağların saniyeler içinde eriyip kendiliğinden kalktığını göreceksiniz, ardından sabunlu bezle silip geçin.",
+  "captionEnd": 21.870967741935484,
+  "ctaStart": 656,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "YAPIŞKAN YAĞ",
+    "NASIL TEMİZLENİR?"
+  ],
+  "openIcon": "wipe",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 245,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 420,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 575,
+      "file": "sahne-5.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 250,
+      "to": 300,
+      "a": "KARBONAT",
+      "b": "VE YAĞ",
+      "icon": "bowl",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 425,
+      "to": 470,
+      "a": "KARIŞIMI",
+      "b": "UYGULA",
+      "icon": "wipe",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    701,
+    714,
+    726,
+    739
+  ],
+  "tempoBoundary": 33.9
+}
