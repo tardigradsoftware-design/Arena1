@@ -1,0 +1,101 @@
+{
+  "id": "020",
+  "dir": "bastan020",
+  "brand": true,
+  "frames": 751,
+  "caption": "Duş başlığınızın delikleri kireçten tıkanıp suyu her yöne eğri büğrü fışkırtıyorsa, başlığı İngiliz anahtarıyla söküp contalarını bozmaya çalışmayın! Sağlam bir buzdolabı poşetinin içine bir su bardağı ısıtılmış beyaz sirke ve bir yemek kaşığı karbonat koyun; duş başlığını poşetin içindeki sirkeye tamamen gömülecek şekilde geçirip poşetin ağzını paket lastiğiyle boruya sıkıca bağlayın. On beş dakika bekleyip sıcak suyu açtığınızda tüm kireç taşlarının eridiğini ve suyun ilk günkü gibi gürül gürül aktığını göreceksiniz.",
+  "captionEnd": 21.35483870967742,
+  "ctaStart": 641,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "DUŞ BAŞLIĞI",
+    "KİREÇ NASIL ÇIKAR?"
+  ],
+  "openIcon": "water",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 210,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 325,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 480,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 215,
+      "to": 260,
+      "a": "SİRKE",
+      "b": "VE KARBONAT",
+      "icon": "bowl",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 410,
+      "to": 460,
+      "a": "ON BEŞ",
+      "b": "DAKİKA",
+      "icon": "clock",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    692,
+    705,
+    718,
+    731
+  ],
+  "tempoBoundary": 33.1
+}

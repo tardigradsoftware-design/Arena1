@@ -1,0 +1,101 @@
+{
+  "id": "019",
+  "dir": "bastan019",
+  "brand": true,
+  "frames": 754,
+  "caption": "Misafirlikte veya bir kafede otururken açık renk gömleğinize ya da pantolonunuza çay veya kahve damladığında, peçeteyle silip lekeyi kumaşa yaymayın! Hemen çay tabağındaki kuru bir adet küp şekeri alın ve doğrudan ıslak çay veya kahve damlasının tam üzerine bastırıp beş saniye tutun. Küp şekerin sıkıştırılmış kristalleri müthiş bir kılcal emiş gücüyle kumaştaki renkli sıvıyı saniyeler içinde kendi içine vakumlayıp çekecek; şeker kahverengi olurken kıyafetinizde tek bir leke bile kalmayacaktır.",
+  "captionEnd": 21.638709677419353,
+  "ctaStart": 649,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "ÇAY LEKESİ",
+    "KÜP ŞEKER Mİ?"
+  ],
+  "openIcon": "wipe",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 220,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 315,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 510,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 240,
+      "to": 285,
+      "a": "KÜP",
+      "b": "ŞEKER",
+      "icon": "bowl",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 330,
+      "to": 380,
+      "a": "BEŞ",
+      "b": "SANİYE",
+      "icon": "clock",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    695,
+    708,
+    721,
+    734
+  ],
+  "tempoBoundary": 33.54
+}
