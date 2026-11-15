@@ -1,0 +1,105 @@
+{
+  "id": "018",
+  "dir": "bastan018",
+  "brand": true,
+  "frames": 711,
+  "caption": "Aldığınız süzme balın gerçek arı balı mı yoksa glikoz şurubu mu olduğunu anlamak için balı yakmanıza gerek yok, soğuk su testiyle beş saniyede gerçeği görün! Düz beyaz bir tabağın ortasına bir tatlı kaşığı bal koyun, üzerine yarım çay bardağı soğuk çeşme suyu dökün ve tabağı elinizde dairesel olarak hafifçe sallayın. Gerçek bal soğuk suda hemen erimez ve genetik hafızası sayesinde saniyeler içinde altıgen arı peteği deseni oluşturur; sahte şekerli bal ise suya değdiği an dağılıp erir.",
+  "captionEnd": 20.32258064516129,
+  "ctaStart": 610,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "BAL VE SOĞUK SU",
+    "BU TEST NE GÖSTERİR?"
+  ],
+  "openIcon": "bowl",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 115,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 200,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 270,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 340,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 445,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 210,
+      "to": 255,
+      "a": "BİR KAŞIK",
+      "b": "BAL",
+      "icon": "spoon",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 280,
+      "to": 325,
+      "a": "SOĞUK",
+      "b": "SU",
+      "icon": "bowl",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    650,
+    663,
+    676,
+    689
+  ],
+  "tempoBoundary": 31.5
+}
