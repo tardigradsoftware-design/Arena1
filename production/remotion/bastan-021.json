@@ -1,0 +1,101 @@
+{
+  "id": "021",
+  "dir": "bastan021",
+  "brand": true,
+  "frames": 681,
+  "caption": "Pişirdiğiniz et suyunun, çorbanın veya sulu yemeğin yağı fazla kaçtıysa kaşıkla üstünden tek tek yağ toplamaya çalışarak vaktinizi harcamayın! Metal bir çorba kepçesinin içine dört beş adet buz küpü doldurun ve buzlu kepçenin dış alt tabanını sıcak yemeğin yüzeyinde yavaşça gezdirin. Dondurucu soğuk metalle temas eden tüm fazla yağ saniyeler içinde donarak kepçenin altına kalıp gibi yapışacak ve yemeğinizin fazla yağından beş saniyede kurtulacaksınız.",
+  "captionEnd": 19.29032258064516,
+  "ctaStart": 579,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "ÇORBANIN YAĞI",
+    "BUZLU KEPÇE"
+  ],
+  "openIcon": "bowl",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "yeni-2.png"
+    },
+    {
+      "from": 90,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 220,
+      "file": "yeni-2.png"
+    },
+    {
+      "from": 355,
+      "file": "yeni-3b.png"
+    },
+    {
+      "from": 475,
+      "file": "yeni-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 185,
+      "to": 230,
+      "a": "BUZLU",
+      "b": "KEPÇE",
+      "icon": "bowl",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 355,
+      "to": 410,
+      "a": "BEŞ",
+      "b": "SANİYE",
+      "icon": "clock",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    623,
+    636,
+    649,
+    661
+  ],
+  "tempoBoundary": 29.9
+}
