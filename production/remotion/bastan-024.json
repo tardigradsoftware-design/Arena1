@@ -1,0 +1,107 @@
+{
+  "id": "024",
+  "dir": "bastan024",
+  "brand": true,
+  "frames": 723,
+  "caption": "Koltuklarınızın veya siyah kabanınızın üzeri evcil hayvan tüyü, saç ve tozla kaplandığında yapışkanlı rulo bantlarınız bittiyse, mutfaktaki sarı plastik bulaşık eldivenini elinize geçirin! Kuru bulaşık eldivenini muslukta çok hafif nemlendirip suyunu silkeleyin ve elinizi koltuğun veya kabanın üzerinde yukarıdan aşağıya doğru tek yönde süpürür gibi gezdirin. Kauçuk eldivenin oluşturduğu sürtünme ve statik elektrik, kumaşın en derinine saplanmış tüyleri bile beş saniyede tek bir yumak halinde toplayacaktır.",
+  "captionEnd": 20.903225806451612,
+  "ctaStart": 627,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "KOLTUKTA TÜY",
+    "ELDİVENLE TOPLA"
+  ],
+  "openIcon": "hand",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3b.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 320,
+      "file": "sahne-3b.png"
+    },
+    {
+      "from": 500,
+      "file": "sahne-4b.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 210,
+      "to": 255,
+      "a": "HAFİF",
+      "b": "NEMLİ",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 340,
+      "to": 390,
+      "a": "TEK",
+      "b": "YÖNDE",
+      "icon": "hand",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    664,
+    677,
+    690,
+    703
+  ],
+  "tempoBoundary": 32.4,
+  "highlight": {
+    "file": "sahne-3b.png",
+    "from": 410,
+    "to": 470,
+    "path": "M210 808 C238 785 285 780 338 791 C389 799 427 819 431 842 C434 864 402 882 359 889 C309 899 254 889 228 868 C210 854 201 831 210 808"
+  }
+}
