@@ -1,0 +1,107 @@
+{
+  "id": "026",
+  "dir": "yeniliste-bastan026",
+  "brand": true,
+  "frames": 752,
+  "caption": "Ahşap yemek masanızda, sehpanızda veya parkelerinizde oluşan o beyazlamış çizikleri kapatmak için pahalı mobilya kalemleri almanıza hiç gerek yok! Mutfağınızdaki kabuğu kırılmış çiğ bir ceviz içini alın ve çizik olan ahşap yüzeyin üzerine bastırarak ileri geri on saniye boyunca sürtün, ardından parmağınızla çizgiyi ovup kuru bezle parlatın. Cevizin içindeki yoğun doğal yağ ve renk pigmentleri çizilen ahşap liflerini anında doyurup şişirecek ve çiziğin saniyeler içinde görünmez olduğunu fark edeceksiniz.",
+  "captionEnd": 21.67741935483871,
+  "ctaStart": 650,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "AHŞAP ÇİZİĞİ",
+    "CEVİZ İÇİ Mİ?"
+  ],
+  "openIcon": "wipe",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 220,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 375,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 500,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 220,
+      "to": 265,
+      "a": "ÇİĞ",
+      "b": "CEVİZ",
+      "icon": "leaf",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 310,
+      "to": 355,
+      "a": "ON",
+      "b": "SANİYE",
+      "icon": "clock",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    694,
+    707,
+    720,
+    733
+  ],
+  "tempoBoundary": 33.6,
+  "highlight": {
+    "file": "sahne-2.png",
+    "from": 245,
+    "to": 300,
+    "path": "M225 830 C252 800 310 765 352 744 C376 730 394 733 399 744 C404 757 387 773 368 782 L255 856 C235 868 219 856 225 830"
+  }
+}

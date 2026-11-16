@@ -1,0 +1,101 @@
+{
+  "id": "025",
+  "dir": "yeniliste-bastan025",
+  "brand": true,
+  "frames": 666,
+  "caption": "Elektronik eşyaların, pillerin veya oyuncakların o taş gibi sert, preslenmiş şeffaf plastik ambalajlarını açmaya çalışırken bıçak veya makas kayıp elinizi yaralamayın! Mutfak çekmecenizdeki sıradan bir dönerli konserve açacağını alın ve konserve kapağı açar gibi plastik ambalajın sert kenar çerçevesine takıp kolunu çevirin. Konserve açacağı o sert plastiği kağıt keser gibi pürüzsüz ve güvenli bir şekilde beş saniyede boydan boya açacaktır.",
+  "captionEnd": 18.70967741935484,
+  "ctaStart": 561,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "SERT AMBALAJ",
+    "KONSERVE AÇACAĞI"
+  ],
+  "openIcon": "scissors",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 210,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 330,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 480,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 220,
+      "to": 265,
+      "a": "DÖNERLİ",
+      "b": "AÇACAK",
+      "icon": "hand",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 435,
+      "a": "KENAR",
+      "b": "ÇERÇEVE",
+      "icon": "scissors",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    608,
+    621,
+    634,
+    647
+  ],
+  "tempoBoundary": 29.0
+}
