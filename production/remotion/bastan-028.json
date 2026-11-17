@@ -1,0 +1,105 @@
+{
+  "id": "028",
+  "dir": "yeniliste-bastan028",
+  "brand": true,
+  "frames": 779,
+  "caption": "Evde yoğurduğunuz köfteler pişerken küçülüyor, içi kuru ve lastik gibi sert oluyorsa kıyma harcına yumurta kırmayı hemen bırakın! Yumurta köfteyi sıkılaştırıp sertleştirir. Yarım kilo köfte harcını yoğururken içine yumurta yerine yarım çay bardağı sade maden suyu ve yarım çay kaşığı karbonat ekleyip on dakika yoğurun, ardından buzdolabında yarım saat dinlendirin. Maden suyu ve karbonat etin liflerini pamuk gibi kabartacak, köfteleriniz dışı karamelize içi ise sulu lokanta köftesi gibi pişecektir.",
+  "captionEnd": 22.419354838709676,
+  "ctaStart": 673,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "KÖFTENİN SIRRI",
+    "MADEN SUYU MU?"
+  ],
+  "openIcon": "pan",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 120,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 245,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 355,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 475,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 555,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 250,
+      "to": 300,
+      "a": "MADEN",
+      "b": "SUYU",
+      "icon": "glass",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 380,
+      "to": 425,
+      "a": "ON",
+      "b": "DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    718,
+    731,
+    744,
+    757
+  ],
+  "tempoBoundary": 34.75
+}

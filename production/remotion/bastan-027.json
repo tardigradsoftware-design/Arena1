@@ -1,0 +1,105 @@
+{
+  "id": "027",
+  "dir": "yeniliste-bastan027",
+  "brand": true,
+  "frames": 805,
+  "caption": "Çantanızda düşüp tuzla buz olan en sevdiğiniz pudranızı, allığınızı veya göz farınızı dağıldı diye sakın çöpe atmayın, otuz saniyede fabrikadan yeni çıkmış gibi presleyin! Kırılan far veya pudrayı kendi kutusunun içinde kürdanın ucuyla tamamen un haline gelene kadar ezin; üzerine sadece üç dört damla eczane alkolü veya seksen derece kolonya damlatıp bıçak sırtıyla düzleştirin. Üzerine bir parça kağıt havlu koyup madeni bir parayla on saniye sertçe bastırın ve açık bırakıp kurutun; alkol uçacak ve pudranız taş gibi tek parça olacaktır.",
+  "captionEnd": 23.612903225806452,
+  "ctaStart": 708,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "KIRILAN PUDRA",
+    "ÇÖPE GİTMESİN"
+  ],
+  "openIcon": "brush",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 230,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 360,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 485,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 595,
+      "file": "sahne-5.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 345,
+      "to": 390,
+      "a": "BİRKAÇ",
+      "b": "DAMLA",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 505,
+      "to": 550,
+      "a": "ON",
+      "b": "SANİYE",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    744,
+    757,
+    770,
+    783
+  ],
+  "tempoBoundary": 36.6
+}

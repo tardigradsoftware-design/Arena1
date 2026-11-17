@@ -34,7 +34,9 @@ with tempfile.TemporaryDirectory() as tmp:
  wav=Path(tmp)/'effects.wav'
  with wave.open(str(wav),'wb') as w:
   w.setparams((1,2,rate,n,'NONE','not compressed'));w.writeframes(b''.join(struct.pack('<h',round(max(-1,min(1,x))*32767)) for x in samples))
- filt=(f'[1:a]atempo=1.55,aresample=48000,aformat=channel_layouts=stereo[voice];'
+ boundary = c.get('tempoBoundary')
+ tempo = f"asendcmd=c='{boundary} atempo tempo 1.62',atempo=1.55" if boundary is not None else 'atempo=1.55'
+ filt=(f'[1:a]{tempo},aresample=48000,aformat=channel_layouts=stereo[voice];'
        f'[2:a]atrim=duration={duration},asetpts=PTS-STARTPTS,aresample=48000,aformat=channel_layouts=stereo,volume=-22dB,afade=t=out:st={duration-.4}:d=0.4[music];'
        f'[3:a]aresample=48000,aformat=channel_layouts=stereo[sfx];'
        f'[voice][music][sfx]amix=inputs=3:duration=longest:normalize=0,alimiter=limit=0.85,atrim=duration={duration}[out]')
