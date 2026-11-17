@@ -1,0 +1,101 @@
+{
+  "id": "030",
+  "dir": "yeniliste-bastan030",
+  "brand": true,
+  "frames": 784,
+  "caption": "Makarna haşlarken birbirine yapışmasın diye kaynayan suya sıvı yağ döküyorsanız, hem yağı çöpe atıyor hem de makarnanın sos tutmasını engelliyorsunuz! Suya dökülen yağ yüzeyde yüzer ve süzülürken makarnanın dışını kayganlaştırıp sosun üzerinden akıp gitmesine neden olur. Makarnanın asla yapışmaması için suya bol tuz atın ve makarnayı suya attığınız ilk iki dakika boyunca hiç bırakmadan karıştırın. Peki sen makarna suyuna yağ dökenlerden misin? Yorumlara yaz ve bu şef sırrını kaydet!",
+  "captionEnd": 21.741935483870968,
+  "ctaStart": 652,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "MAKARNA SUYUNA",
+    "YAĞ DÖKME!"
+  ],
+  "openIcon": "pot",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 300,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 405,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 550,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 310,
+      "to": 355,
+      "a": "BOL",
+      "b": "TUZ",
+      "icon": "spoon",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 425,
+      "to": 480,
+      "a": "İLK İKİ",
+      "b": "DAKİKA",
+      "icon": "clock",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    722,
+    735,
+    748,
+    761
+  ],
+  "tempoBoundary": 33.7
+}
