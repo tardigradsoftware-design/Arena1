@@ -1,0 +1,111 @@
+{
+  "id": "031",
+  "dir": "yeniliste-bastan031",
+  "brand": true,
+  "frames": 727,
+  "caption": "Çamaşır makinenizin deterjan çekmecesini çıkardığınızda iç kısımlarında siyah küf ve taşlaşmış deterjan kalıntıları görüyorsanız, temiz kıyafetlerinize her yıkamada bakteri bulaşıyor demektir! Çekmecenin ortasındaki mavi mandala basarak kutuyu yerinden çıkarın, sıcak su dolu bir leğenin içine iki yemek kaşığı limon tuzu ve bir kaşık bulaşık parlatıcısı döküp çekmeceyi on dakika bekletin. Küfler hiç fırçalamadan kendiliğinden akıp gidecek ve parlatıcı sayesinde bir daha deterjan yapışmayacaktır.",
+  "captionEnd": 20.64516129032258,
+  "ctaStart": 619,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "DETERJAN GÖZÜ",
+    "KÜF NASIL ÇIKAR?"
+  ],
+  "openIcon": "washer",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 235,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 335,
+      "file": "sahne-3b.png"
+    },
+    {
+      "from": 485,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 565,
+      "file": "sahne-5.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 240,
+      "to": 285,
+      "a": "MAVİ",
+      "b": "MANDAL",
+      "icon": "hand",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 445,
+      "a": "ON",
+      "b": "DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    666,
+    679,
+    692,
+    705
+  ],
+  "tempoBoundary": 32.0,
+  "highlight": {
+    "file": "sahne-2.png",
+    "from": 245,
+    "to": 300,
+    "path": "M324 695 C332 660 380 639 422 642 C460 645 481 665 481 690 C482 716 447 734 407 737 C371 739 339 729 324 711"
+  }
+}

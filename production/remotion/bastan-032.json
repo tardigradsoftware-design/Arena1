@@ -1,0 +1,113 @@
+{
+  "id": "032",
+  "dir": "yeniliste-bastan032",
+  "brand": true,
+  "frames": 792,
+  "caption": "Karpuz seçerken üzerine vurup ses dinlemekle uğraşmayın, karpuzun bal gibi tatlı ve kıpkırmızı olduğunu dışındaki şu iki işaretten beş saniyede anlayın! İlk olarak karpuzun tarlada toprağa değdiği alt kısmındaki lekeye bakın: Eğer bu leke beyaz veya açık yeşilse karpuz erken koparılmış ve kelektir; leke koyu tereyağı sarısı veya turuncuya yakınsa güneşte tam olgunlaşmıştır. İkinci olarak kabuğun üzerindeki kahverengi örümcek ağı çizgileri ne kadar çoksa arılar çiçeğe o kadar çok dokunmuş ve karpuz o kadar şekerli demektir.",
+  "captionEnd": 22.774193548387093,
+  "ctaStart": 683,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "KARPUZ SEÇERKEN",
+    "BU İKİ İŞARET"
+  ],
+  "openIcon": "question",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-2b.png",
+      "captionTop": 1500
+    },
+    {
+      "from": 45,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 105,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 245,
+      "file": "sahne-1c.png"
+    },
+    {
+      "from": 360,
+      "file": "sahne-2b.png",
+      "captionTop": 1500
+    },
+    {
+      "from": 480,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 610,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 360,
+      "to": 410,
+      "a": "SARI",
+      "b": "LEKE",
+      "icon": "question",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 480,
+      "to": 530,
+      "a": "KAHVERENGİ",
+      "b": "ÇİZGİLER",
+      "icon": "question",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    730,
+    743,
+    756,
+    769
+  ],
+  "tempoBoundary": 35.3,
+  "highlight": {
+    "file": "sahne-2b.png",
+    "from": 375,
+    "to": 425,
+    "path": "M251 892 C265 846 310 813 374 806 C437 801 497 825 521 863 C534 889 512 916 475 929 C417 945 333 943 281 925"
+  }
+}
