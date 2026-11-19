@@ -1,0 +1,17 @@
+from pathlib import Path
+import json, math, shutil, wave
+from PIL import Image, ImageDraw, ImageFont, ImageOps
+root=Path(__file__).resolve().parents[3]; rem=root/'production/remotion'
+items={
+'033':dict(boundary=27.05,caption='Salataya birkaç damla limon sıkmak için koca limonu ikiye kesip kalan yarısının buzdolabında kuruyup çöpe gitmesine son verin! Bütün limonu tezgaha bastırarak yuvarlayın, ardından bıçakla kesmek yerine ucuna kalın bir kürdan batırıp çıkarın. Sıktığınızda sadece o delikten sprey gibi su çıkacak ve limonunuz hava almadan haftalarca sulu kalacaktır. Mutfakta işine yarayacak bu tüyoyu kaydetmeyi ve beğenmeyi unutma!',hook=['LİMONU KESMEDEN','SUYUNU SIK!'],icon='lemon',shots=[(0,'1'),(45,'3b'),(95,'1'),(190,'2'),(300,'3b'),(415,'4')],events=[(195,235,'KALIN','KÜRDAN','toothpick','right'),(320,360,'TEK','DELİK','drop','left')],cover=['LİMONU KESMEDEN','NASIL SIKARSIN?'],highlight={'file':'sahne-2.png','from':215,'to':270,'path':'M418 685 C426 672 447 672 459 685 C469 697 465 715 451 721 C435 728 420 716 418 702'}),
+'034':dict(boundary=34.25,caption='Banyo ve mutfak musluklarını sildikten on dakika sonra ilk el yıkamada tekrar su lekesi olmasına sinirleniyorsanız, temizliğin son adımına sadece bir damla bebek yağı ekleyin! Musluğu yıkayıp kuruladıktan sonra kuru bir mikrofiber bezin veya kağıt havlunun üzerine sadece iki damla bebek yağı damlatıp armatürleri parlatın. Bebek yağı krom yüzeyde görünmez bir su itici film tabakası oluşturur; su damlaları musluğa tutunmadan kayıp gider ve musluklarınız haftalarca ayna gibi parlar. Denemek için hemen kaydet, beğen ve sonucu yorumlara yaz!',hook=['MUSLUKTAKİ','SU LEKELERİ'],icon='drop',shots=[(0,'1'),(45,'3b'),(110,'1'),(240,'2'),(330,'3b'),(450,'4b')],events=[(255,300,'İKİ','DAMLA','drop','right'),(350,395,'KURU','BEZ','wipe','left')],cover=['MUSLUKTAKİ','SU LEKELERİ?'],highlight={'file':'sahne-4b.png','from':470,'to':525,'path':'M348 462 C390 434 491 433 568 475 C591 487 592 505 577 516 C558 528 525 508 489 499 C435 482 383 489 357 490'})}
+for id,x in items.items():
+ d=root/f'production/sifirdan-yeni/VID-{id}';c=json.loads((rem/'bastan-024.json').read_text());b=x['boundary']
+ with wave.open(str(d/'anlatim.wav')) as w:dur=w.getnframes()/w.getframerate()
+ c.update(id=id,dir='yeniliste-bastan'+id,frames=math.ceil((b/1.55+(dur-b)/1.62+.4)*30),tempoBoundary=b,captionEnd=b/1.55,ctaStart=round(b/1.55*30),caption=x['caption'],hook=x['hook'],openIcon=x['icon'],ctaStackFrames=[round((b/1.55+(dur-b-off)/1.62)*30) for off in [2.65,1.95,1.25,.55]],shots=[{'from':f,'file':f'sahne-{n}.png'} for f,n in x['shots']],events=[{'from':a,'to':z,'a':t,'b':u,'icon':icon,'side':side,'y':330} for a,z,t,u,icon,side in x['events']],highlight=x['highlight'])
+ dest=rem/'public'/c['dir'];dest.mkdir(parents=True,exist_ok=True)
+ for s in c['shots']:shutil.copyfile(d/s['file'],dest/s['file'])
+ (rem/f'bastan-{id}.json').write_text(json.dumps(c,ensure_ascii=False,indent=2)+'\n');(rem/f'bastan-{id}.jsx').write_text((rem/'bastan-024.jsx').read_text().replace('bastan-024.json',f'bastan-{id}.json'))
+ im=ImageOps.fit(Image.open(d/'sahne-1.png').convert('RGB'),(1080,1920));g=ImageDraw.Draw(im);g.rounded_rectangle((45,120,1035,470),radius=30,fill='#131e1c',outline='white',width=5)
+ for j,line in enumerate(x['cover']):g.text((540,225+j*135),line,font=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',62),fill='#ffe135' if j==0 else 'white',anchor='mm')
+ im.save(d/f'VID-{id}-img-1.jpg',quality=92)

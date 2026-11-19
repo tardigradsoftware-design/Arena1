@@ -1,0 +1,107 @@
+{
+  "id": "034",
+  "dir": "yeniliste-bastan034",
+  "brand": true,
+  "frames": 762,
+  "caption": "Banyo ve mutfak musluklarını sildikten on dakika sonra ilk el yıkamada tekrar su lekesi olmasına sinirleniyorsanız, temizliğin son adımına sadece bir damla bebek yağı ekleyin! Musluğu yıkayıp kuruladıktan sonra kuru bir mikrofiber bezin veya kağıt havlunun üzerine sadece iki damla bebek yağı damlatıp armatürleri parlatın. Bebek yağı krom yüzeyde görünmez bir su itici film tabakası oluşturur; su damlaları musluğa tutunmadan kayıp gider ve musluklarınız haftalarca ayna gibi parlar. Denemek için hemen kaydet, beğen ve sonucu yorumlara yaz!",
+  "captionEnd": 22.096774193548388,
+  "ctaStart": 663,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "MUSLUKTAKİ",
+    "SU LEKELERİ"
+  ],
+  "openIcon": "drop",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3b.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 240,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 330,
+      "file": "sahne-3b.png"
+    },
+    {
+      "from": 450,
+      "file": "sahne-4b.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 255,
+      "to": 300,
+      "a": "İKİ",
+      "b": "DAMLA",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 350,
+      "to": 395,
+      "a": "KURU",
+      "b": "BEZ",
+      "icon": "wipe",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    700,
+    713,
+    726,
+    739
+  ],
+  "tempoBoundary": 34.25,
+  "highlight": {
+    "file": "sahne-4b.png",
+    "from": 470,
+    "to": 525,
+    "path": "M348 462 C390 434 491 433 568 475 C591 487 592 505 577 516 C558 528 525 508 489 499 C435 482 383 489 357 490"
+  }
+}

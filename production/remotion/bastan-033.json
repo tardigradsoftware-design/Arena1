@@ -1,0 +1,107 @@
+{
+  "id": "033",
+  "dir": "yeniliste-bastan033",
+  "brand": true,
+  "frames": 629,
+  "caption": "Salataya birkaç damla limon sıkmak için koca limonu ikiye kesip kalan yarısının buzdolabında kuruyup çöpe gitmesine son verin! Bütün limonu tezgaha bastırarak yuvarlayın, ardından bıçakla kesmek yerine ucuna kalın bir kürdan batırıp çıkarın. Sıktığınızda sadece o delikten sprey gibi su çıkacak ve limonunuz hava almadan haftalarca sulu kalacaktır. Mutfakta işine yarayacak bu tüyoyu kaydetmeyi ve beğenmeyi unutma!",
+  "captionEnd": 17.451612903225808,
+  "ctaStart": 524,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "LİMONU KESMEDEN",
+    "SUYUNU SIK!"
+  ],
+  "openIcon": "lemon",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3b.png"
+    },
+    {
+      "from": 95,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 190,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 300,
+      "file": "sahne-3b.png"
+    },
+    {
+      "from": 415,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 195,
+      "to": 235,
+      "a": "KALIN",
+      "b": "KÜRDAN",
+      "icon": "toothpick",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 320,
+      "to": 360,
+      "a": "TEK",
+      "b": "DELİK",
+      "icon": "drop",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    568,
+    581,
+    594,
+    607
+  ],
+  "tempoBoundary": 27.05,
+  "highlight": {
+    "file": "sahne-2.png",
+    "from": 215,
+    "to": 270,
+    "path": "M418 685 C426 672 447 672 459 685 C469 697 465 715 451 721 C435 728 420 716 418 702"
+  }
+}
