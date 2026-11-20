@@ -1,0 +1,111 @@
+{
+  "id": "036",
+  "dir": "yeniliste-bastan036",
+  "brand": true,
+  "frames": 808,
+  "caption": "Kalorifer peteklerini yaktığınızda odanın içine genzinizi yakan bir toz kokusu yayılıyorsa, peteğin iç kanallarında biriken toz yumaklarını dışarıdan bezle silerek temizleyemezsiniz! Peteğin tam altına, yere geniş ve ıslak bir banyo havlusu serin; ardından saç kurutma makinesini en soğuk ve en hızlı üfleme ayarına getirip peteğin üst ızgara deliklerinden aşağı doğru tutun. Basınçlı hava içerideki tüm gizli tozları saniyeler içinde aşağıdaki ıslak havlunun üzerine yapıştıracak ve petekleriniz tertemiz olacaktır. Kış temizliği için hemen kaydet ve arkadaşına gönder!",
+  "captionEnd": 23.419354838709676,
+  "ctaStart": 703,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "PETEK İÇİNDEKİ",
+    "TOZLAR NASIL ÇIKAR?"
+  ],
+  "openIcon": "dryer",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 250,
+      "file": "sahne-2c.png"
+    },
+    {
+      "from": 345,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 485,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 580,
+      "file": "sahne-5.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 260,
+      "to": 310,
+      "a": "ISLAK",
+      "b": "HAVLU",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 360,
+      "to": 410,
+      "a": "SOĞUK",
+      "b": "ÜFLEME",
+      "icon": "dryer",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    746,
+    759,
+    772,
+    785
+  ],
+  "tempoBoundary": 36.3,
+  "highlight": {
+    "file": "sahne-3.png",
+    "from": 370,
+    "to": 425,
+    "path": "M391 602 C404 588 425 582 447 588 C468 595 481 611 481 631 C481 650 471 671 453 680 C436 689 413 684 402 670"
+  }
+}

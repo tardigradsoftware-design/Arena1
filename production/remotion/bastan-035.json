@@ -1,0 +1,111 @@
+{
+  "id": "035",
+  "dir": "yeniliste-bastan035",
+  "brand": true,
+  "frames": 763,
+  "caption": "Sabah evden çıkarken veya seyahatte giyeceğiniz gömleğin yakası ve etek uçları kırış kırışsa, ütü masası açmakla vakit kaybetmeyin! Saç düzleştiricinizi orta ısıya getirin, plakalarının temiz olduğundan emin olup gömleğinizin kırışan yaka, manşet ve düğme aralarını düzleştiriciyle sıkıştırıp aşağı doğru çekin; saniyeler içinde jilet gibi düzleşecektir. Eğer elbiseniz komple kırışıksa banyoda sıcak suyu açıp beş dakika askıda buhara tutun, kırışıklıklar kendiliğinden açılır. Acil durumlar için bu hileyi hemen kaydet, beğen ve arkadaşına gönder!",
+  "captionEnd": 22.129032258064512,
+  "ctaStart": 664,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "ÜTÜ YOKSA",
+    "YAKA NASIL DÜZELİR?"
+  ],
+  "openIcon": "iron",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2b.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 190,
+      "file": "sahne-2b.png"
+    },
+    {
+      "from": 360,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 430,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 570,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 205,
+      "to": 250,
+      "a": "ORTA",
+      "b": "ISI",
+      "icon": "iron",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 450,
+      "to": 500,
+      "a": "BEŞ",
+      "b": "DAKİKA",
+      "icon": "clock",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    701,
+    714,
+    727,
+    740
+  ],
+  "tempoBoundary": 34.3,
+  "highlight": {
+    "file": "sahne-2b.png",
+    "from": 225,
+    "to": 275,
+    "path": "M241 500 C267 482 305 477 337 491 C357 501 367 522 362 544 C355 567 331 588 305 589 C277 591 250 575 239 553 C230 535 230 515 241 500"
+  }
+}
