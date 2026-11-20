@@ -1,0 +1,111 @@
+{
+  "id": "038",
+  "dir": "yeniliste-bastan038",
+  "brand": true,
+  "frames": 775,
+  "caption": "Limon sıkarken limonu tam ortadan enine ikiye bölüyorsanız, limonun içindeki suyun yarısını kabuğunda bırakıp çöpe atıyorsunuz demektir! Ortadaki beyaz sert çekirdek direği limonun tam sıkılmasını engeller. Bir dahaki sefere limonu enine değil, dikey olarak boyuna ortadaki beyaz damarın sağından ve solundan üç parça halinde kesin. Lif zarları boyuna açıldığı ve sert orta kısım aradan çıktığı için elinizle sıktığınızda bile iki kat daha fazla limon suyu çıktığını göreceksiniz. Mutfakta denemek için hemen kaydet ve beğen!",
+  "captionEnd": 22.322580645161292,
+  "ctaStart": 670,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "LİMONU KESERKEN",
+    "BU YÖNÜ DENE"
+  ],
+  "openIcon": "lemon",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1c.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1c.png"
+    },
+    {
+      "from": 235,
+      "file": "sahne-2b.png"
+    },
+    {
+      "from": 310,
+      "file": "sahne-1c.png"
+    },
+    {
+      "from": 405,
+      "file": "sahne-2b.png"
+    },
+    {
+      "from": 500,
+      "file": "sahne-3.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 250,
+      "to": 300,
+      "a": "ORTADAKİ",
+      "b": "DAMAR",
+      "icon": "lemon",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 330,
+      "to": 385,
+      "a": "BOYUNA",
+      "b": "KESİM",
+      "icon": "knife",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    713,
+    726,
+    739,
+    752
+  ],
+  "tempoBoundary": 34.6,
+  "highlight": {
+    "file": "sahne-2b.png",
+    "from": 410,
+    "to": 455,
+    "path": "M375 370 C361 448 358 577 367 690 C372 772 376 832 384 907"
+  }
+}

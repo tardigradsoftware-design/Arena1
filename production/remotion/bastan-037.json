@@ -1,0 +1,111 @@
+{
+  "id": "037",
+  "dir": "yeniliste-bastan037",
+  "brand": true,
+  "frames": 840,
+  "caption": "Nar ayıklarken mutfak tezgahının ve kıyafetlerinizin kırmızı lekeler içinde kalmasından bıktıysanız, narı ortadan ikiye kesme hatasını hemen bırakın! Narın en üstündeki taç kısmını bıçakla kare şeklinde kapak gibi kesip çıkarın; içindeki beyaz zar çizgilerinin tam üzerinden bıçakla aşağı doğru beş çizik atıp narı elinizle çiçek gibi dışa doğru açın. Ardından narı su dolu derin bir kasenin içinde parmaklarınızla veya üstüne tahta kaşıkla vurarak ayıklayın; tüm beyaz zarlar suyun yüzüne çıkacak, yakut gibi nar taneleri ise tek damla sıçramadan dibe çökecektir. Hemen kaydet!",
+  "captionEnd": 23.935483870967744,
+  "ctaStart": 718,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "NAR AYIKLARKEN",
+    "SIÇRAMAYI ÖNLE"
+  ],
+  "openIcon": "knife",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 110,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 240,
+      "file": "sahne-1b.png"
+    },
+    {
+      "from": 350,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 440,
+      "file": "sahne-3.png"
+    },
+    {
+      "from": 600,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 250,
+      "to": 300,
+      "a": "ZAR",
+      "b": "ÇİZGİLERİ",
+      "icon": "knife",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 450,
+      "to": 500,
+      "a": "SU DOLU",
+      "b": "KASE",
+      "icon": "bowl",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    778,
+    791,
+    804,
+    817
+  ],
+  "tempoBoundary": 37.1,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 145,
+    "to": 190,
+    "path": "M283 723 C316 700 356 688 393 701 C420 711 453 727 477 744"
+  }
+}
