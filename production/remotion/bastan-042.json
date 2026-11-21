@@ -1,0 +1,111 @@
+{
+  "id": "042",
+  "dir": "yeniliste-bastan042",
+  "brand": true,
+  "frames": 859,
+  "caption": "En sevdiğiniz kot pantolonunuzun fermuarı yürüdükçe veya oturdukça kendiliğinden aşağı kayıyorsa ve sürekli kontrol etmek zorunda kalıyorsanız pantolonu terziye götürmenize gerek yok! Evdeki eski bir anahtarlığın ucundaki o küçük yuvarlak metal halkayı çıkarın ve pantolon fermuarınızın tutma deliğine geçirin. Fermuarı yukarı çektikten sonra metal halkayı pantolonun bel düğmesine ilikler gibi takıp düğmeyi öyle kapatın. Halka düğmenin altında tamamen gizlenecek ve fermuarınızın bir milim bile aşağı kayması imkansız olacaktır. Bu hayat kurtaran hileyi hemen kaydet ve paylaş!",
+  "captionEnd": 25.032258064516128,
+  "ctaStart": 751,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "KAYAN FERMUAR",
+    "NASIL SABİTLENİR?"
+  ],
+  "openIcon": "lock",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2b.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 240,
+      "file": "sahne-2b.png"
+    },
+    {
+      "from": 360,
+      "file": "sahne-3c.png"
+    },
+    {
+      "from": 495,
+      "file": "sahne-3c.png"
+    },
+    {
+      "from": 610,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 250,
+      "to": 300,
+      "a": "METAL",
+      "b": "HALKA",
+      "icon": "ring",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 440,
+      "a": "DÜĞMEYE",
+      "b": "GEÇİR",
+      "icon": "lock",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    797,
+    810,
+    823,
+    836
+  ],
+  "tempoBoundary": 38.8,
+  "highlight": {
+    "file": "sahne-3c.png",
+    "from": 405,
+    "to": 455,
+    "path": "M290 435 C303 414 331 407 359 409 C401 410 445 430 456 467 C469 501 454 546 425 565 C393 583 343 574 315 552 C292 534 280 476 290 435"
+  }
+}
