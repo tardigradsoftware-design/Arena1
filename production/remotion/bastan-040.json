@@ -1,0 +1,111 @@
+{
+  "id": "040",
+  "dir": "yeniliste-bastan040",
+  "brand": true,
+  "frames": 785,
+  "caption": "Ahşap yemek masanızın veya sehpanızın üzerine altlıksız konulan sıcak çay bardağının bıraktığı o beyaz halka lekesini kalıcı sanıp üzülmeyin! O beyaz leke yanık değil, verniğin altına hapsolmuş su buharıdır. Lekenin üzerine parmağınızla ince bir kat vazelin veya zeytinyağı sürün ve fön makinesini orta ısıda tutup bir dakika boyunca lekenin üzerinde gezdirip bezle silin. Isıyla açılan gözeneklerden nem uçacak ve ahşap masanız ilk günkü gibi pürüzsüz olacaktır. Denemek için hemen kaydet!",
+  "captionEnd": 22.516129032258064,
+  "ctaStart": 675,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "MASADAKİ BEYAZ",
+    "HALKA NASIL ÇIKAR?"
+  ],
+  "openIcon": "dryer",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-2b.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 240,
+      "file": "sahne-2b.png"
+    },
+    {
+      "from": 355,
+      "file": "sahne-3b.png"
+    },
+    {
+      "from": 500,
+      "file": "sahne-4.png"
+    },
+    {
+      "from": 615,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 250,
+      "to": 300,
+      "a": "İNCE KAT",
+      "b": "VAZELİN",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 445,
+      "a": "BİR",
+      "b": "DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    724,
+    737,
+    750,
+    763
+  ],
+  "tempoBoundary": 34.9,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 120,
+    "to": 175,
+    "path": "M158 710 C166 643 230 615 302 614 C374 610 453 632 487 679 C505 710 484 759 452 783 C402 819 316 829 249 814 C194 803 158 774 153 745 C151 733 154 720 158 710"
+  }
+}

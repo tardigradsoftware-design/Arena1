@@ -1,0 +1,111 @@
+{
+  "id": "039",
+  "dir": "yeniliste-bastan039",
+  "brand": true,
+  "frames": 590,
+  "caption": "Siyah kıyafetleriniz makineden çıktığında üzerleri hala saç ve tüy dolu oluyorsa deterjan koymadan önce bunu yapın! Çamaşırları yerleştirdikten sonra tambura yırtılmayan iki adet yeni ıslak mendil atın. Makine döndükçe ıslak mendiller suyun içindeki tüm kopmuş saçları ve tüyleri mıknatıs gibi üzerine toplar. Sen bu yöntemi daha önce denedin mi? Sonucu yorumlarda bizimle paylaş!",
+  "captionEnd": 16.064516129032256,
+  "ctaStart": 482,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "ÇAMAŞIRLARDAKİ",
+    "TÜYLER NASIL TOPLANIR?"
+  ],
+  "openIcon": "washer",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 45,
+      "file": "sahne-3c.png"
+    },
+    {
+      "from": 100,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 205,
+      "file": "sahne-1.png"
+    },
+    {
+      "from": 290,
+      "file": "sahne-2.png"
+    },
+    {
+      "from": 390,
+      "file": "sahne-3c.png"
+    },
+    {
+      "from": 465,
+      "file": "sahne-4.png"
+    }
+  ],
+  "events": [
+    {
+      "from": 210,
+      "to": 260,
+      "a": "İKİ ADET",
+      "b": "ISLAK MENDİL",
+      "icon": "wipe",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 310,
+      "to": 355,
+      "a": "TAMBURDA",
+      "b": "YIKAMA",
+      "icon": "washer",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    529,
+    542,
+    555,
+    568
+  ],
+  "tempoBoundary": 24.9,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 205,
+    "to": 252,
+    "path": "M314 617 C345 595 395 594 432 618 C465 635 485 674 480 702"
+  }
+}

@@ -1,0 +1,17 @@
+from pathlib import Path
+import json,math,shutil,wave
+from PIL import Image,ImageDraw,ImageFont,ImageOps
+root=Path(__file__).resolve().parents[3];rem=root/'production/remotion'
+items={
+'039':dict(boundary=24.9,caption='Siyah kıyafetleriniz makineden çıktığında üzerleri hala saç ve tüy dolu oluyorsa deterjan koymadan önce bunu yapın! Çamaşırları yerleştirdikten sonra tambura yırtılmayan iki adet yeni ıslak mendil atın. Makine döndükçe ıslak mendiller suyun içindeki tüm kopmuş saçları ve tüyleri mıknatıs gibi üzerine toplar. Sen bu yöntemi daha önce denedin mi? Sonucu yorumlarda bizimle paylaş!',hook=['ÇAMAŞIRLARDAKİ','TÜYLER NASIL TOPLANIR?'],icon='washer',shots=[(0,'1'),(45,'3c'),(100,'1'),(205,'1'),(290,'2'),(390,'3c'),(465,'4')],events=[(210,260,'İKİ ADET','ISLAK MENDİL','wipe','right'),(310,355,'TAMBURDA','YIKAMA','washer','left')],cover=['ÇAMAŞIRDAKİ TÜYLER','NASIL TOPLANIR?'],highlight={'file':'sahne-1.png','from':205,'to':252,'path':'M314 617 C345 595 395 594 432 618 C465 635 485 674 480 702'}),
+'040':dict(boundary=34.9,caption='Ahşap yemek masanızın veya sehpanızın üzerine altlıksız konulan sıcak çay bardağının bıraktığı o beyaz halka lekesini kalıcı sanıp üzülmeyin! O beyaz leke yanık değil, verniğin altına hapsolmuş su buharıdır. Lekenin üzerine parmağınızla ince bir kat vazelin veya zeytinyağı sürün ve fön makinesini orta ısıda tutup bir dakika boyunca lekenin üzerinde gezdirip bezle silin. Isıyla açılan gözeneklerden nem uçacak ve ahşap masanız ilk günkü gibi pürüzsüz olacaktır. Denemek için hemen kaydet!',hook=['MASADAKİ BEYAZ','HALKA NASIL ÇIKAR?'],icon='dryer',shots=[(0,'1'),(45,'2b'),(100,'1'),(240,'2b'),(355,'3b'),(500,'4'),(615,'4')],events=[(250,300,'İNCE KAT','VAZELİN','drop','right'),(390,445,'BİR','DAKİKA','clock','left')],cover=['BEYAZ HALKA','NASIL ÇIKAR?'],highlight={'file':'sahne-1.png','from':120,'to':175,'path':'M158 710 C166 643 230 615 302 614 C374 610 453 632 487 679 C505 710 484 759 452 783 C402 819 316 829 249 814 C194 803 158 774 153 745 C151 733 154 720 158 710'})}
+for id,x in items.items():
+ d=root/f'production/sifirdan-yeni/VID-{id}';c=json.loads((rem/'bastan-024.json').read_text());b=x['boundary']
+ with wave.open(str(d/'anlatim.wav')) as w: dur=w.getnframes()/w.getframerate()
+ c.update(id=id,dir='yeniliste-bastan'+id,frames=math.ceil((b/1.55+(dur-b)/1.62+.4)*30),tempoBoundary=b,captionEnd=b/1.55,ctaStart=round(b/1.55*30),caption=x['caption'],hook=x['hook'],openIcon=x['icon'],ctaStackFrames=[round((b/1.55+(dur-b-off)/1.62)*30) for off in [2.65,1.95,1.25,.55]],shots=[{'from':f,'file':f'sahne-{n}.png'} for f,n in x['shots']],events=[{'from':a,'to':z,'a':t,'b':u,'icon':icon,'side':side,'y':330} for a,z,t,u,icon,side in x['events']],highlight=x['highlight'])
+ dest=rem/'public'/c['dir'];dest.mkdir(parents=True,exist_ok=True)
+ for s in c['shots']:shutil.copyfile(d/s['file'],dest/s['file'])
+ (rem/f'bastan-{id}.json').write_text(json.dumps(c,ensure_ascii=False,indent=2)+'\n');(rem/f'bastan-{id}.jsx').write_text((rem/'bastan-024.jsx').read_text().replace('bastan-024.json',f'bastan-{id}.json'))
+ im=ImageOps.fit(Image.open(d/'sahne-1.png').convert('RGB'),(1080,1920));g=ImageDraw.Draw(im);g.rounded_rectangle((45,120,1035,470),radius=30,fill='#131e1c',outline='white',width=5)
+ for j,line in enumerate(x['cover']):g.text((540,225+j*135),line,font=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',52),fill='#ffe135' if j==0 else 'white',anchor='mm')
+ im.save(d/f'VID-{id}-img-1.jpg',quality=92)
