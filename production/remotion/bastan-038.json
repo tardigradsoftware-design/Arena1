@@ -52,6 +52,10 @@
     {
       "from": 500,
       "file": "sahne-3.png"
+    },
+    {
+      "from": 610,
+      "file": "sahne-4c.png"
     }
   ],
   "events": [
