@@ -1,0 +1,118 @@
+{
+  "id": "045",
+  "dir": "yeniliste-bastan045",
+  "brand": true,
+  "frames": 826,
+  "caption": "Mutfakta elinizden kayıp yere veya tezgaha düşen çiğ yumurtayı kağıt havluyla ya da bezle silmeye çalışırsanız, yumurtanın kaygan akı her yere yayılır ve sildiğiniz bez kokudan kullanılmaz hale gelir! Kırılan çiğ yumurtaya hiç bez değdirmeden üzerine hemen avuç dolusu sofra tuzu döküp yumurtanın tamamını tuzla kapatın ve sadece bir dakika bekleyin. Tuz çiğ yumurta proteinini saniyeler içinde pıhtılaştırıp katı bir hamura dönüştürecek; bir karton veya faraşla ittiğinizde yerde tek bir iz bile bırakmadan kalıp halinde kalkacaktır. Hemen kaydet ve paylaş!",
+  "captionEnd": 23.806451612903224,
+  "ctaStart": 714,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "YERE KIRILAN",
+    "YUMURTA NASIL TOPLANIR?"
+  ],
+  "openIcon": "drop",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 225,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 340,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 415,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 525,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 625,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 240,
+      "to": 290,
+      "a": "BOL",
+      "b": "TUZ",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 390,
+      "to": 450,
+      "a": "1",
+      "b": "DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    764,
+    777,
+    790,
+    803
+  ],
+  "tempoBoundary": 36.9,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 55,
+    "to": 100,
+    "path": "M160 560 C174 493 249 460 342 462 C460 457 558 494 578 560 C605 630 566 735 500 773 C407 817 272 791 201 750 C158 724 145 624 160 560"
+  }
+}
