@@ -1,0 +1,118 @@
+{
+  "id": "044",
+  "dir": "yeniliste-bastan044",
+  "brand": true,
+  "frames": 833,
+  "caption": "Mutfak ve banyo musluklarının tezgahla birleştiği o dar dip kısımlarında biriken taşlaşmış beyaz yeşil kireç halkalarını bıçakla kazıyıp kromu çizmeyin! İki yaprak kağıt havluyu katlayıp doğrudan beyaz sirkenin içine batırın ve bu sirkeli ıslak peçeteyi musluğun dip kısmına atkı sarar gibi sıkıca dolayıp yirmi dakika bekletin. Sıvı sirke akıp gider ama peçeteye hapsolan sirke kirecin üzerinde kaldığı için yirmi dakika sonunda peçeteyi çektiğinizde o taşlaşmış kirecin hamur gibi eriyip tek silişte çıktığını göreceksiniz. Temizlik için hemen kaydet ve beğen!",
+  "captionEnd": 23.03225806451613,
+  "ctaStart": 691,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "MUSLUK DİBİNDEKİ",
+    "KİRECE NE YAPILIR?"
+  ],
+  "openIcon": "shine",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 210,
+      "file": "sahne-5.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 300,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 390,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 520,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 610,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 220,
+      "to": 270,
+      "a": "BEYAZ",
+      "b": "SİRKE",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 400,
+      "to": 455,
+      "a": "20",
+      "b": "DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    771,
+    784,
+    797,
+    810
+  ],
+  "tempoBoundary": 35.7,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 55,
+    "to": 100,
+    "path": "M194 771 C199 720 248 695 318 691 C395 683 474 707 497 758 C518 807 500 913 465 951 C421 984 300 979 240 953 C199 935 184 852 194 771"
+  }
+}
