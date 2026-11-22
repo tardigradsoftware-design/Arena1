@@ -2,10 +2,10 @@
   "id": "042",
   "dir": "yeniliste-bastan042",
   "brand": true,
-  "frames": 859,
+  "frames": 834,
   "caption": "En sevdiğiniz kot pantolonunuzun fermuarı yürüdükçe veya oturdukça kendiliğinden aşağı kayıyorsa ve sürekli kontrol etmek zorunda kalıyorsanız pantolonu terziye götürmenize gerek yok! Evdeki eski bir anahtarlığın ucundaki o küçük yuvarlak metal halkayı çıkarın ve pantolon fermuarınızın tutma deliğine geçirin. Fermuarı yukarı çektikten sonra metal halkayı pantolonun bel düğmesine ilikler gibi takıp düğmeyi öyle kapatın. Halka düğmenin altında tamamen gizlenecek ve fermuarınızın bir milim bile aşağı kayması imkansız olacaktır. Bu hayat kurtaran hileyi hemen kaydet ve paylaş!",
-  "captionEnd": 25.032258064516128,
-  "ctaStart": 751,
+  "captionEnd": 24.129032258064516,
+  "ctaStart": 724,
   "ctaTop": 300,
   "ctaHeading": "BU FİKRİ PAYLAŞ",
   "ctaItems": [
@@ -31,7 +31,7 @@
     },
     {
       "from": 45,
-      "file": "sahne-2b.png"
+      "file": "sahne-2c.png"
     },
     {
       "from": 100,
@@ -39,15 +39,15 @@
     },
     {
       "from": 240,
-      "file": "sahne-2b.png"
+      "file": "sahne-2c.png"
     },
     {
       "from": 360,
-      "file": "sahne-3c.png"
+      "file": "sahne-3e.png"
     },
     {
       "from": 495,
-      "file": "sahne-3c.png"
+      "file": "sahne-3e.png"
     },
     {
       "from": 610,
@@ -96,16 +96,16 @@
     ]
   ],
   "ctaStackFrames": [
-    797,
-    810,
-    823,
-    836
+    773,
+    786,
+    799,
+    811
   ],
-  "tempoBoundary": 38.8,
+  "tempoBoundary": 37.4,
   "highlight": {
-    "file": "sahne-3c.png",
+    "file": "sahne-3e.png",
     "from": 405,
     "to": 455,
-    "path": "M290 435 C303 414 331 407 359 409 C401 410 445 430 456 467 C469 501 454 546 425 565 C393 583 343 574 315 552 C292 534 280 476 290 435"
+    "path": "M340 530 C345 460 410 425 490 426 C570 426 620 465 625 530 C635 600 585 650 500 656 C420 658 355 625 340 570 C336 555 336 545 340 530"
   }
 }
