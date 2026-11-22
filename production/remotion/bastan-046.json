@@ -1,0 +1,118 @@
+{
+  "id": "046",
+  "dir": "yeniliste-bastan046",
+  "brand": true,
+  "frames": 812,
+  "caption": "Tenekeyle veya şişeyle aldığınız sızma zeytinyağının saf zeytinyağı mı yoksa içine ucuz tohum yağı karıştırılmış sahte yağ mı olduğunu evde iki basit testle anlayın! İlk olarak yarım çay bardağı zeytinyağını dondurucuya koyup yarım saat bekletin; hakiki zeytinyağı soğukta donup tereyağı gibi kristalleşir, sıvı kalan kısımlar ise karışımdır. İkinci olarak bir bardak ılık suya bir kaşık yağ döküp çalkalayın; gerçek zeytinyağı halkalar halinde hemen suyun en üstüne çıkar ve dağılmaz. Evdeki yağı test etmek için hemen kaydet, dene ve sonucu yorumlara yaz!",
+  "captionEnd": 23.67741935483871,
+  "ctaStart": 710,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "ZEYTİNYAĞINI",
+    "NASIL TEST EDERSİN?"
+  ],
+  "openIcon": "drop",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 205,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 300,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 400,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 485,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 605,
+      "file": "sahne-5.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 205,
+      "to": 260,
+      "a": "30",
+      "b": "DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 500,
+      "to": 550,
+      "a": "SUYA",
+      "b": "DÖK",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    751,
+    763,
+    776,
+    789
+  ],
+  "tempoBoundary": 36.7,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 55,
+    "to": 100,
+    "path": "M255 850 C267 806 310 790 382 791 C452 792 493 817 501 860 C515 906 495 942 440 951 C364 964 300 946 273 915 C261 899 254 874 255 850"
+  }
+}
