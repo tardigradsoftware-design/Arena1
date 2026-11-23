@@ -1,0 +1,118 @@
+{
+  "id": "048",
+  "dir": "yeniliste-bastan048",
+  "brand": true,
+  "frames": 739,
+  "caption": "Kahvaltıda ekmeğinize tereyağı sürmek istediğinizde dolaptan yeni çıkan tereyağı taş gibi sertse ve ekmeği parçalıyorsa sakın ocakta eritmeyin! Bir su bardağının içine kaynar su doldurup otuz saniye bekletin, ardından suyu döküp ısınan bardağı dikey olarak tereyağı kalıbının üzerine kapatın. Bardağın içindeki termal ısı tereyağını hiç eritmeden ve suyunu saldırmadan sadece bir dakikada oda sıcaklığına getirecek, pamuk gibi sürülebilir yapacaktır. Kahvaltı sofrası için bu tüyoyu hemen kaydet!",
+  "captionEnd": 21.161290322580644,
+  "ctaStart": 635,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "TAŞ GİBİ TEREYAĞI",
+    "NASIL YUMUŞAR?"
+  ],
+  "openIcon": "drop",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 165,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 270,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 350,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 485,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 560,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 200,
+      "to": 245,
+      "a": "30",
+      "b": "SANİYE",
+      "icon": "clock",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 430,
+      "to": 470,
+      "a": "1",
+      "b": "DAKİKA",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    678,
+    691,
+    704,
+    717
+  ],
+  "tempoBoundary": 32.8,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 55,
+    "to": 100,
+    "path": "M450 920 C470 880 510 860 565 870 C610 880 640 910 650 950 C660 990 630 1030 580 1040 C520 1050 470 1020 450 985 C440 960 440 940 450 920"
+  }
+}
