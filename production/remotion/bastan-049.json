@@ -1,0 +1,118 @@
+{
+  "id": "049",
+  "dir": "yeniliste-bastan049",
+  "brand": true,
+  "frames": 772,
+  "caption": "Montunuzun, çizmenizin veya en sevdiğiniz çantanızın fermuarı sıkışıp yarıda kaldığında zorlayarak çekip fermuar başlığını elinizde bırakmayın! Evdeki bildiğimiz siyah uçlu bir kurşun kalemi alın ve kalemin ucunu fermuarın takıldığı yerdeki dişlerin üzerine ileri geri sürterek boyayın. Kurşun kalemin içindeki saf grafit maddesi dünyadaki en güçlü kuru yağlayıcıdır ve kumaşta asla yağ lekesi bırakmaz. Fermuarı çektiğiniz an yağ gibi kayıp açıldığını göreceksiniz. Bu kurtarıcı bilgiyi hemen kaydet, beğen ve arkadaşına gönder!",
+  "captionEnd": 22.258064516129032,
+  "ctaStart": 668,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "SIKIŞAN FERMUAR",
+    "NASIL AÇILIR?"
+  ],
+  "openIcon": "drop",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 175,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 270,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 370,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 490,
+      "file": "sahne-3b.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 580,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 195,
+      "to": 240,
+      "a": "KURŞUN",
+      "b": "KALEM",
+      "icon": "shine",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 380,
+      "to": 425,
+      "a": "GRAFİT",
+      "b": "UÇ",
+      "icon": "shine",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    710,
+    723,
+    736,
+    749
+  ],
+  "tempoBoundary": 34.5,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 55,
+    "to": 100,
+    "path": "M260 450 C280 410 360 390 430 410 C490 430 500 490 490 550 C480 610 410 630 350 620 C300 610 260 580 250 530 C245 500 245 470 260 450"
+  }
+}
