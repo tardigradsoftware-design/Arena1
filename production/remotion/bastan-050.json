@@ -1,0 +1,118 @@
+{
+  "id": "050",
+  "dir": "yeniliste-bastan050",
+  "brand": true,
+  "frames": 840,
+  "caption": "Fırında bütün tavuk veya baget pişirdiğinizde derisi çıtır çıtır olmak yerine soluk ve lastik gibi yumuşak kalıyorsa, üzerine salçalı sulu sos sürme hatasını bırakın! Tavuğu fırına vermeden önce kağıt havluyla dış derisini kupkuru olacak şekilde kurulayın; ardından bir çay kaşığı kabartma tozu, tuz ve yarım çay kaşığı balı çok az zeytinyağıyla karıştırıp derisine sürün. Kabartma tozu derideki nemi çekip mikro kabarcıklar oluşturarak tavuğun tıpkı çevirme tavuk gibi nar gibi kızarmasını ve cips gibi çıtır olmasını sağlar. Tariflerin için hemen kaydet ve beğen!",
+  "captionEnd": 24.387096774193544,
+  "ctaStart": 732,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "TAVUĞUN DERİSİ",
+    "NASIL ÇITIR OLUR?"
+  ],
+  "openIcon": "drop",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 210,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 300,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 435,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 550,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 650,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 235,
+      "to": 280,
+      "a": "KURU",
+      "b": "DERİ",
+      "icon": "shine",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 365,
+      "to": 410,
+      "a": "KABARTMA",
+      "b": "TOZU",
+      "icon": "shine",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    778,
+    791,
+    804,
+    817
+  ],
+  "tempoBoundary": 37.8,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 65,
+    "to": 110,
+    "path": "M160 510 C200 455 300 430 400 465 C480 490 530 555 520 630 C510 700 460 745 370 750 C280 755 195 720 165 660 C145 610 145 550 160 510"
+  }
+}
