@@ -1,0 +1,118 @@
+{
+  "id": "047",
+  "dir": "yeniliste-bastan047",
+  "brand": true,
+  "frames": 694,
+  "caption": "Sıcak duştan çıktığınızda banyo aynasının tamamen buğulanıp hiçbir şey göstermemesine ve elinizle sildiğinizde iz kalmasına son verin! Kuru banyo aynasının yüzeyine bir kalıp kuru beyaz sabunu hafifçe sürün, ardından su değdirmeden sadece kuru bir mikrofiber bezle aynayı parlatana kadar silin. Camda oluşan görünmez gliserin tabakası su buharının tutunmasını bir ay boyunca engelleyecek ve aynanız en sıcak duşta bile net kalacaktır. Banyoda denemek için hemen kaydet ve arkadaşına gönder!",
+  "captionEnd": 19.677419354838708,
+  "ctaStart": 590,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "BUĞULANAN AYNA",
+    "NASIL NET KALIR?"
+  ],
+  "openIcon": "drop",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 180,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 260,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 330,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 430,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 510,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 190,
+      "to": 240,
+      "a": "KURU",
+      "b": "SABUN",
+      "icon": "drop",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 360,
+      "to": 410,
+      "a": "KURU",
+      "b": "BEZ",
+      "icon": "shine",
+      "side": "right",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    633,
+    646,
+    659,
+    672
+  ],
+  "tempoBoundary": 30.5,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 55,
+    "to": 100,
+    "path": "M220 320 C255 260 340 240 444 250 C530 260 580 310 590 390 C600 460 565 535 510 560 C445 590 300 580 250 540 C205 500 195 390 220 320"
+  }
+}
