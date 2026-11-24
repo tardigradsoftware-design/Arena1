@@ -1,0 +1,122 @@
+{
+  "id": "054",
+  "dir": "yeniliste-bastan054",
+  "brand": true,
+  "frames": 782,
+  "caption": "Açık renk halınızın üzerine çay veya kahve döküldüğünde bezle bastırarak ovalarsanız lekeyi halının en alt ipliklerine kadar hapsedersiniz! Döküldüğü ilk saniyede kuru bir kağıt havluyla hiç ovalamadan sadece tampon yaparak sıvıyı çektirin; ardından lekenin üzerine yarım şişe sade maden suyu döküp bir yemek kaşığı karbonat serpin. Maden suyunun kabarcıkları ve karbonat lekeyi halının dibinden köpürterek yüzeye çıkaracak, temiz bezle sildiğinizde iz bile kalmayacaktır. Acil durumlar için hemen kaydet, beğen ve arkadaşına gönder!",
+  "captionEnd": 22.64516129032258,
+  "ctaStart": 679,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "HALIDAKİ KAHVE LEKESİ",
+    "NASIL ÇIKAR?"
+  ],
+  "openIcon": "drop",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-0.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 190,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 310,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 405,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 565,
+      "file": "sahne-5.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 192,
+      "to": 235,
+      "a": "OVALAMADAN",
+      "b": "TAMPON YAP",
+      "icon": "wipe",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 319,
+      "to": 360,
+      "a": "SADE",
+      "b": "MADEN SUYU",
+      "icon": "drop",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 410,
+      "to": 453,
+      "a": "BİR YEMEK KAŞIĞI",
+      "b": "KARBONAT",
+      "icon": "spoon",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    720,
+    733,
+    746,
+    759
+  ],
+  "tempoBoundary": 35.1,
+  "highlight": {
+    "file": "sahne-0.png",
+    "from": 8,
+    "to": 44,
+    "path": "M115 765 C150 705 270 675 400 675 C530 665 670 710 680 775 C685 850 610 930 490 960 C360 990 210 950 140 900 C100 870 85 815 115 765"
+  }
+}
