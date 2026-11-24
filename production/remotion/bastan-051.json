@@ -1,0 +1,118 @@
+{
+  "id": "051",
+  "dir": "yeniliste-bastan051",
+  "brand": true,
+  "frames": 783,
+  "caption": "Duvarınızdaki bir tabloyu veya saati söktüğünüzde geriye kalan o çirkin siyah çivi ve dübel deliklerini kapatmak için nalburdan alçı alıp uğraşmanıza hiç gerek yok! Parmağınızın ucuna biraz düz beyaz diş macunu alın, eğer delik genişse içine bir adet ezilmiş beyaz aspirin tozu karıştırıp sertleştirin, ve doğrudan duvardaki deliğin içine bastırarak doldurun. Üzerini bir kredi kartı veya ıslak mendille duvara sıfır olacak şekilde sıyırdığınızda, kuruduktan sonra alçıdan farksız ve bembeyaz olduğunu göreceksiniz. Ev düzeni için hemen kaydet ve beğen!",
+  "captionEnd": 22.774193548387093,
+  "ctaStart": 683,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "DUVARDAKİ DELİK",
+    "NASIL KAPANIR?"
+  ],
+  "openIcon": "wipe",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 180,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 285,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 390,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 480,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 580,
+      "file": "sahne-5.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 170,
+      "to": 220,
+      "a": "BEYAZ",
+      "b": "MACUN",
+      "icon": "soap",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 490,
+      "to": 535,
+      "a": "KARTLA",
+      "b": "DÜZLE",
+      "icon": "wipe",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    721,
+    734,
+    747,
+    760
+  ],
+  "tempoBoundary": 35.3,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 8,
+    "to": 45,
+    "path": "M310 600 C330 575 370 565 405 575 C445 585 465 615 465 650 C465 685 445 710 410 720 C370 730 330 720 310 695 C290 675 290 630 310 600"
+  }
+}
