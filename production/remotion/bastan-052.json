@@ -1,0 +1,118 @@
+{
+  "id": "052",
+  "dir": "yeniliste-bastan052",
+  "brand": true,
+  "frames": 840,
+  "caption": "Buzdolabının, çamaşır makinesinin veya alçak bazaların altındaki o iki parmaklık dar boşluğa süpürge başlığı girmediği için biriken yıllanmış toz yumaklarını eşyayı çekmeden beş saniyede alın! Uzun bir oklavanın, süpürge sapının veya cetvelin ucuna kullanmadığınız ince bir naylon külotlu çorabı geçirip paket lastiğiyle sabitleyin ve o dar boşluğa sokup ileri geri gezdirin. Naylon çorabın oluşturduğu güçlü statik elektrik, en arkadaki tozları ve tüyleri bile mıknatıs gibi kendine çekip tek seferde dışarı çıkaracaktır. Temizlik için hemen kaydet ve beğen!",
+  "captionEnd": 24.387096774193544,
+  "ctaStart": 732,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "DOLAP ALTINDAKİ TOZ",
+    "NASIL ÇIKAR?"
+  ],
+  "openIcon": "wipe",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 190,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 300,
+      "file": "sahne-2.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 405,
+      "file": "sahne-3b.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 510,
+      "file": "sahne-3b.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 600,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 210,
+      "to": 255,
+      "a": "NAYLON",
+      "b": "ÇORAP",
+      "icon": "foot",
+      "side": "right",
+      "y": 330
+    },
+    {
+      "from": 440,
+      "to": 485,
+      "a": "DAR",
+      "b": "BOŞLUK",
+      "icon": "wipe",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    778,
+    791,
+    804,
+    817
+  ],
+  "tempoBoundary": 37.8,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 8,
+    "to": 45,
+    "path": "M170 680 C190 650 260 640 340 650 C410 655 460 680 475 720 C485 760 440 785 370 790 C290 795 210 780 180 755 C155 735 155 705 170 680"
+  }
+}
