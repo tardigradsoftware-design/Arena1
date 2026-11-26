@@ -1,0 +1,13 @@
+from pathlib import Path
+import json, math, shutil, wave
+from PIL import Image, ImageDraw, ImageFont, ImageOps
+root=Path(__file__).resolve().parents[3]; rem=root/'production/remotion'; d=root/'production/sifirdan-yeni/VID-055'; b=34.2
+caption='En sevdiğiniz pantolonunuza sakız yapıştığında veya masa örtüsüne mum damladığında bıçakla kazıyıp kumaşın ipliklerini koparmayın! Eğer sakız yapıştıysa üzerine bir buz küpünü otuz saniye boyunca bastırın, sakız taş gibi donduğu an tek hareketle kırılıp kumaştan ayrılacaktır. Eğer mum damladıysa üzerine iki kat kağıt havlu koyup ılık ütüyü beş saniye dokundurun, eriyen mumun tamamı kumaştan kağıt havluya geçecek ve tek bir leke bile kalmayacaktır. Lazım olduğunda aramamak için bu videoyu hemen kaydet, beğen ve arkadaşına gönder!'
+with wave.open(str(d/'anlatim.wav')) as w: dur=w.getnframes()/w.getframerate()
+c=json.loads((rem/'bastan-024.json').read_text()); c.update(id='055',dir='yeniliste-bastan055',frames=math.ceil((b/1.55+(dur-b)/1.62+.4)*30),tempoBoundary=b,captionEnd=b/1.55,ctaStart=round(b/1.55*30),caption=caption,safeCaptions=True,hook=['SAKIZ VE MUM LEKESİ','NASIL ÇIKAR?'],openIcon='wipe',ctaStackFrames=[round((b/1.55+(dur-b-off)/1.62)*30) for off in [2.65,1.95,1.25,.55]],shots=[{'from':a,'file':name,'captionTop':1510} for a,name in [(0,'sahne-1.png'),(48,'sahne-4.png'),(160,'sahne-2.png'),(295,'sahne-3b.png'),(375,'sahne-4.png'),(435,'sahne-5.png'),(560,'sahne-6.png')]],events=[{'from':a,'to':z,'a':t,'b':u,'icon':icon,'side':side,'y':330} for a,z,t,u,icon,side in [(185,230,'30 SANİYE','BUZ UYGULA','clock','left'),(450,495,'5 SANİYE','ILIK ÜTÜ','clock','left')]],highlight={'file':'sahne-1.png','from':8,'to':45,'path':'M230 650 C245 585 305 535 380 535 C455 535 535 585 545 670 C550 750 490 825 410 835 C320 845 250 805 230 740 C220 710 222 675 230 650'})
+dest=rem/'public'/c['dir'];dest.mkdir(parents=True,exist_ok=True)
+for shot in c['shots']: shutil.copyfile(d/shot['file'],dest/shot['file'])
+(rem/'bastan-055.json').write_text(json.dumps(c,ensure_ascii=False,indent=2)+'\n'); (rem/'bastan-055.jsx').write_text((rem/'bastan-024.jsx').read_text().replace('bastan-024.json','bastan-055.json'))
+im=ImageOps.fit(Image.open(d/'sahne-1.png').convert('RGB'),(1080,1920));g=ImageDraw.Draw(im);g.rounded_rectangle((45,120,1035,420),radius=30,fill='#131e1c',outline='white',width=5)
+for j,line in enumerate(['SAKIZ VE MUM LEKESİ','NASIL ÇIKAR?']):g.text((540,205+j*125),line,font=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',50),fill='#ffe135' if j==0 else 'white',anchor='mm')
+im.save(d/'VID-055-img-1.jpg',quality=92)
