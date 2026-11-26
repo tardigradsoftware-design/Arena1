@@ -1,0 +1,118 @@
+{
+  "id": "056",
+  "dir": "yeniliste-bastan056",
+  "brand": true,
+  "frames": 787,
+  "caption": "Yeni aldığınız bardakların, kavanozların veya tabakların altındaki fiyat etiketini söktüğünüzde geriye o çıkmayan, toz toplayan inatçı yapışkan izi kalıyorsa tırnağınızla kazımayın! Etiketi hiç soymadan önce üzerine on saniye boyunca sıcak fön makinesi tutun; ısıyla eriyen yapışkan kağıtla birlikte tek parça halinde soyulacaktır. Eğer yapışkan izi çoktan kaldıysa üzerine bir damla zeytinyağı veya bebek yağı sürüp kuru peçeteyle silin, izden eser kalmadığını göreceksiniz. Yeni eşyalar için bu hileyi hemen kaydet, beğen ve arkadaşına gönder!",
+  "captionEnd": 22.967741935483872,
+  "ctaStart": 689,
+  "ctaTop": 300,
+  "ctaHeading": "BU FİKRİ PAYLAŞ",
+  "ctaItems": [
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "BEĞEN",
+      "like"
+    ]
+  ],
+  "hook": [
+    "İNATÇI ETİKET İZİ",
+    "NASIL ÇIKAR?"
+  ],
+  "openIcon": "wipe",
+  "warning": "",
+  "shots": [
+    {
+      "from": 0,
+      "file": "sahne-1.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 48,
+      "file": "sahne-2e.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 200,
+      "file": "sahne-2e.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 330,
+      "file": "sahne-3.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 415,
+      "file": "sahne-4.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 500,
+      "file": "sahne-5.png",
+      "captionTop": 1510
+    },
+    {
+      "from": 590,
+      "file": "sahne-6.png",
+      "captionTop": 1510
+    }
+  ],
+  "events": [
+    {
+      "from": 212,
+      "to": 255,
+      "a": "10 SANİYE",
+      "b": "SICAK FÖN",
+      "icon": "clock",
+      "side": "left",
+      "y": 330
+    },
+    {
+      "from": 420,
+      "to": 465,
+      "a": "BİR DAMLA",
+      "b": "ZEYTİNYAĞI",
+      "icon": "drop",
+      "side": "left",
+      "y": 330
+    }
+  ],
+  "representativeFiles": [],
+  "safeCaptions": true,
+  "hideRepresentativeLabel": true,
+  "ctaStack": [
+    [
+      "KAYDET",
+      "save"
+    ],
+    [
+      "PAYLAŞ",
+      "share"
+    ],
+    [
+      "YORUM YAP",
+      "talk"
+    ],
+    [
+      "TAKİP ET",
+      "follow"
+    ]
+  ],
+  "ctaStackFrames": [
+    725,
+    738,
+    751,
+    764
+  ],
+  "tempoBoundary": 35.6,
+  "highlight": {
+    "file": "sahne-1.png",
+    "from": 8,
+    "to": 45,
+    "path": "M280 630 C300 570 370 550 445 570 C520 590 570 640 570 720 C570 790 520 840 450 850 C375 860 300 830 280 775 C260 730 265 675 280 630"
+  }
+}

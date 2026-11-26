@@ -1,0 +1,13 @@
+from pathlib import Path
+import json, math, shutil, wave
+from PIL import Image, ImageDraw, ImageFont, ImageOps
+root=Path(__file__).resolve().parents[3]; rem=root/'production/remotion'; d=root/'production/sifirdan-yeni/VID-056'; b=35.6
+caption='Yeni aldığınız bardakların, kavanozların veya tabakların altındaki fiyat etiketini söktüğünüzde geriye o çıkmayan, toz toplayan inatçı yapışkan izi kalıyorsa tırnağınızla kazımayın! Etiketi hiç soymadan önce üzerine on saniye boyunca sıcak fön makinesi tutun; ısıyla eriyen yapışkan kağıtla birlikte tek parça halinde soyulacaktır. Eğer yapışkan izi çoktan kaldıysa üzerine bir damla zeytinyağı veya bebek yağı sürüp kuru peçeteyle silin, izden eser kalmadığını göreceksiniz. Yeni eşyalar için bu hileyi hemen kaydet, beğen ve arkadaşına gönder!'
+with wave.open(str(d/'anlatim.wav')) as w: dur=w.getnframes()/w.getframerate()
+c=json.loads((rem/'bastan-024.json').read_text()); c.update(id='056',dir='yeniliste-bastan056',frames=math.ceil((b/1.55+(dur-b)/1.62+.4)*30),tempoBoundary=b,captionEnd=b/1.55,ctaStart=round(b/1.55*30),caption=caption,safeCaptions=True,hook=['İNATÇI ETİKET İZİ','NASIL ÇIKAR?'],openIcon='wipe',ctaStackFrames=[round((b/1.55+(dur-b-off)/1.62)*30) for off in [2.65,1.95,1.25,.55]],shots=[{'from':a,'file':name,'captionTop':1510} for a,name in [(0,'sahne-1.png'),(48,'sahne-2e.png'),(200,'sahne-2e.png'),(330,'sahne-3.png'),(415,'sahne-4.png'),(500,'sahne-5.png'),(590,'sahne-6.png')]],events=[{'from':a,'to':z,'a':t,'b':u,'icon':icon,'side':side,'y':330} for a,z,t,u,icon,side in [(212,255,'10 SANİYE','SICAK FÖN','clock','left'),(420,465,'BİR DAMLA','ZEYTİNYAĞI','drop','left')]],highlight={'file':'sahne-1.png','from':8,'to':45,'path':'M280 630 C300 570 370 550 445 570 C520 590 570 640 570 720 C570 790 520 840 450 850 C375 860 300 830 280 775 C260 730 265 675 280 630'})
+dest=rem/'public'/c['dir'];dest.mkdir(parents=True,exist_ok=True)
+for shot in c['shots']: shutil.copyfile(d/shot['file'],dest/shot['file'])
+(rem/'bastan-056.json').write_text(json.dumps(c,ensure_ascii=False,indent=2)+'\n'); (rem/'bastan-056.jsx').write_text((rem/'bastan-024.jsx').read_text().replace('bastan-024.json','bastan-056.json'))
+im=ImageOps.fit(Image.open(d/'sahne-1.png').convert('RGB'),(1080,1920));g=ImageDraw.Draw(im);g.rounded_rectangle((45,120,1035,420),radius=30,fill='#131e1c',outline='white',width=5)
+for j,line in enumerate(['İNATÇI ETİKET İZİ','NASIL ÇIKAR?']):g.text((540,205+j*125),line,font=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',54),fill='#ffe135' if j==0 else 'white',anchor='mm')
+im.save(d/'VID-056-img-1.jpg',quality=92)
